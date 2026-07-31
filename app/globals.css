@@ -1,0 +1,201 @@
+@import "tailwindcss";
+@import "katex/dist/katex.min.css";
+
+:root {
+  --bg: #0a0a0f;
+  --surface: #13131a;
+  --surface2: #1c1c26;
+  --border: #2a2a3a;
+  --accent: #7c6af7;
+  --accent2: #a78bfa;
+  --text: #e2e2f0;
+  --muted: #6b6b80;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Inter", "Hiragino Sans", "Hiragino Kaku Gothic ProN", sans-serif;
+  min-height: 100vh;
+}
+
+a { color: var(--accent2); text-decoration: none; }
+a:hover { color: #fff; }
+
+.remotion-adjuster { display:flex; flex-wrap:wrap; gap:7px; align-items:center; margin-top:10px; padding:10px; border:1px solid var(--border); border-radius:8px; background:var(--surface); }
+.remotion-adjuster button { padding:6px 9px; border:1px solid var(--border); border-radius:6px; background:var(--surface2); color:var(--text); cursor:pointer; font-size:12px; }
+.remotion-adjuster button:hover { border-color:var(--accent2); }
+.remotion-adjuster .adjuster-icon { position:relative; display:inline-grid; place-items:center; min-width:38px; height:36px; padding:5px 8px; font-size:16px; line-height:1; }
+.remotion-adjuster .adjuster-icon.is-active { border-color:var(--accent2); background:color-mix(in srgb, var(--accent2) 16%, var(--surface2)); }
+.remotion-adjuster .adjuster-icon::after { content:attr(data-tooltip); position:absolute; z-index:30; left:50%; bottom:calc(100% + 9px); translate:-50% 3px; width:max-content; max-width:240px; padding:7px 9px; border:1px solid var(--border); border-radius:6px; background:var(--text); color:var(--surface); font-size:11px; font-weight:500; line-height:1.4; white-space:normal; text-align:center; opacity:0; visibility:hidden; pointer-events:none; transition:opacity .15s ease, translate .15s ease; box-shadow:0 4px 14px rgba(0,0,0,.22); }
+.remotion-adjuster .adjuster-icon:hover::after, .remotion-adjuster .adjuster-icon:focus-visible::after { opacity:1; visibility:visible; translate:-50% 0; }
+.remotion-adjuster .adjuster-icon:focus-visible { outline:2px solid var(--accent2); outline-offset:2px; }
+.remotion-adjuster span { margin-left:auto; color:var(--muted); font-size:11px; }
+
+video { border-radius: 8px; background: #000; }
+
+details > summary {
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 0.85rem;
+  padding: 6px 0;
+  list-style: none;
+}
+details > summary:hover { color: var(--text); }
+details[open] > summary { color: var(--accent2); }
+
+/* ── スライドコンテンツ（Markdown → HTML） ── */
+
+/* section (##) */
+.slide-content h2 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 1.4em 0 0.6em;
+  padding: 6px 12px;
+  color: #67e8f9;            /* シアン */
+  background: rgba(103, 232, 249, 0.07);
+  border-left: 3px solid #67e8f9;
+  border-radius: 0 4px 4px 0;
+  letter-spacing: 0.02em;
+}
+.slide-content h1 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 1.4em 0 0.6em;
+  color: #67e8f9;
+  border-bottom: 2px solid #67e8f9;
+  padding-bottom: 4px;
+}
+
+/* subsection (###) */
+.slide-content h3 {
+  font-size: 0.97rem;
+  font-weight: 600;
+  margin: 1em 0 0.4em;
+  color: #a78bfa;            /* バイオレット */
+  padding-left: 10px;
+  border-left: 2px solid #7c6af7;
+}
+
+/* subsubsection (####) */
+.slide-content h4 {
+  font-size: 0.93rem;
+  font-weight: 600;
+  margin: 0.8em 0 0.3em;
+  color: #c4b5fd;
+}
+
+.slide-content p {
+  margin: 0.6em 0;
+  line-height: 1.85;
+}
+.slide-content ul, .slide-content ol {
+  margin: 0.6em 0 0.6em 1.4em;
+  line-height: 1.85;
+}
+.slide-content li { margin: 0.25em 0; }
+.slide-content strong { color: #f0f0ff; font-weight: 700; }
+.slide-content em { color: #fbbf24; font-style: normal; }   /* 強調を金色 */
+
+/* インラインコード */
+.slide-content code {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 0.86em;
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: rgba(124, 106, 247, 0.15);
+  color: #e879f9;
+}
+.slide-content pre {
+  background: #0d0d18;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 14px;
+  overflow-x: auto;
+  margin: 0.8em 0;
+}
+.slide-content pre code { background: none; padding: 0; color: #c4c4e0; }
+
+/* テーブル */
+.slide-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.9em 0;
+  font-size: 0.9rem;
+}
+.slide-content th, .slide-content td {
+  border: 1px solid var(--border);
+  padding: 7px 12px;
+  text-align: left;
+}
+.slide-content th {
+  background: rgba(103, 232, 249, 0.08);
+  color: #67e8f9;
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+.slide-content tr:nth-child(even) td {
+  background: rgba(255,255,255,0.02);
+}
+
+.slide-content blockquote {
+  border-left: 3px solid #fbbf24;
+  padding: 6px 12px;
+  margin: 0.8em 0;
+  color: #b0b0c0;
+  background: rgba(251, 191, 36, 0.05);
+  border-radius: 0 4px 4px 0;
+}
+
+/* ── 数式 (MathJax CHTML) ── */
+/* インライン数式 */
+.slide-content mjx-container:not([display]) {
+  color: #86efac;            /* ライトグリーン */
+  font-size: 1.02em;
+}
+/* ディスプレイ数式 */
+.slide-content mjx-container[display="true"] {
+  color: #6ee7b7;            /* ミントグリーン */
+  font-size: 1.08em;
+  display: block;
+  margin: 1em auto;
+  padding: 10px 16px;
+  background: rgba(110, 231, 183, 0.05);
+  border-radius: 6px;
+  border: 1px solid rgba(110, 231, 183, 0.15);
+  overflow-x: auto;
+}
+
+/* 2026-07-31 Remotion Player: 章単位スライド */
+.remotion-slide-content {
+  font-size: 20px;
+  line-height: 1.65;
+  transition: none;
+  will-change: transform;
+}
+.remotion-slide-content h2 {
+  margin: 0 0 18px;
+  padding: 0 0 10px;
+  color: #172554;
+  border-bottom: 4px solid #7c6af7;
+  font-size: 34px;
+  line-height: 1.3;
+}
+.remotion-slide-content h3 {
+  margin: 18px 0 8px;
+  color: #4338ca;
+  font-size: 25px;
+  border-left: 5px solid #67e8f9;
+  padding-left: 12px;
+}
+.remotion-slide-content p { margin: 10px 0; }
+.remotion-slide-content ul,
+.remotion-slide-content ol { margin: 10px 0; padding-left: 30px; }
+.remotion-slide-content li { margin: 6px 0; }
+.remotion-slide-content strong { color: #312e81; }
+.remotion-slide-content table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 17px; }
+.remotion-slide-content th,
+.remotion-slide-content td { border: 1px solid #b9bfd0; padding: 8px 10px; text-align: left; }
+.remotion-slide-content th { background: #ede9fe; color: #312e81; }
+.remotion-slide-content blockquote { margin: 12px 0; padding: 8px 14px; border-left: 5px solid #f59e0b; background: #fffbeb; }
+.remotion-slide-content a { color: #4338ca; text-decoration: underline; }

@@ -1,0 +1,30 @@
+{
+  "name": "daily-news-pickup",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@remotion/player": "4.0.290",
+    "katex": "0.17.0",
+    "next": "16.2.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-markdown": "9.0.0",
+    "rehype-katex": "7.0.1",
+    "remark-gfm": "4.0.0",
+    "remark-math": "6.0.0",
+    "remotion": "4.0.290"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
