@@ -15,12 +15,10 @@ export async function generateMetadata({ params }: { params: Promise<{ date: str
 }
 
 const MODE_LABEL: Record<string, string> = {
-  ai: "生成AI ニュース",
   compare: "7カ国メディア比較",
   domestic: "国内8紙比較",
   intl_jp: "海外ニュースと日本報道",
   weird: "世界の珍ニュース",
-  security: "セキュリティニュース",
   spain: "スペインニュース",
   world_jp: "世界から見た日本",
 };

@@ -5,12 +5,10 @@ import Link from "next/link";
 const episodes = episodesData as Episode[];
 
 const MODE_BADGE: Record<string, string> = {
-  ai: "AI",
   compare: "世界7カ国",
   domestic: "国内8紙",
   intl_jp: "海外×日本",
   weird: "珍ニュース",
-  security: "セキュリティ",
   spain: "スペイン",
   world_jp: "世界から見た日本",
 };
