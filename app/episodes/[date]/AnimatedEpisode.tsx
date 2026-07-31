@@ -79,6 +79,7 @@ export function AnimatedEpisode(props: AnimationProps) {
   const timingData = toTimingData(props);
   const playerRef = useRef<PlayerRef>(null);
   const audioRef = useRef<HTMLAudioElement>(null);
+  const fullscreenRef = useRef<HTMLDivElement>(null);
   const storageKey = `ai-qc-news:adjustment:${props.date}:${props.mode}`;
   const [adjustments, setAdjustments] = useState<Adjustments>(DEFAULT_ADJUSTMENTS);
   const sections = useMemo(
@@ -125,8 +126,13 @@ export function AnimatedEpisode(props: AnimationProps) {
     const target = Math.min(timingData.totalFrames - 1, Math.round(audio.currentTime * timingData.fps));
     if (Math.abs(player.getCurrentFrame() - target) > 3) player.seekTo(target);
   };
+  const toggleFullscreen = async () => {
+    if (document.fullscreenElement) await document.exitFullscreen();
+    else await fullscreenRef.current?.requestFullscreen();
+  };
   return (
     <div style={{ marginTop: 8 }}>
+      <div ref={fullscreenRef} className="animation-fullscreen-shell">
       <Player
         ref={playerRef}
         component={YukkuriWeb}
@@ -150,7 +156,9 @@ export function AnimatedEpisode(props: AnimationProps) {
         onEnded={() => playerRef.current?.pause()}
         style={{ width: "100%", marginTop: 10 }}
       />
+      </div>
       <div className="remotion-adjuster" role="toolbar" aria-label="表示と同期の調整">
+        <IconButton icon="⛶" label="全画面表示を切り替え" onClick={toggleFullscreen} />
         <IconButton icon="⏮" label="前の章を表示" onClick={() => moveSection(-1)} />
         <IconButton icon="⏭" label="次の章を表示" onClick={() => moveSection(1)} />
         <IconButton icon="🔄" label="表示する章を音声に追従" active={!adjustments.manualSectionName} onClick={() => setAdjustments((v) => ({ ...v, manualSectionName: undefined }))} />
