@@ -10,6 +10,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ja">
       <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-EJ7YLQX7PS" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-EJ7YLQX7PS');`,
+          }}
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `MathJax={tex:{inlineMath:[['$','$'],['\\\\(','\\\\)']],displayMath:[['$$','$$'],['\\\\[','\\\\]']],processEscapes:true}};`,
