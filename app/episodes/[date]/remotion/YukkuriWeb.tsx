@@ -277,7 +277,7 @@ export const YukkuriWeb: React.FC<Props> = ({
             <span
               style={{
                 display: 'inline-block',
-                background: 'rgba(0, 0, 0, 0.6)',
+                background: 'transparent',
                 borderRadius: 12,
                 padding: '4px 20px',
                 color: '#fff',
