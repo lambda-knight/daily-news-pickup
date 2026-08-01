@@ -173,7 +173,7 @@ export const YukkuriWeb: React.FC<Props> = ({
           <div
             style={{
               height: BOTTOM_H,
-              background: 'rgba(10, 14, 30, 0.92)',
+              background: 'transparent',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
