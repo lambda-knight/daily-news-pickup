@@ -66,7 +66,7 @@ export const CharacterFace: React.FC<Props> = ({
     >
       <Img
         src={imgSrc}
-        style={{ width: '100%', height: '100%', objectFit: 'contain' }}
+        style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center' }}
       />
     </div>
   );
