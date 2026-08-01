@@ -29,7 +29,7 @@ export const CharacterFace: React.FC<Props> = ({
     ? `${ASSET_ROOT}/${mouthOpen ? (imageOpen ?? imageClose!) : imageClose!}`
     : isZundamon
       ? `${ASSET_ROOT}/${mouthOpen ? 'zundamon_open.png' : 'zundamon_close.png'}`
-      : `${ASSET_ROOT}/${mouthOpen ? 'metan_open.png' : 'metan.png'}`;
+      : `${ASSET_ROOT}/metan.png`;
 
   // ── アニメ的な動き ───────────────────────────────────────
   const t = frame / 30; // 秒
