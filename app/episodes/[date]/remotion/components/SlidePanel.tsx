@@ -103,12 +103,12 @@ export const SlidePanel: React.FC<Props> = ({ slides, currentIndex }) => {
               </table>
             ),
             th: ({ children }) => (
-              <th style={{ border: '1px solid #ccc', padding: '6px 12px', background: '#e8edf5', fontWeight: 600 }}>
+              <th style={{ border: '2px solid #16213e', padding: '6px 12px', background: '#c7d4e8', color: '#16213e', fontWeight: 700 }}>
                 {children}
               </th>
             ),
             td: ({ children }) => (
-              <td style={{ border: '1px solid #ccc', padding: '6px 12px' }}>{children}</td>
+              <td style={{ border: '2px solid #16213e', padding: '6px 12px', color: '#1a1a2e' }}>{children}</td>
             ),
             blockquote: ({ children }) => (
               <blockquote style={{ borderLeft: '4px solid #4a90d9', paddingLeft: 16, margin: '8px 0', color: '#555', fontStyle: 'italic' }}>

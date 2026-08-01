@@ -169,12 +169,12 @@ export const MarkdownPanel: React.FC<Props> = ({
               </table>
             ),
             th: ({ children }) => (
-              <th style={{ border: '1px solid #ccc', padding: '6px 12px', background: '#e8edf5', fontWeight: 600 }}>
+              <th style={{ border: '2px solid #16213e', padding: '6px 12px', background: '#c7d4e8', color: '#16213e', fontWeight: 700 }}>
                 {children}
               </th>
             ),
             td: ({ children }) => (
-              <td style={{ border: '1px solid #ccc', padding: '6px 12px' }}>{children}</td>
+              <td style={{ border: '2px solid #16213e', padding: '6px 12px', color: '#1a1a2e' }}>{children}</td>
             ),
           }}
         >
