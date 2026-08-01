@@ -78,7 +78,7 @@ function toTimingData(props: AnimationProps): TimingData {
 export function AnimatedEpisode(props: AnimationProps) {
   const timingData = toTimingData(props);
   const playerRef = useRef<PlayerRef>(null);
-  const audioRef = useRef<HTMLAudioElement>(null);
+  const audioRef = useRef<HTMLVideoElement>(null);
   const fullscreenRef = useRef<HTMLDivElement>(null);
   const storageKey = `ai-qc-news:adjustment:${props.date}:${props.mode}`;
   const [adjustments, setAdjustments] = useState<Adjustments>(DEFAULT_ADJUSTMENTS);
@@ -144,9 +144,10 @@ export function AnimatedEpisode(props: AnimationProps) {
         controls={false}
         style={{ width: "100%", aspectRatio: "16 / 9", borderRadius: 10, overflow: "hidden" }}
       />
-      <audio
+      <video
         ref={audioRef}
         controls
+        playsInline
         preload="metadata"
         src={props.audioUrl}
         onPlay={() => playerRef.current?.play()}
@@ -154,7 +155,7 @@ export function AnimatedEpisode(props: AnimationProps) {
         onTimeUpdate={syncPlayerToAudio}
         onSeeking={syncPlayerToAudio}
         onEnded={() => playerRef.current?.pause()}
-        style={{ width: "100%", marginTop: 10 }}
+        style={{ width: "100%", marginTop: 10, height: 40 }}
       />
       </div>
       <div className="remotion-adjuster" role="toolbar" aria-label="表示と同期の調整">
