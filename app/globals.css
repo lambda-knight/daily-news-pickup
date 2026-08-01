@@ -126,24 +126,25 @@ details[open] > summary { color: var(--accent2); }
   border-collapse: collapse;
   margin: 0.9em 0;
   font-size: 0.9rem;
+  background: #1c1c26 !important;
 }
 .slide-content th, .slide-content td {
-  border: 2px solid #67e8f9 !important;
-  padding: 7px 12px;
+  border: 2px solid #9fefff !important;
+  padding: 8px 12px;
   text-align: left;
   color: #ffffff !important;
 }
 .slide-content th {
-  background: rgba(103, 232, 249, 0.35) !important;
+  background: #285e66 !important;
   color: #ffffff !important;
-  font-weight: 600;
-  font-size: 0.88rem;
+  font-weight: 700;
+  font-size: 0.9rem;
 }
 .slide-content tr:nth-child(even) td {
-  background: rgba(124, 106, 247, 0.3) !important;
+  background: #2a2a3a !important;
 }
 .slide-content tr:nth-child(odd) td {
-  background: rgba(103, 232, 249, 0.15) !important;
+  background: #1c1c26 !important;
 }
 
 .slide-content blockquote {
