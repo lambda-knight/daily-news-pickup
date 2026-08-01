@@ -128,22 +128,22 @@ details[open] > summary { color: var(--accent2); }
   font-size: 0.9rem;
 }
 .slide-content th, .slide-content td {
-  border: 2px solid #67e8f9;
+  border: 2px solid #67e8f9 !important;
   padding: 7px 12px;
   text-align: left;
-  color: #ffffff;
+  color: #ffffff !important;
 }
 .slide-content th {
-  background: rgba(103, 232, 249, 0.35);
-  color: #ffffff;
+  background: rgba(103, 232, 249, 0.35) !important;
+  color: #ffffff !important;
   font-weight: 600;
   font-size: 0.88rem;
 }
 .slide-content tr:nth-child(even) td {
-  background: rgba(124, 106, 247, 0.3);
+  background: rgba(124, 106, 247, 0.3) !important;
 }
 .slide-content tr:nth-child(odd) td {
-  background: rgba(103, 232, 249, 0.15);
+  background: rgba(103, 232, 249, 0.15) !important;
 }
 
 .slide-content blockquote {
