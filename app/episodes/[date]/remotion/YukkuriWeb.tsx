@@ -4,6 +4,7 @@ import { TimingData, Segment } from './types';
 import { MarkdownPanel } from './components/MarkdownPanel';
 import { SlidePanel } from './components/SlidePanel';
 import { CharacterFace } from './components/CharacterFace';
+import { KaraokeSubtitle } from './components/KaraokeSubtitle';
 
 interface Props {
   timingData: TimingData;
@@ -13,6 +14,7 @@ interface Props {
   timingOffsetFrames?: number;
   showSubtitles?: boolean;
   characterScale?: number;
+  karaokeSubtitles?: boolean;
 }
 
 const TITLE_H = 54;
@@ -28,9 +30,6 @@ const CHAR_SIZE_YOUTUBE = 375;
 //   ずんだもん（左端アンカー）: 右端 ≈ 226px
 //   四国めたん（右端アンカー）: 左端 ≈ 264px（右端からの距離）
 // これに揺れ・呼吸アニメ分の余裕（+15px）を足した値。
-const SUBTITLE_LEFT_INSET = 240;
-const SUBTITLE_RIGHT_INSET = 280;
-
 const DEFAULT_CHARS = {
   A: { name: 'ずんだもん', color: '#4caf50', imageClose: '', imageOpen: undefined as string | undefined },
   B: { name: '四国めたん', color: '#e91e8c', imageClose: '', imageOpen: undefined as string | undefined },
@@ -39,6 +38,7 @@ const DEFAULT_CHARS = {
 export const YukkuriWeb: React.FC<Props> = ({
   timingData, audioUrl, manualSectionName, scrollOffsetPx = 0, timingOffsetFrames = 0,
   showSubtitles = true, characterScale = 1,
+  karaokeSubtitles = true,
 }) => {
   const frame = useCurrentFrame();
   const syncFrame = Math.max(0, Math.min(timingData.totalFrames - 1, frame + timingOffsetFrames));
@@ -61,8 +61,10 @@ export const YukkuriWeb: React.FC<Props> = ({
   const speakingA = currentSeg?.speaker === 'A';
   const speakingB = currentSeg?.speaker === 'B';
   const subtitle = currentSeg?.text ?? '';
+  const subtitleProgress = currentSeg
+    ? (syncFrame - currentSeg.startFrame) / Math.max(1, currentSeg.endFrame - currentSeg.startFrame)
+    : 0;
   // 1行で収まる短い字幕は中央、折り返す長さは読みやすい左詰めにする。
-  const subtitleIsMultiLine = subtitle.length > 28;
   const segIdx = prevSeg ? segments.indexOf(prevSeg) : 0;
 
   // 現在のセクション（sectionName）が segments 配列のどこからどこまでかを求める
@@ -169,32 +171,16 @@ export const YukkuriWeb: React.FC<Props> = ({
             <CharacterFace character="B" isSpeaking={speakingB} side="right" size={CHAR_SIZE_YOUTUBE * characterScale} imageClose={charB.imageClose || undefined} imageOpen={charB.imageOpen} />
           </div>
 
-          {/* Bottom subtitle bar */}
+          {/* Keep the original bottom area while using the shared subtitle treatment. */}
           <div
             style={{
               height: BOTTOM_H,
               background: 'transparent',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              padding: '0 32px',
               flexShrink: 0,
             }}
-          >
-            <div
-              style={{
-                color: '#fff',
-                width: '100%',
-                fontSize: subtitleIsMultiLine ? 28 : 34,
-                fontWeight: 600,
-                lineHeight: 1.5,
-                textAlign: subtitleIsMultiLine ? 'left' : 'center',
-                textShadow: '0 1px 4px rgba(0,0,0,0.8)',
-              }}
-            >
-              {showSubtitles ? subtitle : ''}
-            </div>
-          </div>
+          />
+
+          {showSubtitles && <KaraokeSubtitle text={subtitle} progress={subtitleProgress} enabled={karaokeSubtitles} />}
 
           {/* Speaker name badge */}
           {currentSeg && (
@@ -265,31 +251,7 @@ export const YukkuriWeb: React.FC<Props> = ({
           </div>
 
           {/* Subtitle – centered between characters with a background that keeps it legible over slides. */}
-          {showSubtitles && <div
-            style={{
-              position: 'absolute',
-              bottom: 12,
-              left: SUBTITLE_LEFT_INSET,
-              right: SUBTITLE_RIGHT_INSET,
-              textAlign: subtitleIsMultiLine ? 'left' : 'center',
-            }}
-          >
-            <span
-              style={{
-                display: 'inline-block',
-                background: 'transparent',
-                borderRadius: 12,
-                padding: '4px 20px',
-                color: '#fff',
-                fontSize: subtitleIsMultiLine ? 28 : 34,
-                fontWeight: 700,
-                lineHeight: 1.5,
-                textShadow: '2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 3px 8px rgba(0,0,0,0.9)',
-              }}
-            >
-              {subtitle}
-            </span>
-          </div>}
+          {showSubtitles && <KaraokeSubtitle text={subtitle} progress={subtitleProgress} enabled={karaokeSubtitles} />}
 
           {/* Speaker name badge */}
           {currentSeg && (

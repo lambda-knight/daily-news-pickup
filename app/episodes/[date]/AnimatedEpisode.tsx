@@ -21,6 +21,7 @@ type Adjustments = {
   manualSectionName?: string;
   showSubtitles: boolean;
   characterScale: number;
+  karaokeSubtitles: boolean;
 };
 
 const DEFAULT_ADJUSTMENTS: Adjustments = {
@@ -28,6 +29,7 @@ const DEFAULT_ADJUSTMENTS: Adjustments = {
   scrollOffsetPx: 0,
   showSubtitles: true,
   characterScale: 1,
+  karaokeSubtitles: true,
 };
 
 type IconButtonProps = {
@@ -168,6 +170,7 @@ export function AnimatedEpisode(props: AnimationProps) {
         <IconButton icon="◀︎⏱" label="字幕と画面の同期を0.1秒早める" onClick={() => setAdjustments((v) => ({ ...v, timingOffsetFrames: v.timingOffsetFrames - 3 }))} />
         <IconButton icon="⏱▶︎" label="字幕と画面の同期を0.1秒遅らせる" onClick={() => setAdjustments((v) => ({ ...v, timingOffsetFrames: v.timingOffsetFrames + 3 }))} />
         <IconButton icon={adjustments.showSubtitles ? "CC" : "CC̸"} label={adjustments.showSubtitles ? "字幕を非表示" : "字幕を表示"} active={adjustments.showSubtitles} onClick={() => setAdjustments((v) => ({ ...v, showSubtitles: !v.showSubtitles }))} />
+        <IconButton icon="字追" label={adjustments.karaokeSubtitles ? "字幕の追従色を無効化" : "字幕の追従色を有効化"} active={adjustments.karaokeSubtitles} onClick={() => setAdjustments((v) => ({ ...v, karaokeSubtitles: !v.karaokeSubtitles }))} />
         <IconButton icon="👤−" label="キャラクターを10%縮小" onClick={() => setAdjustments((v) => ({ ...v, characterScale: Math.max(0.6, +(v.characterScale - 0.1).toFixed(1)) }))} />
         <IconButton icon="👤" label="キャラクターを標準サイズに戻す" active={adjustments.characterScale === 1} onClick={() => setAdjustments((v) => ({ ...v, characterScale: 1 }))} />
         <IconButton icon="👤＋" label="キャラクターを10%拡大" onClick={() => setAdjustments((v) => ({ ...v, characterScale: Math.min(1.6, +(v.characterScale + 0.1).toFixed(1)) }))} />
