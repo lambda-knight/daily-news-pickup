@@ -82,6 +82,7 @@ export function AnimatedEpisode(props: AnimationProps) {
   const playerRef = useRef<PlayerRef>(null);
   const audioRef = useRef<HTMLVideoElement>(null);
   const fullscreenRef = useRef<HTMLDivElement>(null);
+  const [isPseudoFullscreen, setIsPseudoFullscreen] = useState(false);
   const storageKey = `ai-qc-news:adjustment:${props.date}:${props.mode}`;
   const [adjustments, setAdjustments] = useState<Adjustments>(DEFAULT_ADJUSTMENTS);
   const sections = useMemo(
@@ -93,6 +94,23 @@ export function AnimatedEpisode(props: AnimationProps) {
     const saved = window.localStorage.getItem(storageKey);
     if (saved) setAdjustments({ ...DEFAULT_ADJUSTMENTS, ...(JSON.parse(saved) as Partial<Adjustments>) });
   }, [storageKey]);
+
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      if (document.fullscreenElement) setIsPseudoFullscreen(false);
+    };
+    document.addEventListener("fullscreenchange", handleFullscreenChange);
+    return () => document.removeEventListener("fullscreenchange", handleFullscreenChange);
+  }, []);
+
+  useEffect(() => {
+    if (!isPseudoFullscreen) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+    return () => {
+      document.body.style.overflow = previousOverflow;
+    };
+  }, [isPseudoFullscreen]);
 
   const currentSection = () => {
     if (adjustments.manualSectionName) return adjustments.manualSectionName;
@@ -129,12 +147,30 @@ export function AnimatedEpisode(props: AnimationProps) {
     if (Math.abs(player.getCurrentFrame() - target) > 3) player.seekTo(target);
   };
   const toggleFullscreen = async () => {
-    if (document.fullscreenElement) await document.exitFullscreen();
-    else await fullscreenRef.current?.requestFullscreen();
+    if (isPseudoFullscreen) {
+      setIsPseudoFullscreen(false);
+      return;
+    }
+    if (document.fullscreenElement) {
+      await document.exitFullscreen();
+      return;
+    }
+    const element = fullscreenRef.current;
+    if (!element?.requestFullscreen) {
+      setIsPseudoFullscreen(true);
+      return;
+    }
+    try {
+      await element.requestFullscreen();
+    } catch {
+      // iPhone Safari does not support fullscreen for arbitrary elements.
+      setIsPseudoFullscreen(true);
+    }
   };
   return (
     <div style={{ marginTop: 8 }}>
-      <div ref={fullscreenRef} className="animation-fullscreen-shell">
+      <div ref={fullscreenRef} className={`animation-fullscreen-shell${isPseudoFullscreen ? " is-pseudo-fullscreen" : ""}`}>
+      <button type="button" className="fullscreen-close" aria-label="全画面表示を終了" onClick={toggleFullscreen}>×</button>
       <Player
         ref={playerRef}
         component={YukkuriWeb}
