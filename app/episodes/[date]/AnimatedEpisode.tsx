@@ -193,7 +193,7 @@ export function AnimatedEpisode(props: AnimationProps) {
         onTimeUpdate={syncPlayerToAudio}
         onSeeking={syncPlayerToAudio}
         onEnded={() => playerRef.current?.pause()}
-        style={{ width: "100%", marginTop: 10, height: 40 }}
+        style={{ width: "100%", marginTop: 10, height: 54 }}
       />
       </div>
       <div className="remotion-adjuster" role="toolbar" aria-label="表示と同期の調整">
