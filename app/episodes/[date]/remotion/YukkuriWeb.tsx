@@ -1,5 +1,5 @@
 import React from 'react';
-import { useCurrentFrame, AbsoluteFill } from 'remotion';
+import { useCurrentFrame, AbsoluteFill, Audio } from 'remotion';
 import { TimingData, Segment } from './types';
 import { MarkdownPanel } from './components/MarkdownPanel';
 import { SlidePanel } from './components/SlidePanel';
@@ -92,6 +92,7 @@ export const YukkuriWeb: React.FC<Props> = ({
 
   return (
     <AbsoluteFill style={{ fontFamily: '"Hiragino Sans", "Noto Sans JP", sans-serif' }}>
+      {audioUrl && <Audio src={audioUrl} />}
       {isYoutubeSection ? (
         /* ── YouTube オープニング / エンディング画面 ── */
         <AbsoluteFill

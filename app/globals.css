@@ -213,7 +213,7 @@ details[open] > summary { color: var(--accent2); }
 .remotion-slide-content a { color: #4338ca; text-decoration: underline; }
 
 /* Remotion Player: all timeline-backed episodes use karaoke-style subtitles by default. */
-.karaoke-subtitle { position: absolute; z-index: 20; left: 240px; right: 280px; bottom: 12px; box-sizing: border-box; padding: 4px 20px; background: transparent; color: #fff; font-family: "Hiragino Sans", "Noto Sans JP", sans-serif; font-size: 34px; font-weight: 700; line-height: 1.5; text-align: center; text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 3px 8px rgba(0,0,0,.9); }
+.karaoke-subtitle { position: absolute; z-index: 20; left: 240px; right: 280px; bottom: 12px; box-sizing: border-box; padding: 4px 20px; background: transparent; color: #fff; font-family: "Hiragino Sans", "Noto Sans JP", sans-serif; font-size: 34px; font-weight: 700; line-height: 1.5; text-align: center; text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 0 3px 8px rgba(0,0,0,.9); pointer-events: none; }
 .karaoke-subtitle.multiline { font-size: 28px; text-align: left; }
 .karaoke-subtitle i { color: #fff; font: inherit; font-style: normal; text-shadow: inherit; }
 .karaoke-subtitle i.read { color: #1d4ed8; text-shadow: 2px 2px 0 #fff, -2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 0 3px 8px rgba(0,0,0,.9); }
