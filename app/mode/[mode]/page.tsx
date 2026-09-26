@@ -6,6 +6,7 @@ const episodes = episodesData as Episode[];
 
 const MODE_LABEL: Record<string, string> = {
   compare: "7カ国メディア比較",
+  compare_gougai: "7カ国比較 号外特集",
   domestic: "国内8紙比較",
   intl_jp: "海外ニュースと日本報道",
   weird: "世界の珍ニュース",
