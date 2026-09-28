@@ -5,7 +5,7 @@ import Link from "next/link";
 const episodes = episodesData as Episode[];
 
 const MODE_BADGE: Record<string, string> = {
-  compare: "世界7カ国",
+  compare: "世界と日本のメディア比較",
   compare_gougai: "号外特集",
   domestic: "国内8紙",
   intl_jp: "海外×日本",
