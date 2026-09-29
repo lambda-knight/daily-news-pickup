@@ -2059,8 +2059,8 @@
           "version": 1,
           "source": "tts_voicevox",
           "fps": 30,
-          "totalFrames": 21207,
-          "audioDurationSec": 706.889333,
+          "totalFrames": 21118,
+          "audioDurationSec": 703.934667,
           "cues": [
             {
               "speaker": "A",
@@ -2071,619 +2071,619 @@
             },
             {
               "speaker": "B",
-              "text": "「¡Que aproveche!」は、食事を始める人へ「どうぞ召し上がれ」と声を掛ける表現よ。知らない隣客にも使える温かい言葉ね。",
+              "text": "「ケ・アプロベーチェ」は、食事を始める人へ「どうぞ召し上がれ」と声を掛ける表現よ。知らない隣客にも使える温かい言葉ね。",
               "section": "オープニング：2026年9月29日 — スペイン文化・フラメンコ便り",
               "startFrame": 281,
-              "endFrame": 651
+              "endFrame": 601
             },
             {
               "speaker": "A",
               "text": "今日は耳で味わうフラメンコにも、ケ・アプロベーチェなのだ。",
               "section": "オープニング：2026年9月29日 — スペイン文化・フラメンコ便り",
-              "startFrame": 658,
-              "endFrame": 813
+              "startFrame": 608,
+              "endFrame": 764
             },
             {
               "speaker": "B",
               "text": "住宅抗議は短く押さえ、後半はホセ・アントニオ・ロドリゲス、オルガ・ペリセ、ラ・タナ、そしてロメーラスを深く聴きましょう。",
               "section": "オープニング：2026年9月29日 — スペイン文化・フラメンコ便り",
-              "startFrame": 821,
-              "endFrame": 1145
+              "startFrame": 771,
+              "endFrame": 1095
             },
             {
               "speaker": "A",
               "text": "同じ十二拍でも、奏者と踊り手と歌い手で、時間の作り方はどう変わるのだ？",
               "section": "オープニング：2026年9月29日 — スペイン文化・フラメンコ便り",
-              "startFrame": 1153,
-              "endFrame": 1356
+              "startFrame": 1103,
+              "endFrame": 1306
             },
             {
               "speaker": "B",
               "text": "そこが今日の問いよ。音を増やす技術より、誰へ時間を渡すかに注目するわ。",
               "section": "オープニング：2026年9月29日 — スペイン文化・フラメンコ便り",
-              "startFrame": 1363,
-              "endFrame": 1539
+              "startFrame": 1313,
+              "endFrame": 1489
             },
             {
               "speaker": "B",
               "text": "欧州委員会は9月28日、ロシアのハイブリッド攻撃を念頭に、欧州連合の防衛上の隙間を指摘したわ。",
               "section": "国際情勢（スペイン視点）",
-              "startFrame": 1557,
-              "endFrame": 1817
+              "startFrame": 1507,
+              "endFrame": 1767
             },
             {
               "speaker": "A",
               "text": "スペインにも追加の負担が求められるのだ？",
               "section": "国際情勢（スペイン視点）",
-              "startFrame": 1824,
-              "endFrame": 1927
+              "startFrame": 1774,
+              "endFrame": 1877
             },
             {
               "speaker": "B",
               "text": "そう。けれどスペインは東方防衛だけでなく、地中海と北アフリカへの即応も抱える。予算と能力をどちらへ置くかが固有の難題なの。",
               "section": "国際情勢（スペイン視点）",
-              "startFrame": 1934,
-              "endFrame": 2241
+              "startFrame": 1884,
+              "endFrame": 2191
             },
             {
               "speaker": "B",
               "text": "マドリードのソル広場では、住宅費に抗議する若者らが野営し、政府へ48時間以内の実効策を求めたわ。",
               "section": "スペイン国内ニュース",
-              "startFrame": 2259,
-              "endFrame": 2518
+              "startFrame": 2209,
+              "endFrame": 2468
             },
             {
               "speaker": "A",
               "text": "政府案は何を変えるのだ？",
               "section": "スペイン国内ニュース",
-              "startFrame": 2526,
-              "endFrame": 2600
+              "startFrame": 2476,
+              "endFrame": 2550
             },
             {
               "speaker": "B",
               "text": "賃貸契約の延長を最長2年に制限し、脆弱な世帯の立ち退きを禁じる内容を含む。ジュンツは不法占拠を追認しかねないと反発したの。",
               "section": "スペイン国内ニュース",
-              "startFrame": 2608,
-              "endFrame": 2937
+              "startFrame": 2558,
+              "endFrame": 2887
             },
             {
               "speaker": "A",
               "text": "広場そのものを生活の場に変える抗議は、日本の陳情とは見え方がずいぶん違うのだ。",
               "section": "スペイン国内ニュース",
-              "startFrame": 2945,
-              "endFrame": 3158
+              "startFrame": 2895,
+              "endFrame": 3108
             },
             {
               "speaker": "B",
               "text": "所有者、退去先のない入居者、地域政党の票が要る政府。その三者の利害がソル広場で可視化されているのよ。",
               "section": "スペイン国内ニュース",
-              "startFrame": 3166,
-              "endFrame": 3424
+              "startFrame": 3116,
+              "endFrame": 3374
             },
             {
               "speaker": "B",
               "text": "カルロス・バルデム、アイタナ・サンチェス＝ヒホン、フアン・ディエゴ・ボットら俳優も住宅抗議へ連帯を表明したわ。",
               "section": "文化・芸能ニュース",
-              "startFrame": 3442,
-              "endFrame": 3737
+              "startFrame": 3392,
+              "endFrame": 3687
             },
             {
               "speaker": "A",
               "text": "作品の宣伝ではなく、生活政策に名前を出したのだな。",
               "section": "文化・芸能ニュース",
-              "startFrame": 3744,
-              "endFrame": 3900
+              "startFrame": 3694,
+              "endFrame": 3850
             },
             {
               "speaker": "B",
               "text": "文化人と街頭政治の距離が近い。賛否とは別に、沈黙しないこと自体が職業倫理として見られる社会なの。",
               "section": "文化・芸能ニュース",
-              "startFrame": 3907,
-              "endFrame": 4154
+              "startFrame": 3858,
+              "endFrame": 4104
             },
             {
               "speaker": "B",
               "text": "レンフェは1972年生まれの円形標章、通称ガジェータを54年ぶりに前面へ戻すわ。高速鉄道やウェブにも順次展開する計画よ。",
               "section": "文化・芸能ニュース",
-              "startFrame": 4161,
-              "endFrame": 4494
+              "startFrame": 4111,
+              "endFrame": 4444
             },
             {
               "speaker": "A",
               "text": "博物館へしまわず、現役の列車へ戻すのが大胆なのだ。",
               "section": "文化・芸能ニュース",
-              "startFrame": 4502,
-              "endFrame": 4655
+              "startFrame": 4452,
+              "endFrame": 4605
             },
             {
               "speaker": "B",
               "text": "日本にも鉄道意匠への愛着はあるけれど、過去のデザインで現在のサービス全体を束ね直す点が面白いわね。",
               "section": "文化・芸能ニュース",
-              "startFrame": 4663,
-              "endFrame": 4900
+              "startFrame": 4613,
+              "endFrame": 4850
             },
             {
               "speaker": "B",
               "text": "もう一人、バレンシア生まれの詩人フアン・チャバスも再評価されている。27年世代の創設期に居合わせながら、亡命で影が薄くなった作家よ。",
               "section": "文化・芸能ニュース",
-              "startFrame": 4907,
-              "endFrame": 5234
+              "startFrame": 4857,
+              "endFrame": 5184
             },
             {
               "speaker": "A",
               "text": "有名な数人だけで文学運動を語ると、移動した人や支えた人が消えてしまうのだ。",
               "section": "文化・芸能ニュース",
-              "startFrame": 5242,
-              "endFrame": 5456
+              "startFrame": 5192,
+              "endFrame": 5406
             },
             {
               "speaker": "B",
               "text": "マドリードのコンデドゥケには、三部作で身体と音の変化を見せるトリロヒア・フラメンカが到来するわ。",
               "section": "フラメンコニュース",
-              "startFrame": 5474,
-              "endFrame": 5686
+              "startFrame": 5424,
+              "endFrame": 5636
             },
             {
               "speaker": "A",
               "text": "一晩のタブラオとは違って、作品同士を比べられるのだな。",
               "section": "フラメンコニュース",
-              "startFrame": 5694,
-              "endFrame": 5846
+              "startFrame": 5644,
+              "endFrame": 5796
             },
             {
               "speaker": "B",
               "text": "スマ・フラメンカ・ホベン2026は、若いカンテ、ギター、バイレへ公演枠を渡す。公共プログラムが師弟制の外側から継承を支えるの。",
               "section": "フラメンコニュース",
-              "startFrame": 5854,
-              "endFrame": 6196
+              "startFrame": 5804,
+              "endFrame": 6146
             },
             {
               "speaker": "A",
               "text": "若手を前座ではなく主役として聴けるのは大事なのだ。",
               "section": "フラメンコニュース",
-              "startFrame": 6204,
-              "endFrame": 6327
+              "startFrame": 6154,
+              "endFrame": 6278
             },
             {
               "speaker": "B",
               "text": "マラガ県アロサイナのアルメナ・フラメンカは三本柱を同じ催しへ集める。ギターを歌の呼吸と足音へ戻す編成ね。",
               "section": "フラメンコニュース",
-              "startFrame": 6335,
-              "endFrame": 6599
+              "startFrame": 6285,
+              "endFrame": 6549
             },
             {
               "speaker": "B",
               "text": "北部パンプローナでは、エル・ペレの市庁舎バルコニー公演と未成年向けのギター・舞踊講座を組み合わせたわ。",
               "section": "フラメンコニュース",
-              "startFrame": 6606,
-              "endFrame": 6854
+              "startFrame": 6556,
+              "endFrame": 6805
             },
             {
               "speaker": "A",
               "text": "南部の芸能を国の飾りにせず、技術として子どもへ手渡すのだ。",
               "section": "フラメンコニュース",
-              "startFrame": 6862,
-              "endFrame": 7027
+              "startFrame": 6812,
+              "endFrame": 6977
             },
             {
               "speaker": "B",
               "text": "その通り。セビリア、ヘレス、グラナダ、コルドバという土地の名も一緒に伝えることが、文化の出自を平らにしない支えになる。",
               "section": "フラメンコニュース",
-              "startFrame": 7035,
-              "endFrame": 7314
+              "startFrame": 6985,
+              "endFrame": 7264
             },
             {
               "speaker": "B",
               "text": "今日の一人は、1964年コルドバ生まれのホセ・アントニオ・ロドリゲスよ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 7332,
-              "endFrame": 7520
+              "startFrame": 7282,
+              "endFrame": 7471
             },
             {
               "speaker": "A",
               "text": "どんな入口からギターへ進んだのだ？",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 7528,
-              "endFrame": 7619
+              "startFrame": 7478,
+              "endFrame": 7569
             },
             {
               "speaker": "B",
               "text": "近所から聞こえた演奏に惹かれ、メレンゲ・デ・コルドバや音楽院のマノロ・カノに学んだの。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 7626,
-              "endFrame": 7846
+              "startFrame": 7576,
+              "endFrame": 7796
             },
             {
               "speaker": "B",
               "text": "1982年にヘレスの全国コンクールでコンサートギター部門首位、1986年にはコルドバでラモン・モントーヤ賞を得たわ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 7853,
-              "endFrame": 8159
+              "startFrame": 7803,
+              "endFrame": 8109
             },
             {
               "speaker": "A",
               "text": "舞台の名手であり、先生でもあるのだな。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 8166,
-              "endFrame": 8278
+              "startFrame": 8116,
+              "endFrame": 8228
             },
             {
               "speaker": "B",
               "text": "20歳でコルドバ高等音楽院のフラメンコギター教授になった。右手の角度や音の分離を、秘密でなく説明できる技術にしたのよ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 8285,
-              "endFrame": 8569
+              "startFrame": 8235,
+              "endFrame": 8519
             },
             {
               "speaker": "A",
               "text": "演奏の右手は、速さが中心なのだ？",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 8576,
-              "endFrame": 8684
+              "startFrame": 8526,
+              "endFrame": 8634
             },
             {
               "speaker": "B",
               "text": "ピカードだけではないわ。親指の低音と高音の旋律を別の層にして、和音の後へ呼吸を残す。音数より配置が重要なの。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 8691,
-              "endFrame": 8971
+              "startFrame": 8641,
+              "endFrame": 8921
             },
             {
               "speaker": "A",
               "text": "左手はどう働くのだ？",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 8979,
-              "endFrame": 9046
+              "startFrame": 8929,
+              "endFrame": 8996
             },
             {
               "speaker": "B",
               "text": "開放弦を残した和音と滑らかな移動で、丸い音の内側に緊張を作る。歌の終止を先回りせず、その後ろへ和音を置けるのも伴奏者の耳ね。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 9054,
-              "endFrame": 9385
+              "startFrame": 9004,
+              "endFrame": 9335
             },
             {
               "speaker": "B",
               "text": "作曲では『エル・ギタリスタ・アスール』を、ギターと管弦楽の四楽章作品にしたわ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 9393,
-              "endFrame": 9636
+              "startFrame": 9343,
+              "endFrame": 9586
             },
             {
               "speaker": "A",
               "text": "フラメンコをオーケストラへ移しても、芯は残るのだ？",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 9644,
-              "endFrame": 9774
+              "startFrame": 9594,
+              "endFrame": 9724
             },
             {
               "speaker": "B",
               "text": "彼が守る純粋性は編成の固定ではなく、コンパスと発音の一貫性なの。エンリケ・モレンテやマノロ・サンルーカルとも協働したわ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 9781,
-              "endFrame": 10091
+              "startFrame": 9731,
+              "endFrame": 10041
             },
             {
               "speaker": "B",
               "text": "2026年7月のコルドバ公演では、フルート、サックス、ハーモニカ、ベース、打楽器、声と踊りを含む五重奏で自作を組み直したの。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 10099,
-              "endFrame": 10446
+              "startFrame": 10049,
+              "endFrame": 10397
             },
             {
               "speaker": "A",
               "text": "楽器が増えるほど、ギターが何を担っていたか逆に見えるのだ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 10454,
-              "endFrame": 10604
+              "startFrame": 10404,
+              "endFrame": 10554
             },
             {
               "speaker": "B",
               "text": "公式公演記録の『ホセ・アントニオ・ロドリゲス、コルドバ・ギターフェスティバル』では、低音の後に高音句を急がず返すところを聴いて。リンクは記事本文にあるわ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 10612,
-              "endFrame": 10993
+              "startFrame": 10562,
+              "endFrame": 10943
             },
             {
               "speaker": "A",
               "text": "速い走句の終わりにも、打楽器が入る余白があるのだ。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 11000,
-              "endFrame": 11135
+              "startFrame": 10950,
+              "endFrame": 11085
             },
             {
               "speaker": "B",
               "text": "それが独奏と合奏をつなぐ技術よ。教育、管弦楽、ジャズ的編成を一つの職歴に収めたことが、後進への大きな遺産ね。",
               "section": "フラメンコギタリスト列伝",
-              "startFrame": 11143,
-              "endFrame": 11441
+              "startFrame": 11093,
+              "endFrame": 11391
             },
             {
               "speaker": "B",
               "text": "バイレは1975年コルドバ生まれのオルガ・ペリセ。フラメンコ、スペイン舞踊、クラシック、現代舞踊を学び、2018年に国家舞踊賞を受けたわ。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 11459,
-              "endFrame": 11843
+              "startFrame": 11409,
+              "endFrame": 11793
             },
             {
               "speaker": "A",
               "text": "技法を全部同時に見せるのだ？",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 11850,
-              "endFrame": 11929
+              "startFrame": 11800,
+              "endFrame": 11880
             },
             {
               "speaker": "B",
               "text": "むしろ場面ごとに重心を切り替える。『ウン・クエルポ・インフィニート』では、カルメン・アマジャの記憶を再演せず、女性の身体がどう見られたかを問い直したの。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 11937,
-              "endFrame": 12324
+              "startFrame": 11887,
+              "endFrame": 12275
             },
             {
               "speaker": "B",
               "text": "『ラ・レオナ』では、製作家アントニオ・デ・トーレスの名器を題材に、踊る身体と木の身体を並べたわ。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 12332,
-              "endFrame": 12605
+              "startFrame": 12282,
+              "endFrame": 12555
             },
             {
               "speaker": "A",
               "text": "足と腕の特徴も知りたいのだ。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 12613,
-              "endFrame": 12692
+              "startFrame": 12563,
+              "endFrame": 12643
             },
             {
               "speaker": "B",
               "text": "サパテアードの短い群れの後に静止し、ブラソは肘と手首の角度で視線を導く。全部を同時に最大音量にしないの。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 12700,
-              "endFrame": 12969
+              "startFrame": 12650,
+              "endFrame": 12919
             },
             {
               "speaker": "B",
               "text": "カナル・アンダルシア・フラメンコの『オルガ・ペリセとの出会い』では、足を止めてギターへ主導権を返す瞬間を見て。本文に公式リンクがあるわ。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 12976,
-              "endFrame": 13312
+              "startFrame": 12926,
+              "endFrame": 13262
             },
             {
               "speaker": "A",
               "text": "静止も、次の演者へ時間を渡す踊りなのだな。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 13320,
-              "endFrame": 13445
+              "startFrame": 13270,
+              "endFrame": 13395
             },
             {
               "speaker": "B",
               "text": "だから異なる舞踊訓練を使っても、コンパスの重心が消えないのよ。",
               "section": "フラメンコバイレ列伝",
-              "startFrame": 13452,
-              "endFrame": 13598
+              "startFrame": 13402,
+              "endFrame": 13548
             },
             {
               "speaker": "B",
               "text": "カンテはラ・タナ。本名ビクトリア・サンティアゴ・ボルハ、1976年セビリア生まれよ。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 13616,
-              "endFrame": 13843
+              "startFrame": 13566,
+              "endFrame": 13793
             },
             {
               "speaker": "A",
               "text": "声にはどんな特徴があるのだ？",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 13850,
-              "endFrame": 13929
+              "startFrame": 13800,
+              "endFrame": 13879
             },
             {
               "speaker": "B",
               "text": "表面は乾いているけれど、語尾を細く抜くと柔らかな倍音が残る。子音を立ててレトラの形を作り、次の句で急に弱音へ落ちるの。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 13937,
-              "endFrame": 14232
+              "startFrame": 13887,
+              "endFrame": 14182
             },
             {
               "speaker": "B",
               "text": "パコ・デ・ルシアが声を評価し、アルバム『トゥ、ベン・ア・ミ』を制作したわ。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 14239,
-              "endFrame": 14533
+              "startFrame": 14189,
+              "endFrame": 14483
             },
             {
               "speaker": "A",
               "text": "巨匠の伴奏に声を預けるだけではないのだな。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 14541,
-              "endFrame": 14651
+              "startFrame": 14491,
+              "endFrame": 14601
             },
             {
               "speaker": "B",
               "text": "ええ。ギターが隙間を埋め尽くさず、短く応答するから、歌と伴奏が対話として立つの。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 14658,
-              "endFrame": 14866
+              "startFrame": 14608,
+              "endFrame": 14816
             },
             {
               "speaker": "B",
               "text": "本人公式配信の『トゥ、ベン・ア・ミ』では、題名句を繰り返すたびに語尾の長さが変わるところを聴いて。リンクは本文よ。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 14873,
-              "endFrame": 15242
+              "startFrame": 14824,
+              "endFrame": 15192
             },
             {
               "speaker": "A",
               "text": "同じリフレインでも、感情の温度はコピーされないのだ。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 15249,
-              "endFrame": 15384
+              "startFrame": 15199,
+              "endFrame": 15334
             },
             {
               "speaker": "B",
               "text": "息とざらつきを磨き過ぎず残したことで、女性カンテを美声だけで測らない耳も広げたわ。",
               "section": "フラメンコカンテ列伝",
-              "startFrame": 15391,
-              "endFrame": 15575
+              "startFrame": 15341,
+              "endFrame": 15525
             },
             {
               "speaker": "B",
               "text": "今日は既出工房を再掲せず、スペインの製作者が展示や共同発信で、材の来歴と修理可能性を示す仕組みを見るわ。",
               "section": "フラメンコギター工房だより",
-              "startFrame": 15593,
-              "endFrame": 15874
+              "startFrame": 15543,
+              "endFrame": 15824
             },
             {
               "speaker": "A",
               "text": "フラメンコ用の白いギターは、糸杉を使うことが多いのだ？",
               "section": "フラメンコギター工房だより",
-              "startFrame": 15882,
-              "endFrame": 16032
+              "startFrame": 15832,
+              "endFrame": 15982
             },
             {
               "speaker": "B",
               "text": "側板と裏板に使う例が多いわ。立ち上がりが速く減衰も短いため、足音の中で輪郭を出しやすい。ただし材だけで音は決まらないの。",
               "section": "フラメンコギター工房だより",
-              "startFrame": 16039,
-              "endFrame": 16348
+              "startFrame": 15989,
+              "endFrame": 16298
             },
             {
               "speaker": "A",
               "text": "表板、力木、板厚、弦高も組み合わせなのだな。",
               "section": "フラメンコギター工房だより",
-              "startFrame": 16355,
-              "endFrame": 16516
+              "startFrame": 16305,
+              "endFrame": 16468
             },
             {
               "speaker": "B",
               "text": "そう。演奏家の「ラスゲアードが団子になる」という言葉を、駒や表板の反応、フレット整形へ翻訳するのが製作家の仕事よ。",
               "section": "フラメンコギター工房だより",
-              "startFrame": 16524,
-              "endFrame": 16833
+              "startFrame": 16475,
+              "endFrame": 16784
             },
             {
               "speaker": "A",
               "text": "日本の工房と同じ職人気質がありつつ、歌と手拍子と足音の中で判断する点が違うのだ。",
               "section": "フラメンコギター工房だより",
-              "startFrame": 16841,
-              "endFrame": 17081
+              "startFrame": 16792,
+              "endFrame": 17032
             },
             {
               "speaker": "B",
               "text": "楽器単体の美音より、合奏内でいつ音が立ち、いつ消えるかを優先するのが現場との接点ね。",
               "section": "フラメンコギター工房だより",
-              "startFrame": 17088,
-              "endFrame": 17301
+              "startFrame": 17039,
+              "endFrame": 17252
             },
             {
               "speaker": "B",
               "text": "今日のパロはロメーラス。カディス系のカンティーニャ群で、アレグリアスやミラブラスと十二拍を共有するわ。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 17319,
-              "endFrame": 17537
+              "startFrame": 17270,
+              "endFrame": 17488
             },
             {
               "speaker": "A",
               "text": "誰か一人が作った曲種なのだ？",
               "section": "フラメンコのパロ解説",
-              "startFrame": 17545,
-              "endFrame": 17629
+              "startFrame": 17496,
+              "endFrame": 17580
             },
             {
               "speaker": "B",
               "text": "そこまで確定できない。19世紀のカディス周辺で、カンティーニャの旋律型が枝分かれした流れで捉えるのが妥当よ。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 17636,
-              "endFrame": 17892
+              "startFrame": 17588,
+              "endFrame": 17843
             },
             {
               "speaker": "A",
               "text": "明るい曲なら、ただ陽気に踊ればいいのだ？",
               "section": "フラメンコのパロ解説",
-              "startFrame": 17899,
-              "endFrame": 18012
+              "startFrame": 17851,
+              "endFrame": 17963
             },
             {
               "speaker": "B",
               "text": "それでは輪郭が薄くなる。短いレトラを反復し、歌が伸びてもギターとパルマは周期を保つ。踊りはマルカーヘとジャマーダで相手へ合図を返すの。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 18020,
-              "endFrame": 18329
+              "startFrame": 17971,
+              "endFrame": 18281
             },
             {
               "speaker": "B",
               "text": "十二拍は、1・2・3、4・5・6、7・8、9・10、11・12。三拍系と二拍系が交替するわ。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 18337,
-              "endFrame": 18697
+              "startFrame": 18288,
+              "endFrame": 18649
             },
             {
               "speaker": "A",
               "text": "全部を同じ強さで数えると、弾みが消えるのだな。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 18705,
-              "endFrame": 18838
+              "startFrame": 18656,
+              "endFrame": 18789
             },
             {
               "speaker": "B",
               "text": "和声はアレグリアスに近い明るさを持ちながら、ロメーラスはイー・マイナーを基調とする説明もある。イー・マイナー、ビー・セブン、エー・マイナーなどを巡るの。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 18845,
-              "endFrame": 19217
+              "startFrame": 18797,
+              "endFrame": 19169
             },
             {
               "speaker": "A",
               "text": "コードだけでなく、旋律型とレトラを聞き分ける必要があるのだ。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 19225,
-              "endFrame": 19382
+              "startFrame": 19176,
+              "endFrame": 19334
             },
             {
               "speaker": "B",
               "text": "アンダルシア州文化機関の舞台『ロメーラス』では、二人の男性舞踊家が同じ動きを別の感情で返す。公式資料へのリンクは本文よ。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 19390,
-              "endFrame": 19711
+              "startFrame": 19341,
+              "endFrame": 19663
             },
             {
               "speaker": "A",
               "text": "同時に足を鳴らす場面より、一人の静止へもう一人が返す瞬間が見どころなのだな。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 19719,
-              "endFrame": 19922
+              "startFrame": 19670,
+              "endFrame": 19873
             },
             {
               "speaker": "B",
               "text": "ええ。十二拍を共有するからこそ、動きを同一化せず応答できる。小さいけれど精巧なカンティーニャの枝なのよ。",
               "section": "フラメンコのパロ解説",
-              "startFrame": 19929,
-              "endFrame": 20198
+              "startFrame": 19880,
+              "endFrame": 20149
             },
             {
               "speaker": "A",
               "text": "今日の共通点は、技術を独り占めせず、次の人へ時間を渡すことだったのだ。",
               "section": "まとめ",
-              "startFrame": 20216,
-              "endFrame": 20424
+              "startFrame": 20167,
+              "endFrame": 20376
             },
             {
               "speaker": "B",
               "text": "広場、鉄道意匠、若手公演、教育、列伝。文化は土地と担い手の名を残しながら、手渡す場所を増やすことで続くのね。",
               "section": "まとめ",
-              "startFrame": 20432,
-              "endFrame": 20734
+              "startFrame": 20383,
+              "endFrame": 20685
             },
             {
               "speaker": "A",
               "text": "ノス・ベモス！ また会おう、なのだ。",
               "section": "まとめ",
-              "startFrame": 20742,
-              "endFrame": 20850
+              "startFrame": 20693,
+              "endFrame": 20802
             },
             {
               "speaker": "B",
-              "text": "「Nos vemos」は直訳すると「私たちはまた会う」。気軽で再会を約束する別れの言葉よ。お聴きいただき、ありがとうございました。",
+              "text": "「ノス・ベモス」は直訳すると「私たちはまた会う」。気軽で再会を約束する別れの言葉よ。お聴きいただき、ありがとうございました。",
               "section": "まとめ",
-              "startFrame": 20858,
-              "endFrame": 21207
+              "startFrame": 20809,
+              "endFrame": 21118
             }
           ]
         }
