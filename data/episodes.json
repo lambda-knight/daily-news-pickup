@@ -1,5 +1,455 @@
 [
   {
+    "date": "2026-11-14",
+    "segments": [
+      {
+        "mode": "compare",
+        "label": "世界と日本のメディア比較",
+        "iaId": "news-pickup-2026-11-14-compare",
+        "audioUrl": "https://archive.org/download/news-pickup-2026-11-14-compare/compare_yukkuri.m4a",
+        "markdown": "<h1>世界と日本のメディア比較（2026年11月14日）</h1>\n<ul>\n<li><strong>対象日</strong>: 2026年11月14日</li>\n<li><strong>取得・確認時刻</strong>: 2026年11月14日 朝（日本時間。直近48時間以内の公開記事を対象）</li>\n<li><strong>前半確認媒体・件数</strong>: 米国 NPR/CNN 12件、英国 BBC/The Guardian 12件、フランス France24/RFI 12件、中国 CGTN 12件、ロシア TASS/RT 12件、インド Times of India/NDTV 12件、アルゼンチン枠 Al Jazeera 6件</li>\n<li><strong>後半確認媒体・件数</strong>: NHK・朝日・毎日・東京・赤旗・産経・読売・日経 各12件。※取得枠内の件数であり、枠外記事の存在を排除しない。「見当たらず」は取得枠内での結果。BBC・NDTV・Times of India と国内紙の一部は見出し・要約のみ確認。</li>\n</ul>\n<h2>オープニング：2026年11月14日 — 世界と日本のメディア比較</h2>\n<ul>\n<li><strong>2026年11月14日の主要論点</strong>:</li>\n<li>米FAAの全国離陸停止 — 原因の説明を各国は誰の言葉で伝えたか</li>\n<li>マイクロソフト大規模障害、ウクライナ協議の欧州外交団、トルコ・カタール防衛協定</li>\n<li>後半: 関文科相のパーティー問題、支援金と比例削減の国会日程、非核三原則（継続特集）</li>\n</ul>\n<h2>前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか</h2>\n<ul>\n<li><strong>事実関係の整理</strong>:</li>\n<li>11月13日、米東部時間15時54分、FAAが全米の空港で出発便の全国離陸停止</li>\n<li>ダフィー運輸長官「すべての航空路管制センターに影響する通信の問題」</li>\n<li>FlightAware調べで約7,000便が遅延・欠航。全国停止は2023年1月以来（その前は2001年同時多発テロ後）</li>\n<li>同日、FAAとホワイトハウスが管制刷新費301億ドルの追加を議会に要請（議会は昨年125億ドルを承認済み）</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・扱い</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPR</td>\n<td>「FAA issues nationwide ground stop for all U.S. airports」（CNNは取得枠内で見当たらず）</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>BBC/Guardian</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>France24（Reuters）</td>\n<td>「US flight authority orders national ground stop over air traffic control 'communication issue'」— 老朽設備・管制官不足など管制の負担の表れ</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTN</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>RT／TASS</td>\n<td>RT「US grounds departing flights nationwide」— CNN経由の当局者「サイバー攻撃ではない」、ミュリン長官、AI経路最適化「SMART」を並置（関与は未確定と明記）／TASS「Nearly 7,000 flights delayed or canceled」</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>NDTV／Times of India</td>\n<td>NDTV「'This Isn't Another 9/11'」／TOI「'Extraordinary circumstances': … over safety concerns」</td>\n</tr>\n<tr>\n<td>中東</td>\n<td>Al Jazeera</td>\n<td>「FAA grounds US flights nationwide after 'communication issue'」— ダフィー長官の投稿と301億ドル要請を並べる</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>日本6媒体のカバレッジ</strong>: 6媒体中3媒体（NHK・毎日・日経）。朝日・読売・産経は取得枠内で見当たらず</li>\n<li>NHK「アメリカ全土の空港で航空機運航停止『通信の問題』」</li>\n<li>毎日「全米の航空機に離陸禁止命令、混乱拡大か　管制機能に通信障害」</li>\n<li>日経「全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表」</li>\n<li><strong>報道差異の要点</strong>:</li>\n<li>RTは原因について法執行当局者・国土安全保障長官の発言まで集め、AIシステム導入や他国の管制トラブルを並べた</li>\n<li>France24・Al Jazeeraは説明をダフィー長官に限り、刷新予算の要請と管制の負担を軸にした。TASSは数字のみの短報</li>\n<li>インドNDTVは「9.11ではない」を見出しに採用。日本は「運航停止」「離陸禁止命令」「通信障害と当局発表」と措置と原因の書き方が分かれた</li>\n</ul>\n<h2>前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに</h2>\n<ul>\n<li><strong>事実関係の整理</strong>: 11月12〜13日、Outlook・Teams などが約24時間にわたり障害。マイクロソフトは日本時間14日午前3時すぎ「広範囲にわたる復旧がみられる」と投稿</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・扱い</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>英国</td>\n<td>BBC</td>\n<td>「Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption」— 少数の巨大テックへの依存（専門家）</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>Times of India</td>\n<td>「'MS 364': Outlook, Teams disrupted for nearly a day」— 企業がSlack・Zoomへ切り替え</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>日本6媒体のカバレッジ</strong>: 6媒体中4媒体（NHK・産経・読売・日経）。朝日・毎日は取得枠内で見当たらず。東京も報道</li>\n<li>読売「全面復旧のメドは不明…日本政府のネットワークにも影響」</li>\n<li>日経「日本政府の情報システム基盤にも支障 尾崎副長官」「市場ではFAX活用 投信で基準価格公表に遅れも」</li>\n<li>産経「世界のメール、AIに影響」／東京「74カ国・地域に混乱拡大」／NHK「『広範囲にわたる復旧がみられる』」</li>\n<li><strong>報道差異の要点</strong>:</li>\n<li>英国は巨大テック依存という構図を前面に出した</li>\n<li>インドは見出しを「MS 364」とし、企業の代替手段に焦点</li>\n<li>日本は政府システムと市場（FAX・投信）の国内実害を先に置いた</li>\n</ul>\n<h2>前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか</h2>\n<ul>\n<li><strong>事実関係の整理</strong>: 11月13日、コスタ欧州理事会議長が、次のウクライナ協議にEU外交官と英・仏・独・伊・ポーランドの代表を派遣すると表明</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・扱い</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPR</td>\n<td>「Does Europe regret its bet on U.S. defense?」— 米国防衛技術への依存と納入遅れ</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>BBC</td>\n<td>「Uncompromising Putin ups demands for peace with Ukraine」— 欧州安保が議題入りしたこと自体がモスクワでは勝利（ロシア担当編集長）</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>France24</td>\n<td>「France among five major powers to represent EU in Ukraine talks」— マクロン「もはや米国の支援はない」、クシュナー、トゥスク、ペスコフ、カラスの発言</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>TASS</td>\n<td>「Ceasefire to be EU's priority at Ukraine talks — von der Leyen」— 第22次対露制裁を早期提示</td>\n</tr>\n<tr>\n<td>中国・インド・中東</td>\n<td>—</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>日本6媒体のカバレッジ</strong>: 読売の識者解説（「米国は自国の仲介で和平進んだとアピール」小谷哲男教授）のみ。他5媒体は取得枠内で見当たらず</li>\n<li><strong>報道差異の要点</strong>:</li>\n<li>フランスは自国が5大国の一角に入ったことを見出しにし、欧州内の不協和音の発言も並べた</li>\n<li>ロシアのTASSは欧州委員長の停戦優先発言、英国BBCはモスクワ側の受け止めに焦点</li>\n<li>米国NPRは欧州の米国防衛依存という構造問題から論じた</li>\n</ul>\n<h2>前半 世界: トルコとカタールの相互防衛協定 — 湾岸の新しい安全保障の枠</h2>\n<ul>\n<li><strong>事実関係の整理</strong>: 11月13日、エルドアン大統領とタミム首長がイスタンブールで署名。武力攻撃への統一対応、合同演習・防衛産業協力の拡大、LNG協力にも言及</li>\n</ul>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・扱い</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>フランス</td>\n<td>France24</td>\n<td>「Turkey and Qatar pledge unified stance against attacks in mutual defence pact」— 8月の「メッカ共同防衛協定」（トルコ・サウジ・パキスタン）を背景に</td>\n</tr>\n<tr>\n<td>中東</td>\n<td>Al Jazeera</td>\n<td>「Qatar and Turkiye send message of deterrence with new defence pact」（動画）</td>\n</tr>\n<tr>\n<td>米・英・中・露・印</td>\n<td>—</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>日本6媒体のカバレッジ</strong>: 6媒体中1媒体（毎日「トルコとカタールが相互防衛協定に署名　中東の安保枠組みに変動」）</li>\n<li><strong>報道差異の要点</strong>:</li>\n<li>France24は地域の協定網の広がりの中に位置づけた</li>\n<li>当事国カタールのAl Jazeeraは「抑止」を題名に掲げた</li>\n<li>毎日は「安保枠組みの変動」として整理した</li>\n</ul>\n<h2>前半 世界: 日本が関わる国際ニュース — APECで高市首相と習主席は会うのか</h2>\n<ul>\n<li><strong>日本政府の発表（11月13日、NHK）</strong>: 高市首相が16日から4日間、フィリピン・中国を訪問し、ASEAN・APEC首脳会議に出席</li>\n<li><strong>Bloomberg（11月9日付、The Star転載）</strong>「Japan works to shield Takaichi from any Xi snub at China's APEC summit」</li>\n<li>2025年11月の首相の台湾発言で関係が悪化して以来、初の対面機会</li>\n<li>APEC首脳会議は深圳で11月18〜19日。日本側は少なくとも握手を期待し、他首脳と同等の扱いを求める</li>\n<li>習主席は先月死去した福田康夫元首相の妻に直接弔意の書簡を送り、首相を飛ばした</li>\n<li>谷口将紀・東京大学教授「中国を不必要に挑発する必要はない」「中国にへりくだる理由もまったくない」</li>\n</ul>\n<h2>前半 世界: 各国固有ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>固有ニュース</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPR</td>\n<td>民主党ヴァンホーレン上院議員がシューマー氏に挑む動き</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>Guardian</td>\n<td>ケイン賞受賞のジンバブエ作家の作品、1か月の調査で「AI不使用」と結論</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>RFI</td>\n<td>パリ同時テロ11年の追悼（犠牲者130人）</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTN</td>\n<td>BBNJ協定事務局のベルギー・チリ誘致案に中国が6つの問題を指摘</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>RT</td>\n<td>ドイツ情報機関の新権限を「Gestapo 2.0?」と見出しに</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>NDTV</td>\n<td>ミシシッピ川でタンカーとクルーズ船（約130人乗船）が衝突</td>\n</tr>\n<tr>\n<td>中東</td>\n<td>Al Jazeera</td>\n<td>教皇レオ14世のペルー訪問、約150万人が歓迎</td>\n</tr>\n</tbody>\n</table>\n<h2>後半 国内: 関文科相のパーティー問題 — 厚労省課長の出席</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>関文科相 パーティーに厚労省課長出席報道 事実関係確認する（11/13 21:15）</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>講師は厚労省課長 バイオ医薬品企業が参加費 実態は企業献金か 規正法違反の疑いも（11/13 09:42）</td>\n</tr>\n<tr>\n<td>朝日・毎日・東京・産経・読売・日経</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>報道差異の要点</strong>:</li>\n<li>NHKは議員会館での開催（衆院内規で禁止）と大臣の「事実関係を確認」を主語にした</li>\n<li>赤旗は参加費の性質（企業献金ではないか）と法令違反の疑いに踏み込んだ</li>\n<li>他6紙は取得枠内で関連見出しなし</li>\n</ul>\n<h2>後半 国内: 国会の日程 — 支援金「勤労者の5割以上」と比例削減の審議入り</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>食料品消費税減税法案 支援金\"勤労者の5割以上の方向で検討\"／高市首相\"支援金対象5割以上\" 野党\"さらなる具体像を\"／比例代表31議席削減法案 与党側が来週の審議入りを提案</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>与党の独裁政治許す比例削減／31削減法案に抗議／田村委員長撤回求める</td>\n</tr>\n<tr>\n<td>朝日・毎日・東京・産経・読売・日経</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>報道差異の要点</strong>:</li>\n<li>NHKは支援金の対象拡大と、野党の一部の賛成への与党の期待を伝えた</li>\n<li>比例削減では、NHKが審議日程、赤旗が撤回要求と抗議を前に出した</li>\n<li>他紙は取得枠内で同テーマの見出しなし</li>\n</ul>\n<h2>後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>米国の責任を問う「原爆民衆法廷」がソウルで開幕 日韓被爆者が証言（11/13）</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>思いやり予算5年で3兆円超要求 米軍駐留経費負担、大幅増へ（11/12）</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>主張/非核三原則見直し/核戦争の危険もたらす暴挙だ／「核持ち込み」を批判 核禁条約会議参加者が会見／参院外防委で安保3文書改定を追及（11/13）</td>\n</tr>\n<tr>\n<td>産経</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n<tr>\n<td>日経</td>\n<td>取得枠内で見当たらず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>報道差異の要点</strong>:</li>\n<li>赤旗は非核三原則の見直しを社説で批判し、核禁条約会議の参加者と国会質疑も並べた</li>\n<li>朝日は原爆投下の責任を問う日韓被爆者の証言の場（ソウル）を伝えた</li>\n<li>東京は在日米軍の駐留経費という同盟のお金の側から報じた</li>\n</ul>\n<h2>後半 国内: 各紙独自ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>独自ニュース</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>茂木外相とベラスコ・メキシコ外相、戦略的関係を議論する有識者会議の早期立ち上げで一致</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>大阪市の行政オンラインシステム利用者のメールアドレス107万件が流出</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>高市首相の答弁は「昭和的」、共働き世代の違和感</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>サッカーU-21日本代表、親善試合でスペインに敗れる</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>日本共産党第30回大会議案の解説</td>\n</tr>\n<tr>\n<td>産経</td>\n<td>独メルセデス・ベンツグループが国内投資を「全面凍結」、一部工場閉鎖を検討と現地報道</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>日本産科婦人科学会などが「異常分娩」の用語見直しを提言</td>\n</tr>\n<tr>\n<td>日経</td>\n<td>「日本式」自動運転タクシーの想定運賃は有人と同程度</td>\n</tr>\n</tbody>\n</table>\n<h2>まとめ</h2>\n<ul>\n<li>ご視聴ありがとうございました。また明日。</li>\n</ul>\n<h2>参考ソース</h2>\n<ul>\n<li><a href=\"https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports\">NPR: FAA issues nationwide ground stop for all U.S. airports</a></li>\n<li><a href=\"https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue\">France24: US flight authority orders national ground stop</a></li>\n<li><a href=\"https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue\">Al Jazeera: FAA grounds US flights nationwide after 'communication issue'</a></li>\n<li><a href=\"https://rt-english.com/news/648824-us-grounds-fligghts-nationwide/\">RT: US grounds departing flights nationwide</a></li>\n<li><a href=\"https://tass.com/emergencies/2218053\">TASS: Nearly 7,000 flights delayed or canceled in US</a></li>\n<li><a href=\"https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms\">Times of India: 'Extraordinary circumstances': US grounds all departing flights</a></li>\n<li><a href=\"https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589\">NDTV: US Flight Shutdown Live Updates</a></li>\n<li><a href=\"https://mainichi.jp/articles/20261114/k00/00m/030/001000c\">毎日: 全米の航空機に離陸禁止命令</a></li>\n<li><a href=\"https://news.web.nhk/newsweb/na/nd-20261114de75764\">NHK: アメリカ全土の空港で航空機運航停止</a></li>\n<li>日経: 全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表（2026-11-14）</li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/c6rrg51rkz09o\">BBC: Microsoft 'deeply sorry' for global outage</a></li>\n<li><a href=\"https://timesofindia.indiatimes.com/business/international-business/ms-364-outlook-teams-disrupted-for-nearly-a-day/articleshow/135816513.cms\">Times of India: 'MS 364': Outlook, Teams disrupted for nearly a day</a></li>\n<li>読売・日経・産経・東京・NHK: マイクロソフト大規模障害関連（2026-11-13〜14）</li>\n<li><a href=\"https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks\">France24: France among five major powers to represent EU in Ukraine talks</a></li>\n<li><a href=\"https://tass.com/world/2218045\">TASS: Ceasefire to be EU's priority at Ukraine talks</a></li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cq39glwprknjo\">BBC: Uncompromising Putin ups demands for peace with Ukraine</a></li>\n<li><a href=\"https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense\">NPR: Does Europe regret its bet on U.S. defense?</a></li>\n<li>読売: ［深層ＮＥＷＳ］ウクライナ3者協議（2026-11-14）</li>\n<li><a href=\"https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact\">France24: Turkey and Qatar pledge unified stance in mutual defence pact</a></li>\n<li><a href=\"https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact\">Al Jazeera: Qatar and Turkiye send message of deterrence</a></li>\n<li><a href=\"https://mainichi.jp/articles/20261114/k00/00m/030/010000c\">毎日: トルコとカタールが相互防衛協定に署名</a></li>\n<li><a href=\"https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/japan-works-to-shield-takaichi-from-any-xi-snub-at-china039s-apec-summit\">Bloomberg（The Star転載）: Japan works to shield Takaichi from any Xi snub</a></li>\n<li><a href=\"https://news.web.nhk/newsweb/na/nd-20261113de75237\">NHK: 高市首相 フィリピン・中国訪問へ</a></li>\n<li><a href=\"https://news.web.nhk/newsweb/na/nd-20261113de75687\">NHK: 関文科相 パーティーに厚労省課長出席報道</a></li>\n<li>赤旗: 講師は厚労省課長 実態は企業献金か（2026-11-13）</li>\n<li><a href=\"https://news.web.nhk/newsweb/na/nd-20261113de75691\">NHK: 支援金\"勤労者の5割以上の方向で検討\"</a></li>\n<li><a href=\"https://news.web.nhk/newsweb/na/nd-20261114de75743\">NHK: 高市首相\"支援金対象5割以上\" 野党\"さらなる具体像を\"</a></li>\n<li><a href=\"https://news.web.nhk/newsweb/na/nd-20261113de75610\">NHK: 比例代表31議席削減法案 与党側が来週の審議入りを提案</a></li>\n<li>赤旗: 与党の独裁政治許す比例削減（2026-11-13）</li>\n<li>赤旗: 主張/非核三原則見直し／「核持ち込み」を批判（2026-11-13）</li>\n<li>朝日: 米国の責任を問う「原爆民衆法廷」がソウルで開幕（2026-11-13）</li>\n<li>東京: 思いやり予算5年で3兆円超要求（2026-11-12）</li>\n</ul>",
+        "title": "全米の離陸停止、原因を誰の言葉で伝えた？【7カ国メディア比較 2026/11/14】",
+        "markdownSource": "# 世界と日本のメディア比較（2026年11月14日）\n\n- **対象日**: 2026年11月14日\n- **取得・確認時刻**: 2026年11月14日 朝（日本時間。直近48時間以内の公開記事を対象）\n- **前半確認媒体・件数**: 米国 NPR/CNN 12件、英国 BBC/The Guardian 12件、フランス France24/RFI 12件、中国 CGTN 12件、ロシア TASS/RT 12件、インド Times of India/NDTV 12件、アルゼンチン枠 Al Jazeera 6件\n- **後半確認媒体・件数**: NHK・朝日・毎日・東京・赤旗・産経・読売・日経 各12件。※取得枠内の件数であり、枠外記事の存在を排除しない。「見当たらず」は取得枠内での結果。BBC・NDTV・Times of India と国内紙の一部は見出し・要約のみ確認。\n\n## オープニング：2026年11月14日 — 世界と日本のメディア比較\n\n- **2026年11月14日の主要論点**:\n  - 米FAAの全国離陸停止 — 原因の説明を各国は誰の言葉で伝えたか\n  - マイクロソフト大規模障害、ウクライナ協議の欧州外交団、トルコ・カタール防衛協定\n  - 後半: 関文科相のパーティー問題、支援金と比例削減の国会日程、非核三原則（継続特集）\n\n## 前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか\n\n- **事実関係の整理**:\n  - 11月13日、米東部時間15時54分、FAAが全米の空港で出発便の全国離陸停止\n  - ダフィー運輸長官「すべての航空路管制センターに影響する通信の問題」\n  - FlightAware調べで約7,000便が遅延・欠航。全国停止は2023年1月以来（その前は2001年同時多発テロ後）\n  - 同日、FAAとホワイトハウスが管制刷新費301億ドルの追加を議会に要請（議会は昨年125億ドルを承認済み）\n\n| 国 | 媒体 | 見出し・扱い |\n|---|---|---|\n| 米国 | NPR | 「FAA issues nationwide ground stop for all U.S. airports」（CNNは取得枠内で見当たらず） |\n| 英国 | BBC/Guardian | 取得枠内で見当たらず |\n| フランス | France24（Reuters） | 「US flight authority orders national ground stop over air traffic control 'communication issue'」— 老朽設備・管制官不足など管制の負担の表れ |\n| 中国 | CGTN | 取得枠内で見当たらず |\n| ロシア | RT／TASS | RT「US grounds departing flights nationwide」— CNN経由の当局者「サイバー攻撃ではない」、ミュリン長官、AI経路最適化「SMART」を並置（関与は未確定と明記）／TASS「Nearly 7,000 flights delayed or canceled」 |\n| インド | NDTV／Times of India | NDTV「'This Isn't Another 9/11'」／TOI「'Extraordinary circumstances': … over safety concerns」 |\n| 中東 | Al Jazeera | 「FAA grounds US flights nationwide after 'communication issue'」— ダフィー長官の投稿と301億ドル要請を並べる |\n\n- **日本6媒体のカバレッジ**: 6媒体中3媒体（NHK・毎日・日経）。朝日・読売・産経は取得枠内で見当たらず\n  - NHK「アメリカ全土の空港で航空機運航停止『通信の問題』」\n  - 毎日「全米の航空機に離陸禁止命令、混乱拡大か　管制機能に通信障害」\n  - 日経「全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表」\n- **報道差異の要点**:\n  - RTは原因について法執行当局者・国土安全保障長官の発言まで集め、AIシステム導入や他国の管制トラブルを並べた\n  - France24・Al Jazeeraは説明をダフィー長官に限り、刷新予算の要請と管制の負担を軸にした。TASSは数字のみの短報\n  - インドNDTVは「9.11ではない」を見出しに採用。日本は「運航停止」「離陸禁止命令」「通信障害と当局発表」と措置と原因の書き方が分かれた\n\n## 前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに\n\n- **事実関係の整理**: 11月12〜13日、Outlook・Teams などが約24時間にわたり障害。マイクロソフトは日本時間14日午前3時すぎ「広範囲にわたる復旧がみられる」と投稿\n\n| 国 | 媒体 | 見出し・扱い |\n|---|---|---|\n| 英国 | BBC | 「Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption」— 少数の巨大テックへの依存（専門家） |\n| インド | Times of India | 「'MS 364': Outlook, Teams disrupted for nearly a day」— 企業がSlack・Zoomへ切り替え |\n\n- **日本6媒体のカバレッジ**: 6媒体中4媒体（NHK・産経・読売・日経）。朝日・毎日は取得枠内で見当たらず。東京も報道\n  - 読売「全面復旧のメドは不明…日本政府のネットワークにも影響」\n  - 日経「日本政府の情報システム基盤にも支障 尾崎副長官」「市場ではFAX活用 投信で基準価格公表に遅れも」\n  - 産経「世界のメール、AIに影響」／東京「74カ国・地域に混乱拡大」／NHK「『広範囲にわたる復旧がみられる』」\n- **報道差異の要点**:\n  - 英国は巨大テック依存という構図を前面に出した\n  - インドは見出しを「MS 364」とし、企業の代替手段に焦点\n  - 日本は政府システムと市場（FAX・投信）の国内実害を先に置いた\n\n## 前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか\n\n- **事実関係の整理**: 11月13日、コスタ欧州理事会議長が、次のウクライナ協議にEU外交官と英・仏・独・伊・ポーランドの代表を派遣すると表明\n\n| 国 | 媒体 | 見出し・扱い |\n|---|---|---|\n| 米国 | NPR | 「Does Europe regret its bet on U.S. defense?」— 米国防衛技術への依存と納入遅れ |\n| 英国 | BBC | 「Uncompromising Putin ups demands for peace with Ukraine」— 欧州安保が議題入りしたこと自体がモスクワでは勝利（ロシア担当編集長） |\n| フランス | France24 | 「France among five major powers to represent EU in Ukraine talks」— マクロン「もはや米国の支援はない」、クシュナー、トゥスク、ペスコフ、カラスの発言 |\n| ロシア | TASS | 「Ceasefire to be EU's priority at Ukraine talks — von der Leyen」— 第22次対露制裁を早期提示 |\n| 中国・インド・中東 | — | 取得枠内で見当たらず |\n\n- **日本6媒体のカバレッジ**: 読売の識者解説（「米国は自国の仲介で和平進んだとアピール」小谷哲男教授）のみ。他5媒体は取得枠内で見当たらず\n- **報道差異の要点**:\n  - フランスは自国が5大国の一角に入ったことを見出しにし、欧州内の不協和音の発言も並べた\n  - ロシアのTASSは欧州委員長の停戦優先発言、英国BBCはモスクワ側の受け止めに焦点\n  - 米国NPRは欧州の米国防衛依存という構造問題から論じた\n\n## 前半 世界: トルコとカタールの相互防衛協定 — 湾岸の新しい安全保障の枠\n\n- **事実関係の整理**: 11月13日、エルドアン大統領とタミム首長がイスタンブールで署名。武力攻撃への統一対応、合同演習・防衛産業協力の拡大、LNG協力にも言及\n\n| 国 | 媒体 | 見出し・扱い |\n|---|---|---|\n| フランス | France24 | 「Turkey and Qatar pledge unified stance against attacks in mutual defence pact」— 8月の「メッカ共同防衛協定」（トルコ・サウジ・パキスタン）を背景に |\n| 中東 | Al Jazeera | 「Qatar and Turkiye send message of deterrence with new defence pact」（動画） |\n| 米・英・中・露・印 | — | 取得枠内で見当たらず |\n\n- **日本6媒体のカバレッジ**: 6媒体中1媒体（毎日「トルコとカタールが相互防衛協定に署名　中東の安保枠組みに変動」）\n- **報道差異の要点**:\n  - France24は地域の協定網の広がりの中に位置づけた\n  - 当事国カタールのAl Jazeeraは「抑止」を題名に掲げた\n  - 毎日は「安保枠組みの変動」として整理した\n\n## 前半 世界: 日本が関わる国際ニュース — APECで高市首相と習主席は会うのか\n\n- **日本政府の発表（11月13日、NHK）**: 高市首相が16日から4日間、フィリピン・中国を訪問し、ASEAN・APEC首脳会議に出席\n- **Bloomberg（11月9日付、The Star転載）**「Japan works to shield Takaichi from any Xi snub at China's APEC summit」\n  - 2025年11月の首相の台湾発言で関係が悪化して以来、初の対面機会\n  - APEC首脳会議は深圳で11月18〜19日。日本側は少なくとも握手を期待し、他首脳と同等の扱いを求める\n  - 習主席は先月死去した福田康夫元首相の妻に直接弔意の書簡を送り、首相を飛ばした\n  - 谷口将紀・東京大学教授「中国を不必要に挑発する必要はない」「中国にへりくだる理由もまったくない」\n\n## 前半 世界: 各国固有ニュース\n\n| 国 | 媒体 | 固有ニュース |\n|---|---|---|\n| 米国 | NPR | 民主党ヴァンホーレン上院議員がシューマー氏に挑む動き |\n| 英国 | Guardian | ケイン賞受賞のジンバブエ作家の作品、1か月の調査で「AI不使用」と結論 |\n| フランス | RFI | パリ同時テロ11年の追悼（犠牲者130人） |\n| 中国 | CGTN | BBNJ協定事務局のベルギー・チリ誘致案に中国が6つの問題を指摘 |\n| ロシア | RT | ドイツ情報機関の新権限を「Gestapo 2.0?」と見出しに |\n| インド | NDTV | ミシシッピ川でタンカーとクルーズ船（約130人乗船）が衝突 |\n| 中東 | Al Jazeera | 教皇レオ14世のペルー訪問、約150万人が歓迎 |\n\n## 後半 国内: 関文科相のパーティー問題 — 厚労省課長の出席\n\n| 媒体 | 見出し |\n|---|---|\n| NHK | 関文科相 パーティーに厚労省課長出席報道 事実関係確認する（11/13 21:15） |\n| 赤旗 | 講師は厚労省課長 バイオ医薬品企業が参加費 実態は企業献金か 規正法違反の疑いも（11/13 09:42） |\n| 朝日・毎日・東京・産経・読売・日経 | 取得枠内で見当たらず |\n\n- **報道差異の要点**:\n  - NHKは議員会館での開催（衆院内規で禁止）と大臣の「事実関係を確認」を主語にした\n  - 赤旗は参加費の性質（企業献金ではないか）と法令違反の疑いに踏み込んだ\n  - 他6紙は取得枠内で関連見出しなし\n\n## 後半 国内: 国会の日程 — 支援金「勤労者の5割以上」と比例削減の審議入り\n\n| 媒体 | 見出し |\n|---|---|\n| NHK | 食料品消費税減税法案 支援金\"勤労者の5割以上の方向で検討\"／高市首相\"支援金対象5割以上\" 野党\"さらなる具体像を\"／比例代表31議席削減法案 与党側が来週の審議入りを提案 |\n| 赤旗 | 与党の独裁政治許す比例削減／31削減法案に抗議／田村委員長撤回求める |\n| 朝日・毎日・東京・産経・読売・日経 | 取得枠内で見当たらず |\n\n- **報道差異の要点**:\n  - NHKは支援金の対象拡大と、野党の一部の賛成への与党の期待を伝えた\n  - 比例削減では、NHKが審議日程、赤旗が撤回要求と抗議を前に出した\n  - 他紙は取得枠内で同テーマの見出しなし\n\n## 後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」\n\n| 媒体 | 見出し |\n|---|---|\n| NHK | 取得枠内で見当たらず |\n| 朝日 | 米国の責任を問う「原爆民衆法廷」がソウルで開幕 日韓被爆者が証言（11/13） |\n| 毎日 | 取得枠内で見当たらず |\n| 東京 | 思いやり予算5年で3兆円超要求 米軍駐留経費負担、大幅増へ（11/12） |\n| 赤旗 | 主張/非核三原則見直し/核戦争の危険もたらす暴挙だ／「核持ち込み」を批判 核禁条約会議参加者が会見／参院外防委で安保3文書改定を追及（11/13） |\n| 産経 | 取得枠内で見当たらず |\n| 読売 | 取得枠内で見当たらず |\n| 日経 | 取得枠内で見当たらず |\n\n- **報道差異の要点**:\n  - 赤旗は非核三原則の見直しを社説で批判し、核禁条約会議の参加者と国会質疑も並べた\n  - 朝日は原爆投下の責任を問う日韓被爆者の証言の場（ソウル）を伝えた\n  - 東京は在日米軍の駐留経費という同盟のお金の側から報じた\n\n## 後半 国内: 各紙独自ニュース\n\n| 媒体 | 独自ニュース |\n|---|---|\n| NHK | 茂木外相とベラスコ・メキシコ外相、戦略的関係を議論する有識者会議の早期立ち上げで一致 |\n| 朝日 | 大阪市の行政オンラインシステム利用者のメールアドレス107万件が流出 |\n| 毎日 | 高市首相の答弁は「昭和的」、共働き世代の違和感 |\n| 東京 | サッカーU-21日本代表、親善試合でスペインに敗れる |\n| 赤旗 | 日本共産党第30回大会議案の解説 |\n| 産経 | 独メルセデス・ベンツグループが国内投資を「全面凍結」、一部工場閉鎖を検討と現地報道 |\n| 読売 | 日本産科婦人科学会などが「異常分娩」の用語見直しを提言 |\n| 日経 | 「日本式」自動運転タクシーの想定運賃は有人と同程度 |\n\n## まとめ\n\n- ご視聴ありがとうございました。また明日。\n\n## 参考ソース\n\n- [NPR: FAA issues nationwide ground stop for all U.S. airports](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\n- [France24: US flight authority orders national ground stop](https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue)\n- [Al Jazeera: FAA grounds US flights nationwide after 'communication issue'](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue)\n- [RT: US grounds departing flights nationwide](https://rt-english.com/news/648824-us-grounds-fligghts-nationwide/)\n- [TASS: Nearly 7,000 flights delayed or canceled in US](https://tass.com/emergencies/2218053)\n- [Times of India: 'Extraordinary circumstances': US grounds all departing flights](https://timesofindia.indiatimes.com/business/international-business/extraordinary-circumstances-us-grounds-all-departing-flights-over-safety-concerns/articleshow/135816386.cms)\n- [NDTV: US Flight Shutdown Live Updates](https://www.ndtv.com/world-news/us-flight-shutdown-live-updates-flights-halted-at-airports-across-us-due-to-air-traffic-control-communications-problems-12324589)\n- [毎日: 全米の航空機に離陸禁止命令](https://mainichi.jp/articles/20261114/k00/00m/030/001000c)\n- [NHK: アメリカ全土の空港で航空機運航停止](https://news.web.nhk/newsweb/na/nd-20261114de75764)\n- 日経: 全米の空港で航空機離陸を緊急停止 大規模通信障害と当局が発表（2026-11-14）\n- [BBC: Microsoft 'deeply sorry' for global outage](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o)\n- [Times of India: 'MS 364': Outlook, Teams disrupted for nearly a day](https://timesofindia.indiatimes.com/business/international-business/ms-364-outlook-teams-disrupted-for-nearly-a-day/articleshow/135816513.cms)\n- 読売・日経・産経・東京・NHK: マイクロソフト大規模障害関連（2026-11-13〜14）\n- [France24: France among five major powers to represent EU in Ukraine talks](https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks)\n- [TASS: Ceasefire to be EU's priority at Ukraine talks](https://tass.com/world/2218045)\n- [BBC: Uncompromising Putin ups demands for peace with Ukraine](https://www.bbc.co.uk/news/articles/cq39glwprknjo)\n- [NPR: Does Europe regret its bet on U.S. defense?](https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense)\n- 読売: ［深層ＮＥＷＳ］ウクライナ3者協議（2026-11-14）\n- [France24: Turkey and Qatar pledge unified stance in mutual defence pact](https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact)\n- [Al Jazeera: Qatar and Turkiye send message of deterrence](https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact)\n- [毎日: トルコとカタールが相互防衛協定に署名](https://mainichi.jp/articles/20261114/k00/00m/030/010000c)\n- [Bloomberg（The Star転載）: Japan works to shield Takaichi from any Xi snub](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/japan-works-to-shield-takaichi-from-any-xi-snub-at-china039s-apec-summit)\n- [NHK: 高市首相 フィリピン・中国訪問へ](https://news.web.nhk/newsweb/na/nd-20261113de75237)\n- [NHK: 関文科相 パーティーに厚労省課長出席報道](https://news.web.nhk/newsweb/na/nd-20261113de75687)\n- 赤旗: 講師は厚労省課長 実態は企業献金か（2026-11-13）\n- [NHK: 支援金\"勤労者の5割以上の方向で検討\"](https://news.web.nhk/newsweb/na/nd-20261113de75691)\n- [NHK: 高市首相\"支援金対象5割以上\" 野党\"さらなる具体像を\"](https://news.web.nhk/newsweb/na/nd-20261114de75743)\n- [NHK: 比例代表31議席削減法案 与党側が来週の審議入りを提案](https://news.web.nhk/newsweb/na/nd-20261113de75610)\n- 赤旗: 与党の独裁政治許す比例削減（2026-11-13）\n- 赤旗: 主張/非核三原則見直し／「核持ち込み」を批判（2026-11-13）\n- 朝日: 米国の責任を問う「原爆民衆法廷」がソウルで開幕（2026-11-13）\n- 東京: 思いやり予算5年で3兆円超要求（2026-11-12）\n",
+        "timeline": {
+          "version": 1,
+          "source": "tts_voicevox",
+          "fps": 30,
+          "totalFrames": 22974,
+          "audioDurationSec": 765.796667,
+          "cues": [
+            {
+              "speaker": "A",
+              "text": "2026年11月14日の「世界と日本のメディア比較」なのだ！今日はアメリカ全土の空港で離陸が止まった件を、各国が誰の言葉で伝えたかから始めるのだ。",
+              "section": "オープニング：2026年11月14日 — 世界と日本のメディア比較",
+              "startFrame": 18,
+              "endFrame": 447
+            },
+            {
+              "speaker": "B",
+              "text": "続いてマイクロソフトの大規模障害、ウクライナ協議に加わる欧州の外交団、トルコとカタールの防衛協定よ。後半は国内紙で、文科相のパーティー問題や非核三原則を比べるわ。",
+              "section": "オープニング：2026年11月14日 — 世界と日本のメディア比較",
+              "startFrame": 455,
+              "endFrame": 865
+            },
+            {
+              "speaker": "A",
+              "text": "米東部時間の13日午後4時前、連邦航空局がアメリカ全土の空港で、出発便をすべて止める措置をとったのだ。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 883,
+              "endFrame": 1191
+            },
+            {
+              "speaker": "B",
+              "text": "ダフィー運輸長官は「すべての航空路管制センターに影響する通信の問題」と説明したわ。全国規模の停止は2023年1月以来で、その前は2001年の同時多発テロの後なの。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 1199,
+              "endFrame": 1633
+            },
+            {
+              "speaker": "A",
+              "text": "フライトアウェアの集計では、約7000便が遅れるか欠航したのだ。ロシアのタス通信は、この数字だけを短く速報したのだ。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 1641,
+              "endFrame": 1957
+            },
+            {
+              "speaker": "B",
+              "text": "同じロシアのRTは、原因をめぐる発言を一番多く集めたわ。CNNが取材した法執行当局者2人の「サイバー攻撃ではない」という話も引いたの。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 1964,
+              "endFrame": 2332
+            },
+            {
+              "speaker": "A",
+              "text": "ミュリン国土安全保障長官の「電気通信の障害で、不正行為は想定していない」という言葉も載せたのだ。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 2339,
+              "endFrame": 2627
+            },
+            {
+              "speaker": "B",
+              "text": "そのうえでRTは、数日前に全国導入が発表されたAIの経路最適化システムを並べたわ。関与は未確定と書きつつ、英国やギリシャ、イタリアの管制トラブルも列挙したの。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 2635,
+              "endFrame": 3034
+            },
+            {
+              "speaker": "A",
+              "text": "RTとは逆に、中東のアルジャジーラとフランス24は、原因の説明をダフィー長官の言葉に限ったのだ。同じ日に政府が議会へ、管制の刷新費を301億ドル追加で求めたことを並べたのだ。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 3042,
+              "endFrame": 3562
+            },
+            {
+              "speaker": "B",
+              "text": "フランス24は、老朽化した設備や管制官不足など、米国の管制が抱える負担の表れとして描いたわ。2023年の停止は2時間足らずで解けたことも添えているの。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 3570,
+              "endFrame": 3955
+            },
+            {
+              "speaker": "A",
+              "text": "インドのNDTVは、見出しに「これは新たな9.11ではない」という言葉を掲げたのだ。タイムズ・オブ・インディアは「安全上の懸念」を見出しにしたのだ。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 3962,
+              "endFrame": 4396
+            },
+            {
+              "speaker": "B",
+              "text": "日本6媒体ではNHK・毎日・日経の3つが14日朝に報じたわ。毎日は「離陸禁止命令」、NHKは「運航停止」と書き、日経は「大規模通信障害と当局が発表」と原因の側を見出しに置いたの。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 4403,
+              "endFrame": 4970
+            },
+            {
+              "speaker": "A",
+              "text": "取得した記事の中では、英国のBBCとガーディアン、中国のCGTNに、この件の記事は見当たらなかったのだ。",
+              "section": "前半 世界: 米FAAの全国離陸停止 — 「原因」を誰の言葉で語ったか",
+              "startFrame": 4978,
+              "endFrame": 5277
+            },
+            {
+              "speaker": "B",
+              "text": "マイクロソフトのメールや会議ソフトが、12日から13日にかけて丸1日近く使えなくなったわ。",
+              "section": "前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに",
+              "startFrame": 5295,
+              "endFrame": 5504
+            },
+            {
+              "speaker": "A",
+              "text": "英国のBBCは「マイクロソフトが深く謝罪」と見出しにしたのだ。世界が少数の巨大テック企業にどれだけ頼っているかを突きつけた、という専門家の指摘も伝えたのだ。",
+              "section": "前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに",
+              "startFrame": 5511,
+              "endFrame": 5929
+            },
+            {
+              "speaker": "B",
+              "text": "インドのタイムズ・オブ・インディアは見出しで「MS364」と書いたわ。多くの企業がスラックやズームに切り替えたとしているの。",
+              "section": "前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに",
+              "startFrame": 5936,
+              "endFrame": 6243
+            },
+            {
+              "speaker": "A",
+              "text": "日本では日経が、尾崎官房副長官の話として、政府の情報システム基盤にも支障が出たと報じたのだ。読売も日本政府のネットワークへの影響を見出しに入れたのだ。",
+              "section": "前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに",
+              "startFrame": 6251,
+              "endFrame": 6683
+            },
+            {
+              "speaker": "B",
+              "text": "日経は、市場ではファクスが使われ、投資信託の基準価格の公表の遅れにもふれたわ。産経は「世界のメール、AIに影響」、東京は「74カ国・地域に混乱拡大」と広がりを見出しにしたの。",
+              "section": "前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに",
+              "startFrame": 6691,
+              "endFrame": 7178
+            },
+            {
+              "speaker": "A",
+              "text": "NHKは、日本時間14日午前3時すぎにマイクロソフトが「広範囲にわたる復旧がみられる」と投稿したと伝えたのだ。英国は依存の構図を、日本の新聞は役所と市場の実害を先に書いたのだ。",
+              "section": "前半 世界: マイクロソフト大規模障害 — 英国は依存を、日本は政府と市場を見出しに",
+              "startFrame": 7186,
+              "endFrame": 7710
+            },
+            {
+              "speaker": "B",
+              "text": "13日、欧州理事会のコスタ議長は、次のウクライナ協議にEUの外交官と、英・仏・独・伊・ポーランドの代表を送ると表明したわ。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 7728,
+              "endFrame": 8127
+            },
+            {
+              "speaker": "A",
+              "text": "フランス24は「フランスは欧州を代表する5大国の一つ」と見出しにしたのだ。マクロン大統領の「もはや米国の支援はない」という言葉も載せたのだ。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 8134,
+              "endFrame": 8528
+            },
+            {
+              "speaker": "B",
+              "text": "米国のクシュナー特使の「欧州が席にいなければ合意はできない」という発言も並べたわ。一方で、ポーランドの首相は「交渉と呼ぶのは誇張だ」と冷ややかなの。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 8535,
+              "endFrame": 8895
+            },
+            {
+              "speaker": "A",
+              "text": "同じ記事で、ロシアのペスコフ報道官は欧州を「瓶の中のクモのように言い争う」と評したのだ。なかなか辛らつなのだ。カラス外交安全保障上級代表は「欧州を代表するのは私だ」と述べたのだ。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 8903,
+              "endFrame": 9439
+            },
+            {
+              "speaker": "B",
+              "text": "ロシアのタス通信は、フォンデアライエン欧州委員長の「停戦が優先」という発言と、22回目の対ロシア制裁を早く示す方針を伝えたわ。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 9447,
+              "endFrame": 9792
+            },
+            {
+              "speaker": "A",
+              "text": "英国のBBCのロシア担当編集長は、欧州の安全保障が議題に入ったこと自体が、モスクワでは勝利とみなされていると書いたのだ。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 9800,
+              "endFrame": 10134
+            },
+            {
+              "speaker": "B",
+              "text": "日本6媒体では、読売が識者の解説で「米国は自国の仲介で和平が進んだとアピール」という見方を載せた程度だったわ。",
+              "section": "前半 世界: ウクライナ協議に欧州5カ国とEU — 「一つの声」はそろうのか",
+              "startFrame": 10141,
+              "endFrame": 10433
+            },
+            {
+              "speaker": "A",
+              "text": "13日、トルコのエルドアン大統領とカタールのタミム首長が、イスタンブールで相互防衛協定に署名したのだ。",
+              "section": "前半 世界: トルコとカタールの相互防衛協定 — 湾岸の新しい安全保障の枠",
+              "startFrame": 10451,
+              "endFrame": 10726
+            },
+            {
+              "speaker": "B",
+              "text": "共同声明では、どちらかが武力攻撃を受けたら統一して対応し、合同演習や防衛産業の協力も広げるの。エルドアン氏は「湾岸で戦争が再燃するのを防ぐ」と述べたわ。",
+              "section": "前半 世界: トルコとカタールの相互防衛協定 — 湾岸の新しい安全保障の枠",
+              "startFrame": 10734,
+              "endFrame": 11144
+            },
+            {
+              "speaker": "A",
+              "text": "フランス24は、トルコが8月にサウジアラビア、パキスタンと結んだ「メッカ共同防衛協定」を背景に挙げたのだ。トルコはそれを特定の国に向けたものではないとしているのだ。",
+              "section": "前半 世界: トルコとカタールの相互防衛協定 — 湾岸の新しい安全保障の枠",
+              "startFrame": 11151,
+              "endFrame": 11601
+            },
+            {
+              "speaker": "B",
+              "text": "カタールに本拠を置くアルジャジーラは「抑止のメッセージ」と題した動画で伝えたわ。日本6媒体では毎日だけが「中東の安保枠組みに変動」と報じたの。",
+              "section": "前半 世界: トルコとカタールの相互防衛協定 — 湾岸の新しい安全保障の枠",
+              "startFrame": 11609,
+              "endFrame": 11962
+            },
+            {
+              "speaker": "A",
+              "text": "日本政府は13日、高市首相が16日から4日間、フィリピンと中国を訪ね、ASEANとAPECの首脳会議に出ると発表したのだ。",
+              "section": "前半 世界: 日本が関わる国際ニュース — APECで高市首相と習主席は会うのか",
+              "startFrame": 11980,
+              "endFrame": 12346
+            },
+            {
+              "speaker": "B",
+              "text": "米国のブルームバーグは9日付で、日本が首相の冷遇を防ごうとしていると報じたわ。台湾をめぐる昨年の首相発言で関係が悪化してから、習主席と初めて顔を合わせる場なの。",
+              "section": "前半 世界: 日本が関わる国際ニュース — APECで高市首相と習主席は会うのか",
+              "startFrame": 12353,
+              "endFrame": 12749
+            },
+            {
+              "speaker": "A",
+              "text": "日本は少なくとも握手を期待し、他の首脳と同じ扱いを求めているのだ。習近平主席は、先月亡くなった福田康夫元首相の妻へ、首相を飛ばして直接お悔やみの書簡を送ったそうなのだ。",
+              "section": "前半 世界: 日本が関わる国際ニュース — APECで高市首相と習主席は会うのか",
+              "startFrame": 12757,
+              "endFrame": 13241
+            },
+            {
+              "speaker": "B",
+              "text": "東京大学の谷口将紀教授は「不必要に中国を挑発する必要はない」としつつ、「中国にへりくだる理由もまったくない」と語っているわ。",
+              "section": "前半 世界: 日本が関わる国際ニュース — APECで高市首相と習主席は会うのか",
+              "startFrame": 13249,
+              "endFrame": 13572
+            },
+            {
+              "speaker": "A",
+              "text": "米国のNPRは、民主党のヴァンホーレン上院議員が、シューマー氏に挑む動きを取り上げたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13590,
+              "endFrame": 13836
+            },
+            {
+              "speaker": "B",
+              "text": "英国のガーディアンは、ケイン賞を受けたジンバブエの作家の作品について、1か月の調査で「AIは使われていない」と結論が出たと報じたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13843,
+              "endFrame": 14168
+            },
+            {
+              "speaker": "A",
+              "text": "フランスのRFIは、130人が犠牲になったパリ同時テロから11年の追悼を伝えたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 14176,
+              "endFrame": 14422
+            },
+            {
+              "speaker": "B",
+              "text": "中国のCGTNは、公海の生物多様性協定の事務局をベルギーとチリが誘致する案に、中国が6つの問題を指摘したと報じたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 14430,
+              "endFrame": 14743
+            },
+            {
+              "speaker": "A",
+              "text": "ロシアのRTは、ドイツの情報機関に新しい権限を与える動きを「ゲシュタポ2.0か」と見出しにしたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 14750,
+              "endFrame": 15037
+            },
+            {
+              "speaker": "B",
+              "text": "インドのNDTVは、ミシシッピ川でタンカーと約130人が乗るクルーズ船が衝突した事故を報じたわ。アルジャジーラは、ペルーを訪れたローマ教皇レオ14世を約150万人が迎えたと伝えたの。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 15044,
+              "endFrame": 15485
+            },
+            {
+              "speaker": "A",
+              "text": "ここからは国内8紙の比較なのだ。関文部科学大臣が代表の自民党支部が、衆院の内規で禁じられた議員会館で政治資金パーティーを開いていたのだ。",
+              "section": "後半 国内: 関文科相のパーティー問題 — 厚労省課長の出席",
+              "startFrame": 15503,
+              "endFrame": 15884
+            },
+            {
+              "speaker": "B",
+              "text": "NHKは13日夜、厚生労働省の課長が講師で出席し、利害関係のある人物が会費を払って参加したという一部報道を伝えたわ。大臣は事実関係を確認すると表明したの。",
+              "section": "後半 国内: 関文科相のパーティー問題 — 厚労省課長の出席",
+              "startFrame": 15892,
+              "endFrame": 16326
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗は13日朝、見出しで「講師は厚労省課長」と書き、バイオ医薬品企業の参加費は実態は企業献金か、政治資金規正法違反の疑いもあると踏み込んだのだ。",
+              "section": "後半 国内: 関文科相のパーティー問題 — 厚労省課長の出席",
+              "startFrame": 16333,
+              "endFrame": 16795
+            },
+            {
+              "speaker": "B",
+              "text": "NHKは大臣の対応を主語にし、赤旗はお金の性質を問うたわ。取得した記事の中では、ほかの6紙に関連の見出しは見当たらなかったの。",
+              "section": "後半 国内: 関文科相のパーティー問題 — 厚労省課長の出席",
+              "startFrame": 16803,
+              "endFrame": 17109
+            },
+            {
+              "speaker": "B",
+              "text": "食料品の消費税減税法案をめぐり、高市首相は13日、所得に応じた支援金の対象を勤労者の5割以上とする方向で検討すると答弁したわ。",
+              "section": "後半 国内: 国会の日程 — 支援金「勤労者の5割以上」と比例削減の審議入り",
+              "startFrame": 17127,
+              "endFrame": 17482
+            },
+            {
+              "speaker": "A",
+              "text": "NHKによると、与党からは野党の一部が賛成に回ることへの期待が出ているのだ。野党側は、さらに具体的な姿を示すよう求めているのだ。",
+              "section": "後半 国内: 国会の日程 — 支援金「勤労者の5割以上」と比例削減の審議入り",
+              "startFrame": 17489,
+              "endFrame": 17860
+            },
+            {
+              "speaker": "B",
+              "text": "比例代表で31議席を減らす法案では、与党側が13日、衆院の特別委員会の理事会で来週の審議入りを提案したわ。",
+              "section": "後半 国内: 国会の日程 — 支援金「勤労者の5割以上」と比例削減の審議入り",
+              "startFrame": 17867,
+              "endFrame": 18174
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗は同じ日、田村委員長が法案の撤回を求めたと報じ、「与党の独裁政治許す比例削減」と見出しに掲げたのだ。NHKは日程を、赤旗は抗議を前に出したのだ。",
+              "section": "後半 国内: 国会の日程 — 支援金「勤労者の5割以上」と比例削減の審議入り",
+              "startFrame": 18182,
+              "endFrame": 18655
+            },
+            {
+              "speaker": "A",
+              "text": "継続特集なのだ。赤旗は13日の主張で、非核三原則の見直しを「核戦争の危険もたらす暴挙だ」と書いたのだ。",
+              "section": "後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」",
+              "startFrame": 18673,
+              "endFrame": 18993
+            },
+            {
+              "speaker": "B",
+              "text": "赤旗は同じ日、核兵器禁止条約の会議の参加者が会見で「核持ち込み」を批判したことも載せたわ。参院の外交防衛委員会で、安保3文書の改定を追及した質疑も伝えているの。",
+              "section": "後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」",
+              "startFrame": 19001,
+              "endFrame": 19437
+            },
+            {
+              "speaker": "A",
+              "text": "朝日は13日夜、米国の原爆投下の責任を問う「原爆民衆法廷」がソウルで開幕し、日本と韓国の被爆者が証言すると報じたのだ。",
+              "section": "後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」",
+              "startFrame": 19444,
+              "endFrame": 19843
+            },
+            {
+              "speaker": "B",
+              "text": "東京新聞は12日、米軍の駐留経費の負担、いわゆる思いやり予算について「5年で3兆円超要求」と見出しにしたわ。",
+              "section": "後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」",
+              "startFrame": 19850,
+              "endFrame": 20158
+            },
+            {
+              "speaker": "A",
+              "text": "NHK・毎日・産経・読売・日経には、取得した記事の中で関連の見出しはなかったのだ。赤旗は政策の是非、朝日は被爆者の声、東京はお金の流れから、核と同盟を見ているのだ。",
+              "section": "後半 国内: 継続特集 — 非核三原則の見直しと「原爆民衆法廷」",
+              "startFrame": 20166,
+              "endFrame": 20714
+            },
+            {
+              "speaker": "B",
+              "text": "NHKは、茂木外相とメキシコのベラスコ外相が、中長期の戦略的関係を話し合う有識者会議を早く立ち上げることで一致したと伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 20732,
+              "endFrame": 21054
+            },
+            {
+              "speaker": "A",
+              "text": "朝日は、大阪市の行政オンラインシステムの利用者のメールアドレス107万件が流出したと報じたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21061,
+              "endFrame": 21315
+            },
+            {
+              "speaker": "B",
+              "text": "毎日は、高市首相の答弁を「昭和的」と受け止める共働き世代の違和感を取り上げたわ。東京は、21歳以下のサッカー日本代表がスペインに敗れた親善試合を伝えたの。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21323,
+              "endFrame": 21730
+            },
+            {
+              "speaker": "A",
+              "text": "産経は、ドイツのメルセデス・ベンツグループが国内投資を「全面凍結」し、工場の一部閉鎖を検討しているという現地報道を伝えたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21738,
+              "endFrame": 22111
+            },
+            {
+              "speaker": "B",
+              "text": "読売は、日本産科婦人科学会などが「異常分娩」という用語の見直しを提言したと報じたわ。日経は、日本式の自動運転タクシーの想定運賃が有人と同じ程度だと伝えたの。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 22119,
+              "endFrame": 22544
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗は、日本共産党の第30回大会の議案の解説を載せたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 22552,
+              "endFrame": 22744
+            },
+            {
+              "speaker": "A",
+              "text": "今日も聞いてくださってありがとうございました。また明日なのだ！",
+              "section": "まとめ",
+              "startFrame": 22762,
+              "endFrame": 22902
+            },
+            {
+              "speaker": "B",
+              "text": "次回も一緒に見比べましょうね。",
+              "section": "まとめ",
+              "startFrame": 22910,
+              "endFrame": 22974
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "date": "2026-11-13",
     "segments": [
       {
@@ -156136,2251 +156586,6 @@
               "section": "まとめ",
               "startFrame": 17384,
               "endFrame": 17503
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "date": "2026-09-15",
-    "segments": [
-      {
-        "mode": "compare",
-        "label": "世界と日本のメディア比較",
-        "iaId": "news-pickup-2026-09-15-compare",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-15-compare/compare_yukkuri.m4a",
-        "markdown": "<h1>世界メディア視点比較（2026年9月15日）</h1>\n<p>海外7地域と日本6媒体の公開見出しを照合した。今日は、ポーランド国境近くの列車攻撃、スウェーデン総選挙、人工知能開発の減速論、インドネシア旅客船転覆を比べる。日本側はNHK・朝日・毎日・産経・読売・日経の取得範囲であり、日本全体の報道不存在を意味しない。</p>\n<h2>オープニング：2026年9月15日 — 世界メディア視点比較</h2>\n<p>同じ事件でも、攻撃対象、政治勢力、技術リスク、被害者数のどれを主語にするかでニュースの輪郭は変わる。4テーマを具体的な見出し差から読む。</p>\n<h2>ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>🇬🇧 英国</td>\n<td>BBC「ボリス・ジョンソン氏ら欧州要人が駅を離れた直後、ロシアがウクライナの列車を攻撃」。元英首相の反応を掲載</td>\n</tr>\n<tr>\n<td>🇫🇷 フランス</td>\n<td>France24「列車へのドローン攻撃後、ウクライナとポーランドがロシアを非難」。両国が戦争の『エスカレーション』と位置づけた点を強調</td>\n</tr>\n<tr>\n<td>🇮🇳 インド</td>\n<td>Times of India「ジョンソン氏と欧州要人の通過から数分後、ロシアが国境近くの列車を攻撃」。NDTVも欧米の安全保障関係者が近くにいたと報道</td>\n</tr>\n<tr>\n<td>🇺🇸 米国 / 🇨🇳 中国 / 🇷🇺 ロシア / 🌙 アラブ圏</td>\n<td>主要取得記事に同件の掲載なし</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>カバレッジ</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK・朝日・毎日・産経・読売・日経</td>\n<td>✗</td>\n<td>取得見出しに国境近くの列車攻撃の該当記事なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>英国とインドは要人が直前に通過した時間関係を入口にし、攻撃が偶然か標的化を伴うのかという緊張を強めた。ただし取得記事は意図を確定していない。</li>\n<li>フランスは要人より、ウクライナとポーランドが「エスカレーション」と非難した外交反応を主語にした。国境付近への攻撃がNATO加盟国ポーランドの警戒へ波及する構図である。</li>\n<li>日本6媒体では0件。日本側の取得見出しには一般的なウクライナ戦況はあるが、この列車攻撃と要人通過を結ぶ見出しは確認できなかった。</li>\n</ul>\n<h2>スウェーデン総選挙、中道左派51.3％と極右入閣の可能性</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>🇫🇷 フランス</td>\n<td>France24「中道左派の野党陣営が先行、極右は後退」。公共放送SVTの出口調査で社会民主党中心の陣営が51.3％と報道</td>\n</tr>\n<tr>\n<td>🌙 アラブ圏</td>\n<td>Al Jazeera「中道左派陣営が出口調査で先行」。投票前は極右が政権入りする可能性を焦点にした</td>\n</tr>\n<tr>\n<td>🇺🇸 米国 / 🇬🇧 英国 / 🇨🇳 中国 / 🇷🇺 ロシア / 🇮🇳 インド</td>\n<td>主要取得記事に掲載なし</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>カバレッジ</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>産経</td>\n<td>✓</td>\n<td>「スウェーデンで総選挙　野党陣営が僅差でリード　与党側勝利なら極右政党が入閣見通し」</td>\n</tr>\n<tr>\n<td>NHK・朝日・毎日・読売・日経</td>\n<td>✗</td>\n<td>取得見出しに該当なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>France24は開票直後の51.3％という数字と「極右後退」を組み合わせた。Al Jazeeraは投票前の「極右入閣の可能性」から、出口調査の中道左派先行へ時間順に更新した。</li>\n<li>産経は野党の僅差リードを伝えつつ、与党側が勝てば極右が入閣する制度上の帰結を見出しに残した。結果予測だけでなく連立の構成を焦点にしている。</li>\n<li>日本6媒体では産経のみ。海外2地域と日本1媒体という限られた掲載だが、51.3％の得票見通しと政権参加の可否は別の問いである。</li>\n</ul>\n<h2>AI開発の「減速」は可能か、米中競争と制御不能リスク</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>🇬🇧 英国</td>\n<td>BBC「AIの『減速』はどのような姿になるのか、疑問が高まる」。開発速度を落とす案は簡単な解決に見えて実施は難しいと整理</td>\n</tr>\n<tr>\n<td>🇷🇺 ロシア</td>\n<td>RT「AI大手が『深刻な』リスクを理由に減速を要求」。Anthropicのダリオ・アモデイCEOが、人間の制御を離れ壊滅的被害を生む恐れを警告したと報道</td>\n</tr>\n<tr>\n<td>🇬🇧 英国</td>\n<td>BBC別記事「トランプ氏、対中競争を理由にAIリスク警告を軽視」。安全論と国家間競争を対置</td>\n</tr>\n<tr>\n<td>🇺🇸 米国 / 🇫🇷 フランス / 🇨🇳 中国 / 🇮🇳 インド / 🌙 アラブ圏</td>\n<td>主要取得記事に同じ減速論の掲載なし</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>カバレッジ</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>△</td>\n<td>OpenAIの別モデル開発一時中断を扱う過去日付の取得記事はあるが、今回の業界横断的な減速論には該当せず</td>\n</tr>\n<tr>\n<td>朝日・毎日・産経・読売・日経</td>\n<td>✗</td>\n<td>取得見出しに今回の減速要求の該当記事なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>BBCは「誰が止めたいか」より、国境を越える競争下で減速をどう実装するかを問う。別記事ではトランプ氏の対中競争重視を置き、技術安全と国家安全保障の衝突を示した。</li>\n<li>RTはアモデイ氏の警告と「数カ月」という近い時間軸を強く切り出し、企業幹部が危険を訴える構図にした。警告の重大さと実行可能な制度設計は分けて考える必要がある。</li>\n<li>日本6媒体の当日取得見出しでは0件。NHKの取得一覧にはOpenAIの個別開発中断があるものの、日付も対象も異なるため今回の掲載とは数えなかった。</li>\n</ul>\n<h2>インドネシア旅客船転覆、死者6人・不明130人の捜索</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>🇬🇧 英国</td>\n<td>BBC「ジャワ海でインドネシアのフェリー転覆、6人死亡、130人不明」。船舶とヘリコプターによる捜索、悪天候に遭遇した旅客船Virgo Transport 8を具体化</td>\n</tr>\n<tr>\n<td>🇺🇸 米国</td>\n<td>NPR「インドネシア旅客船が転覆、少なくとも129人不明」。転覆と大規模捜索を速報</td>\n</tr>\n<tr>\n<td>🇫🇷 フランス / 🇨🇳 中国 / 🇷🇺 ロシア / 🇮🇳 インド / 🌙 アラブ圏</td>\n<td>主要取得記事に掲載なし</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>カバレッジ</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK・朝日・毎日・産経・読売・日経</td>\n<td>✗</td>\n<td>取得見出しに今回の旅客船転覆の該当記事なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>BBCは死者6人、不明130人、船名、悪天候、捜索手段まで一つのニュースに入れた。NPRは少なくとも129人不明という速報値を中心にした。</li>\n<li>不明者数が129人と130人で異なるのは速報更新の時点差とみられるが、取得記事だけでは確定できない。数字の差を丸めず、各媒体の表記を残した。</li>\n<li>日本6媒体では0件。産経の取得一覧には別のフィリピン沖船舶火災があるが、国、船、事故形態が異なるため混同しない。</li>\n</ul>\n<h2>各国固有ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>ニュース</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>🇺🇸 米国</td>\n<td>NPRが、ウィスコンシン州選出のトム・ティファニー下院議員が湖への緊急着水後、沈む機体から泳いで脱出したと報道。</td>\n</tr>\n<tr>\n<td>🇬🇧 英国</td>\n<td>Guardianが、ウガンダのオヨ国王埋葬と王位継承をめぐる動きを報道。</td>\n</tr>\n<tr>\n<td>🇫🇷 フランス</td>\n<td>RFIが、マクロン仏大統領とカーニー加首相による仏領大西洋諸島訪問を、主権を示す外交として報道。</td>\n</tr>\n<tr>\n<td>🇨🇳 中国</td>\n<td>CGTNが、イラクによるサウジ攻撃を受けたマイサーン州司令官解任を報道。</td>\n</tr>\n<tr>\n<td>🇷🇺 ロシア</td>\n<td>TASSが、ロシア地域上空で1日にウクライナのドローン140機を撃墜したとの当局発表を掲載。</td>\n</tr>\n<tr>\n<td>🇮🇳 インド</td>\n<td>NDTVが、バングラデシュがインドとの関係正常化に向けた再設定を望むと報道。</td>\n</tr>\n<tr>\n<td>🌙 アラブ圏</td>\n<td>Al Jazeeraが、バンサモロ議会選挙を自治統治の転換点として報道。</td>\n</tr>\n</tbody>\n</table>\n<h2>まとめ</h2>\n<ul>\n<li>列車攻撃は英国・インドが要人通過、フランスがポーランドを含む外交的な危機認識を主語にした。</li>\n<li>スウェーデン総選挙は51.3％という出口調査と、極右が実際に政権へ入るかという二つの尺度が並んだ。</li>\n<li>AI減速論は壊滅的リスクの近さと、米中競争下で止められるのかという実装問題に分かれた。</li>\n<li>船舶事故では速報値の差を保ち、別国の別事故を同一視しないことが被害像の正確さを支える。</li>\n</ul>\n<p>確認対象: 海外7地域の正規fetcher取得記事、日本6媒体（NHK・朝日・毎日・産経・読売・日経）の公開見出し。取得ファイル確認時刻: 2026年9月15日5時02分 JST。掲載有無は取得範囲に限る。</p>\n<h2>参考ソース</h2>\n<ul>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cy5zg41dkqwo\">BBC：ロシアがポーランド国境近くの列車を攻撃</a></li>\n<li><a href=\"https://www.france24.com/en/europe/20260913-poland-ukraine-slam-russian-strikes-near-border-as-escalation\">France24：ウクライナとポーランドが列車攻撃を非難</a></li>\n<li><a href=\"https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms\">Times of India：要人通過後に列車攻撃</a></li>\n<li><a href=\"https://www.france24.com/en/europe/20260913-sweden-s-centre-left-opposition-leads-election-as-far-right-slips-exit-polls-show\">France24：スウェーデン中道左派が出口調査で先行</a></li>\n<li><a href=\"https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows\">Al Jazeera：スウェーデン総選挙の出口調査</a></li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cwyzp47py48o\">BBC：AI減速論の実行可能性</a></li>\n<li><a href=\"https://www.rt.com/news/645618-ai-giants-call-for-slowdown/\">RT：AI大手が深刻なリスクを警告</a></li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cvgykzgljlyo\">BBC：インドネシア旅客船転覆</a></li>\n</ul>",
-        "title": "列車攻撃・極右・AI減速を7地域で比較【2026/09/14】",
-        "markdownSource": "# 世界メディア視点比較（2026年9月15日）\n\n海外7地域と日本6媒体の公開見出しを照合した。今日は、ポーランド国境近くの列車攻撃、スウェーデン総選挙、人工知能開発の減速論、インドネシア旅客船転覆を比べる。日本側はNHK・朝日・毎日・産経・読売・日経の取得範囲であり、日本全体の報道不存在を意味しない。\n\n## オープニング：2026年9月15日 — 世界メディア視点比較\n\n同じ事件でも、攻撃対象、政治勢力、技術リスク、被害者数のどれを主語にするかでニュースの輪郭は変わる。4テーマを具体的な見出し差から読む。\n\n## ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒\n\n| 国 | 見出し |\n|---|---|\n| 🇬🇧 英国 | BBC「ボリス・ジョンソン氏ら欧州要人が駅を離れた直後、ロシアがウクライナの列車を攻撃」。元英首相の反応を掲載 |\n| 🇫🇷 フランス | France24「列車へのドローン攻撃後、ウクライナとポーランドがロシアを非難」。両国が戦争の『エスカレーション』と位置づけた点を強調 |\n| 🇮🇳 インド | Times of India「ジョンソン氏と欧州要人の通過から数分後、ロシアが国境近くの列車を攻撃」。NDTVも欧米の安全保障関係者が近くにいたと報道 |\n| 🇺🇸 米国 / 🇨🇳 中国 / 🇷🇺 ロシア / 🌙 アラブ圏 | 主要取得記事に同件の掲載なし |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | カバレッジ | 見出し |\n|---|---|---|\n| NHK・朝日・毎日・産経・読売・日経 | ✗ | 取得見出しに国境近くの列車攻撃の該当記事なし |\n\n- 英国とインドは要人が直前に通過した時間関係を入口にし、攻撃が偶然か標的化を伴うのかという緊張を強めた。ただし取得記事は意図を確定していない。\n- フランスは要人より、ウクライナとポーランドが「エスカレーション」と非難した外交反応を主語にした。国境付近への攻撃がNATO加盟国ポーランドの警戒へ波及する構図である。\n- 日本6媒体では0件。日本側の取得見出しには一般的なウクライナ戦況はあるが、この列車攻撃と要人通過を結ぶ見出しは確認できなかった。\n\n## スウェーデン総選挙、中道左派51.3％と極右入閣の可能性\n\n| 国 | 見出し |\n|---|---|\n| 🇫🇷 フランス | France24「中道左派の野党陣営が先行、極右は後退」。公共放送SVTの出口調査で社会民主党中心の陣営が51.3％と報道 |\n| 🌙 アラブ圏 | Al Jazeera「中道左派陣営が出口調査で先行」。投票前は極右が政権入りする可能性を焦点にした |\n| 🇺🇸 米国 / 🇬🇧 英国 / 🇨🇳 中国 / 🇷🇺 ロシア / 🇮🇳 インド | 主要取得記事に掲載なし |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | カバレッジ | 見出し |\n|---|---|---|\n| 産経 | ✓ | 「スウェーデンで総選挙　野党陣営が僅差でリード　与党側勝利なら極右政党が入閣見通し」 |\n| NHK・朝日・毎日・読売・日経 | ✗ | 取得見出しに該当なし |\n\n- France24は開票直後の51.3％という数字と「極右後退」を組み合わせた。Al Jazeeraは投票前の「極右入閣の可能性」から、出口調査の中道左派先行へ時間順に更新した。\n- 産経は野党の僅差リードを伝えつつ、与党側が勝てば極右が入閣する制度上の帰結を見出しに残した。結果予測だけでなく連立の構成を焦点にしている。\n- 日本6媒体では産経のみ。海外2地域と日本1媒体という限られた掲載だが、51.3％の得票見通しと政権参加の可否は別の問いである。\n\n## AI開発の「減速」は可能か、米中競争と制御不能リスク\n\n| 国 | 見出し |\n|---|---|\n| 🇬🇧 英国 | BBC「AIの『減速』はどのような姿になるのか、疑問が高まる」。開発速度を落とす案は簡単な解決に見えて実施は難しいと整理 |\n| 🇷🇺 ロシア | RT「AI大手が『深刻な』リスクを理由に減速を要求」。Anthropicのダリオ・アモデイCEOが、人間の制御を離れ壊滅的被害を生む恐れを警告したと報道 |\n| 🇬🇧 英国 | BBC別記事「トランプ氏、対中競争を理由にAIリスク警告を軽視」。安全論と国家間競争を対置 |\n| 🇺🇸 米国 / 🇫🇷 フランス / 🇨🇳 中国 / 🇮🇳 インド / 🌙 アラブ圏 | 主要取得記事に同じ減速論の掲載なし |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | カバレッジ | 見出し |\n|---|---|---|\n| NHK | △ | OpenAIの別モデル開発一時中断を扱う過去日付の取得記事はあるが、今回の業界横断的な減速論には該当せず |\n| 朝日・毎日・産経・読売・日経 | ✗ | 取得見出しに今回の減速要求の該当記事なし |\n\n- BBCは「誰が止めたいか」より、国境を越える競争下で減速をどう実装するかを問う。別記事ではトランプ氏の対中競争重視を置き、技術安全と国家安全保障の衝突を示した。\n- RTはアモデイ氏の警告と「数カ月」という近い時間軸を強く切り出し、企業幹部が危険を訴える構図にした。警告の重大さと実行可能な制度設計は分けて考える必要がある。\n- 日本6媒体の当日取得見出しでは0件。NHKの取得一覧にはOpenAIの個別開発中断があるものの、日付も対象も異なるため今回の掲載とは数えなかった。\n\n## インドネシア旅客船転覆、死者6人・不明130人の捜索\n\n| 国 | 見出し |\n|---|---|\n| 🇬🇧 英国 | BBC「ジャワ海でインドネシアのフェリー転覆、6人死亡、130人不明」。船舶とヘリコプターによる捜索、悪天候に遭遇した旅客船Virgo Transport 8を具体化 |\n| 🇺🇸 米国 | NPR「インドネシア旅客船が転覆、少なくとも129人不明」。転覆と大規模捜索を速報 |\n| 🇫🇷 フランス / 🇨🇳 中国 / 🇷🇺 ロシア / 🇮🇳 インド / 🌙 アラブ圏 | 主要取得記事に掲載なし |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | カバレッジ | 見出し |\n|---|---|---|\n| NHK・朝日・毎日・産経・読売・日経 | ✗ | 取得見出しに今回の旅客船転覆の該当記事なし |\n\n- BBCは死者6人、不明130人、船名、悪天候、捜索手段まで一つのニュースに入れた。NPRは少なくとも129人不明という速報値を中心にした。\n- 不明者数が129人と130人で異なるのは速報更新の時点差とみられるが、取得記事だけでは確定できない。数字の差を丸めず、各媒体の表記を残した。\n- 日本6媒体では0件。産経の取得一覧には別のフィリピン沖船舶火災があるが、国、船、事故形態が異なるため混同しない。\n\n## 各国固有ニュース\n\n| 国 | ニュース |\n|---|---|\n| 🇺🇸 米国 | NPRが、ウィスコンシン州選出のトム・ティファニー下院議員が湖への緊急着水後、沈む機体から泳いで脱出したと報道。 |\n| 🇬🇧 英国 | Guardianが、ウガンダのオヨ国王埋葬と王位継承をめぐる動きを報道。 |\n| 🇫🇷 フランス | RFIが、マクロン仏大統領とカーニー加首相による仏領大西洋諸島訪問を、主権を示す外交として報道。 |\n| 🇨🇳 中国 | CGTNが、イラクによるサウジ攻撃を受けたマイサーン州司令官解任を報道。 |\n| 🇷🇺 ロシア | TASSが、ロシア地域上空で1日にウクライナのドローン140機を撃墜したとの当局発表を掲載。 |\n| 🇮🇳 インド | NDTVが、バングラデシュがインドとの関係正常化に向けた再設定を望むと報道。 |\n| 🌙 アラブ圏 | Al Jazeeraが、バンサモロ議会選挙を自治統治の転換点として報道。 |\n\n## まとめ\n\n- 列車攻撃は英国・インドが要人通過、フランスがポーランドを含む外交的な危機認識を主語にした。\n- スウェーデン総選挙は51.3％という出口調査と、極右が実際に政権へ入るかという二つの尺度が並んだ。\n- AI減速論は壊滅的リスクの近さと、米中競争下で止められるのかという実装問題に分かれた。\n- 船舶事故では速報値の差を保ち、別国の別事故を同一視しないことが被害像の正確さを支える。\n\n確認対象: 海外7地域の正規fetcher取得記事、日本6媒体（NHK・朝日・毎日・産経・読売・日経）の公開見出し。取得ファイル確認時刻: 2026年9月15日5時02分 JST。掲載有無は取得範囲に限る。\n\n## 参考ソース\n\n- [BBC：ロシアがポーランド国境近くの列車を攻撃](https://www.bbc.co.uk/news/articles/cy5zg41dkqwo)\n- [France24：ウクライナとポーランドが列車攻撃を非難](https://www.france24.com/en/europe/20260913-poland-ukraine-slam-russian-strikes-near-border-as-escalation)\n- [Times of India：要人通過後に列車攻撃](https://timesofindia.indiatimes.com/world/europe/russia-strikes-train-near-poland-border-minutes-after-boris-johnson-european-leaders-pass-through/articleshow/134216343.cms)\n- [France24：スウェーデン中道左派が出口調査で先行](https://www.france24.com/en/europe/20260913-sweden-s-centre-left-opposition-leads-election-as-far-right-slips-exit-polls-show)\n- [Al Jazeera：スウェーデン総選挙の出口調査](https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows)\n- [BBC：AI減速論の実行可能性](https://www.bbc.co.uk/news/articles/cwyzp47py48o)\n- [RT：AI大手が深刻なリスクを警告](https://www.rt.com/news/645618-ai-giants-call-for-slowdown/)\n- [BBC：インドネシア旅客船転覆](https://www.bbc.co.uk/news/articles/cvgykzgljlyo)\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 20815,
-          "audioDurationSec": 693.832,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月15日、世界メディア視点比較なのだ。海外7地域と日本6媒体の見出しから、同じ事件の輪郭がどう変わるかを見るのだ。",
-              "section": "オープニング：2026年9月15日 — 世界メディア視点比較",
-              "startFrame": 18,
-              "endFrame": 393
-            },
-            {
-              "speaker": "B",
-              "text": "今日の中心は、ポーランド国境近くの列車攻撃、スウェーデン総選挙、人工知能の減速論、インドネシアの旅客船転覆よ。",
-              "section": "オープニング：2026年9月15日 — 世界メディア視点比較",
-              "startFrame": 401,
-              "endFrame": 711
-            },
-            {
-              "speaker": "A",
-              "text": "攻撃、選挙、技術、災害で全然違う話なのに、比べる軸はあるのだ？",
-              "section": "オープニング：2026年9月15日 — 世界メディア視点比較",
-              "startFrame": 718,
-              "endFrame": 956
-            },
-            {
-              "speaker": "B",
-              "text": "あるわ。誰を主語にし、どの数字を選び、どの危険を近く見せたか。そこから各地域の優先順位を読んでいきましょう。",
-              "section": "オープニング：2026年9月15日 — 世界メディア視点比較",
-              "startFrame": 963,
-              "endFrame": 1224
-            },
-            {
-              "speaker": "A",
-              "text": "最初はウクライナの列車攻撃。どこで起きたのだ？",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 1242,
-              "endFrame": 1372
-            },
-            {
-              "speaker": "B",
-              "text": "ポーランド国境に近い駅の周辺よ。ロシアのドローンがワルシャワ行きの列車を攻撃したと、フランス24が伝えた。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 1380,
-              "endFrame": 1634
-            },
-            {
-              "speaker": "A",
-              "text": "ポーランドはナトー加盟国だ。国境近くというだけでも緊張が高いのだ。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 1641,
-              "endFrame": 1820
-            },
-            {
-              "speaker": "B",
-              "text": "ウクライナとポーランドは、この攻撃を戦争の「エスカレーション」だと非難した。フランス24は、その二国の反応を見出しの柱にしている。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 1828,
-              "endFrame": 2141
-            },
-            {
-              "speaker": "A",
-              "text": "英国のビービーシーは別の人物を前に出したのだな。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 2149,
-              "endFrame": 2275
-            },
-            {
-              "speaker": "B",
-              "text": "元英国首相のボリス・ジョンソン氏と欧州の要人が駅を離れた直後だった、と報じたの。ジョンソン氏自身の強い非難も載せた。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 2283,
-              "endFrame": 2560
-            },
-            {
-              "speaker": "A",
-              "text": "要人が通った直後なら、狙われたのかと考えたくなるのだ。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 2568,
-              "endFrame": 2717
-            },
-            {
-              "speaker": "B",
-              "text": "でも取得記事は攻撃の意図を確定していない。時刻の近さは重要な事実だけれど、それだけで標的だったとは言えないわ。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 2724,
-              "endFrame": 2979
-            },
-            {
-              "speaker": "A",
-              "text": "インドの見出しも、要人との時間関係を強く出したのだ？",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 2987,
-              "endFrame": 3134
-            },
-            {
-              "speaker": "B",
-              "text": "タイムズ・オブ・インディアは「要人通過から数分後」とした。エヌディーティービーも、欧州各国の安全保障関係者や元指導者が近くにいたと伝えたの。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 3141,
-              "endFrame": 3494
-            },
-            {
-              "speaker": "A",
-              "text": "英国とインドは「誰が近くにいたか」、フランスは「どの国がどう非難したか」。同じ攻撃でも入口が違うのだ。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 3502,
-              "endFrame": 3787
-            },
-            {
-              "speaker": "B",
-              "text": "前者は要人警護と攻撃意図への疑問、後者は国境を接するポーランドへの波及を際立たせる。危険の測り方が違うのよ。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 3794,
-              "endFrame": 4068
-            },
-            {
-              "speaker": "A",
-              "text": "海外7地域すべてが扱ったわけではないのだな。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 4076,
-              "endFrame": 4193
-            },
-            {
-              "speaker": "B",
-              "text": "取得範囲では英国、フランス、インド。米国、中国、ロシア、アラブ圏の主要記事には同件がなかった。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 4200,
-              "endFrame": 4476
-            },
-            {
-              "speaker": "A",
-              "text": "日本6媒体はどうだったのだ？",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 4483,
-              "endFrame": 4567
-            },
-            {
-              "speaker": "B",
-              "text": "6媒体すべて0件よ。一般的なウクライナ戦況の記事はあるけれど、この列車攻撃と要人通過を結ぶ公開見出しは確認できなかった。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 4575,
-              "endFrame": 4880
-            },
-            {
-              "speaker": "A",
-              "text": "日本全体が報じていない、ではなく、取得した6媒体の見出しでは0件ということなのだな。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 4888,
-              "endFrame": 5126
-            },
-            {
-              "speaker": "B",
-              "text": "そう。ここで重要なのは、国境付近への攻撃を要人の危機と見るか、隣国を巻き込む戦争拡大と見るか、その焦点差よ。",
-              "section": "ポーランド国境近くの列車攻撃、要人通過と戦争拡大の警戒",
-              "startFrame": 5134,
-              "endFrame": 5428
-            },
-            {
-              "speaker": "A",
-              "text": "次はスウェーデン総選挙。出口調査ではどちらが先行したのだ？",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 5446,
-              "endFrame": 5613
-            },
-            {
-              "speaker": "B",
-              "text": "社会民主党を中心とする中道左派の野党陣営よ。公共放送エスブイティーの出口調査で51.3パーセントだった。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 5621,
-              "endFrame": 5886
-            },
-            {
-              "speaker": "A",
-              "text": "過半数を少し超えた数字だけど、見出しは「極右後退」だったのだ？",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 5894,
-              "endFrame": 6087
-            },
-            {
-              "speaker": "B",
-              "text": "フランス24はそう表現した。中道左派の先行と、極右勢力に厳しい夜になった可能性を一緒に伝えたの。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 6095,
-              "endFrame": 6347
-            },
-            {
-              "speaker": "A",
-              "text": "アルジャジーラは投票前から追っていたのだな。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 6355,
-              "endFrame": 6457
-            },
-            {
-              "speaker": "B",
-              "text": "投票中の記事では、接戦の末に極右が政権入りする可能性を焦点にした。その後、出口調査で中道左派が51.3パーセントと更新したわ。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 6464,
-              "endFrame": 6800
-            },
-            {
-              "speaker": "A",
-              "text": "得票率だけでなく、極右が内閣に入るかが大きな物差しなのだ。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 6807,
-              "endFrame": 6975
-            },
-            {
-              "speaker": "B",
-              "text": "その通り。選挙の一位と、連立交渉で誰が閣僚を出すかは別問題だから、結果の読み方には二段階ある。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 6983,
-              "endFrame": 7241
-            },
-            {
-              "speaker": "A",
-              "text": "日本6媒体では産経だけが扱ったのだ？",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 7249,
-              "endFrame": 7366
-            },
-            {
-              "speaker": "B",
-              "text": "6媒体中1媒体よ。産経は野党陣営が僅差でリードとしつつ、与党側が勝てば極右政党が入閣する見通しを見出しに残した。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 7373,
-              "endFrame": 7672
-            },
-            {
-              "speaker": "A",
-              "text": "フランスは「極右が後退」、産経は「まだ入閣の可能性」。時間と構図で印象が変わるのだな。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 7680,
-              "endFrame": 7940
-            },
-            {
-              "speaker": "B",
-              "text": "開票途中では自然な差でもあるわ。51.3パーセントは出口調査であって確定議席ではないから、連立の帰結まで一足飛びには決まらない。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 7948,
-              "endFrame": 8254
-            },
-            {
-              "speaker": "A",
-              "text": "海外でもフランスとアラブ圏だけの掲載だったのか。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 8261,
-              "endFrame": 8385
-            },
-            {
-              "speaker": "B",
-              "text": "今回の主要取得記事ではそう。欧州の選挙でも世界の全地域が同じ熱量で追うわけではなく、掲載の地理そのものが関心の濃淡を示すわね。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 8393,
-              "endFrame": 8711
-            },
-            {
-              "speaker": "A",
-              "text": "51.3という数字と、誰が政府に入るか。この二つを分けると選挙結果が立体的になるのだ。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 8719,
-              "endFrame": 8978
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。票の勝敗だけでなく、政権参加によって政策がどこまで動くかが次の焦点になる。",
-              "section": "スウェーデン総選挙、中道左派51.3％と極右入閣の可能性",
-              "startFrame": 8985,
-              "endFrame": 9203
-            },
-            {
-              "speaker": "A",
-              "text": "3つ目は人工知能の減速論。危険なら開発を遅くすればよさそうなのだ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 9221,
-              "endFrame": 9416
-            },
-            {
-              "speaker": "B",
-              "text": "ビービーシーは、そう聞こえるけれど実施は簡単ではないと整理した。企業も国家も競争していて、一社だけ速度を落とす仕組みでは足りないからよ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 9424,
-              "endFrame": 9724
-            },
-            {
-              "speaker": "A",
-              "text": "どんな危険が語られているのだ？",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 9731,
-              "endFrame": 9808
-            },
-            {
-              "speaker": "B",
-              "text": "アールティーは、アンソロピックのダリオ・アモデイ最高経営責任者の警告を前に出した。急速に進歩する人工知能が人間の制御を離れ、壊滅的な被害を起こす恐れがあるという内容よ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 9816,
-              "endFrame": 10235
-            },
-            {
-              "speaker": "A",
-              "text": "かなり強い警告なのだ。時間軸も近いのか？",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 10243,
-              "endFrame": 10368
-            },
-            {
-              "speaker": "B",
-              "text": "見出しと要約では、数カ月という近さが強調されている。だからアールティーの記事は「深刻なリスク」を理由に大手が減速を求める構図にした。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 10375,
-              "endFrame": 10690
-            },
-            {
-              "speaker": "A",
-              "text": "ビービーシーは危険の大きさより、止め方を問うのだな。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 10698,
-              "endFrame": 10829
-            },
-            {
-              "speaker": "B",
-              "text": "さらに別記事では、トランプ大統領が中国との競争を理由に人工知能リスクの警告を軽く扱ったと報じた。技術安全と国家安全保障がぶつかっている。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 10836,
-              "endFrame": 11177
-            },
-            {
-              "speaker": "A",
-              "text": "自国だけ慎重にしたら競争で遅れる、という恐れが減速を難しくするのだ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 11185,
-              "endFrame": 11381
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。ただ、競争を理由に安全策を弱めれば、事故や悪用の費用は社会全体が負う。企業の自主判断だけで解けない問題よ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 11388,
-              "endFrame": 11695
-            },
-            {
-              "speaker": "A",
-              "text": "ロシア媒体が米企業幹部の破局的な警告を強く響かせ、英国媒体が制度の難しさを掘る。面白い対照なのだ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 11702,
-              "endFrame": 12014
-            },
-            {
-              "speaker": "B",
-              "text": "警告が正しいかという問いと、減速を誰が監督し違反をどう測るかという問いは別なの。恐怖の大きさだけでは政策にならない。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 12021,
-              "endFrame": 12300
-            },
-            {
-              "speaker": "A",
-              "text": "日本6媒体では今回の減速論は何件だったのだ？",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 12307,
-              "endFrame": 12451
-            },
-            {
-              "speaker": "B",
-              "text": "当日取得では0件。エヌエイチケーの一覧にオープンエーアイの別モデルの開発中断記事があるけれど、日付も対象も違うため今回の掲載には数えていない。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 12459,
-              "endFrame": 12808
-            },
-            {
-              "speaker": "A",
-              "text": "似た単語があっても、別件を水増ししてはいけないのだな。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 12816,
-              "endFrame": 12955
-            },
-            {
-              "speaker": "B",
-              "text": "そうね。今回の争点は業界横断的な減速を国際競争の中で実装できるか。個社の一時中断とは射程が違うわ。",
-              "section": "AI開発の「減速」は可能か、米中競争と制御不能リスク",
-              "startFrame": 12963,
-              "endFrame": 13238
-            },
-            {
-              "speaker": "A",
-              "text": "最後はインドネシアの旅客船転覆。被害はどこまで分かっているのだ？",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 13256,
-              "endFrame": 13429
-            },
-            {
-              "speaker": "B",
-              "text": "ビービーシーは死者6人、行方不明130人と報じた。ジャワ海で旅客船バルゴ・トランスポート・エイトが悪天候に遭い、船とヘリコプターが捜索している。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 13437,
-              "endFrame": 13805
-            },
-            {
-              "speaker": "A",
-              "text": "エヌピーアールの数字は少し違ったのだな。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 13812,
-              "endFrame": 13911
-            },
-            {
-              "speaker": "B",
-              "text": "少なくとも129人が不明と速報した。人数が一人違うけれど、救助中の速報では集計時刻で数字が動くことがある。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 13919,
-              "endFrame": 14206
-            },
-            {
-              "speaker": "A",
-              "text": "どちらかに丸めてしまわず、媒体ごとの数字を残したほうが誠実なのだ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 14213,
-              "endFrame": 14395
-            },
-            {
-              "speaker": "B",
-              "text": "そう。取得記事だけでは差の理由を確定できないから、ビービーシーは130人、エヌピーアールは少なくとも129人、と分けて伝えるのが正確よ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 14402,
-              "endFrame": 14755
-            },
-            {
-              "speaker": "A",
-              "text": "英国記事は船名や捜索手段まで入っているのだな。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 14762,
-              "endFrame": 14893
-            },
-            {
-              "speaker": "B",
-              "text": "事故を一つの固有事例として追える情報が多い。米国記事は転覆と大規模な不明者数を速報の中心に置いたわ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 14900,
-              "endFrame": 15150
-            },
-            {
-              "speaker": "A",
-              "text": "日本6媒体は？",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 15157,
-              "endFrame": 15214
-            },
-            {
-              "speaker": "B",
-              "text": "今回の旅客船転覆は6媒体すべて0件。産経の一覧にはフィリピン沖の船舶火災があるけれど、国も船も事故形態も別よ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 15222,
-              "endFrame": 15523
-            },
-            {
-              "speaker": "A",
-              "text": "船の事故というだけで混ぜたら、被害者数も原因もおかしくなるのだ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 15531,
-              "endFrame": 15694
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。災害報道は似た速報が同時に流れるほど、場所、船名、事故の種類、数字の更新時点をそろえる必要がある。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 15702,
-              "endFrame": 16013
-            },
-            {
-              "speaker": "A",
-              "text": "海外でも英国と米国だけだったのだ？",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 16020,
-              "endFrame": 16122
-            },
-            {
-              "speaker": "B",
-              "text": "主要取得記事ではそう。フランス、中国、ロシア、インド、アラブ圏には該当がなかった。大規模捜索でも掲載は一様ではないわ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 16130,
-              "endFrame": 16455
-            },
-            {
-              "speaker": "A",
-              "text": "129と130の差は小さく見えるけれど、一人ひとりを数える救難現場では軽く扱えないのだ。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 16463,
-              "endFrame": 16723
-            },
-            {
-              "speaker": "B",
-              "text": "その感覚は大切ね。速報の速さと数字の精度を両立させる難しさが、二つの見出しの差に表れている。",
-              "section": "インドネシア旅客船転覆、死者6人・不明130人の捜索",
-              "startFrame": 16731,
-              "endFrame": 16970
-            },
-            {
-              "speaker": "A",
-              "text": "共通テーマ以外で、各地域が独自に選んだニュースも見たいのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 16988,
-              "endFrame": 17150
-            },
-            {
-              "speaker": "B",
-              "text": "米国のエヌピーアールは、ウィスコンシン州選出のトム・ティファニー下院議員が湖への緊急着水後、沈む機体から泳いで脱出したと報じた。",
-              "section": "各国固有ニュース",
-              "startFrame": 17157,
-              "endFrame": 17471
-            },
-            {
-              "speaker": "A",
-              "text": "英国とフランスは何を選んだのだ？",
-              "section": "各国固有ニュース",
-              "startFrame": 17478,
-              "endFrame": 17568
-            },
-            {
-              "speaker": "B",
-              "text": "英国のガーディアンはウガンダのオヨ国王の埋葬と王位継承。フランスのアールエフアイは仏領大西洋諸島をめぐる主権外交を扱ったわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 17576,
-              "endFrame": 17868
-            },
-            {
-              "speaker": "A",
-              "text": "中国とロシアは安全保障のニュースなのだな。",
-              "section": "各国固有ニュース",
-              "startFrame": 17875,
-              "endFrame": 17985
-            },
-            {
-              "speaker": "B",
-              "text": "中国国際テレビはイラクのマイサーン州司令官解任。ロシアのタス通信は、当局発表として一日にウクライナのドローン140機を撃墜したと伝えた。",
-              "section": "各国固有ニュース",
-              "startFrame": 17993,
-              "endFrame": 18333
-            },
-            {
-              "speaker": "A",
-              "text": "インドとアラブ圏は？",
-              "section": "各国固有ニュース",
-              "startFrame": 18341,
-              "endFrame": 18396
-            },
-            {
-              "speaker": "B",
-              "text": "インドのエヌディーティービーはバングラデシュとの関係再設定。アルジャジーラはバンサモロ議会選挙を自治統治の転換点として取り上げた。",
-              "section": "各国固有ニュース",
-              "startFrame": 18404,
-              "endFrame": 18668
-            },
-            {
-              "speaker": "A",
-              "text": "同じ朝のニュース欄でも、王位継承、主権、越境攻撃、隣国外交、自治選挙まで関心が散らばるのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 18675,
-              "endFrame": 18990
-            },
-            {
-              "speaker": "B",
-              "text": "共通テーマだけを見るより、固有ニュースを並べると各編集部が身近に置く政治課題がよく分かるわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 18997,
-              "endFrame": 19206
-            },
-            {
-              "speaker": "A",
-              "text": "今日の4テーマは、危険をどこに置くかで見出しが分かれたのだ。",
-              "section": "まとめ",
-              "startFrame": 19224,
-              "endFrame": 19365
-            },
-            {
-              "speaker": "B",
-              "text": "列車攻撃では要人か国境波及か。スウェーデンでは51.3パーセントの勝敗か、極右の政権参加かが分かれた。",
-              "section": "まとめ",
-              "startFrame": 19372,
-              "endFrame": 19642
-            },
-            {
-              "speaker": "A",
-              "text": "人工知能では破局的リスクの近さと、米中競争の中で減速を実施できるかが並んだのだ。",
-              "section": "まとめ",
-              "startFrame": 19649,
-              "endFrame": 19890
-            },
-            {
-              "speaker": "B",
-              "text": "船舶事故では129人と130人という速報値の差を残し、別国の別事故を混ぜないことが正確さを支えたわ。",
-              "section": "まとめ",
-              "startFrame": 19898,
-              "endFrame": 20170
-            },
-            {
-              "speaker": "A",
-              "text": "主語と数字を丁寧に見ると、ニュースの強い言葉に流されず、何が事実で何が焦点づけかが見えてくるのだ。",
-              "section": "まとめ",
-              "startFrame": 20178,
-              "endFrame": 20450
-            },
-            {
-              "speaker": "B",
-              "text": "2026年9月15日の世界メディア視点比較をお届けしました。聞いてくださって、ありがとうございました。",
-              "section": "まとめ",
-              "startFrame": 20457,
-              "endFrame": 20691
-            },
-            {
-              "speaker": "A",
-              "text": "また次回、世界の見出しを一緒に比べるのだ。",
-              "section": "まとめ",
-              "startFrame": 20698,
-              "endFrame": 20815
-            }
-          ]
-        }
-      },
-      {
-        "mode": "domestic",
-        "label": "国内8紙比較",
-        "iaId": "news-pickup-2026-09-15-domestic",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-15-domestic/domestic_yukkuri.m4a",
-        "markdown": "<h1>国内紙比較と世界から見た日本（2026年9月15日）</h1>\n<h2>オープニング：2026年9月15日 — 国内紙比較と世界から見た日本</h2>\n<ul>\n<li>9月15日の取得分を比較する。国内紙は沖縄県知事選後の基地問題、中部電力の不正、外国人受け入れを異なる入口から扱った。</li>\n<li>海外編は英国紙による細野晴臣評と、東京・新宿の民泊規制報道を通じ、文化の越境と観光地の日常の摩擦を見る。</li>\n</ul>\n<h2>第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日</td>\n<td>「米軍基地問題巡り示された民意」「辺野古移設、容認派が県政奪還」</td>\n</tr>\n<tr>\n<td>日経</td>\n<td>「古謝玄太氏が初当選、現職ら5人に大差」</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>古謝氏の所得倍増公約、PFAS、米軍基地を継続掲載</td>\n</tr>\n<tr>\n<td>朝日・東京・産経・読売</td>\n<td>取得上位に選挙総括なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>毎日は保守系候補の勝利を伝えつつ、辺野古移設をめぐる沖縄の「ジレンマ」を残した。日経は候補者名と大差という結果を簡潔に示す。</li>\n<li>赤旗は公約の実現性、米軍基地由来とされるPFASへの国の対応を結び、選挙後も生活と基地負担を争点化した。</li>\n<li>同じ結果でも、政権への追い風、県民の葛藤、基地被害の継続という三つの時間軸が並ぶ。</li>\n</ul>\n<h2>第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日</td>\n<td>「浜岡原発、不正で遠のく再稼働」「トップ辞任も再稼働諦めない」</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>「中部電力に厳正に対処する、相次ぐ不祥事で日本政府」</td>\n</tr>\n<tr>\n<td>他紙</td>\n<td>取得上位に同件なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>毎日は不正が国の原子力政策と中部電力の経営へ及ぼす影響を掘り下げ、経営トップの責任と再稼働方針の継続を並べた。</li>\n<li>東京は政府の「厳正に対処」という反応を入口にした。処分の主体を政府に置くか、再稼働を急ぐ企業の統治に置くかで焦点が異なる。</li>\n<li>安全審査は設備だけでなく、提出資料と組織への信頼を前提にする。不正の影響は発電量より先に審査の正当性へ及ぶ。</li>\n</ul>\n<h2>第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>「将来的な外国人受け入れあり方を議論、政府有識者会議初会合」</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>「日本国籍、高裁も認めず、比残留2世の95歳」</td>\n</tr>\n<tr>\n<td>他紙</td>\n<td>取得上位に直接関連記事なし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>NHKは将来の受け入れ制度を政府会議から報じた。東京は戦争によってフィリピンに残された日本人二世が国籍を認められなかった個人の生涯から制度を見る。</li>\n<li>労働力や人口の入口を設計する議論と、過去の移動が残した法的身分の出口が同じ日に現れた。</li>\n<li>「外国人」という政策カテゴリーだけでは、移住理由、家族史、国籍の証明責任の違いが消える。二紙の並置が制度の時間差を示す。</li>\n</ul>\n<h2>第1部 各紙独自ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>独自に目立った記事</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>朝日</td>\n<td>富士山の閉山期の無謀登山を対象に、防災ヘリ救助を有料化する山梨県方針</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>俳優・中村ゆりさんの死去、沖縄戦後政治の転換点を問う解説</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>454キロのカボチャが小豆島の大会で優勝</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>改憲と軍拡に反対する日本母親大会、政党助成金への批判</td>\n</tr>\n<tr>\n<td>産経</td>\n<td>地下避難施設の人口カバー率5.9%を示す民間防衛特集</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>昭和天皇の象徴性を憲法史から分析する研究紹介</td>\n</tr>\n<tr>\n<td>日経</td>\n<td>日本版DOGEの削減明示額が170億円にとどまるとの検証</td>\n</tr>\n</tbody>\n</table>\n<h2>第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻</h2>\n<ul>\n<li>英国のガーディアンは9月11日、細野晴臣の作品『Yours Sincerely』を「小さな歌に大きな心がある」と評した。世界的な電子音楽の先駆者という肩書より、抑制された歌と感情の厚みを評価軸に置いた。</li>\n<li>国内で細野は、はっぴいえんどやイエロー・マジック・オーケストラの歴史で語られやすい。英国の音楽評は、その系譜を踏まえつつ、現在の作品を静けさと親密さから聴いた。</li>\n<li>海外評価の価値は「日本人が世界で人気」という勲章ではない。既知の巨匠を、技術革新ではなく声の近さから再発見した点にある。</li>\n</ul>\n<h2>第2部 新宿の民泊規制、観光の便利さと住民の日常</h2>\n<ul>\n<li>ガーディアンは9月8日、新宿区が住宅地や文化施設周辺の短期賃貸を規制したと報じた。背景として、騒音とごみ出しをめぐる住民の苦情増加を挙げた。</li>\n<li>海外旅行者には東京の宿泊選択肢の縮小だが、区の政策は観光客の消費額ではなく、住宅地で眠り、ごみを出す住民の生活時間を基準にした。</li>\n<li>日本の接客や清潔さを称賛する観光記事とは逆に、その秩序を維持する負担が誰に載るかを問う報道である。文化施設周辺まで対象にした点は、観光資源と居住環境を別々に守れない現実を映す。</li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>国内編では、沖縄を選挙結果だけで閉じるか基地負担まで残すか、中部電力を政府処分と企業統治のどちらから見るか、外国人政策を将来設計と戦後の国籍問題のどちらから見るかで焦点が分かれた。</li>\n<li>海外編では、英国紙が細野晴臣の静かな親密さを評価し、新宿の民泊規制を住民の騒音・ごみ問題から読んだ。称賛と違和感の双方が、日本の日常を外から照らした。</li>\n</ul>\n<h3>参考ソース</h3>\n<ul>\n<li><a href=\"https://mainichi.jp/\">毎日新聞：沖縄知事選後の基地問題</a></li>\n<li><a href=\"https://www.tokyo-np.co.jp/\">東京新聞：中部電力に厳正対処</a></li>\n<li><a href=\"https://www3.nhk.or.jp/news/\">NHK：外国人受け入れ有識者会議</a></li>\n<li><a href=\"https://www.theguardian.com/world/japan\">The Guardian：Haruomi Hosono review</a></li>\n<li><a href=\"https://www.theguardian.com/world/japan/2026/sep/08/all\">The Guardian：Tokyo tourist hotspot bans short-term rentals</a></li>\n</ul>",
-        "markdownSource": "# 国内紙比較と世界から見た日本（2026年9月15日）\n\n## オープニング：2026年9月15日 — 国内紙比較と世界から見た日本\n\n- 9月15日の取得分を比較する。国内紙は沖縄県知事選後の基地問題、中部電力の不正、外国人受け入れを異なる入口から扱った。\n- 海外編は英国紙による細野晴臣評と、東京・新宿の民泊規制報道を通じ、文化の越境と観光地の日常の摩擦を見る。\n\n## 第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 毎日 | 「米軍基地問題巡り示された民意」「辺野古移設、容認派が県政奪還」 |\n| 日経 | 「古謝玄太氏が初当選、現職ら5人に大差」 |\n| 赤旗 | 古謝氏の所得倍増公約、PFAS、米軍基地を継続掲載 |\n| 朝日・東京・産経・読売 | 取得上位に選挙総括なし |\n\n- 毎日は保守系候補の勝利を伝えつつ、辺野古移設をめぐる沖縄の「ジレンマ」を残した。日経は候補者名と大差という結果を簡潔に示す。\n- 赤旗は公約の実現性、米軍基地由来とされるPFASへの国の対応を結び、選挙後も生活と基地負担を争点化した。\n- 同じ結果でも、政権への追い風、県民の葛藤、基地被害の継続という三つの時間軸が並ぶ。\n\n## 第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 毎日 | 「浜岡原発、不正で遠のく再稼働」「トップ辞任も再稼働諦めない」 |\n| 東京 | 「中部電力に厳正に対処する、相次ぐ不祥事で日本政府」 |\n| 他紙 | 取得上位に同件なし |\n\n- 毎日は不正が国の原子力政策と中部電力の経営へ及ぼす影響を掘り下げ、経営トップの責任と再稼働方針の継続を並べた。\n- 東京は政府の「厳正に対処」という反応を入口にした。処分の主体を政府に置くか、再稼働を急ぐ企業の統治に置くかで焦点が異なる。\n- 安全審査は設備だけでなく、提出資料と組織への信頼を前提にする。不正の影響は発電量より先に審査の正当性へ及ぶ。\n\n## 第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| NHK | 「将来的な外国人受け入れあり方を議論、政府有識者会議初会合」 |\n| 東京 | 「日本国籍、高裁も認めず、比残留2世の95歳」 |\n| 他紙 | 取得上位に直接関連記事なし |\n\n- NHKは将来の受け入れ制度を政府会議から報じた。東京は戦争によってフィリピンに残された日本人二世が国籍を認められなかった個人の生涯から制度を見る。\n- 労働力や人口の入口を設計する議論と、過去の移動が残した法的身分の出口が同じ日に現れた。\n- 「外国人」という政策カテゴリーだけでは、移住理由、家族史、国籍の証明責任の違いが消える。二紙の並置が制度の時間差を示す。\n\n## 第1部 各紙独自ニュース\n\n| 媒体 | 独自に目立った記事 |\n|---|---|\n| 朝日 | 富士山の閉山期の無謀登山を対象に、防災ヘリ救助を有料化する山梨県方針 |\n| 毎日 | 俳優・中村ゆりさんの死去、沖縄戦後政治の転換点を問う解説 |\n| 東京 | 454キロのカボチャが小豆島の大会で優勝 |\n| 赤旗 | 改憲と軍拡に反対する日本母親大会、政党助成金への批判 |\n| 産経 | 地下避難施設の人口カバー率5.9%を示す民間防衛特集 |\n| 読売 | 昭和天皇の象徴性を憲法史から分析する研究紹介 |\n| 日経 | 日本版DOGEの削減明示額が170億円にとどまるとの検証 |\n\n## 第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻\n\n- 英国のガーディアンは9月11日、細野晴臣の作品『Yours Sincerely』を「小さな歌に大きな心がある」と評した。世界的な電子音楽の先駆者という肩書より、抑制された歌と感情の厚みを評価軸に置いた。\n- 国内で細野は、はっぴいえんどやイエロー・マジック・オーケストラの歴史で語られやすい。英国の音楽評は、その系譜を踏まえつつ、現在の作品を静けさと親密さから聴いた。\n- 海外評価の価値は「日本人が世界で人気」という勲章ではない。既知の巨匠を、技術革新ではなく声の近さから再発見した点にある。\n\n## 第2部 新宿の民泊規制、観光の便利さと住民の日常\n\n- ガーディアンは9月8日、新宿区が住宅地や文化施設周辺の短期賃貸を規制したと報じた。背景として、騒音とごみ出しをめぐる住民の苦情増加を挙げた。\n- 海外旅行者には東京の宿泊選択肢の縮小だが、区の政策は観光客の消費額ではなく、住宅地で眠り、ごみを出す住民の生活時間を基準にした。\n- 日本の接客や清潔さを称賛する観光記事とは逆に、その秩序を維持する負担が誰に載るかを問う報道である。文化施設周辺まで対象にした点は、観光資源と居住環境を別々に守れない現実を映す。\n\n## まとめ\n\n- 国内編では、沖縄を選挙結果だけで閉じるか基地負担まで残すか、中部電力を政府処分と企業統治のどちらから見るか、外国人政策を将来設計と戦後の国籍問題のどちらから見るかで焦点が分かれた。\n- 海外編では、英国紙が細野晴臣の静かな親密さを評価し、新宿の民泊規制を住民の騒音・ごみ問題から読んだ。称賛と違和感の双方が、日本の日常を外から照らした。\n\n### 参考ソース\n\n- [毎日新聞：沖縄知事選後の基地問題](https://mainichi.jp/)\n- [東京新聞：中部電力に厳正対処](https://www.tokyo-np.co.jp/)\n- [NHK：外国人受け入れ有識者会議](https://www3.nhk.or.jp/news/)\n- [The Guardian：Haruomi Hosono review](https://www.theguardian.com/world/japan)\n- [The Guardian：Tokyo tourist hotspot bans short-term rentals](https://www.theguardian.com/world/japan/2026/sep/08/all)\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 17963,
-          "audioDurationSec": 598.754667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月15日、国内紙比較と世界から見た日本なのだ。",
-              "section": "オープニング：2026年9月15日 — 国内紙比較と世界から見た日本",
-              "startFrame": 18,
-              "endFrame": 204
-            },
-            {
-              "speaker": "B",
-              "text": "国内編は沖縄県知事選後の基地問題、中部電力の不正、外国人受け入れを比べます。",
-              "section": "オープニング：2026年9月15日 — 国内紙比較と世界から見た日本",
-              "startFrame": 211,
-              "endFrame": 429
-            },
-            {
-              "speaker": "A",
-              "text": "選挙が終わった後も、同じ争点が残っているかを見るのだね。",
-              "section": "オープニング：2026年9月15日 — 国内紙比較と世界から見た日本",
-              "startFrame": 437,
-              "endFrame": 589
-            },
-            {
-              "speaker": "B",
-              "text": "海外編は英国紙が聴いた細野晴臣と、新宿の民泊規制です。",
-              "section": "オープニング：2026年9月15日 — 国内紙比較と世界から見た日本",
-              "startFrame": 596,
-              "endFrame": 752
-            },
-            {
-              "speaker": "A",
-              "text": "音楽への称賛と、観光への違和感。日本の違う顔が並ぶのだ。",
-              "section": "オープニング：2026年9月15日 — 国内紙比較と世界から見た日本",
-              "startFrame": 760,
-              "endFrame": 948
-            },
-            {
-              "speaker": "B",
-              "text": "今日の問いは、ニュースが結果の先に何を残したかです。掲載の有無だけでなく、数字、制度、当事者の負担までたどり、国内と海外の視線が交わる場所を探します。",
-              "section": "オープニング：2026年9月15日 — 国内紙比較と世界から見た日本",
-              "startFrame": 955,
-              "endFrame": 1340
-            },
-            {
-              "speaker": "B",
-              "text": "毎日は、米軍基地問題を巡り示された民意、と選挙後の解説を出しました。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 1358,
-              "endFrame": 1544
-            },
-            {
-              "speaker": "A",
-              "text": "保守系候補が勝った、だけでは閉じなかったのだ。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 1551,
-              "endFrame": 1670
-            },
-            {
-              "speaker": "B",
-              "text": "辺野古移設の容認派が県政を奪還した一方、沖縄のジレンマは残ると書いています。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 1677,
-              "endFrame": 1861
-            },
-            {
-              "speaker": "A",
-              "text": "勝敗と基地への賛否を、同じものにはしなかったのだね。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 1869,
-              "endFrame": 2009
-            },
-            {
-              "speaker": "B",
-              "text": "日経は古謝玄太氏の初当選と、現職ら5人への大差を見出しにしました。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 2016,
-              "endFrame": 2183
-            },
-            {
-              "speaker": "A",
-              "text": "日経はまず、誰がどれほど勝ったかを短く伝えたのだ。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 2190,
-              "endFrame": 2333
-            },
-            {
-              "speaker": "B",
-              "text": "赤旗は古謝氏の手取り倍増公約に対し、本人が2倍にはならないと述べた点を掲載しました。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 2340,
-              "endFrame": 2544
-            },
-            {
-              "speaker": "A",
-              "text": "公約の言葉と、実際に見込む数字の幅を突き合わせたのだ。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 2552,
-              "endFrame": 2707
-            },
-            {
-              "speaker": "B",
-              "text": "さらにピーエフエーエス汚染源を米軍基地とする記事を続け、国の情報公開も批判しています。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 2715,
-              "endFrame": 2922
-            },
-            {
-              "speaker": "A",
-              "text": "選挙結果の翌朝にも、基地周辺で暮らす人の問題を残したのだね。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 2930,
-              "endFrame": 3107
-            },
-            {
-              "speaker": "B",
-              "text": "毎日は県民の葛藤、日経は大差の勝利、赤旗は公約と基地被害を入口にしました。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 3115,
-              "endFrame": 3323
-            },
-            {
-              "speaker": "A",
-              "text": "一つの票に、知事選の評価も国政の評価も全部載せるのは乱暴なのだ。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 3330,
-              "endFrame": 3519
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。勝者の政策が、基地負担と所得の双方でどう実施されるかが争点として残ります。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 3526,
-              "endFrame": 3730
-            },
-            {
-              "speaker": "A",
-              "text": "前日の報道が政権への追い風を強調したのに対し、今日は公約の実現性と基地周辺の水の問題が前へ出たのだ。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 3737,
-              "endFrame": 4038
-            },
-            {
-              "speaker": "B",
-              "text": "選挙の一日後だからこそ、陣営の勝敗から行政が負う具体的な仕事へ報道の焦点を移せるかが問われます。",
-              "section": "第1部 テーマ1: 沖縄県知事選後、基地問題をどこまで残したか",
-              "startFrame": 4046,
-              "endFrame": 4291
-            },
-            {
-              "speaker": "A",
-              "text": "次は浜岡原発と中部電力なのだ。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 4309,
-              "endFrame": 4412
-            },
-            {
-              "speaker": "B",
-              "text": "毎日は、不正で再稼働が遠のき、国の政策と会社経営へ影響すると報じました。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 4420,
-              "endFrame": 4622
-            },
-            {
-              "speaker": "A",
-              "text": "発電所の設備だけではなく、会社が出した情報への信頼が傷ついたのだね。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 4629,
-              "endFrame": 4819
-            },
-            {
-              "speaker": "B",
-              "text": "別の記事では、トップが辞任しても再稼働を諦めないという会社側の姿勢を置きました。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 4827,
-              "endFrame": 5009
-            },
-            {
-              "speaker": "A",
-              "text": "辞任で責任を区切っても、事業方針は変えないわけなのだ。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 5016,
-              "endFrame": 5164
-            },
-            {
-              "speaker": "B",
-              "text": "東京は、政府が中部電力へ厳正に対処するとした反応を見出しにしています。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 5171,
-              "endFrame": 5344
-            },
-            {
-              "speaker": "A",
-              "text": "毎日は企業の内側と再稼働、東京は監督する政府を前に出したのだ。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 5352,
-              "endFrame": 5546
-            },
-            {
-              "speaker": "B",
-              "text": "安全審査は機器の性能だけでなく、提出資料が正しいという前提で成り立ちます。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 5553,
-              "endFrame": 5734
-            },
-            {
-              "speaker": "A",
-              "text": "数字を作った組織を信頼できるかが、安全性の一部なのだ。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 5742,
-              "endFrame": 5900
-            },
-            {
-              "speaker": "B",
-              "text": "そのため不正の影響は、発電量より先に審査の正当性へ及びます。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 5907,
-              "endFrame": 6070
-            },
-            {
-              "speaker": "A",
-              "text": "電力不足を急ぐ立場と、審査の信頼を守る立場がぶつかるのだね。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 6078,
-              "endFrame": 6256
-            },
-            {
-              "speaker": "B",
-              "text": "再稼働を急ぐほど、どの資料に問題があり、誰が検証し直すかを具体化する責任が重くなります。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 6264,
-              "endFrame": 6488
-            },
-            {
-              "speaker": "A",
-              "text": "政府が厳正に対処すると言うだけでは、審査をやり直す範囲も、再稼働の日程への影響も住民には見えないのだ。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 6495,
-              "endFrame": 6784
-            },
-            {
-              "speaker": "B",
-              "text": "毎日の経営分析と東京の政府反応を合わせると、責任者の交代、資料の再検証、政策日程という三層が見えてきます。",
-              "section": "第1部 テーマ2: 中部電力の不正、政府対応と再稼働の距離",
-              "startFrame": 6792,
-              "endFrame": 7097
-            },
-            {
-              "speaker": "B",
-              "text": "エヌエイチケーは、将来の外国人受け入れを議論する政府有識者会議の初会合を伝えました。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 7115,
-              "endFrame": 7321
-            },
-            {
-              "speaker": "A",
-              "text": "人手不足や人口を見据えた、これからの入口の設計なのだ。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 7328,
-              "endFrame": 7483
-            },
-            {
-              "speaker": "B",
-              "text": "東京は、日本国籍を高裁でも認められなかったフィリピン残留二世の95歳を報じました。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 7490,
-              "endFrame": 7701
-            },
-            {
-              "speaker": "A",
-              "text": "こちらは戦争で移動を強いられた家族に、過去の制度が残した問題なのだ。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 7709,
-              "endFrame": 7894
-            },
-            {
-              "speaker": "B",
-              "text": "同じ国境の話でも、片方は受け入れる人数と仕組み、片方は一人の国籍と生涯です。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 7901,
-              "endFrame": 8107
-            },
-            {
-              "speaker": "A",
-              "text": "政策の入口は大きな数字で語れても、出口では証明書一枚が人生を左右するのだ。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 8115,
-              "endFrame": 8341
-            },
-            {
-              "speaker": "B",
-              "text": "「外国人」という一語では、働くための移住と、戦争で残された家族史の差が消えます。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 8348,
-              "endFrame": 8558
-            },
-            {
-              "speaker": "A",
-              "text": "受け入れを議論する政府は、昔の移動が残した身分問題にも向き合う必要があるのだ。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 8565,
-              "endFrame": 8776
-            },
-            {
-              "speaker": "B",
-              "text": "二つの記事を並べると、日本社会への参加を誰が、どの証拠で認めるのかが共通の論点になります。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 8784,
-              "endFrame": 9006
-            },
-            {
-              "speaker": "A",
-              "text": "95歳まで認定を求める時間の長さは、制度上の判断が本人と家族の帰属意識に及ぼす重さも示しているのだ。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 9013,
-              "endFrame": 9315
-            },
-            {
-              "speaker": "B",
-              "text": "新制度を作る会議には、人数や在留資格だけでなく、長い年月の後にも身分を証明できる仕組みという視点が必要です。",
-              "section": "第1部 テーマ3: 外国人受け入れと国籍、制度の入口と出口",
-              "startFrame": 9323,
-              "endFrame": 9596
-            },
-            {
-              "speaker": "B",
-              "text": "朝日は、閉山期の無謀登山を対象に富士山の防災ヘリ救助を有料化する山梨県方針です。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 9614,
-              "endFrame": 9834
-            },
-            {
-              "speaker": "A",
-              "text": "救助をためらわせず、無謀な登山の費用責任も問う。線引きが難しいのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 9842,
-              "endFrame": 10046
-            },
-            {
-              "speaker": "B",
-              "text": "産経は地下避難施設の人口カバー率が5.9パーセントだと報じました。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10053,
-              "endFrame": 10215
-            },
-            {
-              "speaker": "A",
-              "text": "平和を願う理念と、攻撃に備える設備の数字が同時にあるのだね。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10223,
-              "endFrame": 10397
-            },
-            {
-              "speaker": "B",
-              "text": "読売は昭和天皇が日本国憲法下で象徴だったのかを研究者が分析する書籍を紹介しました。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10404,
-              "endFrame": 10621
-            },
-            {
-              "speaker": "A",
-              "text": "現在の制度を、戦後の始まりまで遡って考える記事なのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10628,
-              "endFrame": 10795
-            },
-            {
-              "speaker": "B",
-              "text": "日経は日本版ドージについて、削減を明示できた補助金が170億円にとどまると検証しました。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10802,
-              "endFrame": 11028
-            },
-            {
-              "speaker": "A",
-              "text": "大きな看板と、実際に示した削減額の距離を数字で見せたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 11035,
-              "endFrame": 11211
-            },
-            {
-              "speaker": "B",
-              "text": "東京には小豆島で454キロのカボチャが優勝した記事もあります。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 11218,
-              "endFrame": 11371
-            },
-            {
-              "speaker": "A",
-              "text": "重い政治の後に、本当に重いカボチャが来たのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 11379,
-              "endFrame": 11505
-            },
-            {
-              "speaker": "B",
-              "text": "紙面の幅は、何を公共の関心として読者へ渡すかの幅でもあります。安全保障や行政改革と並び、地域の祭りや文化も社会の現在を記録します。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 11513,
-              "endFrame": 11859
-            },
-            {
-              "speaker": "B",
-              "text": "英国のガーディアンは9月11日、細野晴臣の『ユアーズ・シンシアリー』を評しました。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 11877,
-              "endFrame": 12099
-            },
-            {
-              "speaker": "A",
-              "text": "日本の電子音楽を開いた巨匠、という紹介だけではないのだね。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 12107,
-              "endFrame": 12267
-            },
-            {
-              "speaker": "B",
-              "text": "評価の中心は、小さな歌に大きな心がある、という抑制と感情の厚みでした。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 12275,
-              "endFrame": 12467
-            },
-            {
-              "speaker": "A",
-              "text": "技術の新しさより、今の歌声がどれほど近く聞こえるかを選んだのだ。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 12474,
-              "endFrame": 12653
-            },
-            {
-              "speaker": "B",
-              "text": "国内では、はっぴいえんどやイエロー・マジック・オーケストラの歴史で語られがちです。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 12660,
-              "endFrame": 12839
-            },
-            {
-              "speaker": "A",
-              "text": "でも英国の評者は、過去の功績を勲章にせず現在の作品を聴いたのだね。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 12847,
-              "endFrame": 13041
-            },
-            {
-              "speaker": "B",
-              "text": "海外で人気という話ではなく、既知の音楽家を別の感覚で再発見した点が面白いのです。評価語がどの演奏や声に結びつくかまで示す音楽評でした。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 13049,
-              "endFrame": 13388
-            },
-            {
-              "speaker": "A",
-              "text": "日本側も、先駆者という肩書の陰にある小さな歌を聴き直せるのだ。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 13395,
-              "endFrame": 13575
-            },
-            {
-              "speaker": "B",
-              "text": "国境を越えたのは派手な異国性ではなく、静かな親密さでした。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 13583,
-              "endFrame": 13725
-            },
-            {
-              "speaker": "A",
-              "text": "日本の音楽を珍しい文化として眺めるのではなく、一枚の新作として感情の細部を聴いた評価だからこそ価値があるのだ。",
-              "section": "第2部 海外が聴いた細野晴臣、小さな歌の大きな余韻",
-              "startFrame": 13732,
-              "endFrame": 14033
-            },
-            {
-              "speaker": "B",
-              "text": "ガーディアンは9月8日、新宿区が短期賃貸を規制したと報じました。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 14051,
-              "endFrame": 14205
-            },
-            {
-              "speaker": "A",
-              "text": "海外の読者には、東京で泊まれる場所が減るニュースに見えるのだ。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 14213,
-              "endFrame": 14369
-            },
-            {
-              "speaker": "B",
-              "text": "ただ記事が挙げた背景は、住宅地での騒音とごみ出しを巡る住民の苦情です。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 14376,
-              "endFrame": 14545
-            },
-            {
-              "speaker": "A",
-              "text": "旅行者の一晩と、住民の毎晩では、同じ音でも重さが違うのだ。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 14553,
-              "endFrame": 14743
-            },
-            {
-              "speaker": "B",
-              "text": "規制対象には住宅地だけでなく、文化施設の周辺も含まれます。観光客が訪れる場所と住民が暮らす場所が重なる新宿らしい難しさです。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 14750,
-              "endFrame": 15072
-            },
-            {
-              "speaker": "A",
-              "text": "観光で訪れる文化を守ることと、その近くの日常を守ることが重なったのだね。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 15079,
-              "endFrame": 15284
-            },
-            {
-              "speaker": "B",
-              "text": "日本の清潔さや接客を褒める観光記事は多いですが、その秩序にはごみ処理や管理の負担があります。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 15292,
-              "endFrame": 15510
-            },
-            {
-              "speaker": "A",
-              "text": "便利な民泊の価格に、近所の人の睡眠や片付けは入っていなかったのだ。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 15517,
-              "endFrame": 15705
-            },
-            {
-              "speaker": "B",
-              "text": "観光消費を増やす政策と居住環境を守る政策を、別々には設計できない事例です。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 15713,
-              "endFrame": 15918
-            },
-            {
-              "speaker": "B",
-              "text": "宿泊客、家主、近隣住民、文化施設では得る利益と引き受ける費用が違い、区の規制はその偏りを生活側から調整します。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 15926,
-              "endFrame": 16246
-            },
-            {
-              "speaker": "A",
-              "text": "海外紙の違和感は、日本の閉鎖性ではなく、人気都市が抱える費用の配分を映したのだ。",
-              "section": "第2部 新宿の民泊規制、観光の便利さと住民の日常",
-              "startFrame": 16254,
-              "endFrame": 16490
-            },
-            {
-              "speaker": "B",
-              "text": "国内紙は、沖縄の勝敗後に基地負担を残すか、中部電力を企業統治と政府処分のどちらから見るかで分かれました。",
-              "section": "まとめ",
-              "startFrame": 16509,
-              "endFrame": 16767
-            },
-            {
-              "speaker": "A",
-              "text": "外国人政策では、将来の受け入れと戦後から残る国籍問題が同じ日に並んだのだ。",
-              "section": "まとめ",
-              "startFrame": 16775,
-              "endFrame": 16997
-            },
-            {
-              "speaker": "B",
-              "text": "海外編では、細野晴臣の静かな歌への称賛と、新宿の民泊を巡る生活摩擦を扱いました。",
-              "section": "まとめ",
-              "startFrame": 17005,
-              "endFrame": 17241
-            },
-            {
-              "speaker": "A",
-              "text": "今日の共通点は、結果や評判の後ろに、誰が負担し誰が価値を受け取るかがあることなのだ。",
-              "section": "まとめ",
-              "startFrame": 17248,
-              "endFrame": 17484
-            },
-            {
-              "speaker": "B",
-              "text": "9月15日の国内紙比較と世界から見た日本でした。お聴きいただき、ありがとうございました。",
-              "section": "まとめ",
-              "startFrame": 17491,
-              "endFrame": 17693
-            },
-            {
-              "speaker": "A",
-              "text": "また次回、見出しの向こう側で会おうなのだ。日々の暮らしと制度がつながる瞬間を、一緒に考えるのだ。",
-              "section": "まとめ",
-              "startFrame": 17701,
-              "endFrame": 17963
-            }
-          ]
-        }
-      },
-      {
-        "mode": "weird",
-        "label": "世界の珍ニュース",
-        "iaId": "news-pickup-2026-09-15-weird",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-15-weird/weird_yukkuri.m4a",
-        "markdown": "<h1>世界の珍ニュース（2026年9月15日）</h1>\n<h2>オープニング：2026年9月15日 — 世界の珍ニュース</h2>\n<ul>\n<li>日本ではハンドルもペダルもない二人乗りタクシー車両が初公開された。</li>\n<li>中国の峡谷では、通学路の一部を高さ288メートルの屋外エレベーターが担う。</li>\n<li>ベルリンでは、監視カメラの人物検出を惑わせる柄のシャツをデザイナーが制作した。</li>\n</ul>\n<h2>東京に来た「運転席のない車」</h2>\n<ul>\n<li>テスラジャパンは9月11日、無人タクシー専用の二人乗り車両「サイバーキャブ」を東京・青山で日本初公開した。青山での展示は14日までで、17日から大阪、22日から名古屋、26日から東京・新宿へ巡回する。</li>\n<li>ハンドルもペダルもなく、20.5型画面、上方へ開く扉、周囲を見る8個のカメラを備える。展示は静態で、来場者の乗車や試乗はできなかった。</li>\n<li>日本での販売・運行時期は未定。ハンドルがないため現行の保安基準では公道走行できず、華やかな日本初公開と制度上の距離が同居する。</li>\n<li>出典: <a href=\"https://www.tesla.com/ja_jp/event/2026sep_cc_tour_getupdate\">テスラ公式</a> / <a href=\"https://www.itmedia.co.jp/news/article/2609/11/2000001424/\">ITmedia NEWS</a></li>\n</ul>\n<h2>通学路が高さ288メートルのエレベーター</h2>\n<ul>\n<li>中国・雲南省の尼珠河村は峡谷の底にあり、子どもたちは約3時間かけて山道を登り、寄宿学校へ通っていた。</li>\n<li>2022年に高さ268メートルの青雲梯が稼働したが、観光客の増加で長い列ができた。そこで隣に、より大きい81人乗りの扶揺梯が建設され、2026年7月31日に運転を始めた。</li>\n<li>新しいエレベーターは高さ288メートルを約50秒で上る。送迎車とロープウェーも乗り継ぐが、通学は約30分へ短縮され、児童は無料で利用できる。</li>\n<li>出典: <a href=\"https://www.odditycentral.com/architecture/china-builds-288-meter-outdoor-elevator-to-help-children-reach-school-easier.html\">Oddity Central</a> / <a href=\"https://tvrinfo.ro/autobuzul-scolar-care-urca-pe-verticala-china-a-construit-un-lift-de-288-de-metri-pe-peretele-unui-canion-pentru-copiii-care-mergeau-trei-ore-la-scoala/\">TVR Info</a></li>\n</ul>\n<h2>人には派手、カメラには「人ではない」シャツ</h2>\n<ul>\n<li>ベルリンのデザイナー、ジモン・ヴェッカートは、桃色、橙色、緑色の抽象柄を配した「デジタル・カモフラージュ」を制作した。</li>\n<li>人物検出器へ候補柄を見せ、検出の確信度を測って柄を調整する「敵対的ループ」を反復。人の輪郭や頭・肩の統計的特徴を崩し、試した特定の検出システムでは着用者を人物として囲めなくした。</li>\n<li>2026年6月、ベルリンのコットブッサー・トーアにある実働カメラの前でも試した。すべての監視装置に通じる万能な透明マントではなく、機械の見方を服で可視化する作品である。</li>\n<li>出典: <a href=\"https://www.odditycentral.com/news/worlds-ugliest-hawaiian-shirt-was-designed-to-make-you-invisible-to-ai-surveillance-cameras.html\">Oddity Central</a> / <a href=\"https://petapixel.com/2026/08/27/this-hawaiian-shirt-tricks-ai-surveillance-cameras-into-thinking-youre-not-human/\">PetaPixel</a></li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>東京の車は運転席を消したが、日本の道路ではまだ走れない。</li>\n<li>雲南のエレベーターは、観光施設と通学インフラを同じ崖で両立させた。</li>\n<li>ベルリンのシャツは人から隠れるのでなく、特定の機械の「人らしさ」から外れる発想だった。</li>\n</ul>",
-        "markdownSource": "# 世界の珍ニュース（2026年9月15日）\n\n## オープニング：2026年9月15日 — 世界の珍ニュース\n\n- 日本ではハンドルもペダルもない二人乗りタクシー車両が初公開された。\n- 中国の峡谷では、通学路の一部を高さ288メートルの屋外エレベーターが担う。\n- ベルリンでは、監視カメラの人物検出を惑わせる柄のシャツをデザイナーが制作した。\n\n## 東京に来た「運転席のない車」\n\n- テスラジャパンは9月11日、無人タクシー専用の二人乗り車両「サイバーキャブ」を東京・青山で日本初公開した。青山での展示は14日までで、17日から大阪、22日から名古屋、26日から東京・新宿へ巡回する。\n- ハンドルもペダルもなく、20.5型画面、上方へ開く扉、周囲を見る8個のカメラを備える。展示は静態で、来場者の乗車や試乗はできなかった。\n- 日本での販売・運行時期は未定。ハンドルがないため現行の保安基準では公道走行できず、華やかな日本初公開と制度上の距離が同居する。\n- 出典: [テスラ公式](https://www.tesla.com/ja_jp/event/2026sep_cc_tour_getupdate) / [ITmedia NEWS](https://www.itmedia.co.jp/news/article/2609/11/2000001424/)\n\n## 通学路が高さ288メートルのエレベーター\n\n- 中国・雲南省の尼珠河村は峡谷の底にあり、子どもたちは約3時間かけて山道を登り、寄宿学校へ通っていた。\n- 2022年に高さ268メートルの青雲梯が稼働したが、観光客の増加で長い列ができた。そこで隣に、より大きい81人乗りの扶揺梯が建設され、2026年7月31日に運転を始めた。\n- 新しいエレベーターは高さ288メートルを約50秒で上る。送迎車とロープウェーも乗り継ぐが、通学は約30分へ短縮され、児童は無料で利用できる。\n- 出典: [Oddity Central](https://www.odditycentral.com/architecture/china-builds-288-meter-outdoor-elevator-to-help-children-reach-school-easier.html) / [TVR Info](https://tvrinfo.ro/autobuzul-scolar-care-urca-pe-verticala-china-a-construit-un-lift-de-288-de-metri-pe-peretele-unui-canion-pentru-copiii-care-mergeau-trei-ore-la-scoala/)\n\n## 人には派手、カメラには「人ではない」シャツ\n\n- ベルリンのデザイナー、ジモン・ヴェッカートは、桃色、橙色、緑色の抽象柄を配した「デジタル・カモフラージュ」を制作した。\n- 人物検出器へ候補柄を見せ、検出の確信度を測って柄を調整する「敵対的ループ」を反復。人の輪郭や頭・肩の統計的特徴を崩し、試した特定の検出システムでは着用者を人物として囲めなくした。\n- 2026年6月、ベルリンのコットブッサー・トーアにある実働カメラの前でも試した。すべての監視装置に通じる万能な透明マントではなく、機械の見方を服で可視化する作品である。\n- 出典: [Oddity Central](https://www.odditycentral.com/news/worlds-ugliest-hawaiian-shirt-was-designed-to-make-you-invisible-to-ai-surveillance-cameras.html) / [PetaPixel](https://petapixel.com/2026/08/27/this-hawaiian-shirt-tricks-ai-surveillance-cameras-into-thinking-youre-not-human/)\n\n## まとめ\n\n- 東京の車は運転席を消したが、日本の道路ではまだ走れない。\n- 雲南のエレベーターは、観光施設と通学インフラを同じ崖で両立させた。\n- ベルリンのシャツは人から隠れるのでなく、特定の機械の「人らしさ」から外れる発想だった。\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 15089,
-          "audioDurationSec": 502.950667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月15日、世界の珍ニュースなのだ。今日は日本の運転席がない車、中国の空飛ぶ通学路、ベルリンの派手すぎる迷彩なのだ。",
-              "section": "オープニング：2026年9月15日 — 世界の珍ニュース",
-              "startFrame": 18,
-              "endFrame": 406
-            },
-            {
-              "speaker": "B",
-              "text": "どれも何かを消す工夫です。車から操作装置を、通学から三時間の山登りを、監視映像から人を見つける手掛かりを消しました。",
-              "section": "オープニング：2026年9月15日 — 世界の珍ニュース",
-              "startFrame": 413,
-              "endFrame": 703
-            },
-            {
-              "speaker": "A",
-              "text": "消した結果、暮らしはどこまで変わったのだ？",
-              "section": "オープニング：2026年9月15日 — 世界の珍ニュース",
-              "startFrame": 710,
-              "endFrame": 822
-            },
-            {
-              "speaker": "B",
-              "text": "実物、数字、そして残った制約を並べましょう。奇抜な見た目の奥に、交通と教育と機械の視覚があります。",
-              "section": "オープニング：2026年9月15日 — 世界の珍ニュース",
-              "startFrame": 830,
-              "endFrame": 1092
-            },
-            {
-              "speaker": "B",
-              "text": "テスラジャパンは9月11日、無人タクシー専用車「サイバーキャブ」を東京・青山で日本初公開しました。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 1110,
-              "endFrame": 1372
-            },
-            {
-              "speaker": "A",
-              "text": "自動運転の車なら見たことがあるけど、どこが珍しいのだ？",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 1380,
-              "endFrame": 1535
-            },
-            {
-              "speaker": "B",
-              "text": "二人乗りで、ハンドルもアクセルもブレーキペダルもありません。運転席という場所そのものを作らなかった車です。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 1542,
-              "endFrame": 1770
-            },
-            {
-              "speaker": "A",
-              "text": "乗り込んでから「やっぱり自分で運転する」は選べないのだ！",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 1778,
-              "endFrame": 1932
-            },
-            {
-              "speaker": "B",
-              "text": "車内は二人掛けのベンチ席と、20.5型の大画面が中心です。画面では音楽や動画、ゲーム、カラオケも使えます。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 1940,
-              "endFrame": 2217
-            },
-            {
-              "speaker": "A",
-              "text": "前を見る席ではなく、移動中を過ごす小部屋として作ったのだな。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 2225,
-              "endFrame": 2388
-            },
-            {
-              "speaker": "B",
-              "text": "外側も独特です。扉は上へ開き、前18インチ、後ろ21インチの車輪を備え、周囲は合計8個のカメラで見ます。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 2395,
-              "endFrame": 2705
-            },
-            {
-              "speaker": "A",
-              "text": "屋根の上で回る大きなセンサーはないのだ？",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 2713,
-              "endFrame": 2815
-            },
-            {
-              "speaker": "B",
-              "text": "レーザー光で距離を測るライダーは積まず、複数のカメラを使う設計です。外板は樹脂製で、成形時に金色を付けるため塗装工程もありません。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 2823,
-              "endFrame": 3148
-            },
-            {
-              "speaker": "A",
-              "text": "ハンドルだけでなく、塗装の工程まで消したのだ。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 3155,
-              "endFrame": 3274
-            },
-            {
-              "speaker": "B",
-              "text": "青山では9月14日まで静態展示されました。囲いの外から見る方式で、乗車も試乗もできませんでした。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 3281,
-              "endFrame": 3517
-            },
-            {
-              "speaker": "A",
-              "text": "走るための車なのに、東京では見るだけ。そこがいちばん不思議なのだ。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 3524,
-              "endFrame": 3703
-            },
-            {
-              "speaker": "B",
-              "text": "日本での販売と運行時期は未定です。テスラジャパン社長によると、ハンドルがないため現行の保安基準では公道を走れません。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 3710,
-              "endFrame": 3983
-            },
-            {
-              "speaker": "A",
-              "text": "技術の問題だけではなく、車は人が操作できるという制度の前提にもぶつかるのだな。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 3991,
-              "endFrame": 4205
-            },
-            {
-              "speaker": "B",
-              "text": "そうです。アメリカ・テキサス州では4月に量産が始まり、オースティンでは9月から一般客を運び始めました。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 4212,
-              "endFrame": 4454
-            },
-            {
-              "speaker": "A",
-              "text": "海の向こうでは客を乗せ、日本では客が柵の外から眺める。同じ車の役割が正反対なのだ。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 4461,
-              "endFrame": 4727
-            },
-            {
-              "speaker": "B",
-              "text": "次は17日から大阪、22日から名古屋、26日から東京・新宿です。日本一周に近づいても、公道での走行距離はまだゼロです。",
-              "section": "東京に来た「運転席のない車」",
-              "startFrame": 4735,
-              "endFrame": 5082
-            },
-            {
-              "speaker": "B",
-              "text": "中国・雲南省の尼珠河村では、学校へ行く子どもが峡谷の底から急な山道を約三時間登っていました。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 5100,
-              "endFrame": 5354
-            },
-            {
-              "speaker": "A",
-              "text": "毎朝の通学が登山なのだ。帰りも入れれば六時間なのだ？",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 5362,
-              "endFrame": 5520
-            },
-            {
-              "speaker": "B",
-              "text": "寄宿学校なので移動はおよそ三週間ごとでしたが、荷物を持つ険しい道です。児童は、注意しないと滑り落ちそうだったと話しています。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 5528,
-              "endFrame": 5819
-            },
-            {
-              "speaker": "A",
-              "text": "そこへスクールバスではなく、エレベーターを置いたのだな。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 5826,
-              "endFrame": 5956
-            },
-            {
-              "speaker": "B",
-              "text": "2022年、高さ268メートルの青雲梯が崖に造られました。ところが絶景を求める観光客が集まり、数時間待ちの列ができました。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 5963,
-              "endFrame": 6307
-            },
-            {
-              "speaker": "A",
-              "text": "通学を助ける設備が人気観光施設になって、児童まで列に並んだのだ？",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 6315,
-              "endFrame": 6510
-            },
-            {
-              "speaker": "B",
-              "text": "児童は無料でしたが、混雑は避けられません。そこで隣に二基目の扶揺梯が建設され、2026年7月31日に運転を始めました。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 6518,
-              "endFrame": 6844
-            },
-            {
-              "speaker": "A",
-              "text": "エレベーターの渋滞を、さらに大きなエレベーターで解いたのだ。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 6852,
-              "endFrame": 6997
-            },
-            {
-              "speaker": "B",
-              "text": "新しい扶揺梯は高さ288メートル、81人乗りです。崖に沿って約50秒で上り、古い設備より20メートル高く、かごも広くなりました。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 7005,
-              "endFrame": 7369
-            },
-            {
-              "speaker": "A",
-              "text": "288メートルを50秒。学校へ向かう途中で、展望台の景色を一気に上るのだ。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 7377,
-              "endFrame": 7620
-            },
-            {
-              "speaker": "B",
-              "text": "ただし家から教室へ直通ではありません。送迎車でエレベーターへ行き、さらにロープウェーへ乗り継ぎます。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 7628,
-              "endFrame": 7854
-            },
-            {
-              "speaker": "A",
-              "text": "縦のスクールバスだけで全部解決、ではないのだな。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 7861,
-              "endFrame": 7992
-            },
-            {
-              "speaker": "B",
-              "text": "それでも所要時間は三時間から約30分へ短縮されました。観光客の待ち時間も、二基体制で半分ほどになりました。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 8000,
-              "endFrame": 8268
-            },
-            {
-              "speaker": "A",
-              "text": "観光の人気が通学を邪魔し、増設すると両方が便利になる。珍しい利害の重なり方なのだ。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 8275,
-              "endFrame": 8528
-            },
-            {
-              "speaker": "B",
-              "text": "観光客は料金を払い、児童は無料で使います。さらに児童が人波に紛れないよう、通学用の動線も分けました。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 8535,
-              "endFrame": 8806
-            },
-            {
-              "speaker": "A",
-              "text": "高さの数字だけでなく、誰を先に運ぶかまで設計して、初めて通学路になるのだ。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 8813,
-              "endFrame": 9028
-            },
-            {
-              "speaker": "B",
-              "text": "崖を削って普通の道路へ近づけるのでなく、地形の大きさに交通の向きを合わせた例ですね。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 9036,
-              "endFrame": 9232
-            },
-            {
-              "speaker": "A",
-              "text": "学校へ横に走るのが難しいなら、288メートル上へ行く。地図を立てて考えた答えなのだ。",
-              "section": "通学路が高さ288メートルのエレベーター",
-              "startFrame": 9240,
-              "endFrame": 9503
-            },
-            {
-              "speaker": "B",
-              "text": "三本目はベルリンのデザイナー、ジモン・ヴェッカートが作った「デジタル・カモフラージュ」です。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 9521,
-              "endFrame": 9745
-            },
-            {
-              "speaker": "A",
-              "text": "迷彩なら周りへ溶け込む地味な色を想像するのだ。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 9752,
-              "endFrame": 9874
-            },
-            {
-              "speaker": "B",
-              "text": "これは反対。桃色、橙色、緑色が渦巻く、とても目立つシャツです。人間の目から隠れる気はありません。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 9882,
-              "endFrame": 10141
-            },
-            {
-              "speaker": "A",
-              "text": "では、何から隠れるのだ？",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 10148,
-              "endFrame": 10225
-            },
-            {
-              "speaker": "B",
-              "text": "監視カメラ映像から人を探す、特定の人物検出システムです。狙いは顔を隠す前に、そもそも人として囲まれないことです。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 10233,
-              "endFrame": 10515
-            },
-            {
-              "speaker": "A",
-              "text": "顔にモザイクではなく、機械へ「ここに人はいません」と思わせるのだな。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 10523,
-              "endFrame": 10708
-            },
-            {
-              "speaker": "B",
-              "text": "人物検出器は輪郭、明暗、質感、頭と肩、手足と胴体の比率などを統計的に組み合わせます。シャツはその組み合わせを崩します。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 10715,
-              "endFrame": 11044
-            },
-            {
-              "speaker": "A",
-              "text": "派手な模様の一つ一つが、機械の目には煙幕になるのだ。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 11051,
-              "endFrame": 11192
-            },
-            {
-              "speaker": "B",
-              "text": "柄を勘だけで描いたわけではありません。候補を作り、検出器へ見せ、人物と判断する確信度を測り、また調整する作業を反復しました。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 11200,
-              "endFrame": 11521
-            },
-            {
-              "speaker": "A",
-              "text": "監視に使うエーアイ自身へ、隠れ方の先生もさせたのだ！",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 11529,
-              "endFrame": 11682
-            },
-            {
-              "speaker": "B",
-              "text": "ヴェッカートはこの工程を敵対的ループと説明します。同じ種類の技術が見る側と隠す側の両方へ入る、きれいな皮肉です。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 11689,
-              "endFrame": 11960
-            },
-            {
-              "speaker": "A",
-              "text": "実験室だけで成功した服なのだ？",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 11967,
-              "endFrame": 12061
-            },
-            {
-              "speaker": "B",
-              "text": "2026年6月、ベルリンのコットブッサー・トーアにある実働の監視カメラ前でも試しました。テストしたシステムは着用者を人物として囲めませんでした。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 12068,
-              "endFrame": 12400
-            },
-            {
-              "speaker": "A",
-              "text": "目立ちすぎて通行人は二度見するのに、カメラだけが素通りするのだな。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 12408,
-              "endFrame": 12574
-            },
-            {
-              "speaker": "B",
-              "text": "ただし万能な透明マントではありません。検出器の種類、角度、距離、更新によって結果は変わり得ます。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 12581,
-              "endFrame": 12829
-            },
-            {
-              "speaker": "A",
-              "text": "服が人を消したというより、一つの機械が考える「人らしさ」の穴を見せたのだ。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 12837,
-              "endFrame": 13050
-            },
-            {
-              "speaker": "B",
-              "text": "まさにそこが作品の面白さです。人には醜いほど派手、機械には人でない。その食い違いを一枚の布で体験できます。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 13057,
-              "endFrame": 13324
-            },
-            {
-              "speaker": "A",
-              "text": "将来カメラが学び直したら、シャツも新柄へ着替えるのだ？",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 13332,
-              "endFrame": 13480
-            },
-            {
-              "speaker": "B",
-              "text": "見る側が更新すれば、惑わせる側も更新するでしょう。流行ではなく、機械同士の季節ごとの衣替えになりそうです。",
-              "section": "人には派手、カメラには「人ではない」シャツ",
-              "startFrame": 13487,
-              "endFrame": 13751
-            },
-            {
-              "speaker": "A",
-              "text": "今日は車から運転席、通学から山登り、監視映像から人の輪郭を消す三つの工夫だったのだ。",
-              "section": "まとめ",
-              "startFrame": 13769,
-              "endFrame": 14035
-            },
-            {
-              "speaker": "B",
-              "text": "でも消した後にも、日本の保安基準、観光客の列、検出器の更新が残りました。発明は問題を消すだけでなく、次の調整を作ります。",
-              "section": "まとめ",
-              "startFrame": 14043,
-              "endFrame": 14381
-            },
-            {
-              "speaker": "A",
-              "text": "柵の中の無人タクシー、崖を上る81人乗り、カメラに見えない派手シャツ。現実の方が想像より一段ひねっているのだ。",
-              "section": "まとめ",
-              "startFrame": 14389,
-              "endFrame": 14723
-            },
-            {
-              "speaker": "B",
-              "text": "最後まで聞いてくださり、ありがとうございました。次回も、数字まで確かめるとさらに面白い世界の工夫をお届けします。",
-              "section": "まとめ",
-              "startFrame": 14730,
-              "endFrame": 14983
-            },
-            {
-              "speaker": "A",
-              "text": "また次回の世界の珍ニュースで会おうなのだ！",
-              "section": "まとめ",
-              "startFrame": 14991,
-              "endFrame": 15089
-            }
-          ]
-        }
-      },
-      {
-        "mode": "spain",
-        "label": "スペインニュース",
-        "iaId": "news-pickup-2026-09-15-spain",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-15-spain/spain_yukkuri.m4a",
-        "markdown": "<h1>スペインニュース 2026年9月15日</h1>\n<h2>オープニング：2026年9月15日 — スペイン文化・フラメンコ便り</h2>\n<ul>\n<li>ずんだもん＆四国めたんがスペイン語の挨拶からお届け</li>\n</ul>\n<h2>今日のスペイン語ひとこと</h2>\n<ul>\n<li><strong>「¡Qué guay!」（ケ・グアイ、「イケてる！」）</strong> — 若者言葉で驚きや称賛を表すカジュアルな表現。フォーマルな場では使わず、友人同士の会話向き。</li>\n</ul>\n<h2>国際情勢（スペイン視点）</h2>\n<ul>\n<li>マクロン仏大統領が任期終盤にスペインを訪問。両国が進めてきた協力協定はフランス側の政治的行き詰まりで棚上げ状態が続く。</li>\n</ul>\n<h2>スペイン国内ニュース</h2>\n<ul>\n<li>セウタ（北アフリカのスペイン領）を巡る政治スキャンダルが深刻化。モロッコ関与を指摘してきた警察トップが退任直前のインタビューで内幕を語り、担当判事はセウタの捜査をアウディエンシア・ナシオナル（国家管轄の特別法廷）へ移管するよう提案した。左派El Paísは司法と政治的真実のねじれを論じ、右派El Mundoは政府・与党が一部判事を名指しで批判する構図を伝え、対立の温度差が見える。</li>\n</ul>\n<h2>文化・芸能ニュース</h2>\n<ul>\n<li>作家ハビエル・マリアス（Javier Marías、2022年没）の未発表エッセイがカスティーリャ語（スペイン語）で初めて刊行された。シェイクスピア翻訳者としても知られたマリアスが、その翻訳経験を踏まえて英文学と自国語表現の間を論じた文章とされる。生前El Paísのコラムニストとして辛口の時評でも知られ、没後もなお新資料が発掘され続けている作家である。</li>\n</ul>\n<h2>フラメンコニュース</h2>\n<ul>\n<li>第45回コルドバ・ギター祭が開幕し、フラメンコ・クラシック双方の大御所が一堂に会するコンサートが組まれている。</li>\n<li>コルドバ県の街コンデスタブレでは、大御所カンタオール、エル・ペレが市庁舎のバルコニーから歌う異例の形式を含む2公演が予定されている。</li>\n<li>エストレマドゥーラ州バダホスの広場アルタでは、トマス・ルビチ、チェロ・パントーハ、バルーリョのカンテとソラヤ・クラビホのバイレを組み合わせた夜が開かれる。</li>\n<li>マラガ県アロサイナの「アルメナ・フラメンカ」でも、カンテ・ギター・バイレを一堂に集めたイベントが行われる。</li>\n</ul>\n<h2>フラメンコギタリスト列伝</h2>\n<ul>\n<li>今日は<strong>トマティート（Tomatito、本名 José Fernández Torres、1958年生）</strong>。アルメリア生まれ、幼少期からグラナダ育ちのヒターノの家系で、父もギタリストだった。</li>\n<li>1970年代からカマロン・デ・ラ・イスラの専属伴奏者を長く務め、『La leyenda del tiempo』以降の一連の録音でカンテを支えた。1992年のカマロン没後は独奏・作曲家として活動を広げ、代表作『Guitarra Flamenca』『Paseo de los Castañosシリーズ』で高い評価を得ている。</li>\n<li>右手のピカードは速さだけでなく明瞭な粒立ちが特徴で、アルペジオでは低音の重心を崩さずに旋律を歌わせる。カンテ伴奏で培った「歌の語尾を埋めない」間の取り方を独奏にも持ち込み、速い技巧が旋律の呼吸を邪魔しない。</li>\n<li>パコ・デ・ルシアと並び現代フラメンコギターの語法を広げた奏者の一人とされ、後進のギタリストに大きな影響を与え続けている。</li>\n</ul>\n<h2>フラメンコバイレ列伝</h2>\n<ul>\n<li>今日は<strong>アントニオ・ガデス（Antonio Gades、本名 Antonio Esteve Ródenas、1936–2004）</strong>。アリカンテ生まれ。少年期にマドリードへ出て、ピラール・ロペスの舞踊団で修業した。</li>\n<li>カルロス・サウラ監督の映画三部作『血の婚礼』『カルメン』『恋は魔術師』での主演・振付で世界的に知られ、映像を通じてフラメンコ舞踊を国際的な観客へ届けた。1970年代には自身の舞踊団を率い、古典舞踊とフラメンコを融合した舞台作品を数多く手がけた。</li>\n<li>過度な装飾を排した直線的で力強い上体、感情を抑制しながら足技で語る様式が特徴とされ、当時のフラメンコ舞踊に演劇的な物語性を持ち込んだ点が評価されている。</li>\n<li>振付家・舞踊団主宰者として後進の育成にも力を注ぎ、現在も彼の名を冠した財団が作品の継承・教育活動を続けている。</li>\n</ul>\n<h2>フラメンコカンテ列伝</h2>\n<ul>\n<li>今日は<strong>ラ・ニーニャ・デ・ロス・ペイネス（La Niña de los Peines、本名 Pastora María Pavón Cruz、1890–1969）</strong>。セビリア生まれ。10代から舞台に立ち、20世紀前半を代表する女性カンタオーラとなった。</li>\n<li>シギリージャ、ソレア、ペテネーラなど「カンテ・ホンド（深い歌）」の分野で高い評価を受け、同時に軽快なカンティーニャス系のパロも歌いこなす幅の広さを持っていた。詩人フェデリコ・ガルシア・ロルカや作曲家マヌエル・デ・ファリャが1922年に開催した「カンテ・ホンド・コンクール」にも関わりが深い世代の歌い手とされる。</li>\n<li>声質は太く抑制の効いた低音域を持ちながら、メリスマ（節回し）を過剰に飾らず、歌詞の語りを前面に出す歌唱で知られた。</li>\n<li>兄トマス・パボンや夫ピニェイロら一族もフラメンコに携わり、後続世代の女性カンタオーラたちに規範を示した歌い手として、現在も録音が研究・参照され続けている。</li>\n</ul>\n<h2>フラメンコギター工房だより</h2>\n<ul>\n<li>今日はマドリードの<strong>フェリペ・コンデ工房（Felipe Conde）</strong>。ドミンゴ・エステソの系譜に連なる一族の一人フェリペ・コンデが、マドリード中心部の工房で製作を続けている実在の工房である。</li>\n<li>フラメンコ器ではスプルースの表板とシープレスの横・裏板を用いる伝統的な仕様を基本とし、軽い胴、低めの弦高、速い音の立ち上がりを狙う。ゴルペアドールで表板を保護しつつ、ラスゲアードやゴルペの輪郭を舞台へ明瞭に送る調整を行う。</li>\n<li>一族の系譜に連なる工房が複数存在するため、ラベルと製作年代、実際の担当製作家の確認が個体評価に欠かせない点は、昨日紹介したコンデ・エルマノスと共通する課題である。</li>\n<li>奏者の右手の強さや伴奏・独奏の用途に応じて弦高やネック角を調整する姿勢は、日本の工芸産地で使い手の要望に合わせて仕上げを変える職人文化と重なる。</li>\n</ul>\n<h2>フラメンコのパロ解説</h2>\n<ul>\n<li>今日のパロは<strong>ソレア（Soleá）</strong>。アンダルシアのカディス・セビリア・ヘレスの三角地帯で19世紀のうちに形を整えたとされ、フラメンコの「母」とも呼ばれる中心的なパロだが、成立の細部には諸説ある。カンテ・ホンド（深い歌）に分類される。</li>\n<li>情感は重く内省的で、孤独、喪失、誇り、不変の運命といったテーマの短いレトラ（詩節）が歌われる。多くの派生パロ（ブレリア、カンティーニャス系など）の母体になったとされ、フラメンコの体系の中で基準点のような位置を占める。</li>\n<li>レトラは通常3行または4行の八音節詩で構成され、バイレでは重厚な足技（サパテアード）と静的な腕の動き（ブラソ）が組み合わされる。歌い手が主導し、ギターと踊りがその呼吸に合わせる構成が伝統的とされる。</li>\n<li>コンパスは12拍を一巡とする体系で捉えられ、代表的な重心の置き方の一例では<strong>1、3、6、8、10、12</strong>にアクセントを置く。パルマと足拍子はこの重みを崩さず支える。</li>\n<li>和声はフリジア旋法を基礎にしたアンダルシア終止が典型で、コード名を英語読みで表記すると、<strong>Am → G → F → E</strong>、つまり<strong>エーマイナー → ジー → エフ → イー</strong>と下降する進行がソレアの骨格を作る。カポタストで歌い手の音域へ合わせ、ファルセータはレトラの間を埋めすぎずに置く。</li>\n<li>「フラメンコの母」と呼ばれる重みは、テンポの遅さだけでなく、この下降和声と12拍の重心が組み合わさって生まれる、独特の静かな緊張感にある。</li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>政治の混乱するセウタ、シェイクスピアと向き合い続けた作家の新資料、コルドバのギター祭からアロサイナの小さな夜、そしてフラメンコの「母」ソレアまで——今日もフラメンコが番組の主役だった。</li>\n<li>ずんだもん＆四国めたんがスペイン語のお別れ挨拶でしめくくる</li>\n</ul>\n<h2>参考ソース</h2>\n<ul>\n<li>El País Internacional / España / Cultura</li>\n<li>El Mundo / El Mundo Cultura</li>\n<li>Google News フラメンコ</li>\n<li>ギタリスト列伝：トマティート「José Fernández Tomatito interpreta una rondeña｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=f1C39M3T-QA</li>\n<li>バイレ列伝：アントニオ・ガデス「Bodas de Sangre y Suite Flamenca｜Fundación Antonio Gades」 https://www.youtube.com/watch?v=Mf1vsPYyZD0</li>\n<li>カンテ列伝：ラ・ニーニャ・デ・ロス・ペイネス「la voz Bien de Interés Cultural｜Canal Sur」 https://www.youtube.com/watch?v=GXnHYYcNLlE</li>\n<li>工房だより：フェリペ・コンデ工房 公式サイト https://condehermanos.com/en/</li>\n<li>パロ解説：ソレア「Gaspar de Utrera por soleares｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QQAqBt5vDDs</li>\n</ul>",
-        "title": "トマティートとソレアの12拍｜スペイン文化・フラメンコ便り 2026/09/15",
-        "markdownSource": "# スペインニュース 2026年9月15日\n\n## オープニング：2026年9月15日 — スペイン文化・フラメンコ便り\n\n- ずんだもん＆四国めたんがスペイン語の挨拶からお届け\n\n## 今日のスペイン語ひとこと\n\n- **「¡Qué guay!」（ケ・グアイ、「イケてる！」）** — 若者言葉で驚きや称賛を表すカジュアルな表現。フォーマルな場では使わず、友人同士の会話向き。\n\n## 国際情勢（スペイン視点）\n\n- マクロン仏大統領が任期終盤にスペインを訪問。両国が進めてきた協力協定はフランス側の政治的行き詰まりで棚上げ状態が続く。\n\n## スペイン国内ニュース\n\n- セウタ（北アフリカのスペイン領）を巡る政治スキャンダルが深刻化。モロッコ関与を指摘してきた警察トップが退任直前のインタビューで内幕を語り、担当判事はセウタの捜査をアウディエンシア・ナシオナル（国家管轄の特別法廷）へ移管するよう提案した。左派El Paísは司法と政治的真実のねじれを論じ、右派El Mundoは政府・与党が一部判事を名指しで批判する構図を伝え、対立の温度差が見える。\n\n## 文化・芸能ニュース\n\n- 作家ハビエル・マリアス（Javier Marías、2022年没）の未発表エッセイがカスティーリャ語（スペイン語）で初めて刊行された。シェイクスピア翻訳者としても知られたマリアスが、その翻訳経験を踏まえて英文学と自国語表現の間を論じた文章とされる。生前El Paísのコラムニストとして辛口の時評でも知られ、没後もなお新資料が発掘され続けている作家である。\n\n## フラメンコニュース\n\n- 第45回コルドバ・ギター祭が開幕し、フラメンコ・クラシック双方の大御所が一堂に会するコンサートが組まれている。\n- コルドバ県の街コンデスタブレでは、大御所カンタオール、エル・ペレが市庁舎のバルコニーから歌う異例の形式を含む2公演が予定されている。\n- エストレマドゥーラ州バダホスの広場アルタでは、トマス・ルビチ、チェロ・パントーハ、バルーリョのカンテとソラヤ・クラビホのバイレを組み合わせた夜が開かれる。\n- マラガ県アロサイナの「アルメナ・フラメンカ」でも、カンテ・ギター・バイレを一堂に集めたイベントが行われる。\n\n## フラメンコギタリスト列伝\n\n- 今日は**トマティート（Tomatito、本名 José Fernández Torres、1958年生）**。アルメリア生まれ、幼少期からグラナダ育ちのヒターノの家系で、父もギタリストだった。\n- 1970年代からカマロン・デ・ラ・イスラの専属伴奏者を長く務め、『La leyenda del tiempo』以降の一連の録音でカンテを支えた。1992年のカマロン没後は独奏・作曲家として活動を広げ、代表作『Guitarra Flamenca』『Paseo de los Castañosシリーズ』で高い評価を得ている。\n- 右手のピカードは速さだけでなく明瞭な粒立ちが特徴で、アルペジオでは低音の重心を崩さずに旋律を歌わせる。カンテ伴奏で培った「歌の語尾を埋めない」間の取り方を独奏にも持ち込み、速い技巧が旋律の呼吸を邪魔しない。\n- パコ・デ・ルシアと並び現代フラメンコギターの語法を広げた奏者の一人とされ、後進のギタリストに大きな影響を与え続けている。\n\n## フラメンコバイレ列伝\n\n- 今日は**アントニオ・ガデス（Antonio Gades、本名 Antonio Esteve Ródenas、1936–2004）**。アリカンテ生まれ。少年期にマドリードへ出て、ピラール・ロペスの舞踊団で修業した。\n- カルロス・サウラ監督の映画三部作『血の婚礼』『カルメン』『恋は魔術師』での主演・振付で世界的に知られ、映像を通じてフラメンコ舞踊を国際的な観客へ届けた。1970年代には自身の舞踊団を率い、古典舞踊とフラメンコを融合した舞台作品を数多く手がけた。\n- 過度な装飾を排した直線的で力強い上体、感情を抑制しながら足技で語る様式が特徴とされ、当時のフラメンコ舞踊に演劇的な物語性を持ち込んだ点が評価されている。\n- 振付家・舞踊団主宰者として後進の育成にも力を注ぎ、現在も彼の名を冠した財団が作品の継承・教育活動を続けている。\n\n## フラメンコカンテ列伝\n\n- 今日は**ラ・ニーニャ・デ・ロス・ペイネス（La Niña de los Peines、本名 Pastora María Pavón Cruz、1890–1969）**。セビリア生まれ。10代から舞台に立ち、20世紀前半を代表する女性カンタオーラとなった。\n- シギリージャ、ソレア、ペテネーラなど「カンテ・ホンド（深い歌）」の分野で高い評価を受け、同時に軽快なカンティーニャス系のパロも歌いこなす幅の広さを持っていた。詩人フェデリコ・ガルシア・ロルカや作曲家マヌエル・デ・ファリャが1922年に開催した「カンテ・ホンド・コンクール」にも関わりが深い世代の歌い手とされる。\n- 声質は太く抑制の効いた低音域を持ちながら、メリスマ（節回し）を過剰に飾らず、歌詞の語りを前面に出す歌唱で知られた。\n- 兄トマス・パボンや夫ピニェイロら一族もフラメンコに携わり、後続世代の女性カンタオーラたちに規範を示した歌い手として、現在も録音が研究・参照され続けている。\n\n## フラメンコギター工房だより\n\n- 今日はマドリードの**フェリペ・コンデ工房（Felipe Conde）**。ドミンゴ・エステソの系譜に連なる一族の一人フェリペ・コンデが、マドリード中心部の工房で製作を続けている実在の工房である。\n- フラメンコ器ではスプルースの表板とシープレスの横・裏板を用いる伝統的な仕様を基本とし、軽い胴、低めの弦高、速い音の立ち上がりを狙う。ゴルペアドールで表板を保護しつつ、ラスゲアードやゴルペの輪郭を舞台へ明瞭に送る調整を行う。\n- 一族の系譜に連なる工房が複数存在するため、ラベルと製作年代、実際の担当製作家の確認が個体評価に欠かせない点は、昨日紹介したコンデ・エルマノスと共通する課題である。\n- 奏者の右手の強さや伴奏・独奏の用途に応じて弦高やネック角を調整する姿勢は、日本の工芸産地で使い手の要望に合わせて仕上げを変える職人文化と重なる。\n\n## フラメンコのパロ解説\n\n- 今日のパロは**ソレア（Soleá）**。アンダルシアのカディス・セビリア・ヘレスの三角地帯で19世紀のうちに形を整えたとされ、フラメンコの「母」とも呼ばれる中心的なパロだが、成立の細部には諸説ある。カンテ・ホンド（深い歌）に分類される。\n- 情感は重く内省的で、孤独、喪失、誇り、不変の運命といったテーマの短いレトラ（詩節）が歌われる。多くの派生パロ（ブレリア、カンティーニャス系など）の母体になったとされ、フラメンコの体系の中で基準点のような位置を占める。\n- レトラは通常3行または4行の八音節詩で構成され、バイレでは重厚な足技（サパテアード）と静的な腕の動き（ブラソ）が組み合わされる。歌い手が主導し、ギターと踊りがその呼吸に合わせる構成が伝統的とされる。\n- コンパスは12拍を一巡とする体系で捉えられ、代表的な重心の置き方の一例では**1、3、6、8、10、12**にアクセントを置く。パルマと足拍子はこの重みを崩さず支える。\n- 和声はフリジア旋法を基礎にしたアンダルシア終止が典型で、コード名を英語読みで表記すると、**Am → G → F → E**、つまり**エーマイナー → ジー → エフ → イー**と下降する進行がソレアの骨格を作る。カポタストで歌い手の音域へ合わせ、ファルセータはレトラの間を埋めすぎずに置く。\n- 「フラメンコの母」と呼ばれる重みは、テンポの遅さだけでなく、この下降和声と12拍の重心が組み合わさって生まれる、独特の静かな緊張感にある。\n\n## まとめ\n\n- 政治の混乱するセウタ、シェイクスピアと向き合い続けた作家の新資料、コルドバのギター祭からアロサイナの小さな夜、そしてフラメンコの「母」ソレアまで——今日もフラメンコが番組の主役だった。\n- ずんだもん＆四国めたんがスペイン語のお別れ挨拶でしめくくる\n\n## 参考ソース\n\n- El País Internacional / España / Cultura\n- El Mundo / El Mundo Cultura\n- Google News フラメンコ\n- ギタリスト列伝：トマティート「José Fernández Tomatito interpreta una rondeña｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=f1C39M3T-QA\n- バイレ列伝：アントニオ・ガデス「Bodas de Sangre y Suite Flamenca｜Fundación Antonio Gades」 https://www.youtube.com/watch?v=Mf1vsPYyZD0\n- カンテ列伝：ラ・ニーニャ・デ・ロス・ペイネス「la voz Bien de Interés Cultural｜Canal Sur」 https://www.youtube.com/watch?v=GXnHYYcNLlE\n- 工房だより：フェリペ・コンデ工房 公式サイト https://condehermanos.com/en/\n- パロ解説：ソレア「Gaspar de Utrera por soleares｜Flamenco en Canal Sur」 https://www.youtube.com/watch?v=QQAqBt5vDDs\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 18494,
-          "audioDurationSec": 616.48,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "オラ！ 2026年9月15日、スペイン文化・フラメンコ便りなのだ！",
-              "section": "オープニング：2026年9月15日 — スペイン文化・フラメンコ便り",
-              "startFrame": 18,
-              "endFrame": 227
-            },
-            {
-              "speaker": "B",
-              "text": "ブエノス・ディアス。今日はセウタの政治スキャンダルから、フラメンコの「母」ソレアまでたどるわ。",
-              "section": "オープニング：2026年9月15日 — スペイン文化・フラメンコ便り",
-              "startFrame": 235,
-              "endFrame": 452
-            },
-            {
-              "speaker": "A",
-              "text": "主役はトマティートと、ソレアの重い12拍なのだ？",
-              "section": "オープニング：2026年9月15日 — スペイン文化・フラメンコ便り",
-              "startFrame": 460,
-              "endFrame": 588
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。バイレとカンテの列伝も今日から本格的に始まって、三本柱がそろう回よ。",
-              "section": "オープニング：2026年9月15日 — スペイン文化・フラメンコ便り",
-              "startFrame": 595,
-              "endFrame": 794
-            },
-            {
-              "speaker": "A",
-              "text": "今日のスペイン語は何なのだ？",
-              "section": "今日のスペイン語ひとこと",
-              "startFrame": 812,
-              "endFrame": 883
-            },
-            {
-              "speaker": "B",
-              "text": "ケ・グアイ。「イケてる」「最高」を意味する若者言葉よ。",
-              "section": "今日のスペイン語ひとこと",
-              "startFrame": 891,
-              "endFrame": 1050
-            },
-            {
-              "speaker": "A",
-              "text": "目上の人にも使っていいのだ？",
-              "section": "今日のスペイン語ひとこと",
-              "startFrame": 1057,
-              "endFrame": 1137
-            },
-            {
-              "speaker": "B",
-              "text": "それは避けたほうがいいわ。友達同士のカジュアルな場面向きの言い方よ。",
-              "section": "今日のスペイン語ひとこと",
-              "startFrame": 1144,
-              "endFrame": 1291
-            },
-            {
-              "speaker": "B",
-              "text": "マクロン仏大統領が任期の終盤にスペインを訪れたわ。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1309,
-              "endFrame": 1435
-            },
-            {
-              "speaker": "A",
-              "text": "フランスとスペインって、仲良しなのだ？",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1442,
-              "endFrame": 1543
-            },
-            {
-              "speaker": "B",
-              "text": "両国で進めてきた協力協定があるんだけど、フランス側の政治的な行き詰まりで棚上げ状態が続いているの。訪問のタイミング自体がその停滞ぶりを物語っているわ。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1550,
-              "endFrame": 1905
-            },
-            {
-              "speaker": "A",
-              "text": "任期が終わりそうな時に来るって、なんだか慌ただしいのだ。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1913,
-              "endFrame": 2054
-            },
-            {
-              "speaker": "B",
-              "text": "北アフリカのスペイン領セウタを巡る政治スキャンダルが深刻になっているわ。モロッコの関与をずっと指摘してきた警察トップが、退任直前のインタビューで内幕を語ったの。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2072,
-              "endFrame": 2416
-            },
-            {
-              "speaker": "A",
-              "text": "警察のトップがそんなこと言っちゃうのだ！？",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2423,
-              "endFrame": 2517
-            },
-            {
-              "speaker": "B",
-              "text": "しかも担当判事は、セウタの捜査をアウディエンシア・ナシオナル、国家管轄の特別法廷へ移すよう提案したのよ。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2525,
-              "endFrame": 2780
-            },
-            {
-              "speaker": "A",
-              "text": "地元の裁判所じゃ手に負えないくらい大きな話になってきたのだ。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2787,
-              "endFrame": 2932
-            },
-            {
-              "speaker": "B",
-              "text": "左派のエル・パイスは司法と政治的な真実のねじれを論じているけど、右派のエル・ムンドは政府・与党が一部の判事を名指しで批判している構図を伝えているの。同じセウタの話でも切り口がかなり違うわ。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2939,
-              "endFrame": 3389
-            },
-            {
-              "speaker": "A",
-              "text": "日本だと政治家が裁判官を名指しで批判するのって、あんまり見ない気がするのだ。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 3396,
-              "endFrame": 3589
-            },
-            {
-              "speaker": "B",
-              "text": "スペインは街頭でもテレビでも「私はこう思う」をはっきり言う文化だから、法廷と政治の距離が日本よりずっと近く感じられる場面が多いのよ。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 3597,
-              "endFrame": 3903
-            },
-            {
-              "speaker": "B",
-              "text": "作家ハビエル・マリアスの未発表エッセイが、スペイン語で初めて刊行されたわ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 3921,
-              "endFrame": 4098
-            },
-            {
-              "speaker": "A",
-              "text": "ハビエル・マリアスって、どんな人なのだ？",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4105,
-              "endFrame": 4221
-            },
-            {
-              "speaker": "B",
-              "text": "2022年に亡くなった小説家で、シェイクスピアの翻訳者としても知られていたの。今回のエッセイは、その翻訳経験を踏まえて英文学と自国語表現の間を論じた文章だとされているわ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4229,
-              "endFrame": 4635
-            },
-            {
-              "speaker": "A",
-              "text": "亡くなった後も新しい原稿が見つかるって、すごいのだ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4643,
-              "endFrame": 4783
-            },
-            {
-              "speaker": "B",
-              "text": "生前はエル・パイスのコラムニストとして辛口の時評でも知られた人だから、まだ発掘されていない資料がほかにもありそうね。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4791,
-              "endFrame": 5049
-            },
-            {
-              "speaker": "B",
-              "text": "第45回コルドバ・ギター祭が開幕したわ。フラメンコとクラシック双方の大御所が一堂に会するコンサートが組まれているの。",
-              "section": "フラメンコニュース",
-              "startFrame": 5067,
-              "endFrame": 5335
-            },
-            {
-              "speaker": "A",
-              "text": "45回目なのだ！すごい歴史があるのだ！",
-              "section": "フラメンコニュース",
-              "startFrame": 5343,
-              "endFrame": 5453
-            },
-            {
-              "speaker": "B",
-              "text": "コルドバ県のコンデスタブレという街では、大御所カンタオールのエル・ペレが、なんと市庁舎のバルコニーから歌う公演が予定されているわ。",
-              "section": "フラメンコニュース",
-              "startFrame": 5460,
-              "endFrame": 5743
-            },
-            {
-              "speaker": "A",
-              "text": "バルコニーから歌うのだ！？街全体がステージになりそうなのだ！",
-              "section": "フラメンコニュース",
-              "startFrame": 5750,
-              "endFrame": 5901
-            },
-            {
-              "speaker": "B",
-              "text": "エストレマドゥーラ州バダホスの広場では、トマス・ルビチ、チェロ・パントーハ、バルーリョのカンテと、ソラヤ・クラビホのバイレを組み合わせた夜も開かれるの。",
-              "section": "フラメンコニュース",
-              "startFrame": 5908,
-              "endFrame": 6253
-            },
-            {
-              "speaker": "A",
-              "text": "カンテとバイレが一緒になった舞台、聴きどころも見どころも両方あるのだ。",
-              "section": "フラメンコニュース",
-              "startFrame": 6261,
-              "endFrame": 6430
-            },
-            {
-              "speaker": "B",
-              "text": "さらにマラガ県アロサイナの催しでも、カンテ・ギター・バイレを一堂に集めたイベントが予定されているわ。今週末はスペイン各地でフラメンコ一色ね。",
-              "section": "フラメンコニュース",
-              "startFrame": 6438,
-              "endFrame": 6765
-            },
-            {
-              "speaker": "B",
-              "text": "今日のギタリスト列伝はトマティート、本名ホセ・フェルナンデス・トーレスよ。1958年、アルメリア生まれでグラナダ育ちのヒターノの家系。お父さんもギタリストだったの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 6783,
-              "endFrame": 7175
-            },
-            {
-              "speaker": "A",
-              "text": "音楽一家なのだ！",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7183,
-              "endFrame": 7232
-            },
-            {
-              "speaker": "B",
-              "text": "1970年代からカマロン・デ・ラ・イスラの専属伴奏者を長く務めて、代表作『ギターラ・フラメンカ』などを残しているわ。1992年にカマロンが亡くなった後は独奏家・作曲家として活動を広げたの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7239,
-              "endFrame": 7803
-            },
-            {
-              "speaker": "A",
-              "text": "カマロンの相棒として有名になった人なのだ！",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7810,
-              "endFrame": 7917
-            },
-            {
-              "speaker": "B",
-              "text": "右手のピカードは速いだけじゃなく、一音一音の粒立ちがはっきりしているのが特徴。アルペジオでも低音の重心を崩さずに旋律を歌わせるわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7924,
-              "endFrame": 8233
-            },
-            {
-              "speaker": "A",
-              "text": "速いのに歌の邪魔をしないって、すごい技術なのだ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8241,
-              "endFrame": 8366
-            },
-            {
-              "speaker": "B",
-              "text": "カンテ伴奏で身につけた、歌の語尾を埋めない間の取り方を独奏にも持ち込んでいるの。パコ・デ・ルシアと並んで、現代フラメンコギターの語法を広げた奏者の一人とされているわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8374,
-              "endFrame": 8786
-            },
-            {
-              "speaker": "B",
-              "text": "今日はバイレ列伝、アントニオ・ガデスを紹介するわ。本名アントニオ・エステベ・ロデナス、1936年アリカンテ生まれで、少年期にマドリードへ出てピラール・ロペスの舞踊団で修業したの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 8804,
-              "endFrame": 9254
-            },
-            {
-              "speaker": "A",
-              "text": "ガデスさんって聞いたことある気がするのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 9261,
-              "endFrame": 9350
-            },
-            {
-              "speaker": "B",
-              "text": "カルロス・サウラ監督の映画三部作、『血の婚礼』『カルメン』『恋は魔術師』での主演・振付で世界的に知られている人よ。映像を通じてフラメンコ舞踊を世界中の観客に届けたの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 9358,
-              "endFrame": 9809
-            },
-            {
-              "speaker": "A",
-              "text": "映画で見たことあるのはそのせいなのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 9817,
-              "endFrame": 9903
-            },
-            {
-              "speaker": "B",
-              "text": "1970年代には自分の舞踊団を率いて、古典舞踊とフラメンコを融合した舞台作品を数多く手がけたわ。過度な装飾を排した直線的で力強い上体、感情を抑制しながら足技で語る様式が特徴とされているの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 9911,
-              "endFrame": 10416
-            },
-            {
-              "speaker": "A",
-              "text": "派手に飾らないのに、力強いのだ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 10424,
-              "endFrame": 10521
-            },
-            {
-              "speaker": "B",
-              "text": "当時のフラメンコ舞踊に演劇的な物語性を持ち込んだ点が評価されていて、今も彼の名を冠した財団が作品の継承と教育活動を続けているわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 10528,
-              "endFrame": 10854
-            },
-            {
-              "speaker": "B",
-              "text": "カンテ列伝は、ラ・ニーニャ・デ・ロス・ペイネス。本名パストーラ・マリア・パボン・クルス。1890年セビリア生まれで、10代から舞台に立ち、20世紀前半を代表する女性カンタオーラになったわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 10872,
-              "endFrame": 11352
-            },
-            {
-              "speaker": "A",
-              "text": "20世紀前半から歌っていたのだ！大ベテランなのだ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 11360,
-              "endFrame": 11496
-            },
-            {
-              "speaker": "B",
-              "text": "シギリージャやソレアといった深い歌の分野で高く評価されつつ、軽快なカンティーニャス系のパロも歌いこなす幅の広さを持っていたの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 11504,
-              "endFrame": 11767
-            },
-            {
-              "speaker": "A",
-              "text": "幅が広いのだ！",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 11774,
-              "endFrame": 11818
-            },
-            {
-              "speaker": "B",
-              "text": "詩人ガルシア・ロルカや作曲家マヌエル・デ・ファリャが1922年に開いた歌のコンクールにも関わりが深い世代の歌い手とされているわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 11826,
-              "endFrame": 12146
-            },
-            {
-              "speaker": "A",
-              "text": "ロルカとも関係あるのだ！文学とも近いのだ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 12153,
-              "endFrame": 12274
-            },
-            {
-              "speaker": "B",
-              "text": "声質は太く抑制の効いた低音域を持ちながら、メリスマを過剰に飾らず、歌詞の語りを前面に出す歌唱で知られたの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 12282,
-              "endFrame": 12539
-            },
-            {
-              "speaker": "A",
-              "text": "一族にもフラメンコの人がいたのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 12546,
-              "endFrame": 12638
-            },
-            {
-              "speaker": "B",
-              "text": "兄も夫もフラメンコに携わっていて、後続世代の女性カンタオーラたちに規範を示した歌い手として、今も録音が研究され続けているわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 12645,
-              "endFrame": 12939
-            },
-            {
-              "speaker": "B",
-              "text": "今日の工房はマドリードのフェリペ・コンデ工房。ドミンゴ・エステソの系譜に連なる一族の一人、フェリペ・コンデがマドリード中心部で製作を続けている実在の工房よ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 12957,
-              "endFrame": 13334
-            },
-            {
-              "speaker": "A",
-              "text": "昨日紹介したコンデ・エルマノスと、名前が似ているのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 13342,
-              "endFrame": 13496
-            },
-            {
-              "speaker": "B",
-              "text": "そうなの、同じ一族の系譜に連なる工房が複数存在するから、ラベルと製作年代、実際の担当製作家の確認が個体評価に欠かせないという点は、昨日と共通する課題ね。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 13504,
-              "endFrame": 13911
-            },
-            {
-              "speaker": "A",
-              "text": "名前だけで安心しちゃダメなのだ！",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 13919,
-              "endFrame": 13996
-            },
-            {
-              "speaker": "B",
-              "text": "フラメンコ器ではスプルースの表板とシープレスの横・裏板を用いる伝統的な仕様が基本。軽い胴、低めのげんだかで、速い音の立ち上がりを狙うの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 14004,
-              "endFrame": 14341
-            },
-            {
-              "speaker": "A",
-              "text": "奏者の弾き方に合わせて作り替えるのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 14348,
-              "endFrame": 14449
-            },
-            {
-              "speaker": "B",
-              "text": "ええ、奏者の右手の強さや伴奏・独奏の用途に応じてげんだかやネック角を調整するの。日本の工芸産地で使い手の要望に合わせて仕上げを変える職人文化と重なるところね。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 14457,
-              "endFrame": 14855
-            },
-            {
-              "speaker": "B",
-              "text": "今日のパロはソレア。アンダルシアのカディス・セビリア・ヘレスの三角地帯で、19世紀のうちに形を整えたとされる、フラメンコの「母」とも呼ばれる中心的なパロよ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 14873,
-              "endFrame": 15268
-            },
-            {
-              "speaker": "A",
-              "text": "お母さんなのだ！？ソレアから色んなパロが生まれたのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 15276,
-              "endFrame": 15407
-            },
-            {
-              "speaker": "B",
-              "text": "そう考えられていて、ブレリアやカンティーニャス系など多くの派生パロの母体になったとされているの。孤独、喪失、誇りといったテーマが、短いレトラで重く内省的に歌われるわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 15415,
-              "endFrame": 15797
-            },
-            {
-              "speaker": "A",
-              "text": "レトラってどんな形なのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 15805,
-              "endFrame": 15875
-            },
-            {
-              "speaker": "B",
-              "text": "通常3行か4行の八音節詩で構成されていて、バイレでは重厚な足技のサパテアードと、静的な腕の動きのブラソが組み合わされるの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 15883,
-              "endFrame": 16189
-            },
-            {
-              "speaker": "A",
-              "text": "コンパスはどうなっているのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 16197,
-              "endFrame": 16268
-            },
-            {
-              "speaker": "B",
-              "text": "12拍を一巡とする体系で捉えられていて、代表的な重心の置き方の一例だと、1、3、6、8、10、12にアクセントを置くわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 16275,
-              "endFrame": 16659
-            },
-            {
-              "speaker": "A",
-              "text": "コードはどんな感じなのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 16667,
-              "endFrame": 16733
-            },
-            {
-              "speaker": "B",
-              "text": "フリジア旋法を基礎にしたアンダルシア終止が典型よ。コード名を英語読みで言うと、エーマイナー・ジー・エフ・イー。つまりAm、G、F、Eと下降する進行が骨格になるの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 16741,
-              "endFrame": 17158
-            },
-            {
-              "speaker": "A",
-              "text": "だから「母」って呼ばれるほど重みがあるのだ！",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 17166,
-              "endFrame": 17287
-            },
-            {
-              "speaker": "B",
-              "text": "テンポの遅さだけじゃなくて、この下降和声と12拍の重心が組み合わさって、独特の静かな緊張感が生まれるのよ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 17294,
-              "endFrame": 17545
-            },
-            {
-              "speaker": "A",
-              "text": "今日もスペインのニュースをお届けしたのだ！政治の混乱するセウタから、コルドバのギター祭、そしてソレアの深い話まで、盛りだくさんだったのだ！",
-              "section": "まとめ",
-              "startFrame": 17563,
-              "endFrame": 17903
-            },
-            {
-              "speaker": "B",
-              "text": "特にソレアが色んなパロの「母」だっていう話は、今日の三人の列伝ともつながる大事な話だったわね。アスタ・マニャーナ、また明日お会いしましょう。",
-              "section": "まとめ",
-              "startFrame": 17910,
-              "endFrame": 18241
-            },
-            {
-              "speaker": "A",
-              "text": "アスタ・マニャーナなのだ！明日もよろしくなのだ！",
-              "section": "まとめ",
-              "startFrame": 18249,
-              "endFrame": 18368
-            },
-            {
-              "speaker": "B",
-              "text": "ムーチャス・グラシアス。ご視聴ありがとうございました。",
-              "section": "まとめ",
-              "startFrame": 18376,
-              "endFrame": 18494
             }
           ]
         }
