@@ -1,5 +1,448 @@
 [
   {
+    "date": "2026-11-20",
+    "segments": [
+      {
+        "mode": "compare",
+        "label": "世界と日本のメディア比較",
+        "iaId": "news-pickup-2026-11-20-compare",
+        "audioUrl": "https://archive.org/download/news-pickup-2026-11-20-compare/compare_yukkuri.m4a",
+        "markdown": "<h1>世界と日本のメディア比較（2026年11月20日）</h1>\n<ul>\n<li>前半: 7カ国メディア比較（米・英・仏・中・露・印・アルゼンチン）＋日本が関わる国際ニュース</li>\n<li>後半: 国内8媒体（NHK・朝日・毎日・東京・赤旗・産経・読売・日経）の見出し比較</li>\n<li>取得: compare_fetcher（各国RSS、各12件、アルゼンチン枠は Al Jazeera 6件）・domestic_fetcher（2026年11月20日 6時51分取得、見出し・要旨のみ）。「取得分では確認できず」は取得枠内での結果</li>\n</ul>\n<h2>オープニング：2026年11月20日 — 世界と日本のメディア比較</h2>\n<ul>\n<li>米中ロ会談後の日米電話会談。高市首相「ICCを支持、日米の立場は異なる」</li>\n<li>ウクライナへのNATO型保証案、ガザ中部の地上攻勢、米中間選挙の大差</li>\n<li>後半: 消費税減税の支援金、衆院定数削減、米中ロ会談後の日本の安全保障</li>\n</ul>\n<h2>前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>伝えた内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>時事通信英語版（nippon.com）</td>\n<td>11月19日夜に電話会談。トランプ氏が深圳の米中ロ会談の結果を直接説明。アジア太平洋とウクライナを協議。首相「Our country supports the ICC, so the positions of Japan and the United States are different.」</td>\n</tr>\n<tr>\n<td>Guardian（英国）</td>\n<td>ICJがロヒンギャへのジェノサイドを認定すれば、米国が判事に制裁を科すとの懸念が拡大（判決前の記事、RSS要旨）</td>\n</tr>\n<tr>\n<td>Seoul Economic Daily（韓国）</td>\n<td>集合写真で習主席の隣は李在明大統領。日本外務省関係者は毎日新聞に「極めて失礼」</td>\n</tr>\n<tr>\n<td>NHK</td>\n<td>政府は米中ロ会談の影響を注視、同盟国・同志国との連携強化（要旨）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>米中ロ会談では「国際刑事裁判所は権限を乱用してはならない」との見方が示され、首相はこれに異を唱えた</li>\n<li>日本6媒体: NHKが電話会談を報道。ICC発言は時事通信英語版で確認</li>\n<li>差異: 時事通信はICC発言を伝え、NHKは政府の「連携強化」を伝えた</li>\n</ul>\n<h2>前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・扱い</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>フランス</td>\n<td>France24</td>\n<td>Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine（米国の利益も守る必要）／Macron urges Ukraine's allies to 'reopen the question' of NATO membership</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>NDTV</td>\n<td>US Says Russia \"Comfortable\" With NATO-Like Security Guarantees For Ukraine</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>TASS</td>\n<td>Trump makes Ukraine central in talks with Putin, Xi — US envoy／Trump hopes Zelensky wants to reach agreement on Ukraine</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>BBC</td>\n<td>Europe ready for talks with Russia on ending war in Ukraine（ベルリン会合で「united」な交渉姿勢）／Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>—</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>ドイツのメルツ首相は米中ロ会談を「photo op」と評した（France24）</li>\n<li>米国・ロシア側は保証案、欧州は交渉の席とNATO加盟問題、ロシアは報復も強調</li>\n<li>インド紙はロシアの「受け入れ」を見出しの主語にした</li>\n</ul>\n<h2>前半 世界: ガザ中部で初の大規模な地上攻勢</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Al Jazeera</td>\n<td>イスラエルがガザ中部で初の大規模地上攻勢、イエローラインを越える。イスラエルは既に面積の60%を支配</td>\n</tr>\n<tr>\n<td>7カ国の他媒体・日本6媒体</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<h2>前半 世界: 米国の中間選挙 — 50年で最大の差</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・内容</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NPR（米国）</td>\n<td>The midterms were the largest win for either party in 50 years（下院選の得票 民主56%・共和42%）</td>\n</tr>\n<tr>\n<td>NPR（米国）</td>\n<td>'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race（スコット・コロム氏、約150年ぶりの黒人上院議員）</td>\n</tr>\n<tr>\n<td>Times of India（インド）</td>\n<td>Musk's MAGA romance runs out of rocket fuel（世界一の富豪が選挙後に「buyer's remorse」）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>米国の公共放送は数字と歴史、インド紙は人物の物語として書いた</li>\n</ul>\n<h2>前半 世界: 各国固有ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPR</td>\n<td>トランプ氏の凱旋門とゴルフ場計画、判事が止めたのは数日間だけ</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>BBC</td>\n<td>ゴッホ「花咲く栗の木」、ナチス時代の来歴をめぐる争いのあと記録的な1億9040万ドルで落札</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>RFI</td>\n<td>EUの外交官がバーナム首相に「ブレグジットを覆すか決めてから協議を」</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTN</td>\n<td>ケニアのマサイ・フェスティバルを写真で紹介</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>TASS</td>\n<td>EUの第22次制裁にロシア選手へのビザ禁止（トゥスク首相）</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>Times of India</td>\n<td>国連人口基金、インドの人口を14億7000万人と推計</td>\n</tr>\n<tr>\n<td>アルゼンチン枠</td>\n<td>Al Jazeera</td>\n<td>米控訴裁、ベネズエラ人の一時保護資格（TPS）の終了を容認</td>\n</tr>\n</tbody>\n</table>\n<h2>後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>「消費税減税法案 支援金 所得下限56万円検討で公明の賛同期待も」／「片山財務相 支援金対象の所得下限“年収56万円程度で検討”」</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>「年金生活3000万人支援なし/食品消費税8%時 大門氏が追及/参院特別委」</td>\n</tr>\n<tr>\n<td>朝日・毎日・東京・産経・読売・日経</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>NHKは与党と公明党の駆け引き、赤旗は支援から外れる年金生活者を主語にした</li>\n</ul>\n<h2>後半 国内: 衆院の定数削減 — 赤旗は「大改悪」、東京は「統一名簿」</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>赤旗</td>\n<td>「民主主義壊す大改悪/比例削減 各党意見表明で塩川氏」／「定数削減に根拠無し/衆院特別委 野党各党が批判」／「民主主義壊すな 国会前で訴え」</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>「衆院選『統一名簿』導入なら何が起きる？ 政党連合に詳しい後房雄名誉教授が野党に求める『意思』」</td>\n</tr>\n<tr>\n<td>NHK・朝日・毎日・産経・読売・日経</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>赤旗は削減への反対、東京は野党の選挙戦略を主語にした</li>\n</ul>\n<h2>後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>日経</td>\n<td>社説「米中ロに世界秩序は委ねられない」／「虚構の『新ヤルタ』が告げる転換点 米中ロを変えた12年と日本の孤立」</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>「日本政府、米中露首脳会談で国際環境への影響注視…高市首相『日本の利益が損なわれることはない』」</td>\n</tr>\n<tr>\n<td>NHK</td>\n<td>「史上初の米中ロ首脳会談 大国の思惑は 日本への影響は」（ニュースウオッチ9）</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>「首里城『大龍柱』の向きはどっち？ 論争の背景に琉球処分と同化政策」／「復元された首里城とは？ 沖縄そのものと重なる歴史」</td>\n</tr>\n<tr>\n<td>毎日・東京・赤旗・産経</td>\n<td>取得分では会談後の論評を確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>日経は秩序の行方、読売は首相の言葉、NHKは日本への影響から入った</li>\n<li>朝日は首里城をめぐる論争を、琉球処分と同化政策の歴史につなげた</li>\n</ul>\n<h2>後半 国内: 各紙独自ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日</td>\n<td>在日ロヒンギャ「明日から人生変わる」 ICJがジェノサイド認定／「歴史的な判決」の履行求める声</td>\n</tr>\n<tr>\n<td>NHK</td>\n<td>政府広報ユーチューバー、木原官房長官「公開前に報告受けた」</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>岐阜の陸自発砲事件、初公判 当時18歳被告の責任能力が争点</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>「公立校ではベスト」エジプトで広がる日本式教育の評価が高い訳</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>クルドヘイトデモ差し止め訴訟、最終弁論</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>COP31で日本の脱炭素技術を展示、衛星「いぶきGW」でメタン漏えい場所を絞り込む</td>\n</tr>\n<tr>\n<td>日経</td>\n<td>ローソンと日本郵便、ゆうパックで商品配送 地方の買い物難民支援</td>\n</tr>\n</tbody>\n</table>\n<h2>まとめ</h2>\n<ul>\n<li>ご視聴ありがとうございました。また明日。</li>\n</ul>\n<h2>参考ソース</h2>\n<ul>\n<li>https://www.nippon.com/en/articles/-/57759</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261120de78749</li>\n<li>https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court</li>\n<li>https://en.sedaily.com/world/2026/11/19/chinas-cold-shoulder-to-takaichi-on-display-at-apec</li>\n<li>https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine</li>\n<li>https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership</li>\n<li>https://www.ndtv.com/world-news/us-says-russia-comfortable-with-nato-like-security-guarantees-for-ukraine-12351605</li>\n<li>https://tass.com/world/2222097</li>\n<li>https://tass.com/world/2222095</li>\n<li>https://www.bbc.co.uk/news/articles/ckzd9nln5e6go</li>\n<li>https://www.bbc.co.uk/news/articles/cm879dqn3e1jo</li>\n<li>https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2</li>\n<li>https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority</li>\n<li>https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race</li>\n<li>https://timesofindia.indiatimes.com/world/us/musk-dumps-maga-after-expensive-date-with-trump-republicans/articleshow/135997056.cms</li>\n<li>https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders</li>\n<li>https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo</li>\n<li>https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks</li>\n<li>https://newsaf.cgtn.com/news/2026-11-18/Africa-in-pictures-Maasai-Festival-showcases-Kenya-s-culture-1S9snJEVonS/p.html</li>\n<li>https://tass.com/world/2222103</li>\n<li>https://timesofindia.indiatimes.com/india/unfpa-puts-indias-population-at-1-47-billion-in-2026-calls-for-investment-in-youth-dividend/articleshow/136004405.cms</li>\n<li>https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261120de78748</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78640</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78692</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78655</li>\n<li>http://www.asahi.com/articles/ASVCF0QYKVCFTPOB002M.html</li>\n<li>http://www.asahi.com/articles/ASVCM1CPGVCMUTIL027M.html</li>\n<li>http://www.asahi.com/articles/ASVCM148RVCMOHGB00GM.html</li>\n<li>https://mainichi.jp/articles/20261119/k00/00m/030/454000c</li>\n<li>https://mainichi.jp/articles/20261120/k00/00m/030/011000c</li>\n<li>https://mainichi.jp/articles/20261119/k00/00m/030/022000c</li>\n<li>しんぶん赤旗・東京新聞・読売新聞・日本経済新聞（Google ニュース経由の見出し、2026年11月19〜20日）</li>\n</ul>",
+        "title": "高市首相「ICCで日米は立場が違う」　ウクライナにNATO型保証案【メディア比較 2026/11/20】",
+        "markdownSource": "# 世界と日本のメディア比較（2026年11月20日）\n\n- 前半: 7カ国メディア比較（米・英・仏・中・露・印・アルゼンチン）＋日本が関わる国際ニュース\n- 後半: 国内8媒体（NHK・朝日・毎日・東京・赤旗・産経・読売・日経）の見出し比較\n- 取得: compare_fetcher（各国RSS、各12件、アルゼンチン枠は Al Jazeera 6件）・domestic_fetcher（2026年11月20日 6時51分取得、見出し・要旨のみ）。「取得分では確認できず」は取得枠内での結果\n\n## オープニング：2026年11月20日 — 世界と日本のメディア比較\n\n- 米中ロ会談後の日米電話会談。高市首相「ICCを支持、日米の立場は異なる」\n- ウクライナへのNATO型保証案、ガザ中部の地上攻勢、米中間選挙の大差\n- 後半: 消費税減税の支援金、衆院定数削減、米中ロ会談後の日本の安全保障\n\n## 前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」\n\n| 媒体 | 伝えた内容 |\n|---|---|\n| 時事通信英語版（nippon.com） | 11月19日夜に電話会談。トランプ氏が深圳の米中ロ会談の結果を直接説明。アジア太平洋とウクライナを協議。首相「Our country supports the ICC, so the positions of Japan and the United States are different.」 |\n| Guardian（英国） | ICJがロヒンギャへのジェノサイドを認定すれば、米国が判事に制裁を科すとの懸念が拡大（判決前の記事、RSS要旨） |\n| Seoul Economic Daily（韓国） | 集合写真で習主席の隣は李在明大統領。日本外務省関係者は毎日新聞に「極めて失礼」 |\n| NHK | 政府は米中ロ会談の影響を注視、同盟国・同志国との連携強化（要旨） |\n\n- 米中ロ会談では「国際刑事裁判所は権限を乱用してはならない」との見方が示され、首相はこれに異を唱えた\n- 日本6媒体: NHKが電話会談を報道。ICC発言は時事通信英語版で確認\n- 差異: 時事通信はICC発言を伝え、NHKは政府の「連携強化」を伝えた\n\n## 前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」\n\n| 国 | 媒体 | 見出し・扱い |\n|---|---|---|\n| フランス | France24 | Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine（米国の利益も守る必要）／Macron urges Ukraine's allies to 'reopen the question' of NATO membership |\n| インド | NDTV | US Says Russia \"Comfortable\" With NATO-Like Security Guarantees For Ukraine |\n| ロシア | TASS | Trump makes Ukraine central in talks with Putin, Xi — US envoy／Trump hopes Zelensky wants to reach agreement on Ukraine |\n| 英国 | BBC | Europe ready for talks with Russia on ending war in Ukraine（ベルリン会合で「united」な交渉姿勢）／Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge |\n| 日本6媒体 | — | 取得分では確認できず |\n\n- ドイツのメルツ首相は米中ロ会談を「photo op」と評した（France24）\n- 米国・ロシア側は保証案、欧州は交渉の席とNATO加盟問題、ロシアは報復も強調\n- インド紙はロシアの「受け入れ」を見出しの主語にした\n\n## 前半 世界: ガザ中部で初の大規模な地上攻勢\n\n| 媒体 | 内容 |\n|---|---|\n| Al Jazeera | イスラエルがガザ中部で初の大規模地上攻勢、イエローラインを越える。イスラエルは既に面積の60%を支配 |\n| 7カ国の他媒体・日本6媒体 | 取得分では確認できず |\n\n## 前半 世界: 米国の中間選挙 — 50年で最大の差\n\n| 媒体 | 見出し・内容 |\n|---|---|\n| NPR（米国） | The midterms were the largest win for either party in 50 years（下院選の得票 民主56%・共和42%） |\n| NPR（米国） | 'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race（スコット・コロム氏、約150年ぶりの黒人上院議員） |\n| Times of India（インド） | Musk's MAGA romance runs out of rocket fuel（世界一の富豪が選挙後に「buyer's remorse」） |\n\n- 米国の公共放送は数字と歴史、インド紙は人物の物語として書いた\n\n## 前半 世界: 各国固有ニュース\n\n| 国 | 媒体 | 見出し |\n|---|---|---|\n| 米国 | NPR | トランプ氏の凱旋門とゴルフ場計画、判事が止めたのは数日間だけ |\n| 英国 | BBC | ゴッホ「花咲く栗の木」、ナチス時代の来歴をめぐる争いのあと記録的な1億9040万ドルで落札 |\n| フランス | RFI | EUの外交官がバーナム首相に「ブレグジットを覆すか決めてから協議を」 |\n| 中国 | CGTN | ケニアのマサイ・フェスティバルを写真で紹介 |\n| ロシア | TASS | EUの第22次制裁にロシア選手へのビザ禁止（トゥスク首相） |\n| インド | Times of India | 国連人口基金、インドの人口を14億7000万人と推計 |\n| アルゼンチン枠 | Al Jazeera | 米控訴裁、ベネズエラ人の一時保護資格（TPS）の終了を容認 |\n\n## 後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者\n\n| 媒体 | 見出し |\n|---|---|\n| NHK | 「消費税減税法案 支援金 所得下限56万円検討で公明の賛同期待も」／「片山財務相 支援金対象の所得下限“年収56万円程度で検討”」 |\n| 赤旗 | 「年金生活3000万人支援なし/食品消費税8%時 大門氏が追及/参院特別委」 |\n| 朝日・毎日・東京・産経・読売・日経 | 取得分では確認できず |\n\n- NHKは与党と公明党の駆け引き、赤旗は支援から外れる年金生活者を主語にした\n\n## 後半 国内: 衆院の定数削減 — 赤旗は「大改悪」、東京は「統一名簿」\n\n| 媒体 | 見出し |\n|---|---|\n| 赤旗 | 「民主主義壊す大改悪/比例削減 各党意見表明で塩川氏」／「定数削減に根拠無し/衆院特別委 野党各党が批判」／「民主主義壊すな 国会前で訴え」 |\n| 東京 | 「衆院選『統一名簿』導入なら何が起きる？ 政党連合に詳しい後房雄名誉教授が野党に求める『意思』」 |\n| NHK・朝日・毎日・産経・読売・日経 | 取得分では確認できず |\n\n- 赤旗は削減への反対、東京は野党の選挙戦略を主語にした\n\n## 後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱\n\n| 媒体 | 見出し |\n|---|---|\n| 日経 | 社説「米中ロに世界秩序は委ねられない」／「虚構の『新ヤルタ』が告げる転換点 米中ロを変えた12年と日本の孤立」 |\n| 読売 | 「日本政府、米中露首脳会談で国際環境への影響注視…高市首相『日本の利益が損なわれることはない』」 |\n| NHK | 「史上初の米中ロ首脳会談 大国の思惑は 日本への影響は」（ニュースウオッチ9） |\n| 朝日 | 「首里城『大龍柱』の向きはどっち？ 論争の背景に琉球処分と同化政策」／「復元された首里城とは？ 沖縄そのものと重なる歴史」 |\n| 毎日・東京・赤旗・産経 | 取得分では会談後の論評を確認できず |\n\n- 日経は秩序の行方、読売は首相の言葉、NHKは日本への影響から入った\n- 朝日は首里城をめぐる論争を、琉球処分と同化政策の歴史につなげた\n\n## 後半 国内: 各紙独自ニュース\n\n| 媒体 | 見出し |\n|---|---|\n| 毎日 | 在日ロヒンギャ「明日から人生変わる」 ICJがジェノサイド認定／「歴史的な判決」の履行求める声 |\n| NHK | 政府広報ユーチューバー、木原官房長官「公開前に報告受けた」 |\n| 朝日 | 岐阜の陸自発砲事件、初公判 当時18歳被告の責任能力が争点 |\n| 毎日 | 「公立校ではベスト」エジプトで広がる日本式教育の評価が高い訳 |\n| 東京 | クルドヘイトデモ差し止め訴訟、最終弁論 |\n| 読売 | COP31で日本の脱炭素技術を展示、衛星「いぶきGW」でメタン漏えい場所を絞り込む |\n| 日経 | ローソンと日本郵便、ゆうパックで商品配送 地方の買い物難民支援 |\n\n## まとめ\n\n- ご視聴ありがとうございました。また明日。\n\n## 参考ソース\n\n- https://www.nippon.com/en/articles/-/57759\n- https://news.web.nhk/newsweb/na/nd-20261120de78749\n- https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court\n- https://en.sedaily.com/world/2026/11/19/chinas-cold-shoulder-to-takaichi-on-display-at-apec\n- https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine\n- https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership\n- https://www.ndtv.com/world-news/us-says-russia-comfortable-with-nato-like-security-guarantees-for-ukraine-12351605\n- https://tass.com/world/2222097\n- https://tass.com/world/2222095\n- https://www.bbc.co.uk/news/articles/ckzd9nln5e6go\n- https://www.bbc.co.uk/news/articles/cm879dqn3e1jo\n- https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2\n- https://www.npr.org/2026/11/19/nx-s1-6045916/democrats-midterm-house-majority\n- https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race\n- https://timesofindia.indiatimes.com/world/us/musk-dumps-maga-after-expensive-date-with-trump-republicans/articleshow/135997056.cms\n- https://www.npr.org/2026/11/19/nx-s1-6047151/trump-arch-golf-course-judge-orders\n- https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo\n- https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks\n- https://newsaf.cgtn.com/news/2026-11-18/Africa-in-pictures-Maasai-Festival-showcases-Kenya-s-culture-1S9snJEVonS/p.html\n- https://tass.com/world/2222103\n- https://timesofindia.indiatimes.com/india/unfpa-puts-indias-population-at-1-47-billion-in-2026-calls-for-investment-in-youth-dividend/articleshow/136004405.cms\n- https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans\n- https://news.web.nhk/newsweb/na/nd-20261120de78748\n- https://news.web.nhk/newsweb/na/nd-20261119de78640\n- https://news.web.nhk/newsweb/na/nd-20261119de78692\n- https://news.web.nhk/newsweb/na/nd-20261119de78655\n- http://www.asahi.com/articles/ASVCF0QYKVCFTPOB002M.html\n- http://www.asahi.com/articles/ASVCM1CPGVCMUTIL027M.html\n- http://www.asahi.com/articles/ASVCM148RVCMOHGB00GM.html\n- https://mainichi.jp/articles/20261119/k00/00m/030/454000c\n- https://mainichi.jp/articles/20261120/k00/00m/030/011000c\n- https://mainichi.jp/articles/20261119/k00/00m/030/022000c\n- しんぶん赤旗・東京新聞・読売新聞・日本経済新聞（Google ニュース経由の見出し、2026年11月19〜20日）\n",
+        "timeline": {
+          "version": 1,
+          "source": "tts_voicevox",
+          "fps": 30,
+          "totalFrames": 20996,
+          "audioDurationSec": 699.863333,
+          "cues": [
+            {
+              "speaker": "A",
+              "text": "2026年11月20日の「世界と日本のメディア比較」なのだ！米中ロの会談のあと、高市首相はトランプ大統領と電話で話し、国際刑事裁判所では日米の立場は違うと明言したのだ。",
+              "section": "オープニング：2026年11月20日 — 世界と日本のメディア比較",
+              "startFrame": 18,
+              "endFrame": 544
+            },
+            {
+              "speaker": "B",
+              "text": "ウクライナにNATO型の安全保障を広げる案、ガザ中部での地上攻勢、米国の中間選挙の大差も、各国の伝え方で比べるわ。",
+              "section": "オープニング：2026年11月20日 — 世界と日本のメディア比較",
+              "startFrame": 552,
+              "endFrame": 857
+            },
+            {
+              "speaker": "A",
+              "text": "後半は国内紙で、消費税減税の支援金、衆院の定数削減、米中ロ会談後の日本の安全保障を比べるのだ。",
+              "section": "オープニング：2026年11月20日 — 世界と日本のメディア比較",
+              "startFrame": 864,
+              "endFrame": 1198
+            },
+            {
+              "speaker": "B",
+              "text": "時事通信の英語版によると、高市首相は19日の夜、トランプ大統領と電話で話したわ。トランプ氏が深圳での米中ロ会談の結果を直接説明したの。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 1216,
+              "endFrame": 1570
+            },
+            {
+              "speaker": "A",
+              "text": "話し合ったのは、アジア太平洋の情勢とウクライナなのだ。会談のすぐあとに、日本の首相に説明の電話をしたのだ！",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 1577,
+              "endFrame": 1877
+            },
+            {
+              "speaker": "B",
+              "text": "米中ロの会談では、国際刑事裁判所は権限を乱用してはならない、という見方が示されていたわ。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 1885,
+              "endFrame": 2112
+            },
+            {
+              "speaker": "A",
+              "text": "これに対し高市首相は、「わが国はICCを支持しており、日米の立場は異なる」と話したのだ。同盟国の大統領と違うとはっきり言ったのだ！",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 2119,
+              "endFrame": 2492
+            },
+            {
+              "speaker": "B",
+              "text": "3首脳が示した見方に、日本の首相が異を唱えた形ね。時事通信は、電話会談の記事でこの発言を伝えたわ。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 2499,
+              "endFrame": 2772
+            },
+            {
+              "speaker": "A",
+              "text": "英国のガーディアンは、別の国連の裁判所がロヒンギャへのジェノサイドを認めれば、米国がその判事に制裁を科すのでは、という懸念が広がっていると報じたのだ。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 2779,
+              "endFrame": 3165
+            },
+            {
+              "speaker": "B",
+              "text": "韓国のソウル経済新聞は、APECでの冷遇の続報を載せたわ。集合写真で習主席の隣に立ったのは、韓国の李在明大統領だったの。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 3172,
+              "endFrame": 3508
+            },
+            {
+              "speaker": "A",
+              "text": "同紙によると、日本の外務省の関係者は毎日新聞に「極めて失礼」と話したのだ。日本の新聞に出た言葉が、韓国の新聞で紹介されたのだ。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 3515,
+              "endFrame": 3928
+            },
+            {
+              "speaker": "B",
+              "text": "日本6媒体では、NHKが電話会談を伝えたわ。政府は米中ロ会談の影響を注視し、同盟国や同志国との連携を強める、という書き方だったの。",
+              "section": "前半 世界: 日米電話会談 — 首相「ICCを支持、日米の立場は異なる」",
+              "startFrame": 3935,
+              "endFrame": 4304
+            },
+            {
+              "speaker": "A",
+              "text": "米国の特使、クシュナー氏は19日、トランプ大統領はNATOの相互防衛条項に似た保証をウクライナに広げることに「オープン」だと述べたのだ。フランス24が伝えたのだ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 4322,
+              "endFrame": 4768
+            },
+            {
+              "speaker": "B",
+              "text": "相互防衛条項は、一つの加盟国への攻撃を全体への攻撃とみなす決まりよ。ただしクシュナー氏は、米国の利益も守る必要があると付け加えたわ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 4776,
+              "endFrame": 5110
+            },
+            {
+              "speaker": "A",
+              "text": "インドのNDTVは、ロシアがこのNATO型の保証に「満足している」と米国が述べた、と見出しにしたのだ。ロシアが反対しないのは意外なのだ！",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 5117,
+              "endFrame": 5484
+            },
+            {
+              "speaker": "B",
+              "text": "ロシアのタス通信は、ウィトコフ特使の「トランプ氏は会談でウクライナを中心に据えた」という言葉を見出しにしたわ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 5491,
+              "endFrame": 5736
+            },
+            {
+              "speaker": "A",
+              "text": "タス通信の別の記事は、トランプ氏が「ゼレンスキー氏が合意を望むことを期待する」と話し、プーチン氏は合意の用意があると述べた、と伝えたのだ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 5743,
+              "endFrame": 6118
+            },
+            {
+              "speaker": "B",
+              "text": "英国のBBCは、ベルリンでの首脳会合で、欧州のウクライナの同盟国が「一つにまとまった」交渉の立場を示し、戦争終結へロシアと話す用意がある、と報じたわ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 6125,
+              "endFrame": 6529
+            },
+            {
+              "speaker": "A",
+              "text": "フランスのマクロン大統領は、ウクライナのNATO加盟の問題を「もう一度問い直す」よう同盟国に呼びかけたと、フランス24が報じたのだ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 6537,
+              "endFrame": 6893
+            },
+            {
+              "speaker": "B",
+              "text": "ドイツのメルツ首相は、米中ロの会談を「写真撮影の場」と評したわ。一方、BBCによると、プーチン氏はクリミア橋への攻撃に「はるかに痛い」報復をすると宣言したの。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 6901,
+              "endFrame": 7331
+            },
+            {
+              "speaker": "A",
+              "text": "米国とロシアは保証の話を前に出し、欧州は交渉の席を求め、ロシアは報復も口にしたのだ。日本6媒体では、この保証案の見出しは確認できなかったのだ。",
+              "section": "前半 世界: ウクライナに「NATO型」の保証 — 米特使は「オープン」、ロシアは「受け入れ可能」",
+              "startFrame": 7338,
+              "endFrame": 7764
+            },
+            {
+              "speaker": "B",
+              "text": "アルジャジーラは19日、イスラエルがガザ中部で初めての大規模な地上攻勢を始めたと報じたわ。「イエローライン」と呼ばれる線を越えたの。",
+              "section": "前半 世界: ガザ中部で初の大規模な地上攻勢",
+              "startFrame": 7782,
+              "endFrame": 8078
+            },
+            {
+              "speaker": "A",
+              "text": "イスラエルはすでにガザの面積の60%を支配していると、同じ報道は伝えたのだ。半分を超える土地なのだ！",
+              "section": "前半 世界: ガザ中部で初の大規模な地上攻勢",
+              "startFrame": 8086,
+              "endFrame": 8369
+            },
+            {
+              "speaker": "B",
+              "text": "7カ国のほかの媒体と日本6媒体では、この地上攻勢の見出しは確認できなかったわ。",
+              "section": "前半 世界: ガザ中部で初の大規模な地上攻勢",
+              "startFrame": 8377,
+              "endFrame": 8571
+            },
+            {
+              "speaker": "A",
+              "text": "米国のNPRは、下院選で民主党に入った票が56%、共和党が42%で、14ポイントの差は、どちらの党にとってもこの50年で最大の勝利だと伝えたのだ。",
+              "section": "前半 世界: 米国の中間選挙 — 50年で最大の差",
+              "startFrame": 8589,
+              "endFrame": 9070
+            },
+            {
+              "speaker": "B",
+              "text": "南部のミシシッピ州では、上院選でスコット・コロム氏が勝ったわ。NPRは、学者が「オバマ氏の当選より大きい」と評したことを見出しにしたの。",
+              "section": "前半 世界: 米国の中間選挙 — 50年で最大の差",
+              "startFrame": 9077,
+              "endFrame": 9413
+            },
+            {
+              "speaker": "A",
+              "text": "コロム氏は、この州で約150年ぶりの黒人の上院議員なのだ。日本なら明治の初めから途絶えていた計算なのだ！",
+              "section": "前半 世界: 米国の中間選挙 — 50年で最大の差",
+              "startFrame": 9421,
+              "endFrame": 9717
+            },
+            {
+              "speaker": "B",
+              "text": "インドのタイムズ・オブ・インディアは、選挙の結果を受けて、マスク氏とトランプ派の「ロマンスは燃料切れ」と見出しにしたわ。",
+              "section": "前半 世界: 米国の中間選挙 — 50年で最大の差",
+              "startFrame": 9725,
+              "endFrame": 10003
+            },
+            {
+              "speaker": "A",
+              "text": "同紙は、世界一の富豪が悲惨な選挙のあとで「買ったことを後悔している」と書いたのだ。米国の選挙を、インドの新聞は人物の物語で書いたのだ。",
+              "section": "前半 世界: 米国の中間選挙 — 50年で最大の差",
+              "startFrame": 10010,
+              "endFrame": 10406
+            },
+            {
+              "speaker": "B",
+              "text": "米国のNPRは、トランプ大統領の凱旋門とゴルフ場の計画を、判事が止めたものの、それは数日間だけだと伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 10424,
+              "endFrame": 10710
+            },
+            {
+              "speaker": "A",
+              "text": "英国のBBCは、ゴッホの「花咲く栗の木」が、ナチス時代の来歴をめぐる争いのあと、1億9040万ドルという記録的な額で落札されたと伝えたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 10718,
+              "endFrame": 11161
+            },
+            {
+              "speaker": "B",
+              "text": "フランスのRFIは、欧州の外交官がバーナム首相に、ブレグジットを覆すかどうか決めてから協議に来るよう求めたと報じたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 11169,
+              "endFrame": 11454
+            },
+            {
+              "speaker": "A",
+              "text": "中国のCGTNは、ケニアで開かれたマサイの祭りを写真で紹介したのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 11462,
+              "endFrame": 11661
+            },
+            {
+              "speaker": "B",
+              "text": "ロシアのタス通信は、ポーランドのトゥスク首相の話として、欧州連合の22回目の制裁に、ロシアの選手へのビザ禁止が入ると伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 11668,
+              "endFrame": 11978
+            },
+            {
+              "speaker": "A",
+              "text": "インドのタイムズ・オブ・インディアは、国連人口基金がインドの人口を14億7000万人としたと伝えたのだ。日本の10倍を超えるのだ！",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 11985,
+              "endFrame": 12354
+            },
+            {
+              "speaker": "B",
+              "text": "カタールのアルジャジーラは、米国の控訴裁判所が、ベネズエラ人の強制送還を防ぐ一時的な保護の打ち切りを認めたと伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 12361,
+              "endFrame": 12642
+            },
+            {
+              "speaker": "A",
+              "text": "ここからは国内紙なのだ。NHKは、減税に合わせた支援金について、支給が始まる年収を56万円程度にする方向で政府・与党が検討していると伝えたのだ。",
+              "section": "後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者",
+              "startFrame": 12660,
+              "endFrame": 13107
+            },
+            {
+              "speaker": "B",
+              "text": "NHKはこれを、公明党の主張に沿った線引きだと書いたわ。与党は法案への賛同を引き出したい、という見立てよ。片山財務大臣も同じ考えを示したの。",
+              "section": "後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者",
+              "startFrame": 13114,
+              "endFrame": 13471
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗は同じ法案を、参院の特別委員会での大門議員の追及から書いたのだ。見出しは「年金生活3000万人支援なし」なのだ！",
+              "section": "後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者",
+              "startFrame": 13479,
+              "endFrame": 13844
+            },
+            {
+              "speaker": "B",
+              "text": "赤旗によると、食品の消費税が8%のときの話として、年金で暮らす人への支援がないと追及したの。NHKは国会の駆け引き、赤旗は取り残される人を主語にしたわ。",
+              "section": "後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者",
+              "startFrame": 13851,
+              "endFrame": 14260
+            },
+            {
+              "speaker": "A",
+              "text": "朝日・毎日・東京・産経・読売・日経では、この支援金の見出しは確認できなかったのだ。",
+              "section": "後半 国内: 食料品の消費税減税 — NHKは公明の賛同、赤旗は年金生活者",
+              "startFrame": 14267,
+              "endFrame": 14563
+            },
+            {
+              "speaker": "B",
+              "text": "衆院の比例代表を31減らす案をめぐり、赤旗は「民主主義壊す大改悪」という塩川議員の言葉を見出しにしたわ。各党が意見を述べた場での発言よ。",
+              "section": "後半 国内: 衆院の定数削減 — 赤旗は「大改悪」、東京は「統一名簿」",
+              "startFrame": 14581,
+              "endFrame": 14943
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗は、衆院の特別委員会で野党の各党が「定数削減に根拠無し」と批判したとも伝えたのだ。国会前での訴えも記事にしたのだ。",
+              "section": "後半 国内: 衆院の定数削減 — 赤旗は「大改悪」、東京は「統一名簿」",
+              "startFrame": 14950,
+              "endFrame": 15316
+            },
+            {
+              "speaker": "B",
+              "text": "東京新聞は、野党が「統一名簿」で衆院選を戦ったら何が起きるかを解説したわ。政党連合に詳しい後房雄名誉教授が、野党に「意思」を求めたの。",
+              "section": "後半 国内: 衆院の定数削減 — 赤旗は「大改悪」、東京は「統一名簿」",
+              "startFrame": 15323,
+              "endFrame": 15728
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗は削減への反対を、東京新聞は野党の選挙の戦い方を主語にしたのだ。NHK・朝日・読売では、この話題の見出しは確認できなかったのだ。",
+              "section": "後半 国内: 衆院の定数削減 — 赤旗は「大改悪」、東京は「統一名簿」",
+              "startFrame": 15736,
+              "endFrame": 16155
+            },
+            {
+              "speaker": "B",
+              "text": "日経は社説で「米中ロに世界秩序は委ねられない」と書いたわ。別の解説記事の見出しは「虚構の『新ヤルタ』が告げる転換点」よ。",
+              "section": "後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱",
+              "startFrame": 16173,
+              "endFrame": 16515
+            },
+            {
+              "speaker": "A",
+              "text": "ヤルタは、第2次世界大戦の終わりに大国が戦後を決めた会談なのだ。日経はその見出しで、米中ロを変えた12年と「日本の孤立」を並べたのだ。",
+              "section": "後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱",
+              "startFrame": 16523,
+              "endFrame": 16922
+            },
+            {
+              "speaker": "B",
+              "text": "読売は「日本の利益が損なわれることはない」という首相の言葉を見出しにしたわ。NHKは夜のニュース番組で「大国の思惑は 日本への影響は」と問いを立てたの。",
+              "section": "後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱",
+              "startFrame": 16930,
+              "endFrame": 17322
+            },
+            {
+              "speaker": "A",
+              "text": "日経は秩序の行方、読売は首相の言葉、NHKは日本への影響と、入り口が分かれたのだ。毎日・東京・赤旗・産経・朝日では、会談後の論評は確認できなかったのだ。",
+              "section": "後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱",
+              "startFrame": 17329,
+              "endFrame": 17855
+            },
+            {
+              "speaker": "B",
+              "text": "朝日は、首里城の「大龍柱」の向きはどっちか、という論争を解説したわ。背景に琉球処分と同化政策がある、という見出しよ。",
+              "section": "後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱",
+              "startFrame": 17863,
+              "endFrame": 18183
+            },
+            {
+              "speaker": "A",
+              "text": "柱の向きひとつが、歴史の論争になっているのだ！朝日は別の解説で、復元された首里城の歴史は沖縄そのものと重なると書いたのだ。",
+              "section": "後半 国内: 継続特集 — 米中ロ会談のあとの日本の安全保障、首里城の大龍柱",
+              "startFrame": 18191,
+              "endFrame": 18532
+            },
+            {
+              "speaker": "B",
+              "text": "毎日は、在日のロヒンギャの人が、国際司法裁判所のジェノサイド認定に「明日から人生変わる」と話したと伝えたわ。判決の履行を求める声も載せたの。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 18550,
+              "endFrame": 18910
+            },
+            {
+              "speaker": "A",
+              "text": "NHKは、根拠のない話を「都市伝説」として紹介するユーチューバーを政府広報に起用した件で、木原官房長官が公開前に報告を受けていたと明らかにしたと伝えたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 18918,
+              "endFrame": 19374
+            },
+            {
+              "speaker": "B",
+              "text": "朝日は、岐阜の陸上自衛隊での発砲事件の初公判を伝えたわ。当時18歳の被告の責任能力が争点よ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 19382,
+              "endFrame": 19642
+            },
+            {
+              "speaker": "A",
+              "text": "毎日は、エジプトで広がる日本式の教育が「公立校ではベスト」と評価される理由を書いたのだ。日本の学校が遠い国で手本になっているのだ！",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 19650,
+              "endFrame": 20028
+            },
+            {
+              "speaker": "B",
+              "text": "東京新聞は、クルド人へのヘイトデモの差し止めを求める訴訟の最終弁論を伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 20035,
+              "endFrame": 20227
+            },
+            {
+              "speaker": "A",
+              "text": "読売は、COP31で日本が人工衛星「いぶきGW」を使ったメタン漏れの特定技術を展示したと伝えたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 20235,
+              "endFrame": 20561
+            },
+            {
+              "speaker": "B",
+              "text": "日経は、ローソンと日本郵便が、ゆうパックで商品を届けて、地方の買い物難民を支えると伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 20569,
+              "endFrame": 20812
+            },
+            {
+              "speaker": "A",
+              "text": "今日も聞いてくださって、ありがとうなのだ！",
+              "section": "まとめ",
+              "startFrame": 20830,
+              "endFrame": 20928
+            },
+            {
+              "speaker": "B",
+              "text": "また明日、お会いしましょう。",
+              "section": "まとめ",
+              "startFrame": 20935,
+              "endFrame": 20996
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "date": "2026-11-19",
     "segments": [
       {
@@ -147862,2392 +148305,6 @@
               "section": "まとめ",
               "startFrame": 30943,
               "endFrame": 31262
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "date": "2026-09-21",
-    "segments": [
-      {
-        "mode": "compare",
-        "label": "世界と日本のメディア比較",
-        "iaId": "news-pickup-2026-09-21-compare",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-21-compare/compare_yukkuri.m4a",
-        "markdown": "<h1>世界メディア視点比較（2026年9月21日）</h1>\n<p>海外7地域と日本6媒体の公開見出しを照合した。掲載有無は取得範囲に限り、日本全体の報道不存在を意味しない。</p>\n<h2>オープニング：2026年9月21日 — 世界メディア視点比較</h2>\n<p>ドイツ州議会選挙でのメルツ首相与党の「惨敗」、モスクワへの大規模ドローン攻撃とロシア下院選が重なった一日、そしてフーシ派のサウジ攻撃激化とイランの終戦条件。今日はこの3つを、海外7地域と日本6媒体の見出しで照合する。</p>\n<h2>ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い</h2>\n<table>\n<thead>\n<tr>\n<th>国・地域</th>\n<th>見出しの焦点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPRは「歴史的な州選挙での敗北」と伝え、極右政党AfDが大きく議席を伸ばしたと事実関係を淡々と報じた。BBCによれば敗れたのはベルリンと北東部メクレンブルク＝フォアポンメルン州の2州</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>BBCはメルツ氏本人の言葉を見出しに使い「党にとって『惨事』」と伝えつつ、続投の意向も併記した</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>France24・RFIはいずれも「後退にもかかわらず改革を進める」というメルツ氏の続投宣言を見出しの軸にした</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>TASSはメルツ氏ではなくAfD共同代表ワイデル氏の「結論を出すべきだ」という要求発言を見出しにした。RTは「惨事」という同じ言葉を使いつつ「メルツ氏にとって何が懸かっているか」を分析した</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>当日取得した公開見出しでは0件</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>米英仏はいずれもメルツ氏本人の続投表明を見出しの軸に置き、「敗北にもかかわらず前進する」という当事者側の視点で伝えた。</li>\n<li>ロシアのTASSだけがメルツ氏本人ではなく、極右AfD側の「結論を出せ」という要求発言を見出しに選んだ。</li>\n<li>BBCとRTは「惨事」という同じ訳語を使ったが、BBCはメルツ氏自身の発言引用、RTは第三者の分析という組み立ての違いがあった。</li>\n</ul>\n<h2>モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行</h2>\n<table>\n<thead>\n<tr>\n<th>国・地域</th>\n<th>見出しの焦点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>英国</td>\n<td>BBCは「モスクワへの最大規模の攻撃」と伝え、市長発表としてドローン450機を撃墜、死者2人と報じた</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>France24は「ウクライナのドローン攻撃を受けてもロシア与党が勝利へ」と、攻撃と下院選を一つの見出しで結びつけ、死者3人と報じた</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>TASSは与党「統一ロシア」が開票41.04%時点で首位（共産党13.84%、LDPR9.09%、新党「新しい人々」7.97%と続く）という選挙結果を独立した記事で報じる一方、モスクワへの攻撃そのものは見出しにせず「ウクライナ軍がドネツク人民共和国を31回攻撃」という反対方向の攻撃を伝えた</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>日経が「モスクワ製油所に無人機攻撃、下院選投票『ウクライナが妨害』と非難」と、ロシア側の「妨害」非難の文脈で報じた</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>英仏は攻撃の規模（機数・死者数）を見出しの中心に置いたが、死者数は2人（BBC）と3人（France24）で食い違っている。</li>\n<li>ロシアのTASSは同じ日の攻撃を見出しでは扱わず、逆方向（ウクライナ軍によるDPR攻撃）と選挙結果を別々の記事で伝え、モスクワ被弾を前面に出さなかった。</li>\n<li>日経は英仏とは異なり、攻撃そのものより「ロシア側が下院選への妨害だと非難した」という政治的反応を見出しの軸に選んだ。</li>\n</ul>\n<h2>フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張</h2>\n<table>\n<thead>\n<tr>\n<th>国・地域</th>\n<th>見出しの焦点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>中国</td>\n<td>CGTNは「フーシ・サウジの緊張激化、イランが対米協議の条件を提示」と、攻撃激化と交渉条件を一つの見出しで結びつけ、フーシ派が首都リヤドに加え紅海沿岸の工業・エネルギー拠点ヤンブーも標的にしたと伝えた</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>RTは「サウジアラビアは引き返せない地点に近づいている、イスラエルはそれを待っている」と、サウジとイスラエルの情報協力という先の展開まで踏み込んだ分析見出しにした</td>\n</tr>\n<tr>\n<td>アラブ圏</td>\n<td>アルジャジーラは、カタール首相が「湾岸の安全保障枠組みが必要」と訴え、米・イスラエルとイランの戦争の余波を「地震」と表現したと伝えた</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>日経は「トルコ外相、サウジの『軍事的ニーズに対応』フーシの攻撃巡り」と仲介国の動きを、産経は「イランが終戦の条件を米に伝達　全前線の戦闘停止、資産凍結解除、米軍による海上封鎖終了」と条件の中身を具体的に報じた</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>中国は攻撃激化と外交交渉を並列で淡々と伝えたのに対し、ロシアのRTはサウジとイスラエルの接近という先の展開まで踏み込む挑発的な分析見出しを立てた。</li>\n<li>アラブ圏（アルジャジーラ）は当事国ではなく仲介国カタールの視点から「安全保障の枠組み」という外交的な言葉を選んだ。</li>\n<li>海外7地域の見出しには出てこなかった「イランの終戦条件の中身」（戦闘停止・資産凍結解除・海上封鎖終了）を、日本の産経だけが具体的に報じていた。</li>\n</ul>\n<h2>各国固有ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>地域</th>\n<th>主な固有ニュース</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPRは、テキサス州オースティンで連邦移民局の捜査官が発砲し、男性が負傷したと報じた</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>The Guardianは、マラウイで誘拐された英国人女性が銃撃戦の末に警察に救出されたと伝えた</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>RFIは、ウガンダがムセベニ氏批判者の引き渡しを巡り、トルコとの軍事関係を停止したと報じた</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTNは、2026年アジア大会が開幕し、中国代表団が活躍への意気込みを見せたと伝えた</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>TASSは、英フィナンシャル・タイムズの分析として「ウクライナは事実上、鉄鋼産業を失った」と報じた</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>NDTVは、北朝鮮が弾道ミサイル2発を海に向けて発射したと報じた</td>\n</tr>\n<tr>\n<td>アラブ圏</td>\n<td>アルジャジーラは、アルゼンチンの左派勢力がミレイ政権の緊縮策に抗議する「怒りの行進」を行ったと伝えた</td>\n</tr>\n</tbody>\n</table>\n<h2>まとめ</h2>\n<ul>\n<li>ドイツ州議会選挙では、米英仏がメルツ氏本人の続投表明を軸に伝えたのに対し、ロシアのTASSだけが極右AfD側の要求発言を見出しに選んだ。</li>\n<li>モスクワへのドローン攻撃は、英仏が攻撃規模を伝えた一方、ロシアは攻撃そのものより反対方向の攻撃と選挙結果を強調し、日本の日経は「ロシア側の妨害非難」という政治的反応を軸にした。</li>\n<li>フーシ派とサウジの緊張では、中国が淡々と事実を並べ、ロシアはサウジ・イスラエル接近という先の展開まで踏み込み、日本の産経だけがイランの終戦条件の具体的な中身を報じていた。</li>\n<li>3テーマとも、当日取得した日本6媒体の公開見出しでは海外の論調そのものは確認できず、日本の記事があった場合も海外とは異なる角度（妨害非難、仲介国の動き、条件の中身）から報じられていた。</li>\n</ul>\n<p>確認対象: 海外7地域（米・英・仏・中・露・印・アラブ圏）、日本6媒体（NHK・朝日・毎日・産経・読売・日経）。取得ファイル確認時刻: 2026年9月21日 JST。</p>\n<h2>参考ソース</h2>\n<ul>\n<li><a href=\"https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat\">NPR：ドイツのメルツ氏、歴史的な州選挙敗北後も改革推進を表明</a></li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss\">BBC：メルツ首相、州選挙を党にとって「惨事」と表現するも続投へ</a></li>\n<li><a href=\"https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow\">France24：ウクライナのドローン攻撃を受けてもロシア与党が勝利へ</a></li>\n<li><a href=\"https://www.france24.com/en/tv-shows/spotlight/20260920-germany-merz-vows-to-push-on-despite-setbacks\">France24：ドイツ、メルツ氏「後退にもかかわらず前進する」</a></li>\n<li><a href=\"https://www.rfi.fr/en/international/20260920-germany-s-merz-vows-to-press-on-with-reforms-despite-state-election-defeat\">RFI：ドイツのメルツ氏、州選挙敗北にもかかわらず改革推進を表明</a></li>\n<li><a href=\"https://tass.com/politics/2190349\">TASS：与党「統一ロシア」、開票41.04％時点で首位を維持</a></li>\n<li><a href=\"https://tass.com/world/2190337\">TASS：AfD共同代表、メルツ氏に選挙大敗を受けて「結論を出すべき」と要求</a></li>\n<li><a href=\"https://www.rt.com/news/646007-germany-election-whats-at-stake-for-merz/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">RT：ドイツ州選挙、メルツ氏にとって何が懸かっているか</a></li>\n<li><a href=\"https://www.rt.com/news/646006-germany-election-disaster-merz/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">RT：メルツ氏の党、州選挙で「惨事」的な過去最低の結果</a></li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss\">BBC：モスクワへの最大規模の攻撃、ウクライナが数百機のドローンを発射と市長</a></li>\n<li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE96Vk5xOGxWQXFJOTNsTzI3TUF3bWVaQmpuY3hib3llTW9tSXZHTnk5UDUtdWZGa0lYa3VtMHpqcHh4UkdMdVk0WlhUaUxzdGh0RUd3QWw2a1pBdTRKN2VSX2ZFSVMzZkZ0aFp4eQ?oc=5\">日経：モスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難</a></li>\n<li><a href=\"https://tass.com/defense/2190351\">TASS：ウクライナ軍、過去24時間でドネツク人民共和国を31回攻撃</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-20/Saudi-Houthi-tensions-escalate-as-Iran-signals-conditions-for-US-talks-1QAnW5YK46c/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World\">CGTN：フーシ・サウジの緊張激化、イランが対米協議の条件を提示</a></li>\n<li><a href=\"https://www.rt.com/news/645995-saudi-arabia-israel-iran/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">RT：サウジアラビアは引き返せない地点に近づいている、イスラエルはそれを待っている</a></li>\n<li><a href=\"https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss\">Al Jazeera：カタール首相、イランとの湾岸安全保障枠組みを訴え</a></li>\n<li><a href=\"https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss\">Al Jazeera：カタール首相、米・イスラエル対イラン戦争の余波を「地震」と表現</a></li>\n<li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNUlHbFFKZWh5a3B4bFhVZk9MSGdXampzOE02VEFRVEx2RHRtNG9qZmlCTENwdHNkalRLQ0prdnplNjZId1lyUVNRdkE3WmZZWTZ5S2lRdDRSaTlZd1drTWItcTVmMXdzZVhKTA?oc=5\">日経：トルコ外相、サウジの「軍事的ニーズに対応」　フーシの攻撃巡り</a></li>\n<li><a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YejBHV3VzUk1uRjhNb0lBeW9FNURSWTJhNFo0SlpST0pvWWNSQm55Q0c2Y2w5WnVYU3F0bmpPYTNneldFS1dZMmZpM3RJS2JXRjZETnpNVEtfOTQyTXpEY1hLZmNBUVBhVnMzSEVuZEhFQ2lGY3c?oc=5\">産経：イランが終戦の条件を米に伝達</a></li>\n<li><a href=\"https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas\">NPR：連邦移民局の捜査官がテキサス州オースティンで発砲、男性負傷</a></li>\n<li><a href=\"https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout\">The Guardian：マラウイで誘拐された英国人女性、銃撃戦の末に救出</a></li>\n<li><a href=\"https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye\">RFI：ウガンダ、ムセベニ氏批判者の引き渡し巡りトルコとの軍事関係を停止</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-19/2026-Asian-Games-open-with-Team-China-ready-to-shine-1QzdXd49gL6/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=China\">CGTN：2026年アジア大会開幕、中国代表団が活躍に意気込み</a></li>\n<li><a href=\"https://tass.com/world/2190341\">TASS：英FTの分析、ウクライナは事実上鉄鋼産業を失った</a></li>\n<li><a href=\"https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand\">NDTV：北朝鮮、弾道ミサイル2発を海に向けて発射</a></li>\n<li><a href=\"https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss\">Al Jazeera：アルゼンチン左派勢力、ミレイ政権の緊縮策に「怒りの行進」</a></li>\n</ul>",
-        "title": "ドイツ与党惨敗・モスクワ攻撃・サウジ緊張を7か国はこう報じた【比較 2026/09/21】",
-        "markdownSource": "# 世界メディア視点比較（2026年9月21日）\n\n海外7地域と日本6媒体の公開見出しを照合した。掲載有無は取得範囲に限り、日本全体の報道不存在を意味しない。\n\n## オープニング：2026年9月21日 — 世界メディア視点比較\n\nドイツ州議会選挙でのメルツ首相与党の「惨敗」、モスクワへの大規模ドローン攻撃とロシア下院選が重なった一日、そしてフーシ派のサウジ攻撃激化とイランの終戦条件。今日はこの3つを、海外7地域と日本6媒体の見出しで照合する。\n\n## ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い\n\n| 国・地域 | 見出しの焦点 |\n|---|---|\n| 米国 | NPRは「歴史的な州選挙での敗北」と伝え、極右政党AfDが大きく議席を伸ばしたと事実関係を淡々と報じた。BBCによれば敗れたのはベルリンと北東部メクレンブルク＝フォアポンメルン州の2州 |\n| 英国 | BBCはメルツ氏本人の言葉を見出しに使い「党にとって『惨事』」と伝えつつ、続投の意向も併記した |\n| フランス | France24・RFIはいずれも「後退にもかかわらず改革を進める」というメルツ氏の続投宣言を見出しの軸にした |\n| ロシア | TASSはメルツ氏ではなくAfD共同代表ワイデル氏の「結論を出すべきだ」という要求発言を見出しにした。RTは「惨事」という同じ言葉を使いつつ「メルツ氏にとって何が懸かっているか」を分析した |\n| 日本6媒体 | 当日取得した公開見出しでは0件 |\n\n- 米英仏はいずれもメルツ氏本人の続投表明を見出しの軸に置き、「敗北にもかかわらず前進する」という当事者側の視点で伝えた。\n- ロシアのTASSだけがメルツ氏本人ではなく、極右AfD側の「結論を出せ」という要求発言を見出しに選んだ。\n- BBCとRTは「惨事」という同じ訳語を使ったが、BBCはメルツ氏自身の発言引用、RTは第三者の分析という組み立ての違いがあった。\n\n## モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行\n\n| 国・地域 | 見出しの焦点 |\n|---|---|\n| 英国 | BBCは「モスクワへの最大規模の攻撃」と伝え、市長発表としてドローン450機を撃墜、死者2人と報じた |\n| フランス | France24は「ウクライナのドローン攻撃を受けてもロシア与党が勝利へ」と、攻撃と下院選を一つの見出しで結びつけ、死者3人と報じた |\n| ロシア | TASSは与党「統一ロシア」が開票41.04%時点で首位（共産党13.84%、LDPR9.09%、新党「新しい人々」7.97%と続く）という選挙結果を独立した記事で報じる一方、モスクワへの攻撃そのものは見出しにせず「ウクライナ軍がドネツク人民共和国を31回攻撃」という反対方向の攻撃を伝えた |\n| 日本6媒体 | 日経が「モスクワ製油所に無人機攻撃、下院選投票『ウクライナが妨害』と非難」と、ロシア側の「妨害」非難の文脈で報じた |\n\n- 英仏は攻撃の規模（機数・死者数）を見出しの中心に置いたが、死者数は2人（BBC）と3人（France24）で食い違っている。\n- ロシアのTASSは同じ日の攻撃を見出しでは扱わず、逆方向（ウクライナ軍によるDPR攻撃）と選挙結果を別々の記事で伝え、モスクワ被弾を前面に出さなかった。\n- 日経は英仏とは異なり、攻撃そのものより「ロシア側が下院選への妨害だと非難した」という政治的反応を見出しの軸に選んだ。\n\n## フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張\n\n| 国・地域 | 見出しの焦点 |\n|---|---|\n| 中国 | CGTNは「フーシ・サウジの緊張激化、イランが対米協議の条件を提示」と、攻撃激化と交渉条件を一つの見出しで結びつけ、フーシ派が首都リヤドに加え紅海沿岸の工業・エネルギー拠点ヤンブーも標的にしたと伝えた |\n| ロシア | RTは「サウジアラビアは引き返せない地点に近づいている、イスラエルはそれを待っている」と、サウジとイスラエルの情報協力という先の展開まで踏み込んだ分析見出しにした |\n| アラブ圏 | アルジャジーラは、カタール首相が「湾岸の安全保障枠組みが必要」と訴え、米・イスラエルとイランの戦争の余波を「地震」と表現したと伝えた |\n| 日本6媒体 | 日経は「トルコ外相、サウジの『軍事的ニーズに対応』フーシの攻撃巡り」と仲介国の動きを、産経は「イランが終戦の条件を米に伝達　全前線の戦闘停止、資産凍結解除、米軍による海上封鎖終了」と条件の中身を具体的に報じた |\n\n- 中国は攻撃激化と外交交渉を並列で淡々と伝えたのに対し、ロシアのRTはサウジとイスラエルの接近という先の展開まで踏み込む挑発的な分析見出しを立てた。\n- アラブ圏（アルジャジーラ）は当事国ではなく仲介国カタールの視点から「安全保障の枠組み」という外交的な言葉を選んだ。\n- 海外7地域の見出しには出てこなかった「イランの終戦条件の中身」（戦闘停止・資産凍結解除・海上封鎖終了）を、日本の産経だけが具体的に報じていた。\n\n## 各国固有ニュース\n\n| 地域 | 主な固有ニュース |\n|---|---|\n| 米国 | NPRは、テキサス州オースティンで連邦移民局の捜査官が発砲し、男性が負傷したと報じた |\n| 英国 | The Guardianは、マラウイで誘拐された英国人女性が銃撃戦の末に警察に救出されたと伝えた |\n| フランス | RFIは、ウガンダがムセベニ氏批判者の引き渡しを巡り、トルコとの軍事関係を停止したと報じた |\n| 中国 | CGTNは、2026年アジア大会が開幕し、中国代表団が活躍への意気込みを見せたと伝えた |\n| ロシア | TASSは、英フィナンシャル・タイムズの分析として「ウクライナは事実上、鉄鋼産業を失った」と報じた |\n| インド | NDTVは、北朝鮮が弾道ミサイル2発を海に向けて発射したと報じた |\n| アラブ圏 | アルジャジーラは、アルゼンチンの左派勢力がミレイ政権の緊縮策に抗議する「怒りの行進」を行ったと伝えた |\n\n## まとめ\n\n- ドイツ州議会選挙では、米英仏がメルツ氏本人の続投表明を軸に伝えたのに対し、ロシアのTASSだけが極右AfD側の要求発言を見出しに選んだ。\n- モスクワへのドローン攻撃は、英仏が攻撃規模を伝えた一方、ロシアは攻撃そのものより反対方向の攻撃と選挙結果を強調し、日本の日経は「ロシア側の妨害非難」という政治的反応を軸にした。\n- フーシ派とサウジの緊張では、中国が淡々と事実を並べ、ロシアはサウジ・イスラエル接近という先の展開まで踏み込み、日本の産経だけがイランの終戦条件の具体的な中身を報じていた。\n- 3テーマとも、当日取得した日本6媒体の公開見出しでは海外の論調そのものは確認できず、日本の記事があった場合も海外とは異なる角度（妨害非難、仲介国の動き、条件の中身）から報じられていた。\n\n確認対象: 海外7地域（米・英・仏・中・露・印・アラブ圏）、日本6媒体（NHK・朝日・毎日・産経・読売・日経）。取得ファイル確認時刻: 2026年9月21日 JST。\n\n## 参考ソース\n\n- [NPR：ドイツのメルツ氏、歴史的な州選挙敗北後も改革推進を表明](https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat)\n- [BBC：メルツ首相、州選挙を党にとって「惨事」と表現するも続投へ](https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss)\n- [France24：ウクライナのドローン攻撃を受けてもロシア与党が勝利へ](https://www.france24.com/en/europe/20260920-russia-s-ruling-party-on-track-to-win-election-after-ukraine-s-drone-attacks-on-moscow)\n- [France24：ドイツ、メルツ氏「後退にもかかわらず前進する」](https://www.france24.com/en/tv-shows/spotlight/20260920-germany-merz-vows-to-push-on-despite-setbacks)\n- [RFI：ドイツのメルツ氏、州選挙敗北にもかかわらず改革推進を表明](https://www.rfi.fr/en/international/20260920-germany-s-merz-vows-to-press-on-with-reforms-despite-state-election-defeat)\n- [TASS：与党「統一ロシア」、開票41.04％時点で首位を維持](https://tass.com/politics/2190349)\n- [TASS：AfD共同代表、メルツ氏に選挙大敗を受けて「結論を出すべき」と要求](https://tass.com/world/2190337)\n- [RT：ドイツ州選挙、メルツ氏にとって何が懸かっているか](https://www.rt.com/news/646007-germany-election-whats-at-stake-for-merz/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)\n- [RT：メルツ氏の党、州選挙で「惨事」的な過去最低の結果](https://www.rt.com/news/646006-germany-election-disaster-merz/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)\n- [BBC：モスクワへの最大規模の攻撃、ウクライナが数百機のドローンを発射と市長](https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss)\n- [日経：モスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難](https://news.google.com/rss/articles/CBMibEFVX3lxTE96Vk5xOGxWQXFJOTNsTzI3TUF3bWVaQmpuY3hib3llTW9tSXZHTnk5UDUtdWZGa0lYa3VtMHpqcHh4UkdMdVk0WlhUaUxzdGh0RUd3QWw2a1pBdTRKN2VSX2ZFSVMzZkZ0aFp4eQ?oc=5)\n- [TASS：ウクライナ軍、過去24時間でドネツク人民共和国を31回攻撃](https://tass.com/defense/2190351)\n- [CGTN：フーシ・サウジの緊張激化、イランが対米協議の条件を提示](https://news.cgtn.com/news/2026-09-20/Saudi-Houthi-tensions-escalate-as-Iran-signals-conditions-for-US-talks-1QAnW5YK46c/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)\n- [RT：サウジアラビアは引き返せない地点に近づいている、イスラエルはそれを待っている](https://www.rt.com/news/645995-saudi-arabia-israel-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)\n- [Al Jazeera：カタール首相、イランとの湾岸安全保障枠組みを訴え](https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss)\n- [Al Jazeera：カタール首相、米・イスラエル対イラン戦争の余波を「地震」と表現](https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss)\n- [日経：トルコ外相、サウジの「軍事的ニーズに対応」　フーシの攻撃巡り](https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNUlHbFFKZWh5a3B4bFhVZk9MSGdXampzOE02VEFRVEx2RHRtNG9qZmlCTENwdHNkalRLQ0prdnplNjZId1lyUVNRdkE3WmZZWTZ5S2lRdDRSaTlZd1drTWItcTVmMXdzZVhKTA?oc=5)\n- [産経：イランが終戦の条件を米に伝達](https://news.google.com/rss/articles/CBMidkFVX3lxTE1YejBHV3VzUk1uRjhNb0lBeW9FNURSWTJhNFo0SlpST0pvWWNSQm55Q0c2Y2w5WnVYU3F0bmpPYTNneldFS1dZMmZpM3RJS2JXRjZETnpNVEtfOTQyTXpEY1hLZmNBUVBhVnMzSEVuZEhFQ2lGY3c?oc=5)\n- [NPR：連邦移民局の捜査官がテキサス州オースティンで発砲、男性負傷](https://www.npr.org/2026/09/20/nx-s1-5975517/ice-shooting-austin-texas)\n- [The Guardian：マラウイで誘拐された英国人女性、銃撃戦の末に救出](https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout)\n- [RFI：ウガンダ、ムセベニ氏批判者の引き渡し巡りトルコとの軍事関係を停止](https://www.rfi.fr/en/africa/20260920-uganda-suspends-military-ties-with-turkey-over-extradition-of-museveni-critic-lumbuye)\n- [CGTN：2026年アジア大会開幕、中国代表団が活躍に意気込み](https://news.cgtn.com/news/2026-09-19/2026-Asian-Games-open-with-Team-China-ready-to-shine-1QzdXd49gL6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)\n- [TASS：英FTの分析、ウクライナは事実上鉄鋼産業を失った](https://tass.com/world/2190341)\n- [NDTV：北朝鮮、弾道ミサイル2発を海に向けて発射](https://www.ndtv.com/world-news/north-korea-launches-2-ballistic-missiles-toward-sea-12073587#publisher=newsstand)\n- [Al Jazeera：アルゼンチン左派勢力、ミレイ政権の緊縮策に「怒りの行進」](https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss)\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 17457,
-          "audioDurationSec": 581.898667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月21日、世界メディア視点比較スタートなのだ！",
-              "section": "オープニング：2026年9月21日 — 世界メディア視点比較",
-              "startFrame": 18,
-              "endFrame": 200
-            },
-            {
-              "speaker": "B",
-              "text": "今日取り上げるのは3つ。ドイツ州議会選挙でのメルツ首相与党の惨敗、モスクワへの大規模ドローン攻撃とロシア下院選が重なった一日、そしてフーシ派のサウジ攻撃激化とイランの終戦条件ね。",
-              "section": "オープニング：2026年9月21日 — 世界メディア視点比較",
-              "startFrame": 207,
-              "endFrame": 628
-            },
-            {
-              "speaker": "A",
-              "text": "どれも重そうな話なのだ、楽しみなのだ！",
-              "section": "オープニング：2026年9月21日 — 世界メディア視点比較",
-              "startFrame": 636,
-              "endFrame": 743
-            },
-            {
-              "speaker": "B",
-              "text": "まずはドイツの選挙から見ていきましょう。",
-              "section": "オープニング：2026年9月21日 — 世界メディア視点比較",
-              "startFrame": 750,
-              "endFrame": 827
-            },
-            {
-              "speaker": "A",
-              "text": "ドイツで州議会選挙があって、メルツ首相の党が負けたらしいのだ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 845,
-              "endFrame": 1008
-            },
-            {
-              "speaker": "B",
-              "text": "アメリカのNPRは「歴史的な州選挙での敗北」と伝えていて、極右政党のAfDが大きく議席を伸ばしたと事実を淡々と書いているの。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 1015,
-              "endFrame": 1335
-            },
-            {
-              "speaker": "A",
-              "text": "イギリスの方はどうなのだ？",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 1343,
-              "endFrame": 1409
-            },
-            {
-              "speaker": "B",
-              "text": "イギリスのBBCはメルツ氏本人の言葉を見出しに使っていて、「党にとって惨事だ」と本人が言ったと伝えているわ。続投する意向も併記しているの。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 1416,
-              "endFrame": 1730
-            },
-            {
-              "speaker": "A",
-              "text": "自分の口から「惨事」って言うのはなかなか正直なのだ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 1737,
-              "endFrame": 1896
-            },
-            {
-              "speaker": "B",
-              "text": "フランスの2つのメディアも、どちらも「敗北にもかかわらず改革を進める」というメルツ氏の続投宣言を見出しの軸にしているわ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 1903,
-              "endFrame": 2173
-            },
-            {
-              "speaker": "A",
-              "text": "みんなメルツ氏本人の言葉を中心に伝えているのだ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 2180,
-              "endFrame": 2305
-            },
-            {
-              "speaker": "B",
-              "text": "ところがロシアのTASSだけは違っていて、メルツ氏ではなく極右AfDの共同代表が「結論を出すべきだ」と要求した、という発言を見出しにしているの。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 2313,
-              "endFrame": 2638
-            },
-            {
-              "speaker": "A",
-              "text": "メルツ氏じゃなくて、批判している側の言葉を選んだのだ！",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 2646,
-              "endFrame": 2779
-            },
-            {
-              "speaker": "B",
-              "text": "RTも「惨事」という同じ言葉を使っているけれど、こちらは第三者としての分析記事で、メルツ氏本人の続投表明はあまり前面に出していないわ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 2786,
-              "endFrame": 3127
-            },
-            {
-              "speaker": "A",
-              "text": "同じ「惨事」でも、誰の言葉として伝えるかで印象が変わるのだ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 3134,
-              "endFrame": 3330
-            },
-            {
-              "speaker": "B",
-              "text": "米英仏が当事者本人の続投表明を軸にしたのに対し、ロシア系メディアだけが批判する側の要求を見出しに選んだ、という違いね。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 3337,
-              "endFrame": 3635
-            },
-            {
-              "speaker": "A",
-              "text": "具体的にはどの州で負けたのだ？",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 3643,
-              "endFrame": 3727
-            },
-            {
-              "speaker": "B",
-              "text": "BBCによると、ベルリンと北東部のメクレンブルク＝フォアポンメルン州の2つの選挙で、メルツ氏の中道右派CDUが痛手を負ったの。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 3735,
-              "endFrame": 4037
-            },
-            {
-              "speaker": "A",
-              "text": "メクレンブルク＝フォアポンメルン州なのだ、長い名前なのだ！",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 4045,
-              "endFrame": 4194
-            },
-            {
-              "speaker": "B",
-              "text": "RFIは、その州でAfDが首位に立ち、ベルリンでも勢力を伸ばしたと伝えているわ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 4202,
-              "endFrame": 4403
-            },
-            {
-              "speaker": "A",
-              "text": "2つの州、両方ともAfDが調子いいのだ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 4411,
-              "endFrame": 4539
-            },
-            {
-              "speaker": "B",
-              "text": "日本の6媒体はこの話題、見当たったのだ？",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 4547,
-              "endFrame": 4653
-            },
-            {
-              "speaker": "B",
-              "text": "当日取得できた日本6媒体の公開見出しには、この話題は一件も確認できなかったわ。",
-              "section": "ドイツ州議会選挙、CDUの「惨敗」とAfD躍進を巡る論調の違い",
-              "startFrame": 4660,
-              "endFrame": 4855
-            },
-            {
-              "speaker": "A",
-              "text": "次はモスクワへの攻撃なのだ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 4873,
-              "endFrame": 4951
-            },
-            {
-              "speaker": "B",
-              "text": "イギリスのBBCは「モスクワへの最大規模の攻撃」と伝えていて、モスクワ市長の発表としてドローン450機を撃墜、死者2人と報じているわ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 4959,
-              "endFrame": 5297
-            },
-            {
-              "speaker": "A",
-              "text": "450機なのだ！？すごい数なのだ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 5305,
-              "endFrame": 5411
-            },
-            {
-              "speaker": "B",
-              "text": "フランスのメディアは、この攻撃と同じ日に行われていたロシア下院選をひとつの見出しで結びつけていて、「ウクライナのドローン攻撃を受けてもロシア与党が勝利へ」と伝えているの。死者数は3人としているわ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 5418,
-              "endFrame": 5845
-            },
-            {
-              "speaker": "A",
-              "text": "死者数、BBCは2人でフランスは3人なのだ、数字がずれているのだ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 5853,
-              "endFrame": 6042
-            },
-            {
-              "speaker": "B",
-              "text": "速報段階での食い違いね。一方でロシアのTASSは、与党「統一ロシア」が開票41.04％時点で首位という選挙結果を独立した記事で伝えていて、モスクワへの攻撃そのものは見出しにしていないの。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 6050,
-              "endFrame": 6525
-            },
-            {
-              "speaker": "A",
-              "text": "攻撃されたのに、見出しにしないのだ？",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 6533,
-              "endFrame": 6632
-            },
-            {
-              "speaker": "B",
-              "text": "代わりにTASSは「ウクライナ軍がドネツク人民共和国を31回攻撃した」という反対方向の攻撃を報じているわ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 6640,
-              "endFrame": 6900
-            },
-            {
-              "speaker": "A",
-              "text": "攻められた話より、攻めた話を選んでいるのだ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 6907,
-              "endFrame": 7034
-            },
-            {
-              "speaker": "B",
-              "text": "ちなみに選挙結果の中身は、与党「統一ロシア」以外に共産党が13.84％、LDPRが9.09％、新党「新しい人々」が7.97％と続いているわ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 7042,
-              "endFrame": 7524
-            },
-            {
-              "speaker": "A",
-              "text": "野党もそれなりに票を取っているのだ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 7532,
-              "endFrame": 7617
-            },
-            {
-              "speaker": "B",
-              "text": "日本の日経は、また別の角度から書いていて、「モスクワ製油所に無人機攻撃、下院選投票『ウクライナが妨害』と非難」という見出しなの。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 7624,
-              "endFrame": 7956
-            },
-            {
-              "speaker": "A",
-              "text": "攻撃そのものより、ロシア側が「妨害された」と非難した、という反応の方が見出しになっているのだ。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 7964,
-              "endFrame": 8225
-            },
-            {
-              "speaker": "B",
-              "text": "英仏が攻撃の規模を中心に伝えたのに対して、日経はロシア側の政治的な反応を軸に選んだ、という違いが見えるわね。",
-              "section": "モスクワへの大規模ドローン攻撃、ロシア下院選と同時進行",
-              "startFrame": 8232,
-              "endFrame": 8511
-            },
-            {
-              "speaker": "A",
-              "text": "3つ目は中東なのだ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 8529,
-              "endFrame": 8588
-            },
-            {
-              "speaker": "B",
-              "text": "中国のCGTNは「フーシ・サウジの緊張激化、イランが対米協議の条件を提示」と、攻撃の激化と交渉の条件をひとつの見出しでまとめているわ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 8596,
-              "endFrame": 8969
-            },
-            {
-              "speaker": "A",
-              "text": "ふたつの話を一気に伝えているのだ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 8977,
-              "endFrame": 9065
-            },
-            {
-              "speaker": "B",
-              "text": "記事によると、フーシ派は首都リヤドだけでなく、紅海沿岸の工業・エネルギー拠点ヤンブーも狙ったと主張しているの。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 9073,
-              "endFrame": 9331
-            },
-            {
-              "speaker": "A",
-              "text": "リヤドだけじゃなくて、エネルギー拠点まで狙われたのだ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 9338,
-              "endFrame": 9467
-            },
-            {
-              "speaker": "B",
-              "text": "ロシアのRTはもっと踏み込んでいて、「サウジアラビアは引き返せない地点に近づいている、イスラエルはそれを待っている」という分析見出しなの。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 9475,
-              "endFrame": 9772
-            },
-            {
-              "speaker": "A",
-              "text": "イスラエルが待っている、なのだ？かなり挑発的な言い方なのだ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 9780,
-              "endFrame": 9943
-            },
-            {
-              "speaker": "B",
-              "text": "サウジとイスラエルが情報面で協力するようになるかもしれない、という先の展開まで見出しで匂わせているわね。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 9950,
-              "endFrame": 10175
-            },
-            {
-              "speaker": "A",
-              "text": "アラブ圏はどう伝えているのだ？",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 10183,
-              "endFrame": 10263
-            },
-            {
-              "speaker": "B",
-              "text": "アルジャジーラは、カタール首相が「湾岸の安全保障の枠組みが必要だ」と訴えたと伝えていて、米・イスラエルとイランの戦争の余波を「地震」と表現したとも書いているわ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 10270,
-              "endFrame": 10683
-            },
-            {
-              "speaker": "A",
-              "text": "当事国じゃなくて、仲介するカタールの視点なのだ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 10691,
-              "endFrame": 10819
-            },
-            {
-              "speaker": "B",
-              "text": "日本の方は日経と産経が別々の角度から報じていて、日経は「トルコ外相、サウジの軍事的ニーズに対応」と仲介国の動きを、産経は「イランが終戦の条件を米に伝達」と条件の中身そのものを伝えているの。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 10826,
-              "endFrame": 11334
-            },
-            {
-              "speaker": "A",
-              "text": "条件の中身って、具体的に何なのだ？",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 11341,
-              "endFrame": 11455
-            },
-            {
-              "speaker": "B",
-              "text": "全前線の戦闘停止、資産凍結の解除、そして米軍による海上封鎖の終了、と産経が具体的に書いているわ。これは海外7地域の見出しには出てこなかった内容よ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 11463,
-              "endFrame": 11851
-            },
-            {
-              "speaker": "A",
-              "text": "世界のどこも見出しにしていなかったことを、産経が具体的に伝えていたのだ。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 11859,
-              "endFrame": 12040
-            },
-            {
-              "speaker": "B",
-              "text": "中国が淡々と両方を並べ、ロシアが先の展開まで踏み込み、日本は仲介国の動きと条件の中身に分かれて焦点を当てた、というわけね。",
-              "section": "フーシ派のサウジ攻撃激化とイランの終戦条件を巡る中東の緊張",
-              "startFrame": 12048,
-              "endFrame": 12365
-            },
-            {
-              "speaker": "A",
-              "text": "ここからは各国の独自ニュースなのだ！",
-              "section": "各国固有ニュース",
-              "startFrame": 12383,
-              "endFrame": 12472
-            },
-            {
-              "speaker": "B",
-              "text": "アメリカのNPRは、テキサス州オースティンで連邦移民局の捜査官が発砲し、男性が負傷したと報じているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12479,
-              "endFrame": 12737
-            },
-            {
-              "speaker": "A",
-              "text": "移民の取り締まりを巡る発砲なのだ、緊張が続いているのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12745,
-              "endFrame": 12898
-            },
-            {
-              "speaker": "B",
-              "text": "イギリスのガーディアンは、マラウイで誘拐された英国人女性が、銃撃戦の末に警察に救出されたと伝えているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 12905,
-              "endFrame": 13158
-            },
-            {
-              "speaker": "A",
-              "text": "無事だったのだ、よかったのだ！",
-              "section": "各国固有ニュース",
-              "startFrame": 13165,
-              "endFrame": 13239
-            },
-            {
-              "speaker": "B",
-              "text": "フランスのメディアは、ウガンダがムセベニ氏の批判者の引き渡しを巡って、トルコとの軍事関係を停止したと報じているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 13247,
-              "endFrame": 13494
-            },
-            {
-              "speaker": "A",
-              "text": "外交関係が一気に冷え込んだのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 13501,
-              "endFrame": 13592
-            },
-            {
-              "speaker": "B",
-              "text": "中国のCGTNは、2026年アジア大会が開幕して、中国代表団が活躍への意気込みを見せたと伝えているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 13600,
-              "endFrame": 13881
-            },
-            {
-              "speaker": "A",
-              "text": "スポーツの話題なのだ、こういうのも見たいのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 13888,
-              "endFrame": 13996
-            },
-            {
-              "speaker": "B",
-              "text": "ロシアのTASSは、英フィナンシャル・タイムズの分析として「ウクライナは事実上、鉄鋼産業を失った」と報じているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 14004,
-              "endFrame": 14267
-            },
-            {
-              "speaker": "A",
-              "text": "それはロシア側から見た厳しい評価なのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 14275,
-              "endFrame": 14379
-            },
-            {
-              "speaker": "B",
-              "text": "インドのメディアは、北朝鮮が弾道ミサイル2発を海に向けて発射したと報じているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 14386,
-              "endFrame": 14564
-            },
-            {
-              "speaker": "A",
-              "text": "北朝鮮のミサイル、また撃ったのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 14572,
-              "endFrame": 14667
-            },
-            {
-              "speaker": "B",
-              "text": "アラブ圏のアルジャジーラは、アルゼンチンの左派勢力がミレイ政権の緊縮策に抗議する「怒りの行進」を行ったと伝えているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 14674,
-              "endFrame": 14952
-            },
-            {
-              "speaker": "A",
-              "text": "経済政策への抗議は世界のあちこちで見るのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 14960,
-              "endFrame": 15082
-            },
-            {
-              "speaker": "B",
-              "text": "こうして並べると、各国が今どこに関心を向けているかが伝わってくるわね。",
-              "section": "各国固有ニュース",
-              "startFrame": 15090,
-              "endFrame": 15251
-            },
-            {
-              "speaker": "A",
-              "text": "今日の3テーマ、まとめるのだ！",
-              "section": "まとめ",
-              "startFrame": 15269,
-              "endFrame": 15350
-            },
-            {
-              "speaker": "B",
-              "text": "ドイツの選挙では、米英仏がメルツ氏本人の続投表明を軸に伝えたのに、ロシアのTASSだけは批判するAfD側の要求発言を見出しに選んだわ。",
-              "section": "まとめ",
-              "startFrame": 15357,
-              "endFrame": 15690
-            },
-            {
-              "speaker": "A",
-              "text": "モスクワへのドローン攻撃は、英仏が規模を伝えた一方で、ロシアは攻撃そのものより反対方向の攻撃と選挙結果を強調していたのだ。日本の日経は「妨害への非難」という反応を軸にしたのだ。",
-              "section": "まとめ",
-              "startFrame": 15698,
-              "endFrame": 16215
-            },
-            {
-              "speaker": "B",
-              "text": "フーシ派とサウジの緊張では、中国が淡々と並べ、ロシアがサウジとイスラエルの接近という先の展開まで踏み込んで、日本の産経だけがイランの終戦条件の中身を具体的に伝えていたわ。",
-              "section": "まとめ",
-              "startFrame": 16223,
-              "endFrame": 16635
-            },
-            {
-              "speaker": "A",
-              "text": "3テーマとも、日本6媒体の当日の見出しには海外の論調そのものは出てこなかったのだ。",
-              "section": "まとめ",
-              "startFrame": 16642,
-              "endFrame": 16869
-            },
-            {
-              "speaker": "B",
-              "text": "同じ出来事でも、誰の言葉を見出しに選ぶか、何を書いて何を書かないかで、ここまで違う世界が見えてくるのね。",
-              "section": "まとめ",
-              "startFrame": 16877,
-              "endFrame": 17119
-            },
-            {
-              "speaker": "A",
-              "text": "見出しひとつで国の立ち位置が透けて見えるって、面白いのだ。",
-              "section": "まとめ",
-              "startFrame": 17126,
-              "endFrame": 17269
-            },
-            {
-              "speaker": "B",
-              "text": "今日はここまでにしましょう。",
-              "section": "まとめ",
-              "startFrame": 17276,
-              "endFrame": 17328
-            },
-            {
-              "speaker": "A",
-              "text": "今日も聞いてくれてありがとうなのだ！また明日なのだ！",
-              "section": "まとめ",
-              "startFrame": 17336,
-              "endFrame": 17457
-            }
-          ]
-        }
-      },
-      {
-        "mode": "domestic",
-        "label": "国内8紙比較",
-        "iaId": "news-pickup-2026-09-21-domestic",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-21-domestic/domestic_yukkuri.m4a",
-        "markdown": "<h1>国内紙比較と世界から見た日本（2026年9月21日）</h1>\n<h2>オープニング：2026年9月21日 — 国内紙比較と世界から見た日本</h2>\n<ul>\n<li>今回は3本立て。日経・テレビ東京の世論調査が示す高市内閣支持率62%と改造後の顔ぶれ評価49%、安保法制強行から11年の抗議行動と防衛産業融資を巡る銀行の温度差、そして開幕2日目を迎えた愛知・名古屋アジア大会の金メダルラッシュを、各紙の伝え方の違いで見ていく。</li>\n<li>海外編は、AFPが取材した新宿駅の自動ゴミ箱実験と、AP通信が伝えた日本の100歳以上人口10万人突破のニュースを取り上げる。</li>\n</ul>\n<h2>第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>日経</td>\n<td>「高市内閣支持横ばい62% 改造後の顔ぶれ評価49%、日経世論調査」</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>「『不可能』から一転して連立、そして入閣へ…日本維新の会はナニを目指し、高市首相はナゼ『配慮』するのか」</td>\n</tr>\n<tr>\n<td>NHK・朝日・毎日・赤旗・産経・読売</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>日経とテレビ東京が9月18〜20日に実施した世論調査で、高市内閣の支持率は62%と8月調査から横ばい、不支持率は33%で1ポイント上昇した。17日発足の改造内閣・自民党役員人事について「評価する」は49%にとどまった。支持政党別では自民支持層の90%が「支持する」と答えた一方、無党派層では38%にとどまり、野党支持層は42%で前回から5ポイント上昇した。</li>\n<li>東京は数字ではなく力学を追った。連立を組む日本維新の会が初入閣を果たした経緯について、「不可能」とされていた協力関係が一転した背景と、高市首相がタカ派色を前面に出す人事の中であえて維新へ配慮した狙いを分析した。</li>\n<li>日経は支持率という定量データで内閣の現在地を示し、東京は入閣人事の政治的計算という定性的な側面を描いており、同じ「内閣改造後」というテーマでも、数字を見せるか駆け引きを見せるかで切り口が分かれた。</li>\n</ul>\n<h2>第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>赤旗</td>\n<td>「戦争法強行に抗議『１９日行動』１１年/民主主義立て直そう/国会前に１万５千人」「国会正門前『１９日行動』/田村委員長のあいさつ」</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>「激動期の安保:防衛産業強化　政府と金融機関に温度差『融資はセンシティブ』」</td>\n</tr>\n<tr>\n<td>NHK・朝日・東京・産経・読売・日経</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>赤旗は19日、2015年9月19日の安全保障関連法（戦争法）強行採決からちょうど11年となったこの日、国会正門前に約1万5000人が集まり、全国330カ所超で連帯行動があったと報じた。日本共産党の田村智子委員長は、集団的自衛権の行使を認めた閣議決定の撤回と法律の廃止を訴えたと伝えている。</li>\n<li>毎日は同じ安保政策の流れを、金融の側面から追った。政府は防衛産業への協力を金融機関に要請しており、政府系の日本政策投資銀行は武器製造企業への融資制限を撤廃した。一方、民間銀行は企業イメージの悪化や中国など海外事業への影響を懸念し慎重な姿勢を崩していないとし、三菱UFJ銀行が安全保障政策との整合性を判断基準に据えた新たな融資方針への転換を進めていると報じた。</li>\n<li>赤旗は市民の抗議という民主主義の現場を、毎日は防衛産業を支える資金の流れという経済の現場を描いており、同じ「安保政策の11年」でも、街頭と銀行という異なる場所から光を当てている。</li>\n</ul>\n<h3>継続特集メモ（終戦・被爆国・平和憲法）</h3>\n<ul>\n<li>本テーマは、安全保障政策と平和・民主主義を巡る継続特集として位置づける。今回は、安保法制への抗議という理念の水準と、防衛産業への融資という実際の資金の動きという二つの具体的事実を対置し、抑止力強化と平和への態度の間にある緊張を示した。</li>\n</ul>\n<h2>第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>朝日</td>\n<td>「アジア大会の金メダル第1号は北條巧『人生一番の勝負だと思った』」「修正した鈴木聡美、初の29秒台で日本新　5大会連続メダルの原動力」</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>「アジア大会 サッカー男子、日本が２連勝で準々決勝進出…７発でキルギスを圧倒」「アジア大会で日本勢『金』メダルラッシュ…トライアスロン男子と女子空手形、競泳男子の個人メドレーで」</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>「競泳の松下知之が金、鈴木聡美銀　日本の金１号はトライアスロン」</td>\n</tr>\n<tr>\n<td>NHK・毎日・赤旗・産経・日経</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>朝日は個人の物語を前面に出した。トライアスロン男子で日本の金メダル第1号となった北條巧選手は、2位との差わずか9秒で優勝し「本当に今幸せです」と語った。競泳女子50メートル平泳ぎでは35歳の鈴木聡美選手が日本新記録の29秒91で銀メダルを獲得し、日本女子で初めて30秒の壁を破った。5大会連続でのメダル獲得は通算10個目になる。</li>\n<li>読売は団体戦の勢いと金メダルの総数を伝えた。サッカー男子U-21代表は豊田スタジアムでキルギスを7−0で下し、2連勝で準々決勝進出を確定させた。あわせてトライアスロン、女子空手形、競泳男子個人メドレー（松下知之選手）での金メダル獲得を「メダルラッシュ」としてまとめて報じた。</li>\n<li>東京は競泳に焦点を絞り、松下知之選手の金メダルと鈴木聡美選手の銀メダルを並べて伝えた。同じ大会2日目でも、朝日は個人の背景にある物語、読売は競技種目を横断した総数、東京は特定種目の結果整理と、扱う粒度が異なっている。</li>\n</ul>\n<h2>第1部 各紙独自ニュース</h2>\n<ul>\n<li>朝日: 元参院議員の東国原氏を、宮崎県警が名誉毀損容疑で書類送検した。</li>\n<li>毎日: 特攻隊員2人の悲話をもとにした朗読ミュージカル「月光の夏」が上演された。</li>\n<li>東京: 政治学者・丸山真男の没後30年にあたり、既定路線だけによらない「現実的な選択」を説いた論考の今日的な意味を特集した。</li>\n<li>赤旗: 性的少数者への差別的発言について、簗農相が否定しなかったと報じた。</li>\n<li>産経: シャープがAIサーバー事業に参入し、鴻海と協業して2027年度から日本国内で販売する方針を示した。</li>\n<li>読売: 山形市の「日本一の芋煮会フェスティバル」で、直径6メートルの大鍋をかき混ぜる重機の巨大なお玉に、潤滑油代わりのチューブ式バターを塗り込む様子を伝えた。</li>\n<li>日経: 日本生命がデータセンター向けに2兆円を融資し、日本の保険マネーが米国のAI開発を支える構図が広がっていると報じた。</li>\n<li>NHK: 取得上位の記事が直近日から更新されておらず、当日分として採用できる記事がなかった。</li>\n</ul>\n<h2>第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想</h2>\n<ul>\n<li>AFP（9月19日配信、Kuwait Times等が転載）は、1日270万人が利用する世界最多の乗降客数を誇るJR新宿駅で、JR東日本が自動走行するゴミ箱ロボット3台の実証実験を11月末まで行っていると伝えた。高さ約1メートルのロボットは秒速20センチで移動し、担当者の川道慎也氏は「移動式のゴミ箱がどれだけ違いを生むか見たい」と説明した。</li>\n<li>記事によると、JR東日本区間の新宿駅にはゴミ箱・リサイクル箱が現在7セットしかなく、手作業での回収は1日10回を超えるという。乗客の反応も紹介されており、ドイツ人の電車運転士クリス・ゲンゼラインさん（30）は「目がとてもかわいい」と話し、大学生の野口竜之介さん（22）は「歩きながら捨てられるなら、その方が楽」と述べた。</li>\n<li>AFPは、世界屈指の混雑駅における清掃の効率化という切り口で、日本の労働力不足とロボット活用の実験的な現場を紹介している。国内報道が完全無人タクシーなど大型インフラのロボット化を伝える一方、AFPはゴミ箱という身近な設備の実証実験に着目しており、視点の規模が対照的である。</li>\n</ul>\n<h2>第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行</h2>\n<ul>\n<li>AP通信（9月16日配信、Washington Post・NBC News等に掲載）は、日本の厚生労働省統計をもとに、100歳以上の人口が今年9月時点で10万7677人となり、統計開始以来初めて10万人を超えたと伝えた。前年から7914人増え、56年連続の増加となる。女性が9万4298人（87.6%）を占め、最高齢は京都在住の114歳の女性・岸本芙美子さん、男性の最高齢は熊本の112歳・加藤光さんだという。</li>\n<li>上野賢一郎厚生労働相は「多くの方が長く、健康で活動的な生活を送っていることを大変うれしく思う」と述べ、医療の進歩や生活習慣、食生活を要因に挙げた。</li>\n<li>AP通信の記事はここで終わらず、長寿の祝賀にとどまらない少子化への懸念を併せて描いた。18〜34歳の独身者の2割超が結婚するつもりがないとする調査結果を紹介し、子育て費用や教育費、育児の負担の重さが結婚をためらわせる要因だと指摘した。2025年の日本の合計特殊出生率は過去最低の1.14で、人口置換水準の2.1を大きく下回り、総人口は2070年までに1億2600万人から8700万人へ減少すると見込まれている。</li>\n<li>国内紙が長寿を祝う話題として単独で報じがちな一方、AP通信は「長寿国」と「少子化が進む国」という同じ日本の二つの顔を一本の記事に併記しており、海外報道ならではの複眼的な視点が表れている。</li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>政治面では、日経の世論調査が高市内閣支持率62%という定量的な現在地を示し、東京は維新入閣を巡る力学という定性的な側面を描いた。</li>\n<li>安保面では、赤旗が戦争法強行から11年の国会前抗議1万5000人を、毎日が防衛産業への銀行融資を巡る温度差を伝え、街頭と金融という異なる場所から同じ政策の緊張を映した。</li>\n<li>スポーツ面では、朝日が北條巧選手・鈴木聡美選手個人の物語を、読売がサッカーの快勝と金メダルの総数を、東京が競泳の結果を、それぞれ異なる粒度でアジア大会2日目を伝えた。</li>\n<li>海外編では、AFPが新宿駅の自動ゴミ箱という身近な労働力不足対策を、AP通信が長寿国と少子化国という日本の二面性を、それぞれ独自の視点で描いた。</li>\n</ul>\n<h3>参考ソース</h3>\n<ul>\n<li><a href=\"https://www.nikkei.com/article/DGXZQOUA17AWI0X10C26A9000000/\">日本経済新聞「高市内閣支持横ばい62% 改造後の顔ぶれ評価49%、日経世論調査」</a></li>\n<li><a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pYW95ZklSaHlrZFMtaUdSLUpTME1nMUJFZjhFNVhtZVlmUDBsZmxHMnpVZDF2OHVhWlNwd0M1LUwxSFF2TmJXVlpQcFZIZWtvN3VV?oc=5\">東京新聞「『不可能』から一転して連立、そして入閣へ」</a></li>\n<li><a href=\"https://www.jcp.or.jp/akahata/aik26/2026-09-20/2026092001_01_0.php\">しんぶん赤旗「戦争法強行に抗議『１９日行動』１１年/民主主義立て直そう/国会前に１万５千人」</a></li>\n<li><a href=\"https://www.jcp.or.jp/akahata/aik26/2026-09-20/2026092002_02_0.php\">しんぶん赤旗「国会正門前『１９日行動』/田村委員長のあいさつ」</a></li>\n<li><a href=\"https://mainichi.jp/articles/20260920/k00/00m/020/174000c\">毎日新聞「激動期の安保:防衛産業強化　政府と金融機関に温度差」</a></li>\n<li><a href=\"https://www.nikkei.com/article/DGXZQOUB1112W0R10C26A9000000/\">日本経済新聞「三菱UFJ銀行が防衛産業に融資　慎重姿勢を転換」</a></li>\n<li><a href=\"http://www.asahi.com/articles/ASV9N12RQV9NUTQP005M.html?ref=rss\">朝日新聞デジタル「アジア大会の金メダル第1号は北條巧」</a></li>\n<li><a href=\"http://www.asahi.com/articles/ASV9N46HSV9NUTQP01BM.html?ref=rss\">朝日新聞デジタル「修正した鈴木聡美、初の29秒台で日本新」</a></li>\n<li><a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcVlmZ2I5ckJyeHlmSThhYi1BMGVTdnp4TC1BWVdzaFZMLTZIWGZ0MUJuLWItanlSY190OVhobXpwNkc5LWxwVGlPUjBOMVRyamFBRWZNWmpfN1FJcEF2X19QVE9GR1Zuay1EV1ZHejNkeDdqMndj?oc=5\">読売新聞「アジア大会 サッカー男子、日本が２連勝で準々決勝進出」</a></li>\n<li><a href=\"http://www.asahi.com/articles/ASV9N3WG3V9NTNAB002M.html?ref=rss\">朝日新聞デジタル「東国原氏を書類送検」</a></li>\n<li><a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRGRmUkhlR21hcXNVWm52U3A1RklheG9tMEVYbmxDZUtNTUVOT0hSTFRhTWwzYkF2YlN5R3czcTZHczR0SEZzSWhKYWxYQzVSQVk2WTRlMk9OVm9IbE9RUXBxMEp0UEFrVEZZYw?oc=5\">日本経済新聞「日本生命、データセンターに2兆円融資」</a></li>\n<li><a href=\"https://kuwaittimes.com/article/50059/technology/japans-busiest-railway-station-tests-robot-bins/\">Kuwait Times（AFP配信）「Japan's busiest railway station tests robot bins」</a></li>\n<li><a href=\"https://www.japantimes.co.jp/news/2026/09/18/japan/society/robot-bins-shinjuku-station/\">Japan Times「Japan's busiest rail station tests robot bins」</a></li>\n<li><a href=\"https://www.nbcnews.com/world/asia/japan-more-than-100000-centenarians-rcna598081\">NBC News（AP配信）「Japan now has more than 100,000 people who are 100 or older」</a></li>\n</ul>",
-        "title": "高市内閣支持率62%、戦争法11年の抗議と防衛融資の温度差【2026/09/21】",
-        "markdownSource": "# 国内紙比較と世界から見た日本（2026年9月21日）\n\n## オープニング：2026年9月21日 — 国内紙比較と世界から見た日本\n\n- 今回は3本立て。日経・テレビ東京の世論調査が示す高市内閣支持率62%と改造後の顔ぶれ評価49%、安保法制強行から11年の抗議行動と防衛産業融資を巡る銀行の温度差、そして開幕2日目を迎えた愛知・名古屋アジア大会の金メダルラッシュを、各紙の伝え方の違いで見ていく。\n- 海外編は、AFPが取材した新宿駅の自動ゴミ箱実験と、AP通信が伝えた日本の100歳以上人口10万人突破のニュースを取り上げる。\n\n## 第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 日経 | 「高市内閣支持横ばい62% 改造後の顔ぶれ評価49%、日経世論調査」 |\n| 東京 | 「『不可能』から一転して連立、そして入閣へ…日本維新の会はナニを目指し、高市首相はナゼ『配慮』するのか」 |\n| NHK・朝日・毎日・赤旗・産経・読売 | 取得上位に同件見出しなし |\n\n- 日経とテレビ東京が9月18〜20日に実施した世論調査で、高市内閣の支持率は62%と8月調査から横ばい、不支持率は33%で1ポイント上昇した。17日発足の改造内閣・自民党役員人事について「評価する」は49%にとどまった。支持政党別では自民支持層の90%が「支持する」と答えた一方、無党派層では38%にとどまり、野党支持層は42%で前回から5ポイント上昇した。\n- 東京は数字ではなく力学を追った。連立を組む日本維新の会が初入閣を果たした経緯について、「不可能」とされていた協力関係が一転した背景と、高市首相がタカ派色を前面に出す人事の中であえて維新へ配慮した狙いを分析した。\n- 日経は支持率という定量データで内閣の現在地を示し、東京は入閣人事の政治的計算という定性的な側面を描いており、同じ「内閣改造後」というテーマでも、数字を見せるか駆け引きを見せるかで切り口が分かれた。\n\n## 第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 赤旗 | 「戦争法強行に抗議『１９日行動』１１年/民主主義立て直そう/国会前に１万５千人」「国会正門前『１９日行動』/田村委員長のあいさつ」 |\n| 毎日 | 「激動期の安保:防衛産業強化　政府と金融機関に温度差『融資はセンシティブ』」 |\n| NHK・朝日・東京・産経・読売・日経 | 取得上位に同件見出しなし |\n\n- 赤旗は19日、2015年9月19日の安全保障関連法（戦争法）強行採決からちょうど11年となったこの日、国会正門前に約1万5000人が集まり、全国330カ所超で連帯行動があったと報じた。日本共産党の田村智子委員長は、集団的自衛権の行使を認めた閣議決定の撤回と法律の廃止を訴えたと伝えている。\n- 毎日は同じ安保政策の流れを、金融の側面から追った。政府は防衛産業への協力を金融機関に要請しており、政府系の日本政策投資銀行は武器製造企業への融資制限を撤廃した。一方、民間銀行は企業イメージの悪化や中国など海外事業への影響を懸念し慎重な姿勢を崩していないとし、三菱UFJ銀行が安全保障政策との整合性を判断基準に据えた新たな融資方針への転換を進めていると報じた。\n- 赤旗は市民の抗議という民主主義の現場を、毎日は防衛産業を支える資金の流れという経済の現場を描いており、同じ「安保政策の11年」でも、街頭と銀行という異なる場所から光を当てている。\n\n### 継続特集メモ（終戦・被爆国・平和憲法）\n- 本テーマは、安全保障政策と平和・民主主義を巡る継続特集として位置づける。今回は、安保法制への抗議という理念の水準と、防衛産業への融資という実際の資金の動きという二つの具体的事実を対置し、抑止力強化と平和への態度の間にある緊張を示した。\n\n## 第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 朝日 | 「アジア大会の金メダル第1号は北條巧『人生一番の勝負だと思った』」「修正した鈴木聡美、初の29秒台で日本新　5大会連続メダルの原動力」 |\n| 読売 | 「アジア大会 サッカー男子、日本が２連勝で準々決勝進出…７発でキルギスを圧倒」「アジア大会で日本勢『金』メダルラッシュ…トライアスロン男子と女子空手形、競泳男子の個人メドレーで」 |\n| 東京 | 「競泳の松下知之が金、鈴木聡美銀　日本の金１号はトライアスロン」 |\n| NHK・毎日・赤旗・産経・日経 | 取得上位に同件見出しなし |\n\n- 朝日は個人の物語を前面に出した。トライアスロン男子で日本の金メダル第1号となった北條巧選手は、2位との差わずか9秒で優勝し「本当に今幸せです」と語った。競泳女子50メートル平泳ぎでは35歳の鈴木聡美選手が日本新記録の29秒91で銀メダルを獲得し、日本女子で初めて30秒の壁を破った。5大会連続でのメダル獲得は通算10個目になる。\n- 読売は団体戦の勢いと金メダルの総数を伝えた。サッカー男子U-21代表は豊田スタジアムでキルギスを7−0で下し、2連勝で準々決勝進出を確定させた。あわせてトライアスロン、女子空手形、競泳男子個人メドレー（松下知之選手）での金メダル獲得を「メダルラッシュ」としてまとめて報じた。\n- 東京は競泳に焦点を絞り、松下知之選手の金メダルと鈴木聡美選手の銀メダルを並べて伝えた。同じ大会2日目でも、朝日は個人の背景にある物語、読売は競技種目を横断した総数、東京は特定種目の結果整理と、扱う粒度が異なっている。\n\n## 第1部 各紙独自ニュース\n\n- 朝日: 元参院議員の東国原氏を、宮崎県警が名誉毀損容疑で書類送検した。\n- 毎日: 特攻隊員2人の悲話をもとにした朗読ミュージカル「月光の夏」が上演された。\n- 東京: 政治学者・丸山真男の没後30年にあたり、既定路線だけによらない「現実的な選択」を説いた論考の今日的な意味を特集した。\n- 赤旗: 性的少数者への差別的発言について、簗農相が否定しなかったと報じた。\n- 産経: シャープがAIサーバー事業に参入し、鴻海と協業して2027年度から日本国内で販売する方針を示した。\n- 読売: 山形市の「日本一の芋煮会フェスティバル」で、直径6メートルの大鍋をかき混ぜる重機の巨大なお玉に、潤滑油代わりのチューブ式バターを塗り込む様子を伝えた。\n- 日経: 日本生命がデータセンター向けに2兆円を融資し、日本の保険マネーが米国のAI開発を支える構図が広がっていると報じた。\n- NHK: 取得上位の記事が直近日から更新されておらず、当日分として採用できる記事がなかった。\n\n## 第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想\n\n- AFP（9月19日配信、Kuwait Times等が転載）は、1日270万人が利用する世界最多の乗降客数を誇るJR新宿駅で、JR東日本が自動走行するゴミ箱ロボット3台の実証実験を11月末まで行っていると伝えた。高さ約1メートルのロボットは秒速20センチで移動し、担当者の川道慎也氏は「移動式のゴミ箱がどれだけ違いを生むか見たい」と説明した。\n- 記事によると、JR東日本区間の新宿駅にはゴミ箱・リサイクル箱が現在7セットしかなく、手作業での回収は1日10回を超えるという。乗客の反応も紹介されており、ドイツ人の電車運転士クリス・ゲンゼラインさん（30）は「目がとてもかわいい」と話し、大学生の野口竜之介さん（22）は「歩きながら捨てられるなら、その方が楽」と述べた。\n- AFPは、世界屈指の混雑駅における清掃の効率化という切り口で、日本の労働力不足とロボット活用の実験的な現場を紹介している。国内報道が完全無人タクシーなど大型インフラのロボット化を伝える一方、AFPはゴミ箱という身近な設備の実証実験に着目しており、視点の規模が対照的である。\n\n## 第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行\n\n- AP通信（9月16日配信、Washington Post・NBC News等に掲載）は、日本の厚生労働省統計をもとに、100歳以上の人口が今年9月時点で10万7677人となり、統計開始以来初めて10万人を超えたと伝えた。前年から7914人増え、56年連続の増加となる。女性が9万4298人（87.6%）を占め、最高齢は京都在住の114歳の女性・岸本芙美子さん、男性の最高齢は熊本の112歳・加藤光さんだという。\n- 上野賢一郎厚生労働相は「多くの方が長く、健康で活動的な生活を送っていることを大変うれしく思う」と述べ、医療の進歩や生活習慣、食生活を要因に挙げた。\n- AP通信の記事はここで終わらず、長寿の祝賀にとどまらない少子化への懸念を併せて描いた。18〜34歳の独身者の2割超が結婚するつもりがないとする調査結果を紹介し、子育て費用や教育費、育児の負担の重さが結婚をためらわせる要因だと指摘した。2025年の日本の合計特殊出生率は過去最低の1.14で、人口置換水準の2.1を大きく下回り、総人口は2070年までに1億2600万人から8700万人へ減少すると見込まれている。\n- 国内紙が長寿を祝う話題として単独で報じがちな一方、AP通信は「長寿国」と「少子化が進む国」という同じ日本の二つの顔を一本の記事に併記しており、海外報道ならではの複眼的な視点が表れている。\n\n## まとめ\n\n- 政治面では、日経の世論調査が高市内閣支持率62%という定量的な現在地を示し、東京は維新入閣を巡る力学という定性的な側面を描いた。\n- 安保面では、赤旗が戦争法強行から11年の国会前抗議1万5000人を、毎日が防衛産業への銀行融資を巡る温度差を伝え、街頭と金融という異なる場所から同じ政策の緊張を映した。\n- スポーツ面では、朝日が北條巧選手・鈴木聡美選手個人の物語を、読売がサッカーの快勝と金メダルの総数を、東京が競泳の結果を、それぞれ異なる粒度でアジア大会2日目を伝えた。\n- 海外編では、AFPが新宿駅の自動ゴミ箱という身近な労働力不足対策を、AP通信が長寿国と少子化国という日本の二面性を、それぞれ独自の視点で描いた。\n\n### 参考ソース\n\n- [日本経済新聞「高市内閣支持横ばい62% 改造後の顔ぶれ評価49%、日経世論調査」](https://www.nikkei.com/article/DGXZQOUA17AWI0X10C26A9000000/)\n- [東京新聞「『不可能』から一転して連立、そして入閣へ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pYW95ZklSaHlrZFMtaUdSLUpTME1nMUJFZjhFNVhtZVlmUDBsZmxHMnpVZDF2OHVhWlNwd0M1LUwxSFF2TmJXVlpQcFZIZWtvN3VV?oc=5)\n- [しんぶん赤旗「戦争法強行に抗議『１９日行動』１１年/民主主義立て直そう/国会前に１万５千人」](https://www.jcp.or.jp/akahata/aik26/2026-09-20/2026092001_01_0.php)\n- [しんぶん赤旗「国会正門前『１９日行動』/田村委員長のあいさつ」](https://www.jcp.or.jp/akahata/aik26/2026-09-20/2026092002_02_0.php)\n- [毎日新聞「激動期の安保:防衛産業強化　政府と金融機関に温度差」](https://mainichi.jp/articles/20260920/k00/00m/020/174000c)\n- [日本経済新聞「三菱UFJ銀行が防衛産業に融資　慎重姿勢を転換」](https://www.nikkei.com/article/DGXZQOUB1112W0R10C26A9000000/)\n- [朝日新聞デジタル「アジア大会の金メダル第1号は北條巧」](http://www.asahi.com/articles/ASV9N12RQV9NUTQP005M.html?ref=rss)\n- [朝日新聞デジタル「修正した鈴木聡美、初の29秒台で日本新」](http://www.asahi.com/articles/ASV9N46HSV9NUTQP01BM.html?ref=rss)\n- [読売新聞「アジア大会 サッカー男子、日本が２連勝で準々決勝進出」](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XcVlmZ2I5ckJyeHlmSThhYi1BMGVTdnp4TC1BWVdzaFZMLTZIWGZ0MUJuLWItanlSY190OVhobXpwNkc5LWxwVGlPUjBOMVRyamFBRWZNWmpfN1FJcEF2X19QVE9GR1Zuay1EV1ZHejNkeDdqMndj?oc=5)\n- [朝日新聞デジタル「東国原氏を書類送検」](http://www.asahi.com/articles/ASV9N3WG3V9NTNAB002M.html?ref=rss)\n- [日本経済新聞「日本生命、データセンターに2兆円融資」](https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRGRmUkhlR21hcXNVWm52U3A1RklheG9tMEVYbmxDZUtNTUVOT0hSTFRhTWwzYkF2YlN5R3czcTZHczR0SEZzSWhKYWxYQzVSQVk2WTRlMk9OVm9IbE9RUXBxMEp0UEFrVEZZYw?oc=5)\n- [Kuwait Times（AFP配信）「Japan's busiest railway station tests robot bins」](https://kuwaittimes.com/article/50059/technology/japans-busiest-railway-station-tests-robot-bins/)\n- [Japan Times「Japan's busiest rail station tests robot bins」](https://www.japantimes.co.jp/news/2026/09/18/japan/society/robot-bins-shinjuku-station/)\n- [NBC News（AP配信）「Japan now has more than 100,000 people who are 100 or older」](https://www.nbcnews.com/world/asia/japan-more-than-100000-centenarians-rcna598081)\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 18745,
-          "audioDurationSec": 624.818667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月21日の「国内紙比較と世界から見た日本」を始めるのだ！",
-              "section": "オープニング：2026年9月21日 — 国内紙比較と世界から見た日本",
-              "startFrame": 18,
-              "endFrame": 246
-            },
-            {
-              "speaker": "B",
-              "text": "今日は3本立てよ。高市内閣の支持率調査、安保法制11年の抗議と防衛産業融資、そしてアジア大会の金メダルラッシュ。",
-              "section": "オープニング：2026年9月21日 — 国内紙比較と世界から見た日本",
-              "startFrame": 253,
-              "endFrame": 561
-            },
-            {
-              "speaker": "A",
-              "text": "後半は海外編なのだ！AFPが見た新宿駅のゴミ箱ロボットと、AP通信が伝えた日本の長寿記録を紹介するのだ。",
-              "section": "オープニング：2026年9月21日 — 国内紙比較と世界から見た日本",
-              "startFrame": 568,
-              "endFrame": 898
-            },
-            {
-              "speaker": "B",
-              "text": "数字と現場、両方から今日の日本を見ていきましょう。",
-              "section": "オープニング：2026年9月21日 — 国内紙比較と世界から見た日本",
-              "startFrame": 905,
-              "endFrame": 1022
-            },
-            {
-              "speaker": "A",
-              "text": "まずは政治なのだ。日経とテレビ東京が18から20日に世論調査をしたのだ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 1040,
-              "endFrame": 1239
-            },
-            {
-              "speaker": "B",
-              "text": "高市内閣の支持率は62%。8月調査から横ばいよ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 1246,
-              "endFrame": 1405
-            },
-            {
-              "speaker": "A",
-              "text": "でも不支持率は33%で、1ポイント上がったのだ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 1413,
-              "endFrame": 1568
-            },
-            {
-              "speaker": "B",
-              "text": "17日に発足した改造内閣と自民党の役員人事、「評価する」は49%にとどまったの。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 1576,
-              "endFrame": 1821
-            },
-            {
-              "speaker": "A",
-              "text": "支持政党別だと面白いのだ。自民支持層の90%が「支持する」なのだ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 1828,
-              "endFrame": 2051
-            },
-            {
-              "speaker": "B",
-              "text": "でも無党派層は38%どまり。野党支持層は42%で、前回より5ポイント上がったわ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 2059,
-              "endFrame": 2305
-            },
-            {
-              "speaker": "A",
-              "text": "東京新聞は数字じゃなくて力学を追いかけたのだ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 2312,
-              "endFrame": 2435
-            },
-            {
-              "speaker": "B",
-              "text": "連立を組む日本維新の会が初入閣したでしょう。「不可能」と言われていた協力が一転した背景を分析したの。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 2443,
-              "endFrame": 2691
-            },
-            {
-              "speaker": "A",
-              "text": "タカ派色の強い人事の中で、高市首相があえて維新へ「配慮」した狙いも探っているのだ。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 2699,
-              "endFrame": 2944
-            },
-            {
-              "speaker": "B",
-              "text": "日経は支持率という数字、東京は駆け引きという力学。同じ「改造後」でも見せ方が違うのね。",
-              "section": "第1部 テーマ1: 高市内閣支持率62%、改造後の顔ぶれ評価は49% — 日経の数字と東京の質的分析",
-              "startFrame": 2951,
-              "endFrame": 3189
-            },
-            {
-              "speaker": "B",
-              "text": "2つ目は安全保障の話。赤旗が19日、2015年の安保法制強行採決からちょうど11年になると報じたわ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 3207,
-              "endFrame": 3486
-            },
-            {
-              "speaker": "A",
-              "text": "国会正門前に約1万5000人が集まったのだ！全国330カ所超で連帯行動もあったのだ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 3494,
-              "endFrame": 3758
-            },
-            {
-              "speaker": "B",
-              "text": "日本共産党の田村智子委員長は、集団的自衛権を認めた閣議決定の撤回と法律の廃止を訴えたの。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 3765,
-              "endFrame": 4013
-            },
-            {
-              "speaker": "A",
-              "text": "毎日は同じ安保の流れを、お金の面から追いかけたのだ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 4021,
-              "endFrame": 4168
-            },
-            {
-              "speaker": "B",
-              "text": "政府は防衛産業への協力を金融機関に要請しているの。政府系の日本政策投資銀行は、武器製造企業への融資制限を撤廃したわ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 4175,
-              "endFrame": 4508
-            },
-            {
-              "speaker": "A",
-              "text": "でも民間銀行はまだ慎重なのだ。企業イメージの悪化や、中国など海外事業への影響を心配しているのだ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 4515,
-              "endFrame": 4802
-            },
-            {
-              "speaker": "B",
-              "text": "三菱UFJ銀行は、安全保障政策との整合性を融資判断の基準にする方針へ転換を進めているそうよ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 4809,
-              "endFrame": 5073
-            },
-            {
-              "speaker": "A",
-              "text": "赤旗は国会前の抗議という民主主義の現場、毎日は融資という経済の現場なのだ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 5081,
-              "endFrame": 5300
-            },
-            {
-              "speaker": "B",
-              "text": "同じ「安保政策の11年」でも、街頭と銀行、まったく違う場所から光を当てているのね。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 5308,
-              "endFrame": 5542
-            },
-            {
-              "speaker": "A",
-              "text": "このテーマは平和と安全保障を巡る継続特集として、理念だけじゃなく実際のお金の動きまで追いかけていくのだ。",
-              "section": "第1部 テーマ2: 「戦争法」強行11年、国会前1万5千人の抗議と防衛産業融資を巡る銀行の温度差",
-              "startFrame": 5550,
-              "endFrame": 5826
-            },
-            {
-              "speaker": "B",
-              "text": "3つ目はスポーツ。アジア大会2日目、日本選手のメダルラッシュがあったわ。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 5844,
-              "endFrame": 6008
-            },
-            {
-              "speaker": "A",
-              "text": "朝日は個人の物語を書いたのだ。トライアスロン男子の北條巧選手が、日本の金メダル第1号なのだ！",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 6015,
-              "endFrame": 6289
-            },
-            {
-              "speaker": "B",
-              "text": "2位との差、わずか9秒。「本当に今幸せです」と話したそうよ。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 6297,
-              "endFrame": 6459
-            },
-            {
-              "speaker": "A",
-              "text": "競泳女子50メートル平泳ぎでは、35歳の鈴木聡美選手が日本新記録なのだ！",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 6467,
-              "endFrame": 6693
-            },
-            {
-              "speaker": "B",
-              "text": "29秒91で銀メダル。日本女子で初めて30秒の壁を破ったの。5大会連続、通算10個目のメダルよ。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 6700,
-              "endFrame": 6979
-            },
-            {
-              "speaker": "A",
-              "text": "読売は団体戦の勢いを伝えたのだ。サッカー男子U-21代表が豊田スタジアムでキルギスに7対0で圧勝したのだ！",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 6986,
-              "endFrame": 7301
-            },
-            {
-              "speaker": "B",
-              "text": "2連勝で準々決勝進出も決まったわ。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 7309,
-              "endFrame": 7399
-            },
-            {
-              "speaker": "A",
-              "text": "読売はほかにも、トライアスロン、女子空手形、競泳男子個人メドレーでの金メダルを「メダルラッシュ」としてまとめて伝えているのだ。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 7407,
-              "endFrame": 7743
-            },
-            {
-              "speaker": "B",
-              "text": "個人メドレーの金は松下知之選手ね。東京新聞は、この松下選手の金と鈴木選手の銀を並べて伝えているわ。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 7751,
-              "endFrame": 8013
-            },
-            {
-              "speaker": "A",
-              "text": "朝日は物語、読売は総数、東京は種目の結果整理なのだ。同じ2日目でも粒度が違うのだ！",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 8020,
-              "endFrame": 8290
-            },
-            {
-              "speaker": "B",
-              "text": "メダルの数だけじゃなく、伝え方の違いも見比べると面白いわね。",
-              "section": "第1部 テーマ3: 愛知・名古屋アジア大会2日目、日本勢の金メダルラッシュをどう伝えたか",
-              "startFrame": 8297,
-              "endFrame": 8439
-            },
-            {
-              "speaker": "A",
-              "text": "ここからは各紙の独自ニュースを駆け足で紹介するのだ！",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 8457,
-              "endFrame": 8586
-            },
-            {
-              "speaker": "B",
-              "text": "朝日は、元参院議員の東国原氏を、宮崎県警が名誉毀損容疑で書類送検したと伝えたわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 8593,
-              "endFrame": 8826
-            },
-            {
-              "speaker": "A",
-              "text": "毎日は、特攻隊員2人の悲話をもとにした朗読ミュージカル「月光の夏」が上演されたと報じたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 8833,
-              "endFrame": 9110
-            },
-            {
-              "speaker": "B",
-              "text": "東京新聞は、政治学者・丸山真男の没後30年にあわせて、その論考の今日的な意味を特集したわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 9117,
-              "endFrame": 9373
-            },
-            {
-              "speaker": "A",
-              "text": "赤旗は、性的少数者への差別的発言について、簗農相が否定しなかったと報じたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 9380,
-              "endFrame": 9623
-            },
-            {
-              "speaker": "B",
-              "text": "産経は、シャープがAIサーバー事業に参入して、鴻海と協業し2027年度から日本国内で販売すると伝えたわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 9631,
-              "endFrame": 9910
-            },
-            {
-              "speaker": "A",
-              "text": "読売は、山形市の「日本一の芋煮会フェスティバル」を紹介したのだ！直径6メートルの大鍋をかき混ぜる重機の巨大なお玉に、潤滑油代わりのチューブ式バターを塗り込んでいたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 9917,
-              "endFrame": 10383
-            },
-            {
-              "speaker": "B",
-              "text": "発想が豪快ね。日経は、日本生命がデータセンター向けに2兆円を融資したと報じたわ。日本の保険マネーが米国のAI開発を支えているの。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10390,
-              "endFrame": 10724
-            },
-            {
-              "speaker": "A",
-              "text": "NHKは、取得上位の記事が直近日から更新されていなくて、今日の分として使える記事がなかったのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 10732,
-              "endFrame": 10993
-            },
-            {
-              "speaker": "B",
-              "text": "ここからは海外編よ。AFPが19日に配信した記事を紹介するわ。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 11011,
-              "endFrame": 11187
-            },
-            {
-              "speaker": "A",
-              "text": "1日270万人が使う、世界最多の乗降客数を誇るJR新宿駅なのだ！",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 11195,
-              "endFrame": 11425
-            },
-            {
-              "speaker": "B",
-              "text": "JR東日本が、自動で走るゴミ箱ロボット3台の実証実験を、11月末まで行っているの。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 11432,
-              "endFrame": 11663
-            },
-            {
-              "speaker": "A",
-              "text": "高さ約1メートルで、秒速20センチで動くのだ。担当者は「移動式のゴミ箱がどれだけ違いを生むか見たい」って話しているのだ。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 11670,
-              "endFrame": 12007
-            },
-            {
-              "speaker": "B",
-              "text": "記事によると、新宿駅のJR東日本区間にはゴミ箱とリサイクル箱が今7セットしかなくて、手作業の回収は1日10回を超えるそうよ。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 12015,
-              "endFrame": 12331
-            },
-            {
-              "speaker": "A",
-              "text": "乗客の反応も面白いのだ！ドイツ人の電車運転士さんは「目がとてもかわいい」って言っていたのだ。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 12339,
-              "endFrame": 12598
-            },
-            {
-              "speaker": "B",
-              "text": "大学生さんは「歩きながら捨てられるなら、その方が楽」って話していたわ。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 12606,
-              "endFrame": 12781
-            },
-            {
-              "speaker": "A",
-              "text": "国内紙は完全無人タクシーみたいな大きなインフラのロボット化を伝えているのだ。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 12789,
-              "endFrame": 12973
-            },
-            {
-              "speaker": "B",
-              "text": "でもAFPはゴミ箱っていう身近な設備に注目しているの。視点の規模が対照的ね。",
-              "section": "第2部 AFPが見た新宿駅の自動ゴミ箱実験 — 世界一の乗降客数が生んだ発想",
-              "startFrame": 12981,
-              "endFrame": 13172
-            },
-            {
-              "speaker": "A",
-              "text": "もう一つの海外編なのだ！AP通信が16日に配信した記事を、ワシントンポストやNBCニュースが伝えたのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 13190,
-              "endFrame": 13489
-            },
-            {
-              "speaker": "B",
-              "text": "日本の厚生労働省の統計によると、100歳以上の人口が今年9月時点で10万7677人になったの。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 13497,
-              "endFrame": 13770
-            },
-            {
-              "speaker": "A",
-              "text": "統計開始以来、初めて10万人を超えたのだ！前の年から7914人増えて、56年連続の増加なのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 13778,
-              "endFrame": 14099
-            },
-            {
-              "speaker": "B",
-              "text": "女性が9万4298人で87.6%を占めているわ。最高齢は京都在住の114歳の女性、男性の最高齢は熊本の112歳の方だそうよ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 14106,
-              "endFrame": 14509
-            },
-            {
-              "speaker": "A",
-              "text": "厚生労働相は「多くの方が長く、健康で活動的な生活を送っていることを大変うれしく思う」と述べたのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 14517,
-              "endFrame": 14816
-            },
-            {
-              "speaker": "B",
-              "text": "医療の進歩や生活習慣、食生活が理由だと挙げているわ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 14824,
-              "endFrame": 14964
-            },
-            {
-              "speaker": "A",
-              "text": "でもAP通信の記事はここで終わらないのだ！少子化への懸念もしっかり書いているのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 14972,
-              "endFrame": 15174
-            },
-            {
-              "speaker": "B",
-              "text": "18から34歳の独身者の2割超が、結婚するつもりがないという調査結果を紹介しているの。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 15182,
-              "endFrame": 15401
-            },
-            {
-              "speaker": "A",
-              "text": "子育て費用や教育費、育児の負担の重さが、結婚をためらわせる要因だと指摘しているのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 15409,
-              "endFrame": 15649
-            },
-            {
-              "speaker": "B",
-              "text": "2025年の日本の合計特殊出生率は過去最低の1.14。人口置換水準の2.1を大きく下回っているわ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 15656,
-              "endFrame": 15940
-            },
-            {
-              "speaker": "A",
-              "text": "総人口は2070年までに、1億2600万人から8700万人へ減る見込みなのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 15948,
-              "endFrame": 16202
-            },
-            {
-              "speaker": "B",
-              "text": "国内紙は長寿を祝う話題として単独で報じがちだけど、AP通信は「長寿国」と「少子化が進む国」、同じ日本の二つの顔を一本の記事に書いているのね。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 16210,
-              "endFrame": 16590
-            },
-            {
-              "speaker": "A",
-              "text": "海外報道ならではの、複眼的な視点なのだ。",
-              "section": "第2部 AP通信が伝えた日本のセンテナリアン10万人突破 — 長寿と少子化の同時進行",
-              "startFrame": 16597,
-              "endFrame": 16722
-            },
-            {
-              "speaker": "A",
-              "text": "それじゃあ今日をまとめるのだ！",
-              "section": "まとめ",
-              "startFrame": 16740,
-              "endFrame": 16804
-            },
-            {
-              "speaker": "B",
-              "text": "政治面では、日経の世論調査が高市内閣支持率62%という数字を、東京が維新入閣を巡る力学を描いたわ。",
-              "section": "まとめ",
-              "startFrame": 16811,
-              "endFrame": 17100
-            },
-            {
-              "speaker": "A",
-              "text": "安保面では、赤旗が国会前抗議1万5000人を、毎日が防衛産業への銀行融資の温度差を伝えたのだ。",
-              "section": "まとめ",
-              "startFrame": 17108,
-              "endFrame": 17409
-            },
-            {
-              "speaker": "B",
-              "text": "街頭と金融、異なる場所から同じ政策の緊張が見えたわね。",
-              "section": "まとめ",
-              "startFrame": 17417,
-              "endFrame": 17563
-            },
-            {
-              "speaker": "A",
-              "text": "スポーツ面では、朝日が北條選手と鈴木選手の物語を、読売がサッカーの快勝とメダルの総数を、東京が競泳の結果を伝えたのだ。",
-              "section": "まとめ",
-              "startFrame": 17570,
-              "endFrame": 17929
-            },
-            {
-              "speaker": "B",
-              "text": "海外編では、AFPが新宿駅の自動ゴミ箱という身近な労働力不足対策を紹介したわ。",
-              "section": "まとめ",
-              "startFrame": 17936,
-              "endFrame": 18163
-            },
-            {
-              "speaker": "A",
-              "text": "AP通信は、長寿国と少子化国という日本の二面性を、一本の記事で描いていたのだ。",
-              "section": "まとめ",
-              "startFrame": 18171,
-              "endFrame": 18416
-            },
-            {
-              "speaker": "B",
-              "text": "数字の裏にある現場を見比べると、いろんな日本が見えてくるわね。",
-              "section": "まとめ",
-              "startFrame": 18424,
-              "endFrame": 18567
-            },
-            {
-              "speaker": "A",
-              "text": "今日も聞いてくれてありがとうなのだ！",
-              "section": "まとめ",
-              "startFrame": 18575,
-              "endFrame": 18653
-            },
-            {
-              "speaker": "B",
-              "text": "また次回、続きをお届けするわね。",
-              "section": "まとめ",
-              "startFrame": 18660,
-              "endFrame": 18745
-            }
-          ]
-        }
-      },
-      {
-        "mode": "weird",
-        "label": "世界の珍ニュース",
-        "iaId": "news-pickup-2026-09-21-weird",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-21-weird/weird_yukkuri.m4a",
-        "markdown": "<h1>世界の珍ニュース（2026年9月21日）</h1>\n<h2>オープニング：2026年9月21日 — 世界の珍ニュース</h2>\n<p>20年かけてバルサ材でニューヨークを丸ごと再現したトラック運転手、フリーマーケットで30ドルの絵が25万ドルの名画だと判明した話、ロンドンで934人が声を合わせた「バルカン式敬礼」の世界記録、そして同じ数字の宝くじを2枚買って10万ドルを手にした女性。今回は「執念」「幸運」「団結」がそれぞれ主役の四題を追う。</p>\n<h2>トラック運転手が20年かけたニューヨークの模型、美術館の展示に</h2>\n<ul>\n<li>ニューヨーク・クイーンズ出身のジョー・マッケンさん（トラック運転手、週末はバス運転手も兼務）は、小学生の頃にクイーンズ美術館で見た1964〜65年ニューヨーク万国博覧会のパノラマ模型に魅了された。家族でニューヨークを離れて以来、無意識のうちに故郷を恋しく思ったことがきっかけで、自宅地下室で独自の模型作りを始めた。</li>\n<li>制作は20年以上に及び、まずロックフェラーセンターから着手し、ミッドタウンだけで約10年を費やした。素材はバルサ材とフォームボードで、ニューヨーク5区に加えニュージャージー州の一部、ロングアイランド郊外まで再現している。模型全体は縦約15メートル、横約9メートル、1インチが約49メートルに相当する縮尺で、80万棟以上の建物を配置した。</li>\n<li>最難関はエンパイア・ステート・ビルディングだったといい、マッケンさんは「完璧にしたかった。みんなが見るから」と語る。「寝る前でも4時間費やして、そのままテーブルで寝落ちすることもあった。これは執着だ」とも振り返っている。</li>\n<li>完成後、娘に勧められてTikTokに投稿したところ、動画は1週間で1000万回以上再生される反響を呼んだ。これを見たニューヨーク市立博物館が本人に連絡を取り、「He Built This City（この街を彼が造った）」と題した展示が2026年2月に開幕し、10月12日まで開催されている。</li>\n<li>出典: <a href=\"https://www.cp24.com/news/world/2026/09/18/a-truck-driver-built-a-model-of-nyc-with-over-800000-structures-for-fun-now-its-a-museum-exhibit/\">CP24</a></li>\n</ul>\n<h2>フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品</h2>\n<ul>\n<li>ミシガン州の遺品整理セールで、ある美術品収集家が1枚の絵を30ドルで購入した。絵の左下隅に「Abercrombie, '51」という署名を見つけ、ミルウォーキーの展覧会カタログで同じ構図の作品を発見したことから、ルーズベルト大学の美術史家スーザン・ワイニンガー氏に鑑定を依頼した。</li>\n<li>鑑定の結果、1951年にシカゴ・シュルレアリスムの画家ガートルード・アバークロンビーが描いた本物と確認された。作品名は『Alderman Merriam's Shells（市議会議員メリアムの貝殻）』で、シカゴ市議会議員ロバート・メリアム氏の貝殻コレクションを描いたもの。</li>\n<li>この絵は1952年、医療処置への謝礼としてカラマズーの医師ジョン・レイノルズ氏に贈られ、以来約75年にわたってレイノルズ家に保管されていたことも判明した。</li>\n<li>現在はオークションハウス「フリーマンズ」への出品が決まっており、推定落札価格は15万〜25万ドルとされている。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/18/painting-estate-sale-Gertrude-Abercrombie/3931789753677/\">UPI</a></li>\n</ul>\n<h2>ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録</h2>\n<ul>\n<li>2026年9月10日の「スタートレック・デー」、ロンドンのサイエンス・ミュージアムに1188人のファンが集まり、シリーズでおなじみの「バルカン式敬礼」（指を二股に開く挨拶）を1分間そろって披露する世界記録に挑戦した。</li>\n<li>ギネス世界記録の公式測定官パウリナ・サピンスカ氏が来場者のうち記録条件を満たした934人を実際にカウントし、新記録として認定した。</li>\n<li>特別ゲストとして、ドラマ「スタートレック：ストレンジ・ニューワールド」でモンゴメリー・スコット役を演じるマーティン・クイン氏が参加した。</li>\n<li>サピンスカ氏は「1分間という短い挑戦でしたが、非常に興奮した瞬間で、ファンにとって大きな一体感を生む時間になった」とコメントしている。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/15/Guinness-World-Records-Star-Trek-Vulcan-salute/3451789489055/\">UPI</a></li>\n</ul>\n<h2>同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める</h2>\n<ul>\n<li>米メリーランド州プリンスジョージズ郡在住の女性は8月28日、姉妹と買い物に出かけた際、その日はまだ宝くじを買っていないことに気づき、ランドーバーの「アードウィック・リカーズ」に立ち寄った。</li>\n<li>その場でその日の「ピック3」「ピック4」「ピック5」の抽選券をそれぞれ2枚ずつ購入したが、ピック5だけは同じ数字を選んだ券を2枚買っていた。</li>\n<li>帰宅途中に当選番号を確認したところ、2枚のピック5券がどちらも1ドルのストレート・ベットで5万ドルずつ、合計10万ドルの当選となっていた。</li>\n<li>女性は「自分の目が信じられなかった。落ち着いてから財布からチケットを取り出すと、本当に当たり券だった」と語っており、賞金は請求書の支払いと自宅の修繕に充てる予定だという。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/16/lotto-Maryland-Lottery-Pick-5-two-tickets/3551789579360\">UPI</a></li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>四題に共通するのは、小さな行動や偶然が、思いがけない大きな結果へつながっていく面白さだ。</li>\n<li>20年間ひとりで模型を作り続けた執念、遺品セールの1枚の絵が持っていた75年分の来歴、1分間だけ声をそろえた934人の一体感、そして「もう1枚買っておこう」といういつもの判断が生んだ10万ドル。</li>\n<li>どれも「積み重ねる」か「たまたま起きる」かの違いはあれど、聞き終えたあとに誰かへ話したくなる小さな驚きを持っている。</li>\n</ul>",
-        "markdownSource": "# 世界の珍ニュース（2026年9月21日）\n\n## オープニング：2026年9月21日 — 世界の珍ニュース\n\n20年かけてバルサ材でニューヨークを丸ごと再現したトラック運転手、フリーマーケットで30ドルの絵が25万ドルの名画だと判明した話、ロンドンで934人が声を合わせた「バルカン式敬礼」の世界記録、そして同じ数字の宝くじを2枚買って10万ドルを手にした女性。今回は「執念」「幸運」「団結」がそれぞれ主役の四題を追う。\n\n## トラック運転手が20年かけたニューヨークの模型、美術館の展示に\n\n- ニューヨーク・クイーンズ出身のジョー・マッケンさん（トラック運転手、週末はバス運転手も兼務）は、小学生の頃にクイーンズ美術館で見た1964〜65年ニューヨーク万国博覧会のパノラマ模型に魅了された。家族でニューヨークを離れて以来、無意識のうちに故郷を恋しく思ったことがきっかけで、自宅地下室で独自の模型作りを始めた。\n- 制作は20年以上に及び、まずロックフェラーセンターから着手し、ミッドタウンだけで約10年を費やした。素材はバルサ材とフォームボードで、ニューヨーク5区に加えニュージャージー州の一部、ロングアイランド郊外まで再現している。模型全体は縦約15メートル、横約9メートル、1インチが約49メートルに相当する縮尺で、80万棟以上の建物を配置した。\n- 最難関はエンパイア・ステート・ビルディングだったといい、マッケンさんは「完璧にしたかった。みんなが見るから」と語る。「寝る前でも4時間費やして、そのままテーブルで寝落ちすることもあった。これは執着だ」とも振り返っている。\n- 完成後、娘に勧められてTikTokに投稿したところ、動画は1週間で1000万回以上再生される反響を呼んだ。これを見たニューヨーク市立博物館が本人に連絡を取り、「He Built This City（この街を彼が造った）」と題した展示が2026年2月に開幕し、10月12日まで開催されている。\n- 出典: [CP24](https://www.cp24.com/news/world/2026/09/18/a-truck-driver-built-a-model-of-nyc-with-over-800000-structures-for-fun-now-its-a-museum-exhibit/)\n\n## フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品\n\n- ミシガン州の遺品整理セールで、ある美術品収集家が1枚の絵を30ドルで購入した。絵の左下隅に「Abercrombie, '51」という署名を見つけ、ミルウォーキーの展覧会カタログで同じ構図の作品を発見したことから、ルーズベルト大学の美術史家スーザン・ワイニンガー氏に鑑定を依頼した。\n- 鑑定の結果、1951年にシカゴ・シュルレアリスムの画家ガートルード・アバークロンビーが描いた本物と確認された。作品名は『Alderman Merriam's Shells（市議会議員メリアムの貝殻）』で、シカゴ市議会議員ロバート・メリアム氏の貝殻コレクションを描いたもの。\n- この絵は1952年、医療処置への謝礼としてカラマズーの医師ジョン・レイノルズ氏に贈られ、以来約75年にわたってレイノルズ家に保管されていたことも判明した。\n- 現在はオークションハウス「フリーマンズ」への出品が決まっており、推定落札価格は15万〜25万ドルとされている。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/18/painting-estate-sale-Gertrude-Abercrombie/3931789753677/)\n\n## ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録\n\n- 2026年9月10日の「スタートレック・デー」、ロンドンのサイエンス・ミュージアムに1188人のファンが集まり、シリーズでおなじみの「バルカン式敬礼」（指を二股に開く挨拶）を1分間そろって披露する世界記録に挑戦した。\n- ギネス世界記録の公式測定官パウリナ・サピンスカ氏が来場者のうち記録条件を満たした934人を実際にカウントし、新記録として認定した。\n- 特別ゲストとして、ドラマ「スタートレック：ストレンジ・ニューワールド」でモンゴメリー・スコット役を演じるマーティン・クイン氏が参加した。\n- サピンスカ氏は「1分間という短い挑戦でしたが、非常に興奮した瞬間で、ファンにとって大きな一体感を生む時間になった」とコメントしている。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/15/Guinness-World-Records-Star-Trek-Vulcan-salute/3451789489055/)\n\n## 同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める\n\n- 米メリーランド州プリンスジョージズ郡在住の女性は8月28日、姉妹と買い物に出かけた際、その日はまだ宝くじを買っていないことに気づき、ランドーバーの「アードウィック・リカーズ」に立ち寄った。\n- その場でその日の「ピック3」「ピック4」「ピック5」の抽選券をそれぞれ2枚ずつ購入したが、ピック5だけは同じ数字を選んだ券を2枚買っていた。\n- 帰宅途中に当選番号を確認したところ、2枚のピック5券がどちらも1ドルのストレート・ベットで5万ドルずつ、合計10万ドルの当選となっていた。\n- 女性は「自分の目が信じられなかった。落ち着いてから財布からチケットを取り出すと、本当に当たり券だった」と語っており、賞金は請求書の支払いと自宅の修繕に充てる予定だという。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/16/lotto-Maryland-Lottery-Pick-5-two-tickets/3551789579360)\n\n## まとめ\n\n- 四題に共通するのは、小さな行動や偶然が、思いがけない大きな結果へつながっていく面白さだ。\n- 20年間ひとりで模型を作り続けた執念、遺品セールの1枚の絵が持っていた75年分の来歴、1分間だけ声をそろえた934人の一体感、そして「もう1枚買っておこう」といういつもの判断が生んだ10万ドル。\n- どれも「積み重ねる」か「たまたま起きる」かの違いはあれど、聞き終えたあとに誰かへ話したくなる小さな驚きを持っている。\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 15686,
-          "audioDurationSec": 522.872667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月21日の世界の珍ニュース、始まるのだ！",
-              "section": "オープニング：2026年9月21日 — 世界の珍ニュース",
-              "startFrame": 18,
-              "endFrame": 189
-            },
-            {
-              "speaker": "B",
-              "text": "今日は「執念」「幸運」「団結」がそれぞれ主役の四題を用意したわ。",
-              "section": "オープニング：2026年9月21日 — 世界の珍ニュース",
-              "startFrame": 197,
-              "endFrame": 377
-            },
-            {
-              "speaker": "A",
-              "text": "20年かけてニューヨークを丸ごと作ったトラック運転手に、30ドルの絵が25万ドルになった話なのだ！",
-              "section": "オープニング：2026年9月21日 — 世界の珍ニュース",
-              "startFrame": 384,
-              "endFrame": 642
-            },
-            {
-              "speaker": "B",
-              "text": "さらにロンドンで934人がそろえた敬礼の世界記録と、宝くじで10万ドルを射止めた女性の話も控えているわ。",
-              "section": "オープニング：2026年9月21日 — 世界の珍ニュース",
-              "startFrame": 649,
-              "endFrame": 906
-            },
-            {
-              "speaker": "A",
-              "text": "どれも聞き終わったら誰かに話したくなるやつなのだ！さっそくいくのだ！",
-              "section": "オープニング：2026年9月21日 — 世界の珍ニュース",
-              "startFrame": 913,
-              "endFrame": 1072
-            },
-            {
-              "speaker": "A",
-              "text": "クイーンズ出身のジョー・マッケンさん、トラック運転手なのに20年もかけてニューヨークの模型を作ったんだって！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 1090,
-              "endFrame": 1348
-            },
-            {
-              "speaker": "B",
-              "text": "きっかけは小学生の頃に見たクイーンズ美術館のパノラマ模型よ。家族でニューヨークを離れてから、無意識に故郷が恋しくなったのがはじまりだったの。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 1356,
-              "endFrame": 1665
-            },
-            {
-              "speaker": "A",
-              "text": "地下室でこつこつ作り続けたのだ。まずロックフェラーセンターから始めて、ミッドタウンだけで10年かかったって聞いて驚いたのだ！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 1672,
-              "endFrame": 1964
-            },
-            {
-              "speaker": "B",
-              "text": "バルサ材とフォームボードで、5区に加えてニュージャージーの一部やロングアイランド郊外まで再現したの。全体は縦15メートル、横9メートル、建物は80万棟以上よ。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 1971,
-              "endFrame": 2348
-            },
-            {
-              "speaker": "A",
-              "text": "一番苦労したのはエンパイア・ステート・ビルディングなんだって！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 2356,
-              "endFrame": 2515
-            },
-            {
-              "speaker": "B",
-              "text": "本人は「完璧にしたかった、みんなが見るから」と話していて、「寝る前でも4時間費やして、そのままテーブルで寝落ちすることもあった。これは執着だ」とも振り返っているわ。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 2522,
-              "endFrame": 2899
-            },
-            {
-              "speaker": "A",
-              "text": "寝落ちするほどって、ちょっとやそっとの趣味じゃないのだ……。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 2907,
-              "endFrame": 3027
-            },
-            {
-              "speaker": "B",
-              "text": "完成後、娘さんに勧められてTikTokに投稿したら、1週間で1000万回以上再生されたの。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 3035,
-              "endFrame": 3254
-            },
-            {
-              "speaker": "A",
-              "text": "それを見たニューヨーク市立博物館が本人に連絡してきたのだ！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 3262,
-              "endFrame": 3410
-            },
-            {
-              "speaker": "B",
-              "text": "He Built This Cityという展示名で2026年2月に開幕して、10月12日まで開催中よ。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 3417,
-              "endFrame": 3689
-            },
-            {
-              "speaker": "A",
-              "text": "もともと誰かに見せるために作ってたわけじゃないのに、結局一番多くの人に見られる形になったのだ！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 3697,
-              "endFrame": 3938
-            },
-            {
-              "speaker": "A",
-              "text": "趣味で作ってたのに博物館入りするなんて、すごい話なのだ！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 3946,
-              "endFrame": 4100
-            },
-            {
-              "speaker": "B",
-              "text": "しかも展示会場は自宅の地下室じゃなくて、セントラルパークに近いミュージアム・マイルなの。トラック運転手だった人の作品が、そんな場所に並んでいるのよ。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 4107,
-              "endFrame": 4433
-            },
-            {
-              "speaker": "A",
-              "text": "通勤の合間とかにコツコツ進めてたのか、それとも家に帰ってからずっと作業してたのか気になるのだ！",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 4441,
-              "endFrame": 4673
-            },
-            {
-              "speaker": "B",
-              "text": "記事では夜遅くまで作業していたとしか分からないけれど、「寝落ちするほど」という本人の言葉から見ても、仕事と両立しながらの20年だったのは間違いないでしょうね。",
-              "section": "トラック運転手が20年かけたニューヨークの模型、美術館の展示に",
-              "startFrame": 4680,
-              "endFrame": 5023
-            },
-            {
-              "speaker": "B",
-              "text": "次はミシガン州の遺品整理セールで起きた話よ。ある収集家が1枚の絵をたったの30ドルで買ったの。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 5041,
-              "endFrame": 5261
-            },
-            {
-              "speaker": "A",
-              "text": "30ドルの絵なのだ！？それがどうなったのだ？",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 5269,
-              "endFrame": 5383
-            },
-            {
-              "speaker": "B",
-              "text": "左下に「Abercrombie, '51」という署名を見つけて、ミルウォーキーの展覧会カタログで同じ構図の作品を発見したの。そこでルーズベルト大学の美術史家スーザン・ワイニンガー氏に鑑定を頼んだのよ。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 5390,
-              "endFrame": 5835
-            },
-            {
-              "speaker": "A",
-              "text": "署名一つから調べ始めるって、探偵みたいなのだ！",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 5843,
-              "endFrame": 5976
-            },
-            {
-              "speaker": "B",
-              "text": "結果、1951年にシカゴ・シュルレアリスムの画家ガートルード・アバークロンビーが描いた本物と確認されたわ。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 5983,
-              "endFrame": 6237
-            },
-            {
-              "speaker": "A",
-              "text": "タイトルは何なのだ？",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 6244,
-              "endFrame": 6300
-            },
-            {
-              "speaker": "B",
-              "text": "『Alderman Merriam's Shells』、市議会議員メリアム氏の貝殻コレクションを描いたものよ。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 6308,
-              "endFrame": 6487
-            },
-            {
-              "speaker": "A",
-              "text": "え、貝殻コレクションを描いた絵なのだ？なんだか地味なテーマなのに高いのだ！",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 6494,
-              "endFrame": 6695
-            },
-            {
-              "speaker": "B",
-              "text": "1952年には医療処置のお礼として医師ジョン・レイノルズ氏に贈られて、以来75年もレイノルズ家に眠っていたの。誰にも知られないまま、ずっと壁に掛かっていたということね。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 6702,
-              "endFrame": 7095
-            },
-            {
-              "speaker": "A",
-              "text": "75年って、絵を買った人が生まれる前から家にあったってことなのだ！",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 7103,
-              "endFrame": 7271
-            },
-            {
-              "speaker": "B",
-              "text": "今はオークションハウス「フリーマンズ」への出品が決まっていて、推定落札価格は15万から25万ドルとされているわ。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 7279,
-              "endFrame": 7552
-            },
-            {
-              "speaker": "A",
-              "text": "30ドルが25万ドルって、8000倍以上なのだ！！",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 7560,
-              "endFrame": 7700
-            },
-            {
-              "speaker": "B",
-              "text": "金額の大きさより、75年間家族が価値に気づかずに大切にしてきたこと自体が面白いところだと思うわ。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 7707,
-              "endFrame": 7943
-            },
-            {
-              "speaker": "A",
-              "text": "買った収集家は、最初から「もしかして」って疑ってたのだ？",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 7950,
-              "endFrame": 8115
-            },
-            {
-              "speaker": "B",
-              "text": "署名を見つけて調べ始めているから、少なくとも「ただの飾り絵じゃないかもしれない」とは思っていたはずよ。でも実際に25万ドル級だと分かるまでは、専門家の鑑定を待つしかなかったでしょうね。",
-              "section": "フリーマーケットの30ドルの絵、実は25万ドルのシカゴ・シュルレアリスム作品",
-              "startFrame": 8122,
-              "endFrame": 8543
-            },
-            {
-              "speaker": "A",
-              "text": "続いてはロンドンから、スタートレックファンが本気を出した話なのだ！",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 8561,
-              "endFrame": 8716
-            },
-            {
-              "speaker": "B",
-              "text": "2026年9月10日のスタートレック・デーに、ロンドンのサイエンス・ミュージアムへ1188人のファンが集まったの。シリーズでおなじみの「バルカン式敬礼」を1分間そろって披露する世界記録に挑戦したのよ。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 8724,
-              "endFrame": 9231
-            },
-            {
-              "speaker": "A",
-              "text": "指を二股に開くあの挨拶なのだ！1分間そろえるのって意外と難しそうなのだ。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 9238,
-              "endFrame": 9446
-            },
-            {
-              "speaker": "B",
-              "text": "ギネス世界記録の公式測定官パウリナ・サピンスカ氏が、条件を満たした934人を実際に数えて、新記録として認定したの。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 9453,
-              "endFrame": 9765
-            },
-            {
-              "speaker": "A",
-              "text": "ゲストも来てたって聞いたのだ！",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 9772,
-              "endFrame": 9840
-            },
-            {
-              "speaker": "B",
-              "text": "ドラマ「スタートレック：ストレンジ・ニューワールド」でモンゴメリー・スコット役を演じるマーティン・クイン氏が参加したわ。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 9847,
-              "endFrame": 10131
-            },
-            {
-              "speaker": "A",
-              "text": "測定官さんはどう言ってたのだ？",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 10138,
-              "endFrame": 10220
-            },
-            {
-              "speaker": "B",
-              "text": "サピンスカ氏は「1分間という短い挑戦でしたが、非常に興奮した瞬間で、ファンにとって大きな一体感を生む時間になった」とコメントしているの。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 10228,
-              "endFrame": 10553
-            },
-            {
-              "speaker": "A",
-              "text": "たった1分のために1000人以上が集まるって、それだけファンの結束が強いってことなのだ！",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 10560,
-              "endFrame": 10766
-            },
-            {
-              "speaker": "B",
-              "text": "記録そのものより、同じ作品を好きな人たちが一箇所に集まれること自体に価値があるイベントね。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 10773,
-              "endFrame": 10971
-            },
-            {
-              "speaker": "A",
-              "text": "1188人来て934人しかカウントされなかったのは、ちゃんと敬礼の形になってなかった人もいたってことなのだ？",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 10978,
-              "endFrame": 11287
-            },
-            {
-              "speaker": "B",
-              "text": "おそらくそうね。ギネスの記録は「同時に同じ動作を1分間続ける」という条件を厳密に測るから、形が崩れた人は対象外になった可能性が高いわ。",
-              "section": "ロンドンで934人が「バルカン式敬礼」、スタートレック・デーに世界記録",
-              "startFrame": 11295,
-              "endFrame": 11642
-            },
-            {
-              "speaker": "B",
-              "text": "最後はメリーランド州から、ちょっとした偶然が大金に化けた話よ。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 11660,
-              "endFrame": 11805
-            },
-            {
-              "speaker": "A",
-              "text": "気になるのだ！何があったのだ？",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 11812,
-              "endFrame": 11895
-            },
-            {
-              "speaker": "B",
-              "text": "プリンスジョージズ郡の女性が8月28日、姉妹と買い物中にその日まだ宝くじを買っていないと気づいて、ランドーバーの「アードウィック・リカーズ」に立ち寄ったの。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 11902,
-              "endFrame": 12260
-            },
-            {
-              "speaker": "A",
-              "text": "そこで何を買ったのだ？",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 12267,
-              "endFrame": 12327
-            },
-            {
-              "speaker": "B",
-              "text": "その日の「ピック3」「ピック4」「ピック5」の券をそれぞれ2枚ずつ買ったんだけど、ピック5だけは同じ数字を選んだ券を2枚買っていたの。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 12334,
-              "endFrame": 12647
-            },
-            {
-              "speaker": "A",
-              "text": "同じ数字を2枚って、なんとなく選んじゃっただけなのだ？",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 12654,
-              "endFrame": 12792
-            },
-            {
-              "speaker": "B",
-              "text": "そうみたいね。帰宅途中に当選番号を確認したら、2枚のピック5券がどちらも1ドルのストレート・ベットで5万ドルずつ当たっていて、合計10万ドルになったの。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 12800,
-              "endFrame": 13153
-            },
-            {
-              "speaker": "A",
-              "text": "2枚とも同じ数字を選んでいたから、2倍当たったってことなのだ！！",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 13160,
-              "endFrame": 13312
-            },
-            {
-              "speaker": "B",
-              "text": "本人は「自分の目が信じられなかった。落ち着いてから財布からチケットを取り出すと、本当に当たり券だった」と話していて、賞金は請求書の支払いと自宅の修繕に充てる予定だそうよ。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 13320,
-              "endFrame": 13722
-            },
-            {
-              "speaker": "A",
-              "text": "派手な使い道じゃなくて、生活の足しにするっていうのが現実的なのだ。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 13729,
-              "endFrame": 13902
-            },
-            {
-              "speaker": "B",
-              "text": "「もう1枚買っておこう」といういつもの判断が、思いがけない結果を生んだ良い例ね。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 13909,
-              "endFrame": 14083
-            },
-            {
-              "speaker": "A",
-              "text": "ピック3とピック4も買ってたのに、当たったのはピック5だけだったのだ？",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 14091,
-              "endFrame": 14257
-            },
-            {
-              "speaker": "B",
-              "text": "記事にはそう書かれているわ。3種類まとめ買いした中で、たまたま同じ数字を選んだピック5だけが2倍で当たったの。",
-              "section": "同じ数字を2枚、メリーランドの女性が宝くじで10万ドルを射止める",
-              "startFrame": 14264,
-              "endFrame": 14500
-            },
-            {
-              "speaker": "A",
-              "text": "今日は執念、幸運、団結が主役の四題だったのだ！",
-              "section": "まとめ",
-              "startFrame": 14518,
-              "endFrame": 14673
-            },
-            {
-              "speaker": "B",
-              "text": "20年間ひとりで模型を作り続けた執念、遺品セールの1枚の絵が持っていた75年分の来歴、1分間だけ声をそろえた934人の一体感、そして「もう1枚買っておこう」といういつもの判断が生んだ10万ドル。",
-              "section": "まとめ",
-              "startFrame": 14681,
-              "endFrame": 15188
-            },
-            {
-              "speaker": "A",
-              "text": "積み重ねるタイプと、たまたま起きるタイプ、両方あって面白かったのだ！",
-              "section": "まとめ",
-              "startFrame": 15195,
-              "endFrame": 15377
-            },
-            {
-              "speaker": "B",
-              "text": "聞き終えたあとに誰かへ話したくなる小さな驚きばかりだったわね。今日はここまで、また明日聞いてね。",
-              "section": "まとめ",
-              "startFrame": 15385,
-              "endFrame": 15596
-            },
-            {
-              "speaker": "A",
-              "text": "また明日なのだ！ばいばいなのだ！",
-              "section": "まとめ",
-              "startFrame": 15604,
-              "endFrame": 15686
-            }
-          ]
-        }
-      },
-      {
-        "mode": "spain",
-        "label": "スペインニュース",
-        "iaId": "news-pickup-2026-09-21-spain",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-21-spain/spain_yukkuri.m4a",
-        "markdown": "<h1>スペイン文化・フラメンコ便り 2026年9月21日</h1>\n<h2>国際情勢（スペイン視点）</h2>\n<ul>\n<li>セウタでは、モロッコ側からの越境から50日が経っても1,000人を超える未成年（多くは14〜17歳の男子）が路上と公式収容施設の間を行き来する状態が続き、街に住む人々は「非常事態が日常になった」という感覚を語っている。地中海を挟んだアフリカとの往来は、スペイン人にとって「よその出来事」ではなく自国領土で起きている現在進行形の課題であり、対岸の政治と生活が直結する感覚が強く表れている。</li>\n</ul>\n<h2>スペイン国内ニュース</h2>\n<ul>\n<li>通貨・経済担当のクエルポ大臣の政治的存在感が薄いとされる中、サンチェス首相の側近であるロペス報道官とプエンテ運輸相が「首相の代弁者」として前面に立つ場面が増えている。連立与党内の力学が首相周辺への一極集中で調整される様子は、地域政党との綱引きが続くスペイン政治らしい光景といえる。日本の内閣でも閣僚個人より官房長官が発信の中心になる場面があり、「誰が公式に語るか」を巡る力学は両国に共通して見える。</li>\n</ul>\n<h2>文化・芸能ニュース</h2>\n<ul>\n<li>{Shakira|シャキーラ}が8年ぶりにスペインへ帰還し、マドリードで12公演のレジデンシー形式ワールドツアー締めくくり公演を行った。序盤の演出に手探りな部分があったと報じられつつも、代表曲とダンスで会場を熱狂させ、「より狼らしく、よりエンパワーされた」姿と評された。一つの都市に長期滞在して公演を重ねる「レジデンシー」形式は、ポップスターが単発公演をひとつの「特別な出来事」に格上げする近年の世界的戦略でもあり、コロンビア出身の彼女がマドリードという街を舞台に選んだこと自体が、スペイン語圏ポップシーンの中心地としてのマドリードの位置づけを物語っている。</li>\n<li>演出家コンビ「ロス・ハビス」（{Javier Calvo|ハビエル・カルボ}と{Javier Ambrossi|ハビエル・アンブロッシ}）による{Federico García Lorca|フェデリコ・ガルシア・ロルカ}作品の大胆な翻案が批評家から「不遜であり、目もくらむような」と評された。ロルカはグラナダ生まれの詩人・劇作家で、フラメンコの祖形とされる歌の収集にも関わった人物であり、その作品を現代の演出家が読み替え続けていること自体が、スペイン文化におけるロルカの重みを示している。</li>\n</ul>\n<h2>フラメンコニュース</h2>\n<ul>\n<li>パンプローナ市が主催するフラメンコ祭典「{Flamenco On Fire|フラメンコ・オン・ファイア}」第13回に合わせ、市庁舎バルコニーから{El Pele|エル・ペレ}が歌を披露する特別企画が組まれ、あわせて子ども向けのギター・バイレ教室も実施された。劇場の外、街の象徴的な建物のバルコニーで歌うという形式自体が、フラメンコを「観客席で鑑賞するもの」から「街に開かれたもの」へ変える試みになっている。</li>\n<li>コルドバで開催される「{Festival de la Guitarra de Córdoba|コルドバ・ギター祭}」が第45回を迎え、あわせて国立フラメンコ芸術研究センター（CNAF）の設立70周年を祝う節目の年となった。フラメンコギターの本場コルドバで、教育機関の周年とフェスティバルが重なる形で祝われることは、コルドバが単なる公演地ではなく人材育成の拠点であり続けてきたことを示している。</li>\n<li>アンダルシア・アルチドナ町の伝統行事「{La Porra Flamenca|ラ・ポラ・フラメンカ}」が今週末に開催され、カンテ・バイレ・ギターを一堂に集める。小さな町の祭りがジャンル横断で三本柱をそろえる形式は、フラメンコが専門劇場だけでなく地域コミュニティの生活に根づいた芸能であることを表している。</li>\n<li>若手発掘の名門コンクール「{Cante de las Minas|カンテ・デ・ラス・ミナス}」が、鉱山労働から生まれたカンテ（{cantes de las minas|カンテス・デ・ラス・ミナス}系＝タラント等）の新たな担い手を探す2026年版を予告した。歴史的な鉱山歌の系譜を絶やさない仕組みとして、コンクールが世代交代の装置になっている。</li>\n</ul>\n<h2>フラメンコギタリスト列伝</h2>\n<ul>\n<li>今日の主役は<strong>{Juan Manuel Cañizares|フアン・マヌエル・カニサレス}（1966年、バルセロナ県サバデル生）</strong>。10歳からサバデル市立音楽院でギターを始め、タラサ、バルセロナへと学びを広げ、クラシックとフラメンコの両方を同じ密度で修めた稀有な経歴を持つ。1989年、23歳のときに{Paco de Lucía|パコ・デ・ルシア}のグループへ迎えられ、以後1990年代を通じて「ソロ・デュオ・トリオ」編成やパコ・デ・ルシア・セプテットで活動を共にした。甥の{José María Bandera|ホセ・マリア・バンデラ}とのトリオで1989年から1992年にかけて大規模なツアーを重ねた経歴からも分かる通り、単なる伴奏者としてではなく、巨匠の音楽語法を最も近い距離で吸収した弟子の一人として位置づけられる。</li>\n<li>カニサレスの奏法の特徴は、フラメンコのコンパス感覚を保ちながら、クラシックギターで培った右手の分離技術と対位法的な発想を持ち込む点にある。単旋律のファルセータを弾き流すのではなく、複数の声部を同時に響かせる構成力に定評があり、これは彼がのちにオーケストラとの共演を重ねる素地にもなった。2008年、シモン・ラトル指揮ベルリン・フィルとともにマドリードのテアトロ・レアルで{Joaquín Rodrigo|ホアキン・ロドリーゴ}の『アランフエス協奏曲』を演奏した、フラメンコギタリストとして初めての招聘は、その代表的な到達点である。</li>\n<li>代表作の一つに、フラメンコと地中海・北アフリカの旋律を融合させた作品<a href=\"https://m.youtube.com/watch?v=CkXJj833iGc\">『ノチェス・デ・イマン・イ・ルナ（Noches de Imán y Luna）』</a>がある。曲名は「磁石と月の夜」を意味し、タイトル通り、アラブ・アンダルシア音楽的な旋法の響きとフラメンコのコンパスが交互に現れる構成になっている。冒頭のギターソロ部分で、通常のフラメンコのラスゲアード（かき鳴らし）よりも旋律線を長く歌わせる弾き方に注目すると、彼がクラシック的な運指と発想をフラメンコの語法へどう溶け込ませているかが聞き取りやすい。</li>\n<li>2023年、スペイン国民音楽賞（Premio Nacional de Música）を受賞。パコ・デ・ルシアの直系の弟子でありながら、独自にクラシック作曲・編曲・教育の分野へ活動を広げてきたことが評価された。現在は演奏だけでなく後進の指導にも力を入れており、フラメンコギターを一つの奏法の型に閉じ込めず、クラシック音楽との橋渡し役として広げてきた点が、後続世代への最大の影響として語り継がれている。</li>\n<li>カニサレスがカンテを支える伴奏者としての側面も見逃せない。パコ・デ・ルシアのグループを離れたのちも、歌い手たちの伴奏を通じてフラメンコの語法を更新し続けてきた経歴があり、単独の作曲家・独奏家としての顔と、カンテに寄り添う伴奏者としての顔の両方を保ち続けている点が、パコ・デ・ルシア以降の世代の中でも特異な位置づけを作っている。1982年の国民ギター賞から2023年の国民音楽賞まで、40年以上にわたって受賞歴を重ねてきたことは、フラメンコとクラシックの両輪を同時に走らせ続けてきた稀有な持続力の証でもある。</li>\n</ul>\n<h2>フラメンコバイレ列伝</h2>\n<ul>\n<li>今日の主役は<strong>{Manuela Carrasco|マヌエラ・カラスコ}（1954年、セビージャのトリアーナ地区生）</strong>。父は踊り手{José Carrasco El Sordo|ホセ・カラスコ・エル・ソルド}、母{Cipriana Salazar Heredia|シプリアーナ・サラサル・エレディア}はヒターノの名門カンボリオ家に連なる家系で生まれた。専門の師には就かず独学で踊りを磨き、11歳でセビージャの伝説的タブラオ「ラ・コチェラ」に初舞台を踏み、13歳からは踊り手{Curro Vélez|クーロ・ベレス}の一座で2年間ヨーロッパを巡業した早熟の経歴を持つ。</li>\n<li>1974年、ラ・プエブラ・デ・カサジャの「カンテ・ホンド再会祭」で名を上げ、コルドバの全国フラメンコ芸術大会でパストーラ・インペリオ賞、ヘレスのフラメンコロヒア講座賞を獲得して名実ともにトップクラスの舞踊家として認められた。以後、伝説の踊り手{Farruco|ファルーコ}やマティルデ・コラルらと組んだグループ「ロス・ボレーコス」に加わり、1986年にはアメリカ巡業公演『フラメンコ・プーロ』で{Fernanda de Utrera|フェルナンダ・デ・ウトレーラ}や{El Chocolate|エル・チョコラーテ}と共演するなど、20世紀後半のフラメンコ黄金期の歌い手・弾き手たちと直接舞台を重ねてきた。</li>\n<li>踊りの特徴は「情念の噴出」とも評される激しさで、上半身をまっすぐに保ったまま腕（ブラソ）を大きく回旋させる古典的な様式に、サパテアード（足技）の高速な連打を組み合わせる。技巧の見せ場を細切れにつなぐのではなく、一つの感情の高まりを長く持続させたまま踊り切る集中力の高さが特徴とされる。</li>\n<li>2025年、セビージャ・ビエナル・デ・フラメンコの公演<a href=\"https://www.youtube.com/watch?v=Go4xdE3f7-s\">『マヌエラ』</a>で舞台からの引退を発表し、テアトロ・デ・ラ・マエストランサでの千秋楽公演には{Antonio Canales|アントニオ・カナーレス}や{El Pele|エル・ペレ}ら後進の名手たちが花を添えた。この映像では、長年の相方であるギタリスト{Pedro Sierra|ペドロ・シエラ}の伴奏に合わせて、腕の弧を描く動きがゆっくりと大きくなっていく場面に、彼女の様式の核が凝縮されている。アンダルシアの「女神」と称された踊り手の一人として、後続世代のバイレへ影響を与え続けている。</li>\n</ul>\n<h2>フラメンコカンテ列伝</h2>\n<ul>\n<li>今日の主役は<strong>{Manuel Torre|マヌエル・トーレ}（本名{Manuel Soto Loreto|マヌエル・ソト・ロレト}、1878年 – 1933年）</strong>。ヘレス・デ・ラ・フロンテーラのサン・ミゲル地区に生まれた。この地区は隣接するサンティアゴ地区と並び、ヘレスにおけるフラメンコの伝統的な中心地として知られる。ヒターノの歌い手{Manuel Molina|マヌエル・モリーナ}、ヘレスの{El Marrurro|エル・マルルーロ}、カディスの{Enrique el Mellizo|エンリケ・エル・メジーソ}らから影響を受け、セビージャのカフェ・カンタンテを拠点に活動を広げた。</li>\n<li>声質は太く重く、技巧的な装飾よりも一音一音に体重をかけるような歌い方が特徴とされ、シギリージャ、マルティネーテ、ソレアの3つのカンテ・ホンド（深い歌）を極めた歌い手として20世紀を代表する存在に数えられる。録音技術が未熟な時代にスタジオ入りを渋ったこともあり、現存する録音は数が少なく音質も粗いが、それでも一音の重みが伝わる資料として今日まで聴き継がれている。</li>\n<li>代表的な録音の一つが<a href=\"https://www.youtube.com/watch?v=pvDkskq3l4k\">『シギリージャス』</a>。歌い出しの「アイ」という長い嘆息の音を伸ばす場面に注目すると、拍を正確に割るのではなく、拍の中で自在に声を伸縮させる「不定型の間（マ）」の取り方が分かる。これはシギリージャという重いパロを歌う際、歌い手がコンパスを支配する側に回る典型的な歌い方とされる。</li>\n<li>1922年、詩人{Federico García Lorca|フェデリコ・ガルシア・ロルカ}と作曲家{Manuel de Falla|マヌエル・デ・ファリャ}がグラナダで開催した「カンテ・ホンド・コンクール」に、招待歌手の一人としてトーレを迎えている。この人選自体が、当時の知識人たちがトーレをカンテ・ホンドの体現者として認識していたことを示す証言になっている。彼の歌い方は、後年の{Camarón de la Isla|カマロン・デ・ラ・イスラ}をはじめ多くの歌い手が参照する「声の重みで語る」系譜の原点の一つとされる。</li>\n</ul>\n<h2>フラメンコギター工房だより</h2>\n<ul>\n<li>過去回の全履歴（グラナダのラ・ギタレリア・ビタル、マラガのDavid Marcos Luthier、セビージャのアルベルト・パントーハ、アルメリアのゲルンディーノ・フェルナンデス父子、コルドバのマヌエル・レジェス、マドリードのコンデ・エルマーノス、グラナダのアントニオ・マリン・モンテロ、ウエルバ／クエンカのビセンテ・カリージョ、バレンシアのアマリオ・ブルゲー、グラナダのダニエル・ヒル・デ・アバジェ、マドリードのパウリーノ・ベルナベ、フェリペ・コンデ、セビリアのフェルナンド・モレノ、フランシスコ・バルバ、ヘロニモ・マテオス、グラナダのホセ・ビヒル・ギターラス、ホセ・ラミレス、ホセ・ロペス・ベジード、ミゲル・ロドリゲス・ベネイト、グラナダのオスカル・ムニョス、コルドバのジョン・レイ、マドリードのサントス・エルナンデス／マルセロ・バルベロ／アルカンヘル・フェルナンデス）と照合したうえで、今回は未紹介のグラナダの製作家を取り上げる。</li>\n<li>今日紹介するのは<strong>{Manuel de la Chica|マヌエル・デ・ラ・チカ}（1911年 – 1998年）</strong>。グラナダを拠点にした独学の製作家で、1930年代に名工{Santos Hernández|サントス・エルナンデス}のギターを研究・模倣することから技術を身につけ、その後{Benito Ferrer|ベニート・フェレル}門下の{Pepe de la Alhambra|ペペ・デ・ラ・アルハンブラ}の工房で一時期働いたのち独立して自らの工房を構えた。</li>\n<li>技法上の特徴は、音波が楽器内でどう伝わるかを研究し、振動を最大化することを「良いギターの秘訣」とした点にある。ギターだけでなく、バンドゥーリア、ラウド、バンドゥリン、ラウディンといったスペインの民俗撥弦楽器も手がける幅広い製作家だった。</li>\n<li>弟子には{Francisco Manuel Díaz|フランシスコ・マヌエル・ディアス}（グラナダ）、{Pedro Maldonado|ペドロ・マルドナード}（マラガ）、{Antonio López|アントニオ・ロペス}（パリ）らがおり、製作した楽器は{Andrés Segovia|アンドレス・セゴビア}、{Celedonio Romero|セレドニオ・ロメロ}、{Manuel Cano|マヌエル・カノ}らクラシック・フラメンコ双方の奏者に愛用された。1973年に健康上の理由で引退し、1998年に没したが、「グラナダ楽派（近代）」の中心人物の一人として、現在もグラナダのギター製作の系譜に名を残している。</li>\n</ul>\n<h2>フラメンコのパロ解説</h2>\n<ul>\n<li>今日のパロは<strong>{Granaína|グラナイーナ}</strong>。名前の通りグラナダ発祥のパロで、19世紀末、歌い手{Antonio Chacón|アントニオ・チャコン}がグラナダに長期滞在した1890年前後に創始したとする説が有力視されているが、諸説あるため単一の創始者へ断定はできない。マラゲーニャ（マラガのパロ）の旋律を基にグラナダ的に発展させたとも説明される。</li>\n<li>情感は荘重かつ詩的で、歌詞のテーマはグラナダの街角、宗教、恋愛など。5行の八音節詩（レトラ）で構成され、実際に歌う際には最初の2行のいずれかを繰り返して6行に伸ばすのが慣習とされる。踊りが伴わない「歌のためのカンテ」である点も特徴で、パルマや足拍子の伴奏を必要としない。</li>\n<li>コンパス（拍子）は自由リズムで、決まった拍子型を持たない。歌い手とギタリストが呼吸を合わせながらその場で内的なリズムを作っていく形式で、これはブレリアやソレアのような周期的なコンパスを持つパロとは対照的な性格になる。</li>\n<li>コード進行はフリジア旋法に基づくアンダルシア終止が基本で、E（イー）を主音とする場合、<strong>A minor→G→F→E</strong> 型の下行進行が典型とされる。ギター伴奏はラスゲアード中心というより、自由リズムに寄り添う分散和音やファルセータで歌の間（ま）を埋める役割が大きい。<strong>現代の主な歌い手には{José Menese|ホセ・メネセ}、{Calixto Sánchez|カリクスト・サンチェス}、{José Mercé|ホセ・メルセ}、{Enrique Morente|エンリケ・モレンテ}</strong>らが挙げられる。</li>\n<li>代表的な録音として<a href=\"https://www.youtube.com/watch?v=pT72EZyZUnU\">『グラナイーナ』（エル・ポラコ、1996年）</a>がある。歌い出しの長い「アイ」の伸ばし方と、次のフレーズへ移る直前に一瞬ためを作る間の取り方に注目すると、自由リズムのカンテがどのように「拍のない中で説得力を持つか」が聞き取れる。</li>\n</ul>\n<h2>まとめ</h2>\n<p>セウタの越境問題や与党内の力学は短く触れるにとどめ、今日はシャキーラの帰還公演とロルカの読み替えから、フラメンコの三本柱（カニサレス、マヌエラ・カラスコ、マヌエル・トーレ）、グラナダの製作家マヌエル・デ・ラ・チカ、そして自由リズムのパロ「グラナイーナ」まで、グラナダという土地が随所でつながる一日だった。</p>",
-        "title": "スペイン文化・フラメンコ便り 2026年9月21日",
-        "markdownSource": "# スペイン文化・フラメンコ便り 2026年9月21日\n\n## 国際情勢（スペイン視点）\n\n- セウタでは、モロッコ側からの越境から50日が経っても1,000人を超える未成年（多くは14〜17歳の男子）が路上と公式収容施設の間を行き来する状態が続き、街に住む人々は「非常事態が日常になった」という感覚を語っている。地中海を挟んだアフリカとの往来は、スペイン人にとって「よその出来事」ではなく自国領土で起きている現在進行形の課題であり、対岸の政治と生活が直結する感覚が強く表れている。\n\n## スペイン国内ニュース\n\n- 通貨・経済担当のクエルポ大臣の政治的存在感が薄いとされる中、サンチェス首相の側近であるロペス報道官とプエンテ運輸相が「首相の代弁者」として前面に立つ場面が増えている。連立与党内の力学が首相周辺への一極集中で調整される様子は、地域政党との綱引きが続くスペイン政治らしい光景といえる。日本の内閣でも閣僚個人より官房長官が発信の中心になる場面があり、「誰が公式に語るか」を巡る力学は両国に共通して見える。\n\n## 文化・芸能ニュース\n\n- {Shakira|シャキーラ}が8年ぶりにスペインへ帰還し、マドリードで12公演のレジデンシー形式ワールドツアー締めくくり公演を行った。序盤の演出に手探りな部分があったと報じられつつも、代表曲とダンスで会場を熱狂させ、「より狼らしく、よりエンパワーされた」姿と評された。一つの都市に長期滞在して公演を重ねる「レジデンシー」形式は、ポップスターが単発公演をひとつの「特別な出来事」に格上げする近年の世界的戦略でもあり、コロンビア出身の彼女がマドリードという街を舞台に選んだこと自体が、スペイン語圏ポップシーンの中心地としてのマドリードの位置づけを物語っている。\n- 演出家コンビ「ロス・ハビス」（{Javier Calvo|ハビエル・カルボ}と{Javier Ambrossi|ハビエル・アンブロッシ}）による{Federico García Lorca|フェデリコ・ガルシア・ロルカ}作品の大胆な翻案が批評家から「不遜であり、目もくらむような」と評された。ロルカはグラナダ生まれの詩人・劇作家で、フラメンコの祖形とされる歌の収集にも関わった人物であり、その作品を現代の演出家が読み替え続けていること自体が、スペイン文化におけるロルカの重みを示している。\n\n## フラメンコニュース\n\n- パンプローナ市が主催するフラメンコ祭典「{Flamenco On Fire|フラメンコ・オン・ファイア}」第13回に合わせ、市庁舎バルコニーから{El Pele|エル・ペレ}が歌を披露する特別企画が組まれ、あわせて子ども向けのギター・バイレ教室も実施された。劇場の外、街の象徴的な建物のバルコニーで歌うという形式自体が、フラメンコを「観客席で鑑賞するもの」から「街に開かれたもの」へ変える試みになっている。\n- コルドバで開催される「{Festival de la Guitarra de Córdoba|コルドバ・ギター祭}」が第45回を迎え、あわせて国立フラメンコ芸術研究センター（CNAF）の設立70周年を祝う節目の年となった。フラメンコギターの本場コルドバで、教育機関の周年とフェスティバルが重なる形で祝われることは、コルドバが単なる公演地ではなく人材育成の拠点であり続けてきたことを示している。\n- アンダルシア・アルチドナ町の伝統行事「{La Porra Flamenca|ラ・ポラ・フラメンカ}」が今週末に開催され、カンテ・バイレ・ギターを一堂に集める。小さな町の祭りがジャンル横断で三本柱をそろえる形式は、フラメンコが専門劇場だけでなく地域コミュニティの生活に根づいた芸能であることを表している。\n- 若手発掘の名門コンクール「{Cante de las Minas|カンテ・デ・ラス・ミナス}」が、鉱山労働から生まれたカンテ（{cantes de las minas|カンテス・デ・ラス・ミナス}系＝タラント等）の新たな担い手を探す2026年版を予告した。歴史的な鉱山歌の系譜を絶やさない仕組みとして、コンクールが世代交代の装置になっている。\n\n## フラメンコギタリスト列伝\n\n- 今日の主役は**{Juan Manuel Cañizares|フアン・マヌエル・カニサレス}（1966年、バルセロナ県サバデル生）**。10歳からサバデル市立音楽院でギターを始め、タラサ、バルセロナへと学びを広げ、クラシックとフラメンコの両方を同じ密度で修めた稀有な経歴を持つ。1989年、23歳のときに{Paco de Lucía|パコ・デ・ルシア}のグループへ迎えられ、以後1990年代を通じて「ソロ・デュオ・トリオ」編成やパコ・デ・ルシア・セプテットで活動を共にした。甥の{José María Bandera|ホセ・マリア・バンデラ}とのトリオで1989年から1992年にかけて大規模なツアーを重ねた経歴からも分かる通り、単なる伴奏者としてではなく、巨匠の音楽語法を最も近い距離で吸収した弟子の一人として位置づけられる。\n- カニサレスの奏法の特徴は、フラメンコのコンパス感覚を保ちながら、クラシックギターで培った右手の分離技術と対位法的な発想を持ち込む点にある。単旋律のファルセータを弾き流すのではなく、複数の声部を同時に響かせる構成力に定評があり、これは彼がのちにオーケストラとの共演を重ねる素地にもなった。2008年、シモン・ラトル指揮ベルリン・フィルとともにマドリードのテアトロ・レアルで{Joaquín Rodrigo|ホアキン・ロドリーゴ}の『アランフエス協奏曲』を演奏した、フラメンコギタリストとして初めての招聘は、その代表的な到達点である。\n- 代表作の一つに、フラメンコと地中海・北アフリカの旋律を融合させた作品[『ノチェス・デ・イマン・イ・ルナ（Noches de Imán y Luna）』](https://m.youtube.com/watch?v=CkXJj833iGc)がある。曲名は「磁石と月の夜」を意味し、タイトル通り、アラブ・アンダルシア音楽的な旋法の響きとフラメンコのコンパスが交互に現れる構成になっている。冒頭のギターソロ部分で、通常のフラメンコのラスゲアード（かき鳴らし）よりも旋律線を長く歌わせる弾き方に注目すると、彼がクラシック的な運指と発想をフラメンコの語法へどう溶け込ませているかが聞き取りやすい。\n- 2023年、スペイン国民音楽賞（Premio Nacional de Música）を受賞。パコ・デ・ルシアの直系の弟子でありながら、独自にクラシック作曲・編曲・教育の分野へ活動を広げてきたことが評価された。現在は演奏だけでなく後進の指導にも力を入れており、フラメンコギターを一つの奏法の型に閉じ込めず、クラシック音楽との橋渡し役として広げてきた点が、後続世代への最大の影響として語り継がれている。\n- カニサレスがカンテを支える伴奏者としての側面も見逃せない。パコ・デ・ルシアのグループを離れたのちも、歌い手たちの伴奏を通じてフラメンコの語法を更新し続けてきた経歴があり、単独の作曲家・独奏家としての顔と、カンテに寄り添う伴奏者としての顔の両方を保ち続けている点が、パコ・デ・ルシア以降の世代の中でも特異な位置づけを作っている。1982年の国民ギター賞から2023年の国民音楽賞まで、40年以上にわたって受賞歴を重ねてきたことは、フラメンコとクラシックの両輪を同時に走らせ続けてきた稀有な持続力の証でもある。\n\n## フラメンコバイレ列伝\n\n- 今日の主役は**{Manuela Carrasco|マヌエラ・カラスコ}（1954年、セビージャのトリアーナ地区生）**。父は踊り手{José Carrasco El Sordo|ホセ・カラスコ・エル・ソルド}、母{Cipriana Salazar Heredia|シプリアーナ・サラサル・エレディア}はヒターノの名門カンボリオ家に連なる家系で生まれた。専門の師には就かず独学で踊りを磨き、11歳でセビージャの伝説的タブラオ「ラ・コチェラ」に初舞台を踏み、13歳からは踊り手{Curro Vélez|クーロ・ベレス}の一座で2年間ヨーロッパを巡業した早熟の経歴を持つ。\n- 1974年、ラ・プエブラ・デ・カサジャの「カンテ・ホンド再会祭」で名を上げ、コルドバの全国フラメンコ芸術大会でパストーラ・インペリオ賞、ヘレスのフラメンコロヒア講座賞を獲得して名実ともにトップクラスの舞踊家として認められた。以後、伝説の踊り手{Farruco|ファルーコ}やマティルデ・コラルらと組んだグループ「ロス・ボレーコス」に加わり、1986年にはアメリカ巡業公演『フラメンコ・プーロ』で{Fernanda de Utrera|フェルナンダ・デ・ウトレーラ}や{El Chocolate|エル・チョコラーテ}と共演するなど、20世紀後半のフラメンコ黄金期の歌い手・弾き手たちと直接舞台を重ねてきた。\n- 踊りの特徴は「情念の噴出」とも評される激しさで、上半身をまっすぐに保ったまま腕（ブラソ）を大きく回旋させる古典的な様式に、サパテアード（足技）の高速な連打を組み合わせる。技巧の見せ場を細切れにつなぐのではなく、一つの感情の高まりを長く持続させたまま踊り切る集中力の高さが特徴とされる。\n- 2025年、セビージャ・ビエナル・デ・フラメンコの公演[『マヌエラ』](https://www.youtube.com/watch?v=Go4xdE3f7-s)で舞台からの引退を発表し、テアトロ・デ・ラ・マエストランサでの千秋楽公演には{Antonio Canales|アントニオ・カナーレス}や{El Pele|エル・ペレ}ら後進の名手たちが花を添えた。この映像では、長年の相方であるギタリスト{Pedro Sierra|ペドロ・シエラ}の伴奏に合わせて、腕の弧を描く動きがゆっくりと大きくなっていく場面に、彼女の様式の核が凝縮されている。アンダルシアの「女神」と称された踊り手の一人として、後続世代のバイレへ影響を与え続けている。\n\n## フラメンコカンテ列伝\n\n- 今日の主役は**{Manuel Torre|マヌエル・トーレ}（本名{Manuel Soto Loreto|マヌエル・ソト・ロレト}、1878年 – 1933年）**。ヘレス・デ・ラ・フロンテーラのサン・ミゲル地区に生まれた。この地区は隣接するサンティアゴ地区と並び、ヘレスにおけるフラメンコの伝統的な中心地として知られる。ヒターノの歌い手{Manuel Molina|マヌエル・モリーナ}、ヘレスの{El Marrurro|エル・マルルーロ}、カディスの{Enrique el Mellizo|エンリケ・エル・メジーソ}らから影響を受け、セビージャのカフェ・カンタンテを拠点に活動を広げた。\n- 声質は太く重く、技巧的な装飾よりも一音一音に体重をかけるような歌い方が特徴とされ、シギリージャ、マルティネーテ、ソレアの3つのカンテ・ホンド（深い歌）を極めた歌い手として20世紀を代表する存在に数えられる。録音技術が未熟な時代にスタジオ入りを渋ったこともあり、現存する録音は数が少なく音質も粗いが、それでも一音の重みが伝わる資料として今日まで聴き継がれている。\n- 代表的な録音の一つが[『シギリージャス』](https://www.youtube.com/watch?v=pvDkskq3l4k)。歌い出しの「アイ」という長い嘆息の音を伸ばす場面に注目すると、拍を正確に割るのではなく、拍の中で自在に声を伸縮させる「不定型の間（マ）」の取り方が分かる。これはシギリージャという重いパロを歌う際、歌い手がコンパスを支配する側に回る典型的な歌い方とされる。\n- 1922年、詩人{Federico García Lorca|フェデリコ・ガルシア・ロルカ}と作曲家{Manuel de Falla|マヌエル・デ・ファリャ}がグラナダで開催した「カンテ・ホンド・コンクール」に、招待歌手の一人としてトーレを迎えている。この人選自体が、当時の知識人たちがトーレをカンテ・ホンドの体現者として認識していたことを示す証言になっている。彼の歌い方は、後年の{Camarón de la Isla|カマロン・デ・ラ・イスラ}をはじめ多くの歌い手が参照する「声の重みで語る」系譜の原点の一つとされる。\n\n## フラメンコギター工房だより\n\n- 過去回の全履歴（グラナダのラ・ギタレリア・ビタル、マラガのDavid Marcos Luthier、セビージャのアルベルト・パントーハ、アルメリアのゲルンディーノ・フェルナンデス父子、コルドバのマヌエル・レジェス、マドリードのコンデ・エルマーノス、グラナダのアントニオ・マリン・モンテロ、ウエルバ／クエンカのビセンテ・カリージョ、バレンシアのアマリオ・ブルゲー、グラナダのダニエル・ヒル・デ・アバジェ、マドリードのパウリーノ・ベルナベ、フェリペ・コンデ、セビリアのフェルナンド・モレノ、フランシスコ・バルバ、ヘロニモ・マテオス、グラナダのホセ・ビヒル・ギターラス、ホセ・ラミレス、ホセ・ロペス・ベジード、ミゲル・ロドリゲス・ベネイト、グラナダのオスカル・ムニョス、コルドバのジョン・レイ、マドリードのサントス・エルナンデス／マルセロ・バルベロ／アルカンヘル・フェルナンデス）と照合したうえで、今回は未紹介のグラナダの製作家を取り上げる。\n- 今日紹介するのは**{Manuel de la Chica|マヌエル・デ・ラ・チカ}（1911年 – 1998年）**。グラナダを拠点にした独学の製作家で、1930年代に名工{Santos Hernández|サントス・エルナンデス}のギターを研究・模倣することから技術を身につけ、その後{Benito Ferrer|ベニート・フェレル}門下の{Pepe de la Alhambra|ペペ・デ・ラ・アルハンブラ}の工房で一時期働いたのち独立して自らの工房を構えた。\n- 技法上の特徴は、音波が楽器内でどう伝わるかを研究し、振動を最大化することを「良いギターの秘訣」とした点にある。ギターだけでなく、バンドゥーリア、ラウド、バンドゥリン、ラウディンといったスペインの民俗撥弦楽器も手がける幅広い製作家だった。\n- 弟子には{Francisco Manuel Díaz|フランシスコ・マヌエル・ディアス}（グラナダ）、{Pedro Maldonado|ペドロ・マルドナード}（マラガ）、{Antonio López|アントニオ・ロペス}（パリ）らがおり、製作した楽器は{Andrés Segovia|アンドレス・セゴビア}、{Celedonio Romero|セレドニオ・ロメロ}、{Manuel Cano|マヌエル・カノ}らクラシック・フラメンコ双方の奏者に愛用された。1973年に健康上の理由で引退し、1998年に没したが、「グラナダ楽派（近代）」の中心人物の一人として、現在もグラナダのギター製作の系譜に名を残している。\n\n## フラメンコのパロ解説\n\n- 今日のパロは**{Granaína|グラナイーナ}**。名前の通りグラナダ発祥のパロで、19世紀末、歌い手{Antonio Chacón|アントニオ・チャコン}がグラナダに長期滞在した1890年前後に創始したとする説が有力視されているが、諸説あるため単一の創始者へ断定はできない。マラゲーニャ（マラガのパロ）の旋律を基にグラナダ的に発展させたとも説明される。\n- 情感は荘重かつ詩的で、歌詞のテーマはグラナダの街角、宗教、恋愛など。5行の八音節詩（レトラ）で構成され、実際に歌う際には最初の2行のいずれかを繰り返して6行に伸ばすのが慣習とされる。踊りが伴わない「歌のためのカンテ」である点も特徴で、パルマや足拍子の伴奏を必要としない。\n- コンパス（拍子）は自由リズムで、決まった拍子型を持たない。歌い手とギタリストが呼吸を合わせながらその場で内的なリズムを作っていく形式で、これはブレリアやソレアのような周期的なコンパスを持つパロとは対照的な性格になる。\n- コード進行はフリジア旋法に基づくアンダルシア終止が基本で、E（イー）を主音とする場合、**A minor→G→F→E** 型の下行進行が典型とされる。ギター伴奏はラスゲアード中心というより、自由リズムに寄り添う分散和音やファルセータで歌の間（ま）を埋める役割が大きい。**現代の主な歌い手には{José Menese|ホセ・メネセ}、{Calixto Sánchez|カリクスト・サンチェス}、{José Mercé|ホセ・メルセ}、{Enrique Morente|エンリケ・モレンテ}**らが挙げられる。\n- 代表的な録音として[『グラナイーナ』（エル・ポラコ、1996年）](https://www.youtube.com/watch?v=pT72EZyZUnU)がある。歌い出しの長い「アイ」の伸ばし方と、次のフレーズへ移る直前に一瞬ためを作る間の取り方に注目すると、自由リズムのカンテがどのように「拍のない中で説得力を持つか」が聞き取れる。\n\n## まとめ\n\nセウタの越境問題や与党内の力学は短く触れるにとどめ、今日はシャキーラの帰還公演とロルカの読み替えから、フラメンコの三本柱（カニサレス、マヌエラ・カラスコ、マヌエル・トーレ）、グラナダの製作家マヌエル・デ・ラ・チカ、そして自由リズムのパロ「グラナイーナ」まで、グラナダという土地が随所でつながる一日だった。\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 26976,
-          "audioDurationSec": 899.205333,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "ブエナス・タルデス（原語 Buenas tardes）！2026年9月21日のスペイン文化・フラメンコ便りなのだ！",
-              "section": "オープニング",
-              "startFrame": 18,
-              "endFrame": 266
-            },
-            {
-              "speaker": "B",
-              "text": "四国めたんよ。ブエナス・タルデスってどういう意味なのだ？って顔してるわね。",
-              "section": "オープニング",
-              "startFrame": 274,
-              "endFrame": 457
-            },
-            {
-              "speaker": "A",
-              "text": "ブエナス・タルデスってどういう意味なのだ？",
-              "section": "オープニング",
-              "startFrame": 464,
-              "endFrame": 569
-            },
-            {
-              "speaker": "B",
-              "text": "「こんにちは」「こんばんは」にあたる午後の挨拶よ。スペインでは日没が遅いから、昼過ぎから夕方、日が沈むころまでずっとこれを使うの。オラより少し丁寧で、初対面や目上の人にも使いやすい言葉ね。",
-              "section": "オープニング",
-              "startFrame": 577,
-              "endFrame": 1027
-            },
-            {
-              "speaker": "A",
-              "text": "じゃあ今のこの時間はまさにブエナス・タルデスなのだ！",
-              "section": "オープニング",
-              "startFrame": 1035,
-              "endFrame": 1165
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。今日はグラナダという土地が何度も顔を出す回よ。さっそく見ていきましょう。",
-              "section": "オープニング",
-              "startFrame": 1173,
-              "endFrame": 1348
-            },
-            {
-              "speaker": "B",
-              "text": "セウタでは越境から50日たっても、1,000人を超える未成年が路上と収容施設のあいだを行き来したままなの。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1366,
-              "endFrame": 1594
-            },
-            {
-              "speaker": "A",
-              "text": "50日もなのだ？もう片付いていると思ったのだ。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1601,
-              "endFrame": 1725
-            },
-            {
-              "speaker": "B",
-              "text": "地中海を挟んだアフリカとの往来は、スペインにとって遠い国の話じゃなくて自分の街で起きていることなのよ。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1733,
-              "endFrame": 1957
-            },
-            {
-              "speaker": "A",
-              "text": "クエルポ大臣より、ロペス報道官とプエンテ運輸相のほうが目立ってるのだ？",
-              "section": "スペイン国内ニュース",
-              "startFrame": 1975,
-              "endFrame": 2164
-            },
-            {
-              "speaker": "B",
-              "text": "そうなの。サンチェス首相の代弁者としてこの二人が前面に立つ場面が増えていて、首相周辺への一極集中が進んでいるのよ。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2171,
-              "endFrame": 2444
-            },
-            {
-              "speaker": "B",
-              "text": "日本でも閣僚より官房長官が発信の中心になることがあるでしょう。「誰が公式に語るか」を巡る力学は日西で似ているわね。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2451,
-              "endFrame": 2737
-            },
-            {
-              "speaker": "A",
-              "text": "シャキーラが8年ぶりにスペインに帰ってきたのだ！",
-              "section": "文化・芸能ニュース",
-              "startFrame": 2755,
-              "endFrame": 2866
-            },
-            {
-              "speaker": "B",
-              "text": "マドリードで12公演もやる「レジデンシー」形式の締めくくり公演よ。序盤は手探りだったみたいだけど、代表曲とダンスで会場を熱狂させたそうよ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 2873,
-              "endFrame": 3215
-            },
-            {
-              "speaker": "A",
-              "text": "一つの街に長く滞在して何公演もやるのって、普通のツアーと何が違うのだ？",
-              "section": "文化・芸能ニュース",
-              "startFrame": 3222,
-              "endFrame": 3424
-            },
-            {
-              "speaker": "B",
-              "text": "単発公演を「特別な出来事」に格上げする、いま世界的に流行っている戦略なの。コロンビア出身の彼女がマドリードを選んだこと自体、この街がスペイン語圏ポップの中心地だという証拠ね。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 3432,
-              "endFrame": 3855
-            },
-            {
-              "speaker": "A",
-              "text": "ロス・ハビスってコンビもロルカの作品を大胆に読み替えたのだ？",
-              "section": "文化・芸能ニュース",
-              "startFrame": 3863,
-              "endFrame": 4022
-            },
-            {
-              "speaker": "B",
-              "text": "ハビエル・カルボとハビエル・アンブロッシのコンビね。批評家に「不遜で目もくらむよう」と評されたわ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4029,
-              "endFrame": 4265
-            },
-            {
-              "speaker": "B",
-              "text": "ロルカはグラナダ生まれの詩人で、フラメンコの祖形になった歌の収集にも関わった人。その作品が今も読み替え続けられていること自体、ロルカの重みを物語っているのよ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4272,
-              "endFrame": 4635
-            },
-            {
-              "speaker": "A",
-              "text": "パンプローナのフラメンコ・オン・ファイアで、市庁舎のバルコニーから歌ったのだ？",
-              "section": "フラメンコニュース",
-              "startFrame": 4653,
-              "endFrame": 4871
-            },
-            {
-              "speaker": "B",
-              "text": "エル・ペレね。劇場の外、街の象徴的な建物のバルコニーで歌うことで、フラメンコを街全体に開く試みになっているの。子ども向けのギターとバイレの教室も一緒に開かれたわ。",
-              "section": "フラメンコニュース",
-              "startFrame": 4878,
-              "endFrame": 5287
-            },
-            {
-              "speaker": "A",
-              "text": "コルドバのギター祭も何か節目なのだ？",
-              "section": "フラメンコニュース",
-              "startFrame": 5295,
-              "endFrame": 5391
-            },
-            {
-              "speaker": "B",
-              "text": "第45回にあわせて、国立フラメンコ芸術研究センターの設立70周年も重なる年なのよ。フェスティバルと教育機関の周年が同時に来るのは、コルドバが公演地だけじゃなく人材育成の拠点であり続けてきた証拠ね。",
-              "section": "フラメンコニュース",
-              "startFrame": 5399,
-              "endFrame": 5878
-            },
-            {
-              "speaker": "A",
-              "text": "アルチドナの「ラ・ポラ・フラメンカ」はどんなお祭りなのだ？",
-              "section": "フラメンコニュース",
-              "startFrame": 5886,
-              "endFrame": 6063
-            },
-            {
-              "speaker": "B",
-              "text": "カンテ、バイレ、ギターの三本柱を小さな町の祭りが一堂に集めるのよ。専門劇場だけじゃなく、地域の生活の中にフラメンコが根づいている証拠のひとつね。",
-              "section": "フラメンコニュース",
-              "startFrame": 6070,
-              "endFrame": 6435
-            },
-            {
-              "speaker": "A",
-              "text": "カンテ・デ・ラス・ミナスの新しい大会も始まるのだ？",
-              "section": "フラメンコニュース",
-              "startFrame": 6442,
-              "endFrame": 6616
-            },
-            {
-              "speaker": "B",
-              "text": "鉱山労働から生まれたカンテの新しい担い手を探すコンクールよ。歴史的な鉱山歌の系譜を絶やさない、世代交代の仕組みになっているの。",
-              "section": "フラメンコニュース",
-              "startFrame": 6623,
-              "endFrame": 6915
-            },
-            {
-              "speaker": "A",
-              "text": "今日のギタリストは誰なのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 6933,
-              "endFrame": 7005
-            },
-            {
-              "speaker": "B",
-              "text": "フアン・マヌエル・カニサレス。1966年、バルセロナ県サバデル生まれよ。10歳からサバデル市立音楽院でギターを始めて、クラシックとフラメンコを同じ密度で修めた珍しい経歴の持ち主なの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7013,
-              "endFrame": 7493
-            },
-            {
-              "speaker": "A",
-              "text": "クラシックとフラメンコを両方本気でやったのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7500,
-              "endFrame": 7613
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。1989年、23歳のときにパコ・デ・ルシアのグループへ迎えられて、90年代を通して「ソロ・デュオ・トリオ」編成やパコ・デ・ルシア・セプテットで活動したわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 7621,
-              "endFrame": 8153
-            },
-            {
-              "speaker": "B",
-              "text": "甥のホセ・マリア・バンデラとのトリオで1989年から92年にかけて大きなツアーも重ねたの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8160,
-              "endFrame": 8402
-            },
-            {
-              "speaker": "A",
-              "text": "つまり巨匠の一番近くで学んだ弟子なのだ！",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8410,
-              "endFrame": 8518
-            },
-            {
-              "speaker": "B",
-              "text": "そう言っていいわね。奏法の特徴は、フラメンコのコンパス感覚を保ちながら、クラシックで培った右手の分離技術と対位法的な発想を持ち込むこと。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8526,
-              "endFrame": 8850
-            },
-            {
-              "speaker": "B",
-              "text": "単旋律のファルセータを弾き流すんじゃなくて、複数の声部を同時に響かせる構成力に定評があるの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8857,
-              "endFrame": 9076
-            },
-            {
-              "speaker": "A",
-              "text": "それがオーケストラとの共演にもつながったのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9083,
-              "endFrame": 9194
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。2008年、シモン・ラトル指揮のベルリン・フィルとマドリードのテアトロ・レアルで、ホアキン・ロドリーゴの『アランフエス協奏曲』を演奏したわ。フラメンコギタリストとして初めての招聘だったのよ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9202,
-              "endFrame": 9666
-            },
-            {
-              "speaker": "A",
-              "text": "代表曲はあるのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9674,
-              "endFrame": 9735
-            },
-            {
-              "speaker": "B",
-              "text": "『ノチェス・デ・イマン・イ・ルナ』、「磁石と月の夜」という意味の曲ね。リンクは記事本文にあるわ。アラブ・アンダルシア的な旋法の響きとフラメンコのコンパスが交互に現れる構成なの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9742,
-              "endFrame": 10239
-            },
-            {
-              "speaker": "A",
-              "text": "どこに注目すればいいのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10247,
-              "endFrame": 10319
-            },
-            {
-              "speaker": "B",
-              "text": "冒頭のギターソロで、いつものラスゲアードより旋律線を長く歌わせる弾き方をしているところ。クラシックの運指と発想をフラメンコの語法にどう溶け込ませているかが聞き取れるわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10326,
-              "endFrame": 10679
-            },
-            {
-              "speaker": "A",
-              "text": "賞ももらったのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10687,
-              "endFrame": 10737
-            },
-            {
-              "speaker": "B",
-              "text": "2023年にスペイン国民音楽賞を受賞したわ。1982年の国民ギター賞から数えて40年以上、受賞歴を重ね続けているの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10745,
-              "endFrame": 11078
-            },
-            {
-              "speaker": "A",
-              "text": "伴奏の仕事もしていたのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11086,
-              "endFrame": 11160
-            },
-            {
-              "speaker": "B",
-              "text": "パコ・デ・ルシアのグループを離れたあとも、歌い手の伴奏を通してフラメンコの語法を更新し続けてきたのよ。独奏家・作曲家の顔と、カンテに寄り添う伴奏者の顔、両方を保ち続けている稀有な存在なの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11167,
-              "endFrame": 11656
-            },
-            {
-              "speaker": "A",
-              "text": "フラメンコとクラシックをずっと両立させてきたのだ！",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11664,
-              "endFrame": 11777
-            },
-            {
-              "speaker": "B",
-              "text": "それが後続世代への最大の影響ね。フラメンコギターを一つの型に閉じ込めない、橋渡し役としての存在よ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11785,
-              "endFrame": 12030
-            },
-            {
-              "speaker": "A",
-              "text": "今日のバイレの主役は誰なのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 12048,
-              "endFrame": 12128
-            },
-            {
-              "speaker": "B",
-              "text": "マヌエラ・カラスコ。1954年、セビージャのトリアーナ地区生まれよ。父は踊り手ホセ・カラスコ・エル・ソルド、母はヒターノの名門カンボリオ家に連なる家系ね。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 12135,
-              "endFrame": 12551
-            },
-            {
-              "speaker": "A",
-              "text": "ちゃんと師匠についたのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 12559,
-              "endFrame": 12624
-            },
-            {
-              "speaker": "B",
-              "text": "ううん、専門の師には就かず独学で踊りを磨いたの。11歳でセビージャの伝説的タブラオ「ラ・コチェラ」に初舞台を踏んで、13歳からはクーロ・ベレスの一座で2年間ヨーロッパを巡業したのよ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 12631,
-              "endFrame": 13097
-            },
-            {
-              "speaker": "A",
-              "text": "早熟なのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 13104,
-              "endFrame": 13143
-            },
-            {
-              "speaker": "B",
-              "text": "1974年、ラ・プエブラ・デ・カサジャのカンテ・ホンド再会祭で名を上げて、コルドバの全国大会でパストーラ・インペリオ賞、ヘレスのフラメンコロヒア講座賞も獲得したわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 13151,
-              "endFrame": 13593
-            },
-            {
-              "speaker": "A",
-              "text": "共演した人も豪華なのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 13600,
-              "endFrame": 13675
-            },
-            {
-              "speaker": "B",
-              "text": "伝説の踊り手ファルーコやマティルデ・コラルらと組んだグループ「ロス・ボレーコス」に加わったの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 13682,
-              "endFrame": 13896
-            },
-            {
-              "speaker": "B",
-              "text": "1986年のアメリカ巡業『フラメンコ・プーロ』では、フェルナンダ・デ・ウトレーラやエル・チョコラーテとも共演したのよ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 13903,
-              "endFrame": 14244
-            },
-            {
-              "speaker": "A",
-              "text": "踊りの特徴は何なのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14251,
-              "endFrame": 14322
-            },
-            {
-              "speaker": "B",
-              "text": "「情念の噴出」と評される激しさね。上半身をまっすぐ保ったまま腕を大きく回旋させる古典的な様式に、足技の高速な連打を組み合わせるの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14330,
-              "endFrame": 14659
-            },
-            {
-              "speaker": "B",
-              "text": "感情の高まりを一気に消費せず、長く持続させたまま踊り切る集中力が特徴よ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14666,
-              "endFrame": 14856
-            },
-            {
-              "speaker": "A",
-              "text": "引退したって聞いたのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14864,
-              "endFrame": 14928
-            },
-            {
-              "speaker": "B",
-              "text": "2025年、セビージャ・ビエナルの公演『マヌエラ』で引退を発表したの。リンクは記事本文にあるわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14936,
-              "endFrame": 15201
-            },
-            {
-              "speaker": "B",
-              "text": "テアトロ・デ・ラ・マエストランサの千秋楽には、アントニオ・カナーレスやエル・ペレら後進の名手たちが花を添えたのよ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15208,
-              "endFrame": 15516
-            },
-            {
-              "speaker": "A",
-              "text": "映像のどこを見ればいいのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15524,
-              "endFrame": 15598
-            },
-            {
-              "speaker": "B",
-              "text": "長年の相方ギタリスト、ペドロ・シエラの伴奏に合わせて、腕の弧を描く動きがゆっくり大きくなっていく場面。彼女の様式の核が凝縮されているわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15605,
-              "endFrame": 15946
-            },
-            {
-              "speaker": "A",
-              "text": "アンダルシアの女神なのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15953,
-              "endFrame": 16016
-            },
-            {
-              "speaker": "B",
-              "text": "そう称された踊り手の一人として、後続世代のバイレに影響を与え続けているの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 16024,
-              "endFrame": 16195
-            },
-            {
-              "speaker": "A",
-              "text": "今日のカンテの主役は誰なのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 16213,
-              "endFrame": 16295
-            },
-            {
-              "speaker": "B",
-              "text": "マヌエル・トーレ。本名マヌエル・ソト・ロレト、1878年から1933年まで活動した人よ。ヘレス・デ・ラ・フロンテーラのサン・ミゲル地区に生まれたの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 16302,
-              "endFrame": 16753
-            },
-            {
-              "speaker": "A",
-              "text": "その地区って特別なのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 16761,
-              "endFrame": 16829
-            },
-            {
-              "speaker": "B",
-              "text": "隣のサンティアゴ地区と並んで、ヘレスにおけるフラメンコの伝統的な中心地なのよ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 16836,
-              "endFrame": 17013
-            },
-            {
-              "speaker": "B",
-              "text": "ヒターノの歌い手マヌエル・モリーナ、ヘレスのエル・マルルーロ、カディスのエンリケ・エル・メジーソらから影響を受けて、セビージャのカフェ・カンタンテを拠点に活動を広げたわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 17020,
-              "endFrame": 17416
-            },
-            {
-              "speaker": "A",
-              "text": "声にはどんな特徴があるのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 17424,
-              "endFrame": 17503
-            },
-            {
-              "speaker": "B",
-              "text": "太く重くて、技巧的な装飾より一音一音に体重をかけるような歌い方ね。シギリージャ、マルティネーテ、ソレアという3つの深い歌を極めた、20世紀を代表する歌い手なのよ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 17511,
-              "endFrame": 17915
-            },
-            {
-              "speaker": "A",
-              "text": "録音はたくさん残っているのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 17923,
-              "endFrame": 18005
-            },
-            {
-              "speaker": "B",
-              "text": "それが少ないの。当時スタジオ入りを渋ったこともあって、現存する録音は数が少なくて音質も粗いんだけど、一音の重みは今も伝わってくるわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18013,
-              "endFrame": 18330
-            },
-            {
-              "speaker": "A",
-              "text": "代表的な録音はあるのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18338,
-              "endFrame": 18416
-            },
-            {
-              "speaker": "B",
-              "text": "『シギリージャス』ね。リンクは記事本文にあるわ。歌い出しの長い「アイ」を伸ばすところに注目すると、拍を正確に割らず自在に声を伸縮させる、不定型の間の取り方が分かるの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18423,
-              "endFrame": 18862
-            },
-            {
-              "speaker": "A",
-              "text": "コンクールにも呼ばれたのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18869,
-              "endFrame": 18937
-            },
-            {
-              "speaker": "B",
-              "text": "1922年、詩人ロルカと作曲家マヌエル・デ・ファリャがグラナダで開いた「カンテ・ホンド・コンクール」に、招待歌手として迎えられたのよ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18944,
-              "endFrame": 19325
-            },
-            {
-              "speaker": "B",
-              "text": "当時の知識人が、彼をカンテ・ホンドの体現者として認識していた証拠ね。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19332,
-              "endFrame": 19503
-            },
-            {
-              "speaker": "A",
-              "text": "後の歌い手にも影響を与えたのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19510,
-              "endFrame": 19604
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。後年のカマロン・デ・ラ・イスラをはじめ、多くの歌い手が参照する「声の重みで語る」系譜の原点の一人とされているわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19611,
-              "endFrame": 19958
-            },
-            {
-              "speaker": "A",
-              "text": "今日の工房はどこなのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 19976,
-              "endFrame": 20044
-            },
-            {
-              "speaker": "B",
-              "text": "グラナダを拠点にした製作家、マヌエル・デ・ラ・チカ。1911年から1998年まで活動した人よ。過去回の全履歴と照らして、今日はまだ紹介していないグラナダの製作家を選んだの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 20051,
-              "endFrame": 20550
-            },
-            {
-              "speaker": "A",
-              "text": "独学で技術を身につけたのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 20558,
-              "endFrame": 20639
-            },
-            {
-              "speaker": "B",
-              "text": "そうよ。1930年代に名工サントス・エルナンデスのギターを研究・模倣するところから始めて、その後ペペ・デ・ラ・アルハンブラの工房で一時期働いたあと独立したの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 20646,
-              "endFrame": 21088
-            },
-            {
-              "speaker": "A",
-              "text": "技法にはどんな特徴があるのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21095,
-              "endFrame": 21178
-            },
-            {
-              "speaker": "B",
-              "text": "音波が楽器内をどう伝わるかを研究して、振動を最大化することを「良いギターの秘訣」としたの。ギターだけじゃなくバンドゥーリアやラウドといった民俗撥弦楽器も手がける、幅広い製作家だったわ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21186,
-              "endFrame": 21609
-            },
-            {
-              "speaker": "A",
-              "text": "弟子や愛用者もいるのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21617,
-              "endFrame": 21683
-            },
-            {
-              "speaker": "B",
-              "text": "弟子にはフランシスコ・マヌエル・ディアス、ペドロ・マルドナード、アントニオ・ロペスらがいるわ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21690,
-              "endFrame": 21916
-            },
-            {
-              "speaker": "B",
-              "text": "楽器はアンドレス・セゴビア、セレドニオ・ロメロ、マヌエル・カノらクラシック・フラメンコ双方の奏者に愛用されたのよ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21924,
-              "endFrame": 22213
-            },
-            {
-              "speaker": "A",
-              "text": "今はもう工房はないのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 22221,
-              "endFrame": 22291
-            },
-            {
-              "speaker": "B",
-              "text": "1973年に健康上の理由で引退して、1998年に亡くなったわ。でも「グラナダ楽派（近代）」の中心人物の一人として、今もグラナダのギター製作の系譜に名を残しているの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 22299,
-              "endFrame": 22766
-            },
-            {
-              "speaker": "A",
-              "text": "今日のパロは何なのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 22784,
-              "endFrame": 22845
-            },
-            {
-              "speaker": "B",
-              "text": "グラナイーナよ。名前の通りグラナダ発祥のパロね。19世紀末、歌い手アントニオ・チャコンがグラナダに長期滞在した1890年前後に創始したという説が有力だけど、諸説あって単一の創始者には断定できないの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 22852,
-              "endFrame": 23349
-            },
-            {
-              "speaker": "A",
-              "text": "マラガのパロと関係があるのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 23357,
-              "endFrame": 23438
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。マラゲーニャの旋律を基にグラナダ的に発展させたとも説明されているわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 23445,
-              "endFrame": 23624
-            },
-            {
-              "speaker": "A",
-              "text": "雰囲気はどんな感じなのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 23631,
-              "endFrame": 23703
-            },
-            {
-              "speaker": "B",
-              "text": "荘重で詩的。歌詞はグラナダの街角、宗教、恋愛がテーマよ。5行の八音節詩で、最初の2行のどちらかを繰り返して6行に伸ばすのが慣習ね。踊りが伴わない「歌のためのカンテ」なのも特徴なの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 23710,
-              "endFrame": 24208
-            },
-            {
-              "speaker": "A",
-              "text": "拍子はどうなっているのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 24215,
-              "endFrame": 24281
-            },
-            {
-              "speaker": "B",
-              "text": "コンパスは自由リズム、決まった拍子型を持たないわ。歌い手とギタリストがその場で呼吸を合わせて内的なリズムを作っていくの。周期的なコンパスを持つブレリアやソレアとは対照的ね。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 24289,
-              "endFrame": 24664
-            },
-            {
-              "speaker": "A",
-              "text": "コード進行はどうなのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 24672,
-              "endFrame": 24739
-            },
-            {
-              "speaker": "B",
-              "text": "フリジア旋法に基づくアンダルシア終止が基本よ。Eを主音とする場合、Aマイナーからジー、エフ、イーという下行進行が典型ね。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 24747,
-              "endFrame": 25057
-            },
-            {
-              "speaker": "B",
-              "text": "ギター伴奏はかき鳴らしより、自由リズムに寄り添う分散和音やファルセータで歌の間を埋める役割が大きいの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25065,
-              "endFrame": 25298
-            },
-            {
-              "speaker": "A",
-              "text": "今歌っている人はいるのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25306,
-              "endFrame": 25376
-            },
-            {
-              "speaker": "B",
-              "text": "ホセ・メネセ、カリクスト・サンチェス、ホセ・メルセ、エンリケ・モレンテらが挙げられるわ。代表的な録音は『グラナイーナ』、エル・ポラコの1996年盤。リンクは記事本文にあるわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25384,
-              "endFrame": 25877
-            },
-            {
-              "speaker": "B",
-              "text": "歌い出しの長い「アイ」の伸ばし方と、次のフレーズへ移る直前の一瞬の間に注目すると、拍のない中でどう説得力を持たせているかが聞き取れるわよ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25884,
-              "endFrame": 26229
-            },
-            {
-              "speaker": "A",
-              "text": "今日もスペイン文化・フラメンコ便りをお届けしたのだ！グラナダがあちこちでつながる一日だったのだ！",
-              "section": "まとめ",
-              "startFrame": 26247,
-              "endFrame": 26486
-            },
-            {
-              "speaker": "B",
-              "text": "アスタ・ルエゴ（原語 Hasta luego）！また会いましょうという意味の別れの挨拶よ。",
-              "section": "まとめ",
-              "startFrame": 26494,
-              "endFrame": 26625
-            },
-            {
-              "speaker": "A",
-              "text": "アスタ・ルエゴなのだ！",
-              "section": "まとめ",
-              "startFrame": 26632,
-              "endFrame": 26692
-            },
-            {
-              "speaker": "B",
-              "text": "「またあとで」というニュアンスで、アスタ・マニャーナより軽く、すぐまた会う予感があるときに使うの。ご視聴ありがとうございました。",
-              "section": "まとめ",
-              "startFrame": 26699,
-              "endFrame": 26976
             }
           ]
         }
