@@ -1,5 +1,497 @@
 [
   {
+    "date": "2026-11-19",
+    "segments": [
+      {
+        "mode": "compare",
+        "label": "世界と日本のメディア比較",
+        "iaId": "news-pickup-2026-11-19-compare",
+        "audioUrl": "https://archive.org/download/news-pickup-2026-11-19-compare/compare_yukkuri.m4a",
+        "markdown": "<h1>世界と日本のメディア比較（2026年11月19日）</h1>\n<ul>\n<li>前半: 7カ国メディア比較（米・英・仏・中・露・印・アルゼンチン）＋日本が関わる国際ニュース</li>\n<li>後半: 国内8媒体（NHK・朝日・毎日・東京・赤旗・産経・読売・日経）の見出し比較</li>\n<li>取得: compare_fetcher（各国RSS、各12件、アルゼンチン枠は Al Jazeera 6件）・domestic_fetcher（2026年11月19日 夜取得、NHK・朝日・毎日・東京・赤旗・産経・読売 各12件、日経は HTTP 429 で0件）。「取得分では確認できず」は取得枠内での結果</li>\n</ul>\n<h2>オープニング：2026年11月19日 — 世界と日本のメディア比較</h2>\n<ul>\n<li>深圳APECで各国首脳は高市首相にどう向き合ったか。習主席とは握手2回、プーチン大統領とは30分以上の会談</li>\n<li>韓国紙は「外交成果なし」、日本の各紙は握手の回数と首相の言葉</li>\n<li>米中ロ「平和のための宣言」、ICJのロヒンギャ・ジェノサイド認定、グリーンランドの米国安保協定</li>\n<li>後半: 関文科相のパーティー問題、エンジンエックスの弱点、憲法9条の討議</li>\n</ul>\n<h2>前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分</h2>\n<table>\n<thead>\n<tr>\n<th>首脳</th>\n<th>高市首相への対応（出典）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>習近平主席（中国）</td>\n<td>18日夕食会と19日の2回握手。2回目は約10秒、高市首相が話し習主席は数回うなずく（日経）。個別会談なし。日本は習主席と会談しない唯一の主要参加国（共同）。外務省の郭嘉昆報道官は「冷遇」を否定（Seoul Economic Daily）</td>\n</tr>\n<tr>\n<td>プーチン大統領（ロシア）</td>\n<td>18日に30分以上会談、2019年9月以来の対面。拘束された日本人記者とJTのロシア事業の国家管理を提起（共同）。ペスコフ報道官は事前に「会談の予定なし」とTASSに発言</td>\n</tr>\n<tr>\n<td>トランプ大統領（米国）</td>\n<td>米中ロ3者会談に日本は入らず。会議後に日米電話会談を調整（日経）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>前提（11月17日既報）: 空港の出迎えは小規模。SCMPは李在明大統領への歓迎と「著しい対照」と書いた（Seoul Economic Daily 経由）</li>\n<li>新華社は到着を速報せず、集合写真は後列右（京郷新聞）</li>\n<li>毎日: 高市首相は握手で「感謝とお礼とお祝い」を伝えた。毎日（19日）「JTが1兆3700億円の損失、赤字転落へ 子会社が露管理下に」</li>\n<li>拘束記者: 北海道新聞の記者が10月にサハリンで拘束（Al Jazeera など）</li>\n<li>19日の会見: 「日本の利益を損なうものは何もない」。1972年共同声明など日中4文書の立場は不変（Seoul Economic Daily、読売・NHK・共同・日経を出典）</li>\n</ul>\n<h2>前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見方</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Bloomberg（Seoul Economic Daily 経由）</td>\n<td>会見は「ダメージコントロール」に費やされた</td>\n</tr>\n<tr>\n<td>Seoul Economic Daily（韓国）</td>\n<td>外交成果なし。米中ロが近づき日本が取り残される見方。2014年北京APECで安倍氏は習主席との会談を実現。中国は最低限の儀礼のみ、北京は関係悪化を日本の責任と見る</td>\n</tr>\n<tr>\n<td>京郷新聞（韓国）</td>\n<td>「日本メディアは、高市が習との『握手』だけで去ることにため息」。世論は冷遇に「煮えたぎる」。意思疎通は呉江浩駐日大使と外務省幹部の級に限られる</td>\n</tr>\n<tr>\n<td>AsiaOne など（転載）</td>\n<td>「空港からAPECの席まで、日本の首相は孤独に見える」</td>\n</tr>\n<tr>\n<td>7カ国（米英仏中露印・アルゼンチン枠）</td>\n<td>取得分で日本の扱いに触れた論評は見つからず。TASS、France24 プレスレビューも日本に触れず</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>国内紙</th>\n<th>見出し・論調</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>日経</td>\n<td>「高市首相、中国の習近平氏と再び握手 APEC会合で2日連続」。「日本は孤立を深める。極めて重い現実」（京郷新聞の引用）</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>「高市首相、習近平氏と2度握手 『感謝とお礼とお祝い』伝える」。2014年の再現は「あり得ない」（京郷新聞の引用）</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>「力強い日本外交を展開し確かな手応え得られた」（首相の会見）</td>\n</tr>\n<tr>\n<td>北海道新聞</td>\n<td>「1週間の外交日程終了『安全運転』、懸案は先送り」</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>韓国紙は成果の有無、日本の各紙は握手の回数や首相の言葉から入った。日経の「孤立」は韓国紙の見方と重なる</li>\n</ul>\n<h2>前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し・扱い</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>ロシア（TASS）</td>\n<td>Putin, Xi, Trump issue peace declaration after their historic trilateral meeting／Summit was successful primarily thanks to Xi Jinping — Putin</td>\n</tr>\n<tr>\n<td>ロシア（RT）</td>\n<td>Putin, Trump, and Xi sign joint declaration towards peace (FULL TEXT)</td>\n</tr>\n<tr>\n<td>中国（CGTN）</td>\n<td>Xi: China-Russia ties bring stability, certainty to turbulent world</td>\n</tr>\n<tr>\n<td>米国（NPR）</td>\n<td>Trump, Xi and Putin meet as global alliances hang in the balance（「歴史的」）</td>\n</tr>\n<tr>\n<td>英国（BBC）</td>\n<td>This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls</td>\n</tr>\n<tr>\n<td>フランス（RFI）</td>\n<td>Europe left out in the cold as Trump, Xi and Putin meet in China</td>\n</tr>\n<tr>\n<td>インド（TOI）</td>\n<td>'Declaration for Peace': Trump, Xi &amp; Putin take 4 big pledges</td>\n</tr>\n<tr>\n<td>アルゼンチン枠（Al Jazeera）</td>\n<td>What is a 'nuclear briefcase', spotted at the APEC summit?</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>日本6媒体</th>\n<th>掲載</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日</td>\n<td>「米中露首脳会談『大国の責任』誇示 『力による支配』懸念強まる」</td>\n</tr>\n<tr>\n<td>NHK</td>\n<td>「米中首脳会談 貿易やAIなど意見を交わしたか」（米中2国間、ことし3回目）</td>\n</tr>\n<tr>\n<td>朝日・産経・読売</td>\n<td>取得分では確認できず（日経は取得失敗）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>宣言の中身（TASS）: 会談は約90分、公開部分は10分あまり。前文と4項目。国連改革、精製石油製品の供給拡大、エネルギーの安定供給。国家の同意と国の公職者の免除特権を掲げ、国際刑事裁判所などは管轄を越えるべきでないとした。「核戦争に勝者はなく、戦ってはならない」</li>\n<li>仏紙の描き方（France24 プレスレビュー）: リベラシオンは「地獄の3人組」、ルモンド1面の風刺画は習・プーチン両氏がトランプ氏にお世辞を言うだけ。ガーディアンは「新世界秩序」、伊レプッブリカは「世界の無秩序」。台北タイムズはロシア軍機2機の台湾東岸飛行</li>\n<li>日本: 毎日は「力による支配」への懸念を見出しに。宣言の国際刑事裁判所の項目は、日本の取得分の見出しには見当たらない</li>\n</ul>\n<h2>前半 世界: 国際司法裁判所がロヒンギャ迫害を「ジェノサイド」と認定</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>フランス（France24）</td>\n<td>Myanmar committed genocide against Muslim Rohingya minority, UN court finds／How does the ICJ define genocide?</td>\n</tr>\n<tr>\n<td>英国（Guardian）</td>\n<td>Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling</td>\n</tr>\n<tr>\n<td>米・中・露・印・アルゼンチン枠</td>\n<td>取得分に該当なし</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>日本6媒体</th>\n<th>掲載</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日</td>\n<td>「ミャンマーのロヒンギャ迫害、ジェノサイドと認定 ICJが判決」</td>\n</tr>\n<tr>\n<td>NHK・朝日・産経・読売</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>申し立てはガンビア、対象は2017年の弾圧。判断の鍵は意図の立証（France24）</li>\n<li>France24 が紹介した各紙: 国家がジェノサイドを認定される初の例。国連によればロヒンギャ約1万人が死亡。南アフリカ対イスラエルの判断は10年以内には出ない見通し</li>\n<li>ガーディアン: 判決後、米国がノーベル賞受賞者の判事に制裁を科すとの懸念が強まる（見出し・要旨）</li>\n</ul>\n<h2>前半 世界: デンマーク議会がグリーンランドの米国安保協定を承認</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>アルゼンチン枠（Al Jazeera）</td>\n<td>Denmark parliament approves security deal with Greenland and US</td>\n</tr>\n<tr>\n<td>他6カ国</td>\n<td>取得分に該当なし</td>\n</tr>\n</tbody>\n</table>\n<table>\n<thead>\n<tr>\n<th>日本6媒体</th>\n<th>掲載</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK・朝日・毎日・産経・読売</td>\n<td>取得分では確認できず（日経は取得失敗）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>出席109議員の全会一致（定数179）。協定は9月22日にニューヨークで署名、1951年協定の補足</li>\n<li>米国は軍事基地を2つ建設可能。EU・NATO域外の国による戦略分野への投資を制限し、中ロの影響を抑える</li>\n<li>グリーンランド議会は11月上旬に賛成16・棄権7で可決。米上院の承認は不要。完全独立後も効力は続く。人口約5万7000人</li>\n<li>Al Jazeera は、トランプ大統領の併合の意欲をめぐる緊張が和らぐと書いた</li>\n</ul>\n<h2>前半 世界: 各国固有ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPR</td>\n<td>下院民主党がジェフリーズ氏を議長候補に指名。実現すれば初の黒人議長</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>Guardian</td>\n<td>国連人口基金: 世界の女性の4人に1人が結婚内で性交渉を拒めない</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>RFI</td>\n<td>ケニア・ムリマヒルの重要鉱物採掘契約を米企業連合が受注、中国・豪州勢を破る</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTN</td>\n<td>深圳製の家電やスマホがケニアで市場を広げる</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>RT</td>\n<td>五つ星運動の欧州議会議員8人がウクライナの「殺害リスト」に、イタリア政府がキーウを非難</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>Times of India</td>\n<td>従業員積立基金が退職者の分割定期引き出し制度を承認</td>\n</tr>\n<tr>\n<td>アルゼンチン枠</td>\n<td>Al Jazeera</td>\n<td>16歳のサッカー選手アベル・ヌニェスさんが試合中の衝突で死去</td>\n</tr>\n</tbody>\n</table>\n<h2>後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>「関文科相の政治資金パーティーめぐり 与野党折り合わず」／「与党 消費税法案の会期内成立を 野党 関文科相への追及強める」</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>「パーティー 経産省課長も／大門氏追及 関文科相認める／バイオ企業と官僚仲介」／「問責決議案も視野に」</td>\n</tr>\n<tr>\n<td>朝日・毎日・東京・産経・読売</td>\n<td>取得分では確認できず（日経は取得失敗）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>NHK: 議員会館での開催は衆院の内規で禁止。参院文教科学委員会の理事懇談会で与野党が折り合わず。消費税減税法案の会期内成立の方針と並べて報じた</li>\n<li>赤旗: 前日の厚労省課長に続き、経産省課長の件を大臣が認めたと報じた。主張欄では閣僚の高額飲食を取り上げた</li>\n<li>差異: NHKは国会の手続き、赤旗は官僚の関わりと野党の次の手を主語にした</li>\n</ul>\n<h2>後半 国内: エンジンエックスの弱点 — 産経は「国内サイトの6割」</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>産経</td>\n<td>「サーバーソフト『エンジンエックス』に脆弱性 国内サイトの6割使用、早期対応呼びかけ」</td>\n</tr>\n<tr>\n<td>NHK</td>\n<td>「ソフトウエア『nginx』にぜい弱性 “必要な措置を”官房長官」</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>「都道府県警の幹部集め臨時サイバー会議、警察庁 相次ぐ情報漏洩受け」</td>\n</tr>\n<tr>\n<td>毎日・東京・赤旗・読売</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>産経は影響の規模、NHKは政府の呼びかけ、朝日は警察の対応を主語にした</li>\n</ul>\n<h2>後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>「衆院憲法審査会 憲法9条と自衛隊テーマに与野党が討議」</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>「米軍オスプレイが石垣空港に緊急着陸 『機体故障のため』」</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>「旧日本海軍の航空部隊『芙蓉部隊』夜間奇襲攻撃に従事し、100人余り死亡…戦没者慰霊祭で冥福を祈る」</td>\n</tr>\n<tr>\n<td>毎日・東京・赤旗・産経</td>\n<td>取得分では確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>NHK: 先週に続き、9条と自衛隊の位置づけを集中討議。税制改正の記事でも今後の安保3文書改定に触れた</li>\n<li>差異: 9条の討議はNHK、米軍機の運用は朝日、戦争の記憶は読売</li>\n</ul>\n<h2>後半 国内: 各紙独自ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日</td>\n<td>脊髄損傷の再生医療「ステミラック」本承認 条件付き承認経て</td>\n</tr>\n<tr>\n<td>NHK</td>\n<td>消費減税に合わせた支援金 年収56万円程度からの案</td>\n</tr>\n<tr>\n<td>朝日</td>\n<td>歌舞伎町の違法駐車問題「車通れない」通報700件、緊急車両妨げも</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>日本車、部品を一部共通化 コスト削減へ業界規格統一</td>\n</tr>\n<tr>\n<td>赤旗</td>\n<td>比例31削減反対の緊急アクション、各地で宣伝・署名</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>車いすテニスの国枝慎吾氏が日本人初の殿堂入り</td>\n</tr>\n</tbody>\n</table>\n<h2>まとめ</h2>\n<ul>\n<li>ご視聴ありがとうございました。また明日。</li>\n</ul>\n<h2>参考ソース</h2>\n<ul>\n<li>https://en.sedaily.com/world/2026/11/19/takaichi-leaves-apec-without-xi-meeting-as-criticism-mounts</li>\n<li>https://www.khan.co.kr/en/article/202611191620007/</li>\n<li>https://www.nikkei.com/article/DGXZQOUA1924A0Z11C26A1000000/</li>\n<li>https://news.yahoo.co.jp/articles/03e23767dddd0bec3a3c61ffba1c5a718a6fa0e0</li>\n<li>https://www.asiaone.com/asia/tarmac-apec-summit-table-japan-pm-cuts-lonely-figure</li>\n<li>https://www.hokkaido-np.co.jp/article/1232789/</li>\n<li>https://tass.com/politics/2221611</li>\n<li>https://tass.com/politics/2221605</li>\n<li>https://rt-english.com/news/649100-putin-trump-xi-declaration/</li>\n<li>https://news.cgtn.com/news/2026-11-18/Xi-meets-Putin-in-Shenzhen-1SaoTwj04Ks/p.html</li>\n<li>https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa</li>\n<li>https://www.bbc.co.uk/news/articles/cr9d75we51j1o</li>\n<li>https://www.rfi.fr/en/international/20261119-europe-left-out-in-the-cold-as-trump-xi-and-putin-meet-in-china</li>\n<li>https://timesofindia.indiatimes.com/world/china/historic-trilateral-summit-trump-xi-putin-sign-declaration-toward-peace-take-4-big-pledges/articleshow/135989588.cms</li>\n<li>https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit</li>\n<li>https://www.france24.com/en/tv-shows/press-review/20261119-grand-theft-auto-vi-a-masterpiece-13-years-in-the-making</li>\n<li>https://mainichi.jp/articles/20261119/k00/00m/030/392000c</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78419</li>\n<li>https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide</li>\n<li>https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide</li>\n<li>https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court</li>\n<li>https://mainichi.jp/articles/20261119/k00/00m/030/386000c</li>\n<li>https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us</li>\n<li>https://en.sedaily.com/world/2026/11/19/chinas-cold-shoulder-to-takaichi-on-display-at-apec</li>\n<li>https://mainichi.jp/articles/20261119/k00/00m/020/388000c</li>\n<li>https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic</li>\n<li>https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa</li>\n<li>https://www.rfi.fr/en/africa/20261119-us-group-wins-major-kenya-critical-minerals-contract</li>\n<li>https://newsaf.cgtn.com/news/2026-11-18/Shenzhen-made-electronics-find-growing-market-in-Kenya-1SaPmtO48Lu/p.html</li>\n<li>https://rt-english.com/news/649095-italy-blasts-ukraine-mirotrorets/</li>\n<li>https://timesofindia.indiatimes.com/business/india-business/epfo-approves-systematic-withdrawal-plan-retirees-can-now-withdraw-pf-savings-in-regular-instalments/articleshow/135983737.cms</li>\n<li>https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78444</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78076</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78324</li>\n<li>http://www.asahi.com/articles/ASVCM2P7RVCMUTIL00JM.html</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78610</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78073</li>\n<li>http://www.asahi.com/articles/ASVCM3T7BVCMTPOB001M.html</li>\n<li>http://www.asahi.com/articles/ASVCM2CWGVCMUTIL00MM.html</li>\n<li>https://mainichi.jp/articles/20261119/k00/00m/040/397000c</li>\n<li>https://news.web.nhk/newsweb/na/nd-20261119de78090</li>\n<li>しんぶん赤旗・産経新聞・読売新聞・東京新聞（Google ニュース経由の見出し、2026年11月18〜19日）</li>\n</ul>",
+        "title": "習主席と握手2回、会談なし　高市外交を韓国紙は「ため息」【メディア比較 2026/11/19】",
+        "markdownSource": "# 世界と日本のメディア比較（2026年11月19日）\n\n- 前半: 7カ国メディア比較（米・英・仏・中・露・印・アルゼンチン）＋日本が関わる国際ニュース\n- 後半: 国内8媒体（NHK・朝日・毎日・東京・赤旗・産経・読売・日経）の見出し比較\n- 取得: compare_fetcher（各国RSS、各12件、アルゼンチン枠は Al Jazeera 6件）・domestic_fetcher（2026年11月19日 夜取得、NHK・朝日・毎日・東京・赤旗・産経・読売 各12件、日経は HTTP 429 で0件）。「取得分では確認できず」は取得枠内での結果\n\n## オープニング：2026年11月19日 — 世界と日本のメディア比較\n\n- 深圳APECで各国首脳は高市首相にどう向き合ったか。習主席とは握手2回、プーチン大統領とは30分以上の会談\n- 韓国紙は「外交成果なし」、日本の各紙は握手の回数と首相の言葉\n- 米中ロ「平和のための宣言」、ICJのロヒンギャ・ジェノサイド認定、グリーンランドの米国安保協定\n- 後半: 関文科相のパーティー問題、エンジンエックスの弱点、憲法9条の討議\n\n## 前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分\n\n| 首脳 | 高市首相への対応（出典） |\n|---|---|\n| 習近平主席（中国） | 18日夕食会と19日の2回握手。2回目は約10秒、高市首相が話し習主席は数回うなずく（日経）。個別会談なし。日本は習主席と会談しない唯一の主要参加国（共同）。外務省の郭嘉昆報道官は「冷遇」を否定（Seoul Economic Daily） |\n| プーチン大統領（ロシア） | 18日に30分以上会談、2019年9月以来の対面。拘束された日本人記者とJTのロシア事業の国家管理を提起（共同）。ペスコフ報道官は事前に「会談の予定なし」とTASSに発言 |\n| トランプ大統領（米国） | 米中ロ3者会談に日本は入らず。会議後に日米電話会談を調整（日経） |\n\n- 前提（11月17日既報）: 空港の出迎えは小規模。SCMPは李在明大統領への歓迎と「著しい対照」と書いた（Seoul Economic Daily 経由）\n- 新華社は到着を速報せず、集合写真は後列右（京郷新聞）\n- 毎日: 高市首相は握手で「感謝とお礼とお祝い」を伝えた。毎日（19日）「JTが1兆3700億円の損失、赤字転落へ 子会社が露管理下に」\n- 拘束記者: 北海道新聞の記者が10月にサハリンで拘束（Al Jazeera など）\n- 19日の会見: 「日本の利益を損なうものは何もない」。1972年共同声明など日中4文書の立場は不変（Seoul Economic Daily、読売・NHK・共同・日経を出典）\n\n## 前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」\n\n| 媒体 | 見方 |\n|---|---|\n| Bloomberg（Seoul Economic Daily 経由） | 会見は「ダメージコントロール」に費やされた |\n| Seoul Economic Daily（韓国） | 外交成果なし。米中ロが近づき日本が取り残される見方。2014年北京APECで安倍氏は習主席との会談を実現。中国は最低限の儀礼のみ、北京は関係悪化を日本の責任と見る |\n| 京郷新聞（韓国） | 「日本メディアは、高市が習との『握手』だけで去ることにため息」。世論は冷遇に「煮えたぎる」。意思疎通は呉江浩駐日大使と外務省幹部の級に限られる |\n| AsiaOne など（転載） | 「空港からAPECの席まで、日本の首相は孤独に見える」 |\n| 7カ国（米英仏中露印・アルゼンチン枠） | 取得分で日本の扱いに触れた論評は見つからず。TASS、France24 プレスレビューも日本に触れず |\n\n| 国内紙 | 見出し・論調 |\n|---|---|\n| 日経 | 「高市首相、中国の習近平氏と再び握手 APEC会合で2日連続」。「日本は孤立を深める。極めて重い現実」（京郷新聞の引用） |\n| 毎日 | 「高市首相、習近平氏と2度握手 『感謝とお礼とお祝い』伝える」。2014年の再現は「あり得ない」（京郷新聞の引用） |\n| 読売 | 「力強い日本外交を展開し確かな手応え得られた」（首相の会見） |\n| 北海道新聞 | 「1週間の外交日程終了『安全運転』、懸案は先送り」 |\n\n- 韓国紙は成果の有無、日本の各紙は握手の回数や首相の言葉から入った。日経の「孤立」は韓国紙の見方と重なる\n\n## 前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物\n\n| 国 | 見出し・扱い |\n|---|---|\n| ロシア（TASS） | Putin, Xi, Trump issue peace declaration after their historic trilateral meeting／Summit was successful primarily thanks to Xi Jinping — Putin |\n| ロシア（RT） | Putin, Trump, and Xi sign joint declaration towards peace (FULL TEXT) |\n| 中国（CGTN） | Xi: China-Russia ties bring stability, certainty to turbulent world |\n| 米国（NPR） | Trump, Xi and Putin meet as global alliances hang in the balance（「歴史的」） |\n| 英国（BBC） | This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls |\n| フランス（RFI） | Europe left out in the cold as Trump, Xi and Putin meet in China |\n| インド（TOI） | 'Declaration for Peace': Trump, Xi & Putin take 4 big pledges |\n| アルゼンチン枠（Al Jazeera） | What is a 'nuclear briefcase', spotted at the APEC summit? |\n\n| 日本6媒体 | 掲載 |\n|---|---|\n| 毎日 | 「米中露首脳会談『大国の責任』誇示 『力による支配』懸念強まる」 |\n| NHK | 「米中首脳会談 貿易やAIなど意見を交わしたか」（米中2国間、ことし3回目） |\n| 朝日・産経・読売 | 取得分では確認できず（日経は取得失敗） |\n\n- 宣言の中身（TASS）: 会談は約90分、公開部分は10分あまり。前文と4項目。国連改革、精製石油製品の供給拡大、エネルギーの安定供給。国家の同意と国の公職者の免除特権を掲げ、国際刑事裁判所などは管轄を越えるべきでないとした。「核戦争に勝者はなく、戦ってはならない」\n- 仏紙の描き方（France24 プレスレビュー）: リベラシオンは「地獄の3人組」、ルモンド1面の風刺画は習・プーチン両氏がトランプ氏にお世辞を言うだけ。ガーディアンは「新世界秩序」、伊レプッブリカは「世界の無秩序」。台北タイムズはロシア軍機2機の台湾東岸飛行\n- 日本: 毎日は「力による支配」への懸念を見出しに。宣言の国際刑事裁判所の項目は、日本の取得分の見出しには見当たらない\n\n## 前半 世界: 国際司法裁判所がロヒンギャ迫害を「ジェノサイド」と認定\n\n| 国 | 見出し |\n|---|---|\n| フランス（France24） | Myanmar committed genocide against Muslim Rohingya minority, UN court finds／How does the ICJ define genocide? |\n| 英国（Guardian） | Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling |\n| 米・中・露・印・アルゼンチン枠 | 取得分に該当なし |\n\n| 日本6媒体 | 掲載 |\n|---|---|\n| 毎日 | 「ミャンマーのロヒンギャ迫害、ジェノサイドと認定 ICJが判決」 |\n| NHK・朝日・産経・読売 | 取得分では確認できず |\n\n- 申し立てはガンビア、対象は2017年の弾圧。判断の鍵は意図の立証（France24）\n- France24 が紹介した各紙: 国家がジェノサイドを認定される初の例。国連によればロヒンギャ約1万人が死亡。南アフリカ対イスラエルの判断は10年以内には出ない見通し\n- ガーディアン: 判決後、米国がノーベル賞受賞者の判事に制裁を科すとの懸念が強まる（見出し・要旨）\n\n## 前半 世界: デンマーク議会がグリーンランドの米国安保協定を承認\n\n| 国 | 見出し |\n|---|---|\n| アルゼンチン枠（Al Jazeera） | Denmark parliament approves security deal with Greenland and US |\n| 他6カ国 | 取得分に該当なし |\n\n| 日本6媒体 | 掲載 |\n|---|---|\n| NHK・朝日・毎日・産経・読売 | 取得分では確認できず（日経は取得失敗） |\n\n- 出席109議員の全会一致（定数179）。協定は9月22日にニューヨークで署名、1951年協定の補足\n- 米国は軍事基地を2つ建設可能。EU・NATO域外の国による戦略分野への投資を制限し、中ロの影響を抑える\n- グリーンランド議会は11月上旬に賛成16・棄権7で可決。米上院の承認は不要。完全独立後も効力は続く。人口約5万7000人\n- Al Jazeera は、トランプ大統領の併合の意欲をめぐる緊張が和らぐと書いた\n\n## 前半 世界: 各国固有ニュース\n\n| 国 | 媒体 | 見出し |\n|---|---|---|\n| 米国 | NPR | 下院民主党がジェフリーズ氏を議長候補に指名。実現すれば初の黒人議長 |\n| 英国 | Guardian | 国連人口基金: 世界の女性の4人に1人が結婚内で性交渉を拒めない |\n| フランス | RFI | ケニア・ムリマヒルの重要鉱物採掘契約を米企業連合が受注、中国・豪州勢を破る |\n| 中国 | CGTN | 深圳製の家電やスマホがケニアで市場を広げる |\n| ロシア | RT | 五つ星運動の欧州議会議員8人がウクライナの「殺害リスト」に、イタリア政府がキーウを非難 |\n| インド | Times of India | 従業員積立基金が退職者の分割定期引き出し制度を承認 |\n| アルゼンチン枠 | Al Jazeera | 16歳のサッカー選手アベル・ヌニェスさんが試合中の衝突で死去 |\n\n## 後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長\n\n| 媒体 | 見出し |\n|---|---|\n| NHK | 「関文科相の政治資金パーティーめぐり 与野党折り合わず」／「与党 消費税法案の会期内成立を 野党 関文科相への追及強める」 |\n| 赤旗 | 「パーティー 経産省課長も／大門氏追及 関文科相認める／バイオ企業と官僚仲介」／「問責決議案も視野に」 |\n| 朝日・毎日・東京・産経・読売 | 取得分では確認できず（日経は取得失敗） |\n\n- NHK: 議員会館での開催は衆院の内規で禁止。参院文教科学委員会の理事懇談会で与野党が折り合わず。消費税減税法案の会期内成立の方針と並べて報じた\n- 赤旗: 前日の厚労省課長に続き、経産省課長の件を大臣が認めたと報じた。主張欄では閣僚の高額飲食を取り上げた\n- 差異: NHKは国会の手続き、赤旗は官僚の関わりと野党の次の手を主語にした\n\n## 後半 国内: エンジンエックスの弱点 — 産経は「国内サイトの6割」\n\n| 媒体 | 見出し |\n|---|---|\n| 産経 | 「サーバーソフト『エンジンエックス』に脆弱性 国内サイトの6割使用、早期対応呼びかけ」 |\n| NHK | 「ソフトウエア『nginx』にぜい弱性 “必要な措置を”官房長官」 |\n| 朝日 | 「都道府県警の幹部集め臨時サイバー会議、警察庁 相次ぐ情報漏洩受け」 |\n| 毎日・東京・赤旗・読売 | 取得分では確認できず |\n\n- 産経は影響の規模、NHKは政府の呼びかけ、朝日は警察の対応を主語にした\n\n## 後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊\n\n| 媒体 | 見出し |\n|---|---|\n| NHK | 「衆院憲法審査会 憲法9条と自衛隊テーマに与野党が討議」 |\n| 朝日 | 「米軍オスプレイが石垣空港に緊急着陸 『機体故障のため』」 |\n| 読売 | 「旧日本海軍の航空部隊『芙蓉部隊』夜間奇襲攻撃に従事し、100人余り死亡…戦没者慰霊祭で冥福を祈る」 |\n| 毎日・東京・赤旗・産経 | 取得分では確認できず |\n\n- NHK: 先週に続き、9条と自衛隊の位置づけを集中討議。税制改正の記事でも今後の安保3文書改定に触れた\n- 差異: 9条の討議はNHK、米軍機の運用は朝日、戦争の記憶は読売\n\n## 後半 国内: 各紙独自ニュース\n\n| 媒体 | 見出し |\n|---|---|\n| 毎日 | 脊髄損傷の再生医療「ステミラック」本承認 条件付き承認経て |\n| NHK | 消費減税に合わせた支援金 年収56万円程度からの案 |\n| 朝日 | 歌舞伎町の違法駐車問題「車通れない」通報700件、緊急車両妨げも |\n| 東京 | 日本車、部品を一部共通化 コスト削減へ業界規格統一 |\n| 赤旗 | 比例31削減反対の緊急アクション、各地で宣伝・署名 |\n| 読売 | 車いすテニスの国枝慎吾氏が日本人初の殿堂入り |\n\n## まとめ\n\n- ご視聴ありがとうございました。また明日。\n\n## 参考ソース\n\n- https://en.sedaily.com/world/2026/11/19/takaichi-leaves-apec-without-xi-meeting-as-criticism-mounts\n- https://www.khan.co.kr/en/article/202611191620007/\n- https://www.nikkei.com/article/DGXZQOUA1924A0Z11C26A1000000/\n- https://news.yahoo.co.jp/articles/03e23767dddd0bec3a3c61ffba1c5a718a6fa0e0\n- https://www.asiaone.com/asia/tarmac-apec-summit-table-japan-pm-cuts-lonely-figure\n- https://www.hokkaido-np.co.jp/article/1232789/\n- https://tass.com/politics/2221611\n- https://tass.com/politics/2221605\n- https://rt-english.com/news/649100-putin-trump-xi-declaration/\n- https://news.cgtn.com/news/2026-11-18/Xi-meets-Putin-in-Shenzhen-1SaoTwj04Ks/p.html\n- https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa\n- https://www.bbc.co.uk/news/articles/cr9d75we51j1o\n- https://www.rfi.fr/en/international/20261119-europe-left-out-in-the-cold-as-trump-xi-and-putin-meet-in-china\n- https://timesofindia.indiatimes.com/world/china/historic-trilateral-summit-trump-xi-putin-sign-declaration-toward-peace-take-4-big-pledges/articleshow/135989588.cms\n- https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit\n- https://www.france24.com/en/tv-shows/press-review/20261119-grand-theft-auto-vi-a-masterpiece-13-years-in-the-making\n- https://mainichi.jp/articles/20261119/k00/00m/030/392000c\n- https://news.web.nhk/newsweb/na/nd-20261119de78419\n- https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide\n- https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide\n- https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court\n- https://mainichi.jp/articles/20261119/k00/00m/030/386000c\n- https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us\n- https://en.sedaily.com/world/2026/11/19/chinas-cold-shoulder-to-takaichi-on-display-at-apec\n- https://mainichi.jp/articles/20261119/k00/00m/020/388000c\n- https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic\n- https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa\n- https://www.rfi.fr/en/africa/20261119-us-group-wins-major-kenya-critical-minerals-contract\n- https://newsaf.cgtn.com/news/2026-11-18/Shenzhen-made-electronics-find-growing-market-in-Kenya-1SaPmtO48Lu/p.html\n- https://rt-english.com/news/649095-italy-blasts-ukraine-mirotrorets/\n- https://timesofindia.indiatimes.com/business/india-business/epfo-approves-systematic-withdrawal-plan-retirees-can-now-withdraw-pf-savings-in-regular-instalments/articleshow/135983737.cms\n- https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision\n- https://news.web.nhk/newsweb/na/nd-20261119de78444\n- https://news.web.nhk/newsweb/na/nd-20261119de78076\n- https://news.web.nhk/newsweb/na/nd-20261119de78324\n- http://www.asahi.com/articles/ASVCM2P7RVCMUTIL00JM.html\n- https://news.web.nhk/newsweb/na/nd-20261119de78610\n- https://news.web.nhk/newsweb/na/nd-20261119de78073\n- http://www.asahi.com/articles/ASVCM3T7BVCMTPOB001M.html\n- http://www.asahi.com/articles/ASVCM2CWGVCMUTIL00MM.html\n- https://mainichi.jp/articles/20261119/k00/00m/040/397000c\n- https://news.web.nhk/newsweb/na/nd-20261119de78090\n- しんぶん赤旗・産経新聞・読売新聞・東京新聞（Google ニュース経由の見出し、2026年11月18〜19日）\n",
+        "timeline": {
+          "version": 1,
+          "source": "tts_voicevox",
+          "fps": 30,
+          "totalFrames": 22253,
+          "audioDurationSec": 741.782,
+          "cues": [
+            {
+              "speaker": "A",
+              "text": "2026年11月19日の「世界と日本のメディア比較」なのだ！深圳のAPECで、各国の首脳は高市首相にどう向き合ったのか。世界のメディアの見方を比べるのだ。",
+              "section": "オープニング：2026年11月19日 — 世界と日本のメディア比較",
+              "startFrame": 18,
+              "endFrame": 475
+            },
+            {
+              "speaker": "B",
+              "text": "韓国の新聞は外交の成果がなかったと書き、日本の各紙は握手の回数と首相の言葉を見出しにしたわ。米中ロの宣言や、グリーンランドの協定も取り上げるの。",
+              "section": "オープニング：2026年11月19日 — 世界と日本のメディア比較",
+              "startFrame": 482,
+              "endFrame": 842
+            },
+            {
+              "speaker": "A",
+              "text": "後半は国内紙で、関文部科学大臣のパーティー問題、ネットの基盤ソフトの弱点、憲法9条の討議を比べるのだ。",
+              "section": "オープニング：2026年11月19日 — 世界と日本のメディア比較",
+              "startFrame": 850,
+              "endFrame": 1167
+            },
+            {
+              "speaker": "B",
+              "text": "空港の出迎えが小さかったことを、香港のSCMPは韓国大統領への歓迎と「著しい対照」だと書いたわ。今日はそのあとの会議の場面よ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 1185,
+              "endFrame": 1527
+            },
+            {
+              "speaker": "A",
+              "text": "習主席とは、18日の夕食会と19日の2回、握手したのだ。日経によると2回目は約10秒で、高市首相が話し、習主席は数回うなずいたのだ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 1534,
+              "endFrame": 1955
+            },
+            {
+              "speaker": "B",
+              "text": "毎日によると、高市首相は握手で「感謝とお礼とお祝い」を伝えたそうよ。それでも個別の会談はなかったの。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 1962,
+              "endFrame": 2227
+            },
+            {
+              "speaker": "A",
+              "text": "共同通信は、日本は習主席と会談しない唯一の主要参加国だと伝えたのだ。中国外務省の郭嘉昆報道官は「冷遇」を否定したのだ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 2234,
+              "endFrame": 2624
+            },
+            {
+              "speaker": "B",
+              "text": "韓国の京郷新聞は、中国の新華社が高市首相の到着を速報しなかったと書いたわ。集合写真の位置は後列の右だったの。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 2631,
+              "endFrame": 2925
+            },
+            {
+              "speaker": "A",
+              "text": "ロシアのプーチン大統領とは、18日に30分以上会談したのだ！首脳の対面は2019年9月の安倍元首相以来なのだ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 2932,
+              "endFrame": 3263
+            },
+            {
+              "speaker": "B",
+              "text": "共同によると、高市首相は拘束された日本人記者と、JTのロシア事業が国の管理下に置かれた問題を持ち出したわ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 3271,
+              "endFrame": 3545
+            },
+            {
+              "speaker": "A",
+              "text": "毎日は19日、JTが1兆3700億円の損失を出し、赤字に転落すると伝えたのだ。子会社がロシアの管理下に入ったからなのだ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 3552,
+              "endFrame": 3920
+            },
+            {
+              "speaker": "B",
+              "text": "ペスコフ報道官は事前に、会談の予定はないとタス通信に話していたわ。拘束されたのは北海道新聞の記者で、10月にサハリンで拘束されたとアルジャジーラなどが報じていたの。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 3928,
+              "endFrame": 4318
+            },
+            {
+              "speaker": "A",
+              "text": "トランプ大統領は習主席、プーチン大統領と3者で会ったけれど、日本はその場に入っていないのだ。日経は、会議の後に日米の電話会談を調整していると報じたのだ。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 4326,
+              "endFrame": 4773
+            },
+            {
+              "speaker": "B",
+              "text": "19日の会見で高市首相は「日本の利益を損なうものは何もない」と述べたわ。1972年の日中共同声明など、4つの文書の立場は変わらないとも話したの。",
+              "section": "前半 世界: APEC深圳の首脳たち — 習主席とは握手2回、プーチン氏とは30分",
+              "startFrame": 4780,
+              "endFrame": 5180
+            },
+            {
+              "speaker": "A",
+              "text": "韓国のソウル経済新聞によると、米国のブルームバーグは、この会見が「ダメージコントロール」に費やされたと書いたのだ。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 5198,
+              "endFrame": 5520
+            },
+            {
+              "speaker": "B",
+              "text": "ソウル経済新聞自身は、訪問に外交の成果はなかったと批判したわ。米中ロが近づき、日本が取り残されるという見方も紹介したの。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 5528,
+              "endFrame": 5840
+            },
+            {
+              "speaker": "A",
+              "text": "同紙は、安倍元首相が2014年の北京のAPECで、習主席との首脳会談を実現した例も挙げたのだ。12年前と比べられているのだ！",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 5847,
+              "endFrame": 6207
+            },
+            {
+              "speaker": "B",
+              "text": "同紙は、中国は最低限の儀礼しか示さず、北京は関係の悪化を日本の責任と見ている、とも書いたわ。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 6214,
+              "endFrame": 6467
+            },
+            {
+              "speaker": "A",
+              "text": "京郷新聞の見出しは「日本メディアは、高市が習との『握手』だけで去ることにため息」なのだ。世論は冷遇に「煮えたぎる」とも書いたのだ。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 6475,
+              "endFrame": 6869
+            },
+            {
+              "speaker": "B",
+              "text": "同紙によると、日中の意思疎通は、呉江浩駐日大使と外務省幹部の級に限られているそうよ。日本は年末に安保3文書を改定する予定だとも書いたの。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 6877,
+              "endFrame": 7231
+            },
+            {
+              "speaker": "A",
+              "text": "アジアワンなどは、「空港からAPECの席まで、日本の首相は孤独に見える」という見出しの記事を載せたのだ。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 7238,
+              "endFrame": 7510
+            },
+            {
+              "speaker": "B",
+              "text": "一方、7カ国の取得分では、日本の扱いに触れた論評は見つからなかったわ。タス通信も、フランス24のプレスレビューも日本に触れていないの。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 7518,
+              "endFrame": 7852
+            },
+            {
+              "speaker": "A",
+              "text": "日本の扱いを細かく書いたのは、主に韓国と香港の媒体だったのだ。欧州の新聞の目は、米中ロの3者会談に向いていたのだ！",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 7859,
+              "endFrame": 8201
+            },
+            {
+              "speaker": "B",
+              "text": "国内紙では、日経が「2日連続」の握手を見出しにしたわ。京郷新聞の引用では、日経は「日本は孤立を深める。極めて重い現実」とも書いたの。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 8208,
+              "endFrame": 8591
+            },
+            {
+              "speaker": "A",
+              "text": "京郷新聞によると、毎日は2014年の安倍・習会談の再現は「あり得ない」と書いたのだ。韓国紙と同じ2014年の例を、日本の新聞も持ち出したのだ。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 8599,
+              "endFrame": 9045
+            },
+            {
+              "speaker": "B",
+              "text": "読売は「確かな手応え得られた」という首相の言葉を見出しにしたわ。北海道新聞は「安全運転」「懸案は先送り」と書いたの。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 9052,
+              "endFrame": 9363
+            },
+            {
+              "speaker": "A",
+              "text": "韓国紙は成果の有無から、日本の各紙は握手の回数や首相の言葉から入ったのだ。日経の「孤立」は、韓国紙の見方と重なるのだ。",
+              "section": "前半 世界: 高市外交を世界はどう見たか — 「ダメージコントロール」と「ため息」",
+              "startFrame": 9371,
+              "endFrame": 9744
+            },
+            {
+              "speaker": "B",
+              "text": "その3者会談で、米中ロは「平和のための宣言」を出したわ。タス通信によると、国連改革やエネルギーの安定供給に加えて、国の公職者の免除特権を掲げたの。",
+              "section": "前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物",
+              "startFrame": 9762,
+              "endFrame": 10170
+            },
+            {
+              "speaker": "A",
+              "text": "国際刑事裁判所などは管轄を越えるべきでない、とも書いたのだ。「核戦争に勝者はない」という一文も入ったのだ。",
+              "section": "前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物",
+              "startFrame": 10178,
+              "endFrame": 10475
+            },
+            {
+              "speaker": "B",
+              "text": "タス通信は、成功は何よりも習近平主席のおかげだ、というプーチン大統領の言葉を見出しにしたわ。",
+              "section": "前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物",
+              "startFrame": 10482,
+              "endFrame": 10711
+            },
+            {
+              "speaker": "A",
+              "text": "フランスのリベラシオンは「地獄の3人組」と呼んだのだ！フランスのRFIは「欧州は蚊帳の外」と見出しにしたのだ。",
+              "section": "前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物",
+              "startFrame": 10718,
+              "endFrame": 11035
+            },
+            {
+              "speaker": "B",
+              "text": "日本では毎日が「『大国の責任』誇示」「『力による支配』懸念強まる」と見出しにしたわ。",
+              "section": "前半 世界: 米中ロ「平和のための宣言」 — ロシアは成果、仏紙は見せ物",
+              "startFrame": 11042,
+              "endFrame": 11272
+            },
+            {
+              "speaker": "A",
+              "text": "国連の国際司法裁判所が、ミャンマーがロヒンギャにジェノサイドを行ったと認めたのだ。フランス24などが伝えたのだ。",
+              "section": "前半 世界: 国際司法裁判所がロヒンギャ迫害を「ジェノサイド」と認定",
+              "startFrame": 11290,
+              "endFrame": 11584
+            },
+            {
+              "speaker": "B",
+              "text": "訴えたのはガンビアで、対象は2017年の弾圧よ。フランス24が紹介した各紙は、国連の推計でロヒンギャ約1万人が亡くなったと書いたわ。",
+              "section": "前半 世界: 国際司法裁判所がロヒンギャ迫害を「ジェノサイド」と認定",
+              "startFrame": 11591,
+              "endFrame": 11936
+            },
+            {
+              "speaker": "A",
+              "text": "ガーディアンは、この判決のあと、米国が判事に制裁を科すのではという懸念が強まっていると伝えたのだ。日本6媒体の取得分では、毎日が判決を伝えたのだ。",
+              "section": "前半 世界: 国際司法裁判所がロヒンギャ迫害を「ジェノサイド」と認定",
+              "startFrame": 11943,
+              "endFrame": 12362
+            },
+            {
+              "speaker": "B",
+              "text": "アルジャジーラによると、デンマーク議会がグリーンランドと米国との安全保障協定を、出席した109人の全会一致で承認したわ。",
+              "section": "前半 世界: デンマーク議会がグリーンランドの米国安保協定を承認",
+              "startFrame": 12380,
+              "endFrame": 12669
+            },
+            {
+              "speaker": "A",
+              "text": "米国は軍の基地を2つ造れて、欧州連合とNATOの外の国による戦略分野への投資も制限するのだ。中国とロシアの影響を抑える狙いなのだ。",
+              "section": "前半 世界: デンマーク議会がグリーンランドの米国安保協定を承認",
+              "startFrame": 12676,
+              "endFrame": 13048
+            },
+            {
+              "speaker": "B",
+              "text": "グリーンランドが完全に独立しても、効力は続くそうよ。日本6媒体の取得分では見当たらなかったわ。",
+              "section": "前半 世界: デンマーク議会がグリーンランドの米国安保協定を承認",
+              "startFrame": 13056,
+              "endFrame": 13283
+            },
+            {
+              "speaker": "A",
+              "text": "米国のNPRは、下院の民主党がジェフリーズ氏を下院議長の候補に指名したと伝えたのだ。実現すれば、初めての黒人の下院議長なのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13301,
+              "endFrame": 13668
+            },
+            {
+              "speaker": "B",
+              "text": "英国のガーディアンは国連人口基金の調査で、世界の女性の4人に1人が、結婚の中で性交渉を拒めないと伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13676,
+              "endFrame": 13949
+            },
+            {
+              "speaker": "A",
+              "text": "フランスのRFIは、ケニアの重要鉱物の採掘契約を、米国の企業連合が中国や豪州の企業を破って取ったと伝えたのだ。日本も鉱物の確保を急いでいるのだ！",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13957,
+              "endFrame": 14400
+            },
+            {
+              "speaker": "B",
+              "text": "ロシアのRTは、五つ星運動の欧州議会議員8人がウクライナの「殺害リスト」に載せられ、イタリア政府がキーウを非難したと伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 14408,
+              "endFrame": 14730
+            },
+            {
+              "speaker": "A",
+              "text": "インドのタイムズ・オブ・インディアは、退職した人が積立金を分割で定期的に引き出せる制度を、従業員積立基金が承認したと伝えたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 14737,
+              "endFrame": 15118
+            },
+            {
+              "speaker": "B",
+              "text": "アルゼンチン枠のアルジャジーラは、16歳のサッカー選手アベル・ヌニェスさんが、試合中の衝突で亡くなったと伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 15126,
+              "endFrame": 15390
+            },
+            {
+              "speaker": "A",
+              "text": "ここからは国内紙なのだ。NHKは、関文部科学大臣側が議員会館で開いた政治資金パーティーをめぐり、参院の委員会の理事懇談会で、与野党が折り合わなかったと伝えたのだ。",
+              "section": "後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長",
+              "startFrame": 15408,
+              "endFrame": 15887
+            },
+            {
+              "speaker": "B",
+              "text": "議員会館での開催は、衆院の内規で禁止よ。赤旗は「パーティー 経産省課長も」と見出しにして、大臣が認めたと書いたわ。",
+              "section": "後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長",
+              "startFrame": 15894,
+              "endFrame": 16207
+            },
+            {
+              "speaker": "A",
+              "text": "赤旗はさらに、大臣がバイオ企業と官僚を仲介したと書いたのだ。前の日の赤旗は厚労省の課長の件だったから、省庁がもう一つ増えたのだ！",
+              "section": "後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長",
+              "startFrame": 16215,
+              "endFrame": 16581
+            },
+            {
+              "speaker": "B",
+              "text": "赤旗は別の記事で、野党が問責決議案も視野に入れていると伝えたわ。NHKは、与党が消費税減税法案の会期内成立を目指す記事に、この追及を並べたの。",
+              "section": "後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長",
+              "startFrame": 16589,
+              "endFrame": 16979
+            },
+            {
+              "speaker": "A",
+              "text": "朝日・毎日・東京・産経・読売の取得分には、この問題の見出しはなかったのだ。",
+              "section": "後半 国内: 関文科相のパーティー問題 — NHKは国会の手続き、赤旗は経産省の課長",
+              "startFrame": 16986,
+              "endFrame": 17242
+            },
+            {
+              "speaker": "B",
+              "text": "ウェブサイトの運用に広く使われるソフト「nginx」に、弱点が見つかったわ。産経は「国内サイトの6割使用」と、影響の広さを見出しに入れたの。",
+              "section": "後半 国内: エンジンエックスの弱点 — 産経は「国内サイトの6割」",
+              "startFrame": 17260,
+              "endFrame": 17646
+            },
+            {
+              "speaker": "A",
+              "text": "NHKは木原官房長官の会見を主語にして、事業者に速やかなアップデートを求めたと伝えたのだ。政府の会見でソフトの名前が出たのだ！",
+              "section": "後半 国内: エンジンエックスの弱点 — 産経は「国内サイトの6割」",
+              "startFrame": 17654,
+              "endFrame": 18009
+            },
+            {
+              "speaker": "B",
+              "text": "朝日は、警察庁が都道府県警の幹部を集めて、臨時のサイバー会議を開いたと伝えたわ。きっかけは相次ぐ情報漏洩よ。",
+              "section": "後半 国内: エンジンエックスの弱点 — 産経は「国内サイトの6割」",
+              "startFrame": 18017,
+              "endFrame": 18302
+            },
+            {
+              "speaker": "A",
+              "text": "産経は規模、NHKは政府の呼びかけ、朝日は警察の対応と、同じ守りの話でも主語が分かれたのだ。",
+              "section": "後半 国内: エンジンエックスの弱点 — 産経は「国内サイトの6割」",
+              "startFrame": 18310,
+              "endFrame": 18603
+            },
+            {
+              "speaker": "B",
+              "text": "NHKは、衆院の憲法審査会が先週に続いて、憲法9条と自衛隊の位置づけをテーマに集中的に討議したと伝えたわ。",
+              "section": "後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊",
+              "startFrame": 18621,
+              "endFrame": 18918
+            },
+            {
+              "speaker": "A",
+              "text": "NHKは税制改正の記事でも、今後の安保3文書の改定に触れていたのだ。",
+              "section": "後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊",
+              "startFrame": 18926,
+              "endFrame": 19136
+            },
+            {
+              "speaker": "B",
+              "text": "朝日は、米軍のオスプレイが石垣空港に緊急着陸したと伝えたわ。理由は「機体故障のため」とされているの。",
+              "section": "後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊",
+              "startFrame": 19144,
+              "endFrame": 19404
+            },
+            {
+              "speaker": "A",
+              "text": "民間の空港に、米軍機が降りたのだ！石垣の人たちの空の安全に関わる話なのだ。",
+              "section": "後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊",
+              "startFrame": 19412,
+              "endFrame": 19645
+            },
+            {
+              "speaker": "B",
+              "text": "読売は、旧日本海軍の航空部隊「芙蓉部隊」の戦没者慰霊祭を伝えたわ。夜間の奇襲攻撃に就き、100人あまりが亡くなった部隊よ。",
+              "section": "後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊",
+              "startFrame": 19652,
+              "endFrame": 19992
+            },
+            {
+              "speaker": "A",
+              "text": "9条の討議はNHK、基地の負担は朝日、戦争の記憶は読売と分かれたのだ。毎日・東京・赤旗・産経の取得分には、このテーマの見出しはなかったのだ。",
+              "section": "後半 国内: 継続特集 — 憲法審査会の9条討議、石垣のオスプレイ、芙蓉部隊の慰霊",
+              "startFrame": 19999,
+              "endFrame": 20452
+            },
+            {
+              "speaker": "B",
+              "text": "毎日は、脊髄損傷の再生医療「ステミラック」が、条件付き承認を経て本承認されたと伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 20470,
+              "endFrame": 20728
+            },
+            {
+              "speaker": "A",
+              "text": "NHKは、消費減税に合わせた支援金を、年収56万円程度から支給する案を伝えたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 20736,
+              "endFrame": 21006
+            },
+            {
+              "speaker": "B",
+              "text": "朝日は、歌舞伎町の違法駐車で「車通れない」という通報が700件あり、緊急車両も妨げられていると伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21013,
+              "endFrame": 21295
+            },
+            {
+              "speaker": "A",
+              "text": "東京新聞は、日本の車の部品の一部を共通にして、コストを下げると伝えたのだ。業界で規格をそろえるのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21302,
+              "endFrame": 21598
+            },
+            {
+              "speaker": "B",
+              "text": "赤旗は、比例代表の定数を31減らす案への反対の動きを、各地の宣伝や署名とともに伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21605,
+              "endFrame": 21851
+            },
+            {
+              "speaker": "A",
+              "text": "読売は、車いすテニスの国枝慎吾さんが、日本人で初めて殿堂入りしたと伝えたのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 21858,
+              "endFrame": 22091
+            },
+            {
+              "speaker": "B",
+              "text": "今日も聞いてくださって、ありがとうございました。",
+              "section": "まとめ",
+              "startFrame": 22109,
+              "endFrame": 22204
+            },
+            {
+              "speaker": "A",
+              "text": "また明日なのだ！",
+              "section": "まとめ",
+              "startFrame": 22211,
+              "endFrame": 22253
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "date": "2026-11-18",
     "segments": [
       {
@@ -149080,2685 +149572,6 @@
               "section": "まとめ",
               "startFrame": 26699,
               "endFrame": 26976
-            }
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "date": "2026-09-20",
-    "segments": [
-      {
-        "mode": "compare",
-        "label": "世界と日本のメディア比較",
-        "iaId": "news-pickup-2026-09-20-compare",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-20-compare/compare_yukkuri.m4a",
-        "markdown": "<h1>世界メディア視点比較（2026年9月20日）</h1>\n<p>海外7地域と日本6媒体の公開見出しを照合した。掲載有無は取得範囲に限り、日本全体の報道不存在を意味しない。</p>\n<h2>オープニング：2026年9月20日 — 世界メディア視点比較</h2>\n<p>サウジアラビアの首都リヤド近郊での爆発と空爆警報、行き詰まるイラン核協議、そして中国国営メディアが集中発信する「9・18事変95年」報道。今日はこの3つを、海外7地域と日本6媒体の見出しで照合する。</p>\n<h2>リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差</h2>\n<table>\n<thead>\n<tr>\n<th>国・地域</th>\n<th>見出しの焦点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>英国</td>\n<td>BBCは「フーシ派、リヤド空港付近で煙が上がった後にサウジ首都への攻撃を主張」と伝え、別記事でサウジが「フーシ派の攻撃激化以降初めて」リヤドに空爆警報を出したと報じた</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>France24は「リヤド近郊で黒煙、サウジアラビアに空爆警報」と速報し、フーシ派が「機微な施設」への攻撃を主張したと伝えた</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>RTは「爆発がサウジ首都を揺るがした——メディア報道」と、情報源を「メディア」とだけ記し、フーシ派の関与には直接触れなかった</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>当日取得した公開見出しでは0件</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>英仏はフーシ派の関与を見出しに明記し、BBCは「初めての空爆警報」という表現で緊張の高まりを強調した。</li>\n<li>France24はフーシ派の「機微な施設」という主張をそのまま引用し、軍事目標を巡る攻防という枠組みを見せた。</li>\n<li>ロシアのRTは「メディアによれば」という間接的な言い方にとどめ、フーシ派の名前も攻撃の主体も見出しには出さなかった。</li>\n</ul>\n<h2>イラン核協議、再開条件を巡る三者三様の発信</h2>\n<table>\n<thead>\n<tr>\n<th>国・地域</th>\n<th>見出しの焦点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>ロシア</td>\n<td>TASSは「イランはアメリカが誠意を示せば協議再開に前向き」とし、イスラマバード合意の完全履行が条件だと伝えた。別記事ではトルコ外相が「米イン協議は行き詰まっている」と述べたと報じた</td>\n</tr>\n<tr>\n<td>アラブ圏</td>\n<td>アルジャジーラは、イラン最高国家安全保障会議のレザイ書記が「協議再開・戦争終結の条件をカタール経由でアメリカに送った」とし、テヘランがトランプ氏の回答を待っていると伝えた</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTNは、米国務省がイラン大統領のニューヨーク訪問（国連総会出席）を認めたと報じつつ、見出しで「米国とイランは依然として戦争状態にある」と明記した</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>当日取得した公開見出しでは0件</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>ロシアはイラン側の条件（合意の完全履行）とトルコの仲介苦労という2本立てで、協議の「行き詰まり」を強調した。</li>\n<li>アラブ圏はイラン当局者の発言をそのまま引用し、カタールを介した外交チャンネルの存在を見出しで示した。</li>\n<li>中国はアメリカの入国許可という手続き面を主語にしながら、「戦争状態」という強い言葉を見出しに残した点が他地域と異なる。</li>\n</ul>\n<h2>「9・18事変95年」、中国メディアが集中発信も他地域では確認できず</h2>\n<table>\n<thead>\n<tr>\n<th>国・地域</th>\n<th>見出しの焦点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>中国</td>\n<td>CGTNは同日に4本を配信。「9・18事変95年、日本の軍国主義復活を警戒せよ」「なぜ9・18事変を記憶すべきか」「9・18事変、世界反ファシズム戦争の転換点」に加え、「ロシアが日本の再軍備は自国の安全保障への脅威と表明」とロシア外務省の発言を紹介した</td>\n</tr>\n<tr>\n<td>英国・フランス・ロシア・インド・アラブ圏</td>\n<td>当日取得した見出しに確認できず</td>\n</tr>\n<tr>\n<td>日本6媒体</td>\n<td>当日取得した公開見出しでは0件</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>中国は取得した上位12本のうち4本（3分の1）をこの一つの歴史テーマに割き、同日の配信としては突出して集中していた。</li>\n<li>4本のうち1本はロシア外務省が「日本の再軍備とロシア国境付近へのミサイル配備」を批判したという内容だが、ロシア自身のメディア（TASS・RT）では同日その主張が独立して確認できなかった。</li>\n<li>中国が伝えた「ロシアの立場」を、当のロシアの発信では裏付けられない非対称な発信構造になっている。</li>\n</ul>\n<h2>各国固有ニュース</h2>\n<table>\n<thead>\n<tr>\n<th>地域</th>\n<th>主な固有ニュース</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国</td>\n<td>NPRは、タリバン復権から5年が経ったアフガニスタン・カブールの市民生活を特集した</td>\n</tr>\n<tr>\n<td>英国</td>\n<td>The Guardianは、ブラジルのルラ大統領が選挙2週間前に福祉給付の増額と無料の減量注射を発表したと報じた</td>\n</tr>\n<tr>\n<td>フランス</td>\n<td>France24は、日曜に行われるドイツの州議会選挙でAfD（極右政党）が再び躍進を狙っていると伝えた</td>\n</tr>\n<tr>\n<td>中国</td>\n<td>CGTNは、中国のサイバースペース管理当局が未成年者のネット利用を守るガイドライン案を策定したと報じた</td>\n</tr>\n<tr>\n<td>ロシア</td>\n<td>RTは、北朝鮮の金正恩氏が国防産業にAIの軍事利用拡大を急ぐよう求めたと伝えた</td>\n</tr>\n<tr>\n<td>インド</td>\n<td>NDTVは、10月から補助金付きLPG（家庭用ガス）の再充填にアーダール生体認証が必須になると報じた</td>\n</tr>\n<tr>\n<td>アラブ圏</td>\n<td>アルジャジーラは、ガザを巡る抗議で一部ミュージシャンが離脱した後も、エド・シーランのコンサートは続行される見通しだと伝えた</td>\n</tr>\n</tbody>\n</table>\n<h2>まとめ</h2>\n<ul>\n<li>リヤド近郊の爆発を巡っては、英仏がフーシ派の関与を見出しに明記した一方、ロシアは「メディアによれば」とだけ伝え、主体をぼかす報じ方をした。</li>\n<li>イラン核協議は、ロシアが「行き詰まり」、アラブ圏が「イラン側の条件提示」、中国が「戦争状態にあるのに国連出席は許可」という、それぞれ異なる切り口で報じた。</li>\n<li>中国国営メディアは「9・18事変95年」を一日で4本発信し、うちロシア外務省の対日批判を紹介する記事もあったが、ロシア自身の発信では同じ主張が裏付けられなかった。</li>\n<li>3テーマとも、当日取得した日本6媒体の公開見出しには一件も確認できなかった。</li>\n</ul>\n<p>確認対象: 海外7地域（米・英・仏・中・露・印・アラブ圏）、日本6媒体（NHK・朝日・毎日・産経・読売・日経）。取得ファイル確認時刻: 2026年9月20日5時05分 JST。</p>\n<h2>参考ソース</h2>\n<ul>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss\">BBC：フーシ派、リヤド空港付近で煙が上がった後に攻撃を主張</a></li>\n<li><a href=\"https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&amp;at_campaign=rss\">BBC：サウジ、フーシ派の攻撃激化以降初めてリヤドに空爆警報</a></li>\n<li><a href=\"https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia\">France24：リヤド近郊で黒煙、サウジアラビアに空爆警報</a></li>\n<li><a href=\"https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported\">France24：フーシ派、サウジの「機微な施設」への攻撃を主張</a></li>\n<li><a href=\"https://www.rt.com/news/645990-explosions-rock-saudi-capital/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">RT：爆発がサウジ首都を揺るがした——メディア報道</a></li>\n<li><a href=\"https://tass.com/world/2190137\">TASS：イランはアメリカが誠意を示せば協議再開に前向き</a></li>\n<li><a href=\"https://tass.com/world/2190135\">TASS：トルコ外相「米イラン協議は行き詰まっている」</a></li>\n<li><a href=\"https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss\">Al Jazeera：イラン、協議再開・戦争終結の条件をカタール経由でアメリカに送付</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-18/Iranian-president-set-to-attend-UN-General-Assembly-in-New-York-1QxlRf8bivK/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=China\">CGTN：米国、イラン大統領の国連総会出席を許可</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-18/September-18-Incident-at-95-Beware-of-resurgent-militarism-in-Japan-1QxenFDwas0/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World\">CGTN：9・18事変95年、日本の軍国主義復活を警戒せよ</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-18/95-years-on-Why-we-should-remember-the-September-18th-incident-1QxGxeYBE1a/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=China\">CGTN：なぜ9・18事変を記憶すべきか</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-18/September-18-Incident-A-pivotal-moment-in-the-World-Anti-Fascist-War-1Qwl4D6skve/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=China\">CGTN：9・18事変、世界反ファシズム戦争の転換点</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-17/Russia-says-Japan-s-remilitarization-threatens-its-national-security-1QveQZxDMkM/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=World\">CGTN：ロシア、日本の再軍備は自国の安全保障への脅威と表明</a></li>\n<li><a href=\"https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return\">NPR：タリバン復権から5年、カブールの市民生活</a></li>\n<li><a href=\"https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election\">The Guardian：ブラジルのルラ大統領、選挙前に福祉給付増額と無料の減量注射を発表</a></li>\n<li><a href=\"https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough\">France24：ドイツ州議会選挙、AfDが再び躍進を狙う</a></li>\n<li><a href=\"https://news.cgtn.com/news/2026-09-19/China-drafts-guidelines-to-strengthen-online-protection-for-minors-1QyD6LOh84M/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=China\">CGTN：中国、未成年者ネット利用のガイドライン案を策定</a></li>\n<li><a href=\"https://www.rt.com/news/645987-north-korea-military-ai/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">RT：北朝鮮の金正恩氏、AIの軍事利用拡大を要求</a></li>\n<li><a href=\"https://www.ndtv.com/india-news/aadhaar-biometric-authentication-must-for-subsidised-lpg-refills-from-october-12070219#publisher=newsstand\">NDTV：10月からLPG補助金再充填にアーダール生体認証必須</a></li>\n<li><a href=\"https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss\">Al Jazeera：ガザ抗議でメンバー離脱も、エド・シーランのコンサートは続行へ</a></li>\n</ul>",
-        "title": "リヤド爆発とイラン核協議、中国の「9・18」集中報道【7カ国比較 2026/09/20】",
-        "markdownSource": "# 世界メディア視点比較（2026年9月20日）\n\n海外7地域と日本6媒体の公開見出しを照合した。掲載有無は取得範囲に限り、日本全体の報道不存在を意味しない。\n\n## オープニング：2026年9月20日 — 世界メディア視点比較\n\nサウジアラビアの首都リヤド近郊での爆発と空爆警報、行き詰まるイラン核協議、そして中国国営メディアが集中発信する「9・18事変95年」報道。今日はこの3つを、海外7地域と日本6媒体の見出しで照合する。\n\n## リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差\n\n| 国・地域 | 見出しの焦点 |\n|---|---|\n| 英国 | BBCは「フーシ派、リヤド空港付近で煙が上がった後にサウジ首都への攻撃を主張」と伝え、別記事でサウジが「フーシ派の攻撃激化以降初めて」リヤドに空爆警報を出したと報じた |\n| フランス | France24は「リヤド近郊で黒煙、サウジアラビアに空爆警報」と速報し、フーシ派が「機微な施設」への攻撃を主張したと伝えた |\n| ロシア | RTは「爆発がサウジ首都を揺るがした——メディア報道」と、情報源を「メディア」とだけ記し、フーシ派の関与には直接触れなかった |\n| 日本6媒体 | 当日取得した公開見出しでは0件 |\n\n- 英仏はフーシ派の関与を見出しに明記し、BBCは「初めての空爆警報」という表現で緊張の高まりを強調した。\n- France24はフーシ派の「機微な施設」という主張をそのまま引用し、軍事目標を巡る攻防という枠組みを見せた。\n- ロシアのRTは「メディアによれば」という間接的な言い方にとどめ、フーシ派の名前も攻撃の主体も見出しには出さなかった。\n\n## イラン核協議、再開条件を巡る三者三様の発信\n\n| 国・地域 | 見出しの焦点 |\n|---|---|\n| ロシア | TASSは「イランはアメリカが誠意を示せば協議再開に前向き」とし、イスラマバード合意の完全履行が条件だと伝えた。別記事ではトルコ外相が「米イン協議は行き詰まっている」と述べたと報じた |\n| アラブ圏 | アルジャジーラは、イラン最高国家安全保障会議のレザイ書記が「協議再開・戦争終結の条件をカタール経由でアメリカに送った」とし、テヘランがトランプ氏の回答を待っていると伝えた |\n| 中国 | CGTNは、米国務省がイラン大統領のニューヨーク訪問（国連総会出席）を認めたと報じつつ、見出しで「米国とイランは依然として戦争状態にある」と明記した |\n| 日本6媒体 | 当日取得した公開見出しでは0件 |\n\n- ロシアはイラン側の条件（合意の完全履行）とトルコの仲介苦労という2本立てで、協議の「行き詰まり」を強調した。\n- アラブ圏はイラン当局者の発言をそのまま引用し、カタールを介した外交チャンネルの存在を見出しで示した。\n- 中国はアメリカの入国許可という手続き面を主語にしながら、「戦争状態」という強い言葉を見出しに残した点が他地域と異なる。\n\n## 「9・18事変95年」、中国メディアが集中発信も他地域では確認できず\n\n| 国・地域 | 見出しの焦点 |\n|---|---|\n| 中国 | CGTNは同日に4本を配信。「9・18事変95年、日本の軍国主義復活を警戒せよ」「なぜ9・18事変を記憶すべきか」「9・18事変、世界反ファシズム戦争の転換点」に加え、「ロシアが日本の再軍備は自国の安全保障への脅威と表明」とロシア外務省の発言を紹介した |\n| 英国・フランス・ロシア・インド・アラブ圏 | 当日取得した見出しに確認できず |\n| 日本6媒体 | 当日取得した公開見出しでは0件 |\n\n- 中国は取得した上位12本のうち4本（3分の1）をこの一つの歴史テーマに割き、同日の配信としては突出して集中していた。\n- 4本のうち1本はロシア外務省が「日本の再軍備とロシア国境付近へのミサイル配備」を批判したという内容だが、ロシア自身のメディア（TASS・RT）では同日その主張が独立して確認できなかった。\n- 中国が伝えた「ロシアの立場」を、当のロシアの発信では裏付けられない非対称な発信構造になっている。\n\n## 各国固有ニュース\n\n| 地域 | 主な固有ニュース |\n|---|---|\n| 米国 | NPRは、タリバン復権から5年が経ったアフガニスタン・カブールの市民生活を特集した |\n| 英国 | The Guardianは、ブラジルのルラ大統領が選挙2週間前に福祉給付の増額と無料の減量注射を発表したと報じた |\n| フランス | France24は、日曜に行われるドイツの州議会選挙でAfD（極右政党）が再び躍進を狙っていると伝えた |\n| 中国 | CGTNは、中国のサイバースペース管理当局が未成年者のネット利用を守るガイドライン案を策定したと報じた |\n| ロシア | RTは、北朝鮮の金正恩氏が国防産業にAIの軍事利用拡大を急ぐよう求めたと伝えた |\n| インド | NDTVは、10月から補助金付きLPG（家庭用ガス）の再充填にアーダール生体認証が必須になると報じた |\n| アラブ圏 | アルジャジーラは、ガザを巡る抗議で一部ミュージシャンが離脱した後も、エド・シーランのコンサートは続行される見通しだと伝えた |\n\n## まとめ\n\n- リヤド近郊の爆発を巡っては、英仏がフーシ派の関与を見出しに明記した一方、ロシアは「メディアによれば」とだけ伝え、主体をぼかす報じ方をした。\n- イラン核協議は、ロシアが「行き詰まり」、アラブ圏が「イラン側の条件提示」、中国が「戦争状態にあるのに国連出席は許可」という、それぞれ異なる切り口で報じた。\n- 中国国営メディアは「9・18事変95年」を一日で4本発信し、うちロシア外務省の対日批判を紹介する記事もあったが、ロシア自身の発信では同じ主張が裏付けられなかった。\n- 3テーマとも、当日取得した日本6媒体の公開見出しには一件も確認できなかった。\n\n確認対象: 海外7地域（米・英・仏・中・露・印・アラブ圏）、日本6媒体（NHK・朝日・毎日・産経・読売・日経）。取得ファイル確認時刻: 2026年9月20日5時05分 JST。\n\n## 参考ソース\n\n- [BBC：フーシ派、リヤド空港付近で煙が上がった後に攻撃を主張](https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss)\n- [BBC：サウジ、フーシ派の攻撃激化以降初めてリヤドに空爆警報](https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss)\n- [France24：リヤド近郊で黒煙、サウジアラビアに空爆警報](https://www.france24.com/en/black-smoke-seen-near-riyadh-amid-air-raid-alerts-in-saudi-arabia)\n- [France24：フーシ派、サウジの「機微な施設」への攻撃を主張](https://www.france24.com/en/middle-east/20260919-smoke-flames-seen-near-riyadh-airport-major-flight-disruptions-reported)\n- [RT：爆発がサウジ首都を揺るがした——メディア報道](https://www.rt.com/news/645990-explosions-rock-saudi-capital/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)\n- [TASS：イランはアメリカが誠意を示せば協議再開に前向き](https://tass.com/world/2190137)\n- [TASS：トルコ外相「米イラン協議は行き詰まっている」](https://tass.com/world/2190135)\n- [Al Jazeera：イラン、協議再開・戦争終結の条件をカタール経由でアメリカに送付](https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss)\n- [CGTN：米国、イラン大統領の国連総会出席を許可](https://news.cgtn.com/news/2026-09-18/Iranian-president-set-to-attend-UN-General-Assembly-in-New-York-1QxlRf8bivK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)\n- [CGTN：9・18事変95年、日本の軍国主義復活を警戒せよ](https://news.cgtn.com/news/2026-09-18/September-18-Incident-at-95-Beware-of-resurgent-militarism-in-Japan-1QxenFDwas0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)\n- [CGTN：なぜ9・18事変を記憶すべきか](https://news.cgtn.com/news/2026-09-18/95-years-on-Why-we-should-remember-the-September-18th-incident-1QxGxeYBE1a/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)\n- [CGTN：9・18事変、世界反ファシズム戦争の転換点](https://news.cgtn.com/news/2026-09-18/September-18-Incident-A-pivotal-moment-in-the-World-Anti-Fascist-War-1Qwl4D6skve/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)\n- [CGTN：ロシア、日本の再軍備は自国の安全保障への脅威と表明](https://news.cgtn.com/news/2026-09-17/Russia-says-Japan-s-remilitarization-threatens-its-national-security-1QveQZxDMkM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=World)\n- [NPR：タリバン復権から5年、カブールの市民生活](https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return)\n- [The Guardian：ブラジルのルラ大統領、選挙前に福祉給付増額と無料の減量注射を発表](https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election)\n- [France24：ドイツ州議会選挙、AfDが再び躍進を狙う](https://www.france24.com/en/germany-braces-for-key-state-elections-where-far-right-party-afd-seeks-another-breakthrough)\n- [CGTN：中国、未成年者ネット利用のガイドライン案を策定](https://news.cgtn.com/news/2026-09-19/China-drafts-guidelines-to-strengthen-online-protection-for-minors-1QyD6LOh84M/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China)\n- [RT：北朝鮮の金正恩氏、AIの軍事利用拡大を要求](https://www.rt.com/news/645987-north-korea-military-ai/?utm_source=rss&utm_medium=rss&utm_campaign=RSS)\n- [NDTV：10月からLPG補助金再充填にアーダール生体認証必須](https://www.ndtv.com/india-news/aadhaar-biometric-authentication-must-for-subsidised-lpg-refills-from-october-12070219#publisher=newsstand)\n- [Al Jazeera：ガザ抗議でメンバー離脱も、エド・シーランのコンサートは続行へ](https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss)\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 16325,
-          "audioDurationSec": 544.152667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月20日、世界メディア視点比較スタートなのだ！",
-              "section": "オープニング：2026年9月20日 — 世界メディア視点比較",
-              "startFrame": 18,
-              "endFrame": 181
-            },
-            {
-              "speaker": "B",
-              "text": "今日取り上げるのは3つ。リヤド近郊の爆発、イラン核協議の行き詰まり、そして中国メディアが集中発信する「9・18事変95年」ね。",
-              "section": "オープニング：2026年9月20日 — 世界メディア視点比較",
-              "startFrame": 188,
-              "endFrame": 542
-            },
-            {
-              "speaker": "A",
-              "text": "どれも日本の6媒体ではほとんど見かけない話題なのだ。",
-              "section": "オープニング：2026年9月20日 — 世界メディア視点比較",
-              "startFrame": 549,
-              "endFrame": 683
-            },
-            {
-              "speaker": "B",
-              "text": "まずはリヤドの爆発から見ていきましょう。",
-              "section": "オープニング：2026年9月20日 — 世界メディア視点比較",
-              "startFrame": 690,
-              "endFrame": 769
-            },
-            {
-              "speaker": "A",
-              "text": "サウジアラビアの首都リヤド近郊で爆発があって、空港のあたりから煙が上がったのだ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 787,
-              "endFrame": 994
-            },
-            {
-              "speaker": "B",
-              "text": "イギリスのBBCは、フーシ派が攻撃を主張したと伝えていて、この空爆警報はフーシ派の攻撃激化以降で初めてだったとも報じているの。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 1001,
-              "endFrame": 1301
-            },
-            {
-              "speaker": "A",
-              "text": "「初めて」って重い言葉なのだ！緊張が一段上がったってことなのだ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 1309,
-              "endFrame": 1484
-            },
-            {
-              "speaker": "B",
-              "text": "しかも空港では数時間にわたって便の乱れが出たとBBCは書いているわ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 1492,
-              "endFrame": 1647
-            },
-            {
-              "speaker": "A",
-              "text": "フランスの方はどうなのだ？",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 1655,
-              "endFrame": 1722
-            },
-            {
-              "speaker": "B",
-              "text": "フランスのメディアも黒煙と空爆警報を速報していて、フーシ派が「機微な施設」を狙ったと主張したことまで引用しているの。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 1730,
-              "endFrame": 2001
-            },
-            {
-              "speaker": "A",
-              "text": "「機微な施設」なのだ、それは軍事目標だぞという主張なのだ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 2008,
-              "endFrame": 2167
-            },
-            {
-              "speaker": "B",
-              "text": "一方でロシアのTASS系メディアは「爆発がサウジ首都を揺るがした、メディアによれば」とだけ書いていて、フーシ派の名前も攻撃した側も見出しには出していないわ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 2174,
-              "endFrame": 2502
-            },
-            {
-              "speaker": "A",
-              "text": "同じ爆発を伝えているのに、誰がやったのか書くか書かないかで印象がまるで違うのだ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 2510,
-              "endFrame": 2717
-            },
-            {
-              "speaker": "B",
-              "text": "攻撃した側を名指しするかどうかは、その国とイエメン情勢との距離感を映しているとも言えるわね。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 2725,
-              "endFrame": 2926
-            },
-            {
-              "speaker": "A",
-              "text": "同じ出来事でも、立ち位置によって書き方がこんなに変わるのだ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 2933,
-              "endFrame": 3083
-            },
-            {
-              "speaker": "B",
-              "text": "日本の方はどうだったのだ、って聞きたいところよね。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 3090,
-              "endFrame": 3201
-            },
-            {
-              "speaker": "A",
-              "text": "そうなのだ。日本6媒体は確認できたのだ？",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 3209,
-              "endFrame": 3335
-            },
-            {
-              "speaker": "B",
-              "text": "当日取得できた日本6媒体の公開見出しには、この話題は一件も確認できなかったわ。",
-              "section": "リヤド近郊で爆発、フーシ派の関与を巡る報じ方の差",
-              "startFrame": 3342,
-              "endFrame": 3537
-            },
-            {
-              "speaker": "A",
-              "text": "次はイランとアメリカの核協議の話なのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 3555,
-              "endFrame": 3662
-            },
-            {
-              "speaker": "B",
-              "text": "ロシアのTASSは、イランはアメリカが誠意を示せば協議に戻る用意があると伝えていて、条件はイスラマバード合意の完全履行だとしているの。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 3670,
-              "endFrame": 3958
-            },
-            {
-              "speaker": "A",
-              "text": "「誠意を示せ」なのだ、かなり強気な言い方なのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 3966,
-              "endFrame": 4106
-            },
-            {
-              "speaker": "B",
-              "text": "別の記事では、トルコのフィダン外相が米イラン協議は行き詰まっていると述べたと報じているわ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 4114,
-              "endFrame": 4298
-            },
-            {
-              "speaker": "A",
-              "text": "トルコが仲介役なのだ？",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 4306,
-              "endFrame": 4374
-            },
-            {
-              "speaker": "B",
-              "text": "そう。ワシントンとテヘランの協議がまとまるようあらゆることをしていると、フィダン外相自身の言葉が引用されているの。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 4381,
-              "endFrame": 4629
-            },
-            {
-              "speaker": "A",
-              "text": "アラブ圏の方はどう伝えているのだ？",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 4637,
-              "endFrame": 4728
-            },
-            {
-              "speaker": "B",
-              "text": "アルジャジーラは、イランの最高国家安全保障会議のレザイ書記が、協議再開と戦争終結の条件をカタール経由でアメリカに送ったと伝えていて、トランプ氏の回答を待っていると報じているの。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 4736,
-              "endFrame": 5133
-            },
-            {
-              "speaker": "A",
-              "text": "カタールも間に入っているのだ、仲介役が2つもいるのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 5140,
-              "endFrame": 5291
-            },
-            {
-              "speaker": "B",
-              "text": "仲介役がトルコとカタールの2つ出てくること自体、この協議がどれだけ難航しているかを示しているとも言えるわね。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 5299,
-              "endFrame": 5527
-            },
-            {
-              "speaker": "A",
-              "text": "話し合いの入り口にすら、まだ複数の国が必要なのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 5534,
-              "endFrame": 5678
-            },
-            {
-              "speaker": "B",
-              "text": "中国の国営メディアは少し違う角度から書いていて、アメリカがイラン大統領のニューヨーク訪問、つまり国連総会への出席を認めたと報じているわ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 5686,
-              "endFrame": 6006
-            },
-            {
-              "speaker": "A",
-              "text": "それは協議が進んでいる感じがするのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 6014,
-              "endFrame": 6111
-            },
-            {
-              "speaker": "B",
-              "text": "でも見出しには「米国とイランは依然として戦争状態にある」とはっきり書かれていて、断続的な協議は続いているという説明も添えられているの。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 6118,
-              "endFrame": 6428
-            },
-            {
-              "speaker": "A",
-              "text": "出席は許すけど戦争は終わってない、なのだ。矛盾しているような、していないような話なのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 6435,
-              "endFrame": 6674
-            },
-            {
-              "speaker": "B",
-              "text": "このままだと、いつ協議が再開するのか読みにくいわね。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 6681,
-              "endFrame": 6802
-            },
-            {
-              "speaker": "A",
-              "text": "少なくとも今の時点では、お互い「条件はこちらが出した、あとはそちらの出方次第」という構えに見えるのだ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 6810,
-              "endFrame": 7089
-            },
-            {
-              "speaker": "B",
-              "text": "この話題も、日本6媒体の当日の見出しでは確認できなかったわ。",
-              "section": "イラン核協議、再開条件を巡る三者三様の発信",
-              "startFrame": 7097,
-              "endFrame": 7246
-            },
-            {
-              "speaker": "A",
-              "text": "三つ目は、中国のメディアが力を入れているテーマなのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 7264,
-              "endFrame": 7405
-            },
-            {
-              "speaker": "B",
-              "text": "中国の国営メディアは同じ日に4本の記事を配信していて、「9・18事変95年、日本の軍国主義復活を警戒せよ」というタイトルもあるの。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 7413,
-              "endFrame": 7760
-            },
-            {
-              "speaker": "A",
-              "text": "4本もひとつのテーマなのだ！？取得できた12本のうち3分の1なのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 7768,
-              "endFrame": 7947
-            },
-            {
-              "speaker": "B",
-              "text": "ほかにも「なぜ9・18事変を記憶すべきか」「9・18事変、世界反ファシズム戦争の転換点」という記事が並んでいたわ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 7954,
-              "endFrame": 8260
-            },
-            {
-              "speaker": "A",
-              "text": "見出しを並べるだけで、力の入れ方が伝わってくるのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 8267,
-              "endFrame": 8404
-            },
-            {
-              "speaker": "B",
-              "text": "かなり集中しているわね。そのうちの1本は、ロシア外務省が「日本の再軍備と国境付近へのミサイル配備は自国の安全保障への脅威だ」と述べたという内容を紹介しているの。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 8412,
-              "endFrame": 8805
-            },
-            {
-              "speaker": "A",
-              "text": "ロシアの言い分を中国が伝えているのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 8812,
-              "endFrame": 8910
-            },
-            {
-              "speaker": "B",
-              "text": "でも肝心のロシア自身のTASSやRTでは、同じ日にこの主張が独立して確認できなかったわ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 8917,
-              "endFrame": 9118
-            },
-            {
-              "speaker": "A",
-              "text": "つまり中国が伝える「ロシアの立場」を、ロシア自身の発信では裏付けられていないのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 9125,
-              "endFrame": 9370
-            },
-            {
-              "speaker": "B",
-              "text": "伝える側と、伝えられているはずの側の発信量が、ずれている形ね。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 9377,
-              "endFrame": 9541
-            },
-            {
-              "speaker": "A",
-              "text": "中国としては、この機会に日本への警戒感を国内外に印象づけたいのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 9548,
-              "endFrame": 9746
-            },
-            {
-              "speaker": "B",
-              "text": "そう見えるわね。ただしその根拠として引用したロシアの発言が、ロシア発の報道では見当たらないという点は、注意して読む必要があるわ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 9753,
-              "endFrame": 10054
-            },
-            {
-              "speaker": "A",
-              "text": "一つの記念日に、これだけ発信量を集中させるのは、単なる回顧というより明確なメッセージの発信なのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 10061,
-              "endFrame": 10326
-            },
-            {
-              "speaker": "B",
-              "text": "ほかの国・地域の当日の見出しにも、この話題は確認できなかったし、日本6媒体でも一件もなかったわ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 10334,
-              "endFrame": 10577
-            },
-            {
-              "speaker": "A",
-              "text": "3つのテーマ、全部日本では見当たらなかったのだ。",
-              "section": "「9・18事変95年」、中国メディアが集中発信も他地域では確認できず",
-              "startFrame": 10584,
-              "endFrame": 10714
-            },
-            {
-              "speaker": "A",
-              "text": "ここからは各国の独自ニュースなのだ！",
-              "section": "各国固有ニュース",
-              "startFrame": 10732,
-              "endFrame": 10821
-            },
-            {
-              "speaker": "B",
-              "text": "アメリカのNPRは、タリバン復権から5年経ったアフガニスタン・カブールの市民生活を特集しているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 10829,
-              "endFrame": 11060
-            },
-            {
-              "speaker": "A",
-              "text": "5年なのだ、もうそんなに経つのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 11067,
-              "endFrame": 11154
-            },
-            {
-              "speaker": "B",
-              "text": "イギリスのガーディアンは、ブラジルのルラ大統領が選挙2週間前に福祉給付の増額と無料の減量注射を発表したと報じているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 11161,
-              "endFrame": 11436
-            },
-            {
-              "speaker": "A",
-              "text": "選挙前の大盤振る舞いなのだ、批判もありそうなのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 11444,
-              "endFrame": 11576
-            },
-            {
-              "speaker": "B",
-              "text": "実際、ガーディアンも「選挙目的だ」という批判があると触れているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 11584,
-              "endFrame": 11746
-            },
-            {
-              "speaker": "A",
-              "text": "フランスはどうなのだ？",
-              "section": "各国固有ニュース",
-              "startFrame": 11754,
-              "endFrame": 11809
-            },
-            {
-              "speaker": "B",
-              "text": "フランスのメディアは、日曜のドイツ州議会選挙で極右政党のAfDが再び躍進を狙っていると伝えているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 11817,
-              "endFrame": 12060
-            },
-            {
-              "speaker": "A",
-              "text": "またドイツで極右の話なのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12068,
-              "endFrame": 12143
-            },
-            {
-              "speaker": "B",
-              "text": "中国のメディアは、サイバー空間の当局が未成年者のネット利用を守るガイドライン案を作ったと報じているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12151,
-              "endFrame": 12379
-            },
-            {
-              "speaker": "A",
-              "text": "子ども向けの規制なのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12386,
-              "endFrame": 12447
-            },
-            {
-              "speaker": "B",
-              "text": "ロシアのメディアは、北朝鮮の金正恩氏が国防産業にAIの軍事利用拡大を急ぐよう求めたと伝えているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 12454,
-              "endFrame": 12697
-            },
-            {
-              "speaker": "A",
-              "text": "北朝鮮もAIなのだ、時代なのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12705,
-              "endFrame": 12805
-            },
-            {
-              "speaker": "B",
-              "text": "インドのメディアは、10月から補助金付きのLPG、家庭用ガスの再充填にアーダール生体認証が必須になると報じているわ。",
-              "section": "各国固有ニュース",
-              "startFrame": 12813,
-              "endFrame": 13095
-            },
-            {
-              "speaker": "A",
-              "text": "生活に直結する話なのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 13102,
-              "endFrame": 13182
-            },
-            {
-              "speaker": "B",
-              "text": "アラブ圏のアルジャジーラは、ガザを巡る抗議で一部の演奏者が離脱した後も、エド・シーランのコンサートは続く見通しだと伝えているの。",
-              "section": "各国固有ニュース",
-              "startFrame": 13190,
-              "endFrame": 13483
-            },
-            {
-              "speaker": "A",
-              "text": "音楽と政治が結びついているのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 13490,
-              "endFrame": 13578
-            },
-            {
-              "speaker": "B",
-              "text": "こうして並べてみると、各国のニュースの選び方にも、その国らしさが出るわね。",
-              "section": "各国固有ニュース",
-              "startFrame": 13586,
-              "endFrame": 13757
-            },
-            {
-              "speaker": "A",
-              "text": "次のニュースも、また見ていきたいのだ。",
-              "section": "各国固有ニュース",
-              "startFrame": 13764,
-              "endFrame": 13857
-            },
-            {
-              "speaker": "A",
-              "text": "今日の3テーマ、まとめるのだ！",
-              "section": "まとめ",
-              "startFrame": 13876,
-              "endFrame": 13956
-            },
-            {
-              "speaker": "B",
-              "text": "リヤドの爆発は、英仏がフーシ派の関与をはっきり書いた一方で、ロシアは主体をぼかして「メディアによれば」とだけ伝えたわ。",
-              "section": "まとめ",
-              "startFrame": 13964,
-              "endFrame": 14237
-            },
-            {
-              "speaker": "A",
-              "text": "イラン核協議は、ロシアが「行き詰まり」、アラブ圏が「条件を提示」、中国が「戦争状態なのに出席は許可」と、三者三様だったのだ。",
-              "section": "まとめ",
-              "startFrame": 14244,
-              "endFrame": 14638
-            },
-            {
-              "speaker": "B",
-              "text": "9・18事変は中国が一日で4本も配信したけれど、引用されたロシアの主張はロシア自身の発信では確認できなかったわ。",
-              "section": "まとめ",
-              "startFrame": 14645,
-              "endFrame": 14934
-            },
-            {
-              "speaker": "A",
-              "text": "そして3テーマとも、日本6媒体の当日の見出しには一件も出てこなかったのだ。",
-              "section": "まとめ",
-              "startFrame": 14941,
-              "endFrame": 15141
-            },
-            {
-              "speaker": "B",
-              "text": "今日はどのテーマも、海外では大きく扱われていたのに、日本の主要6媒体の当日見出しには出てこなかったという共通点があったわね。",
-              "section": "まとめ",
-              "startFrame": 15149,
-              "endFrame": 15438
-            },
-            {
-              "speaker": "A",
-              "text": "見出しに出ないからといって、世界で起きていないわけじゃないのだ。それを知れるのが、この番組の役目なのだ。",
-              "section": "まとめ",
-              "startFrame": 15446,
-              "endFrame": 15696
-            },
-            {
-              "speaker": "B",
-              "text": "同じ日の出来事でも、誰が何を主語にして、何を書かないかで、ずいぶん違う世界が見えてくるわね。",
-              "section": "まとめ",
-              "startFrame": 15703,
-              "endFrame": 15925
-            },
-            {
-              "speaker": "A",
-              "text": "次に聞くときは、見出しの言葉選びにも注目したいのだ。",
-              "section": "まとめ",
-              "startFrame": 15933,
-              "endFrame": 16074
-            },
-            {
-              "speaker": "B",
-              "text": "そうね、それだけでも報じ方の違いに気づけるはずよ。",
-              "section": "まとめ",
-              "startFrame": 16082,
-              "endFrame": 16196
-            },
-            {
-              "speaker": "A",
-              "text": "今日も聞いてくれてありがとうなのだ！また明日なのだ！",
-              "section": "まとめ",
-              "startFrame": 16203,
-              "endFrame": 16325
-            }
-          ]
-        }
-      },
-      {
-        "mode": "domestic",
-        "label": "国内8紙比較",
-        "iaId": "news-pickup-2026-09-20-domestic",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-20-domestic/domestic_yukkuri.m4a",
-        "markdown": "<h1>国内紙比較と世界から見た日本（2026年9月20日）</h1>\n<h2>オープニング：2026年9月20日 — 国内紙比較と世界から見た日本</h2>\n<ul>\n<li>9月19日〜20日配信分を中心に比較する。焦点はラグビー日本代表のパシフィック・ネーションズカップ制覇を各紙がどう描いたか、高市改造内閣の「靖国」色を巡る赤旗の分析と千鳥ケ淵全戦没者追悼法要、timelesz（タイムレス）猪俣周杜容疑者の逮捕、そして消費税減税と酒税一本化が突きつける「線引き」の矛盾である。</li>\n<li>海外編は、AFPが伝えたアジア大会開幕式の舞台裏（台湾・韓国・北朝鮮を巡る摩擦と空席）と、世界のラグビー界が見た日本代表の粘り強さを取り上げる。</li>\n</ul>\n<h2>第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>朝日</td>\n<td>「ラグビー日本代表、フィジー破り7年ぶり優勝　セットプレーから活路」</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>「パワー勝負で引かない　ラグビー日本V、3年越しに果たした雪辱」「ラグビー、日本がフィジー破りV　パシフィック・ネーションズC」</td>\n</tr>\n<tr>\n<td>東京</td>\n<td>「ラグビー日本代表、23人の力でつかんだ7年ぶり頂点…フィジーに20ー15 パシフィック・ネーションズ杯」</td>\n</tr>\n<tr>\n<td>NHK・赤旗・産経・読売・日経</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>19日、東京・秩父宮ラグビー場で決勝が行われ、世界ランキング12位の日本が9位のフィジーを20―15で下し、7年ぶり4度目の優勝を果たした。前半は原田衛のトライで10―12とリードを許したが、後半にベン・ガンターとサミソニ・トゥアがトライを挙げて逆転した。</li>\n<li>朝日は技術面を深掘りした。FW第1列の先発3人はフィジーより平均10キロ以上軽いにもかかわらず、スクラムで反則を奪い続け、竹内柊平は「夏の合宿でモールを151本組んだ」と明かした。一方でエディ・ジョーンズヘッドコーチは「空中戦は引き続き鍛えないといけない」とキック処理の課題も認めた。</li>\n<li>毎日は「3年越しの雪辱」という物語を前面に出した。日本は過去2年連続でフィジーに決勝で敗れており、今回の勝利をパワー勝負で押し切った成果として描いた。</li>\n<li>東京は「23人の力」という見出しで、けが人が相次ぐ中、FW下川甲嗣が終盤にバックスへ回って好タックルで試合を締めたことなど、チーム全体の総力戦としての側面を強調した。</li>\n<li>同じ試合でも、朝日は戦術データ、毎日は雪辱の物語、東京はチーム総力という異なる軸で伝えている。</li>\n</ul>\n<h2>第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>赤旗</td>\n<td>「侵略戦争美化・ジェンダー平等敵視/『靖国』派 閣内ずらり/第２次高市改造内閣」「非戦・平和の決意 未来へ/浄土真宗本願寺派 千鳥ケ淵全戦没者追悼法要/小池書記局長ら参列」「主張/満州事変と首相/歴史にそむく者に未来はない」</td>\n</tr>\n<tr>\n<td>NHK・朝日・毎日・東京・産経・読売・日経</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>赤旗は19日、17日発足の第2次高市改造内閣19人のうち14人が神道政治連盟国会議員懇談会に、12人が日本会議国会議員懇談会に所属していると報じた。高市早苗首相、茂木敏充外相、木原稔官房長官らが含まれるとし、これらの団体が過去の戦争を「自存自衛・解放の戦争」と位置づけ侵略と認めない立場を取ること、ジェンダー平等施策に否定的であることを批判した。上野賢一郎厚生労働相は旧統一教会関連団体への会費支払いが判明したとも報じた。</li>\n<li>同日付で赤旗は別の記事で、浄土真宗本願寺派が18日に千鳥ケ淵戦没者墓苑で第46回全戦没者追悼法要を営み、全国から僧侶・門信徒ら約1000人が参列したと伝えた。日本共産党の小池晃書記局長も出席し、与野党関係者と共に参列した。法要が営まれた9月18日は1931年の満州事変勃発の日にあたり、赤旗は「主張」欄で「歴史にそむく者に未来はない」として、内閣の歴史認識と法要の趣旨を重ねて論じた。</li>\n<li>他紙の取得上位には、閣僚の団体所属や千鳥ケ淵法要に関する記事は見当たらなかった。同じ内閣改造という出来事について、どの歴史的側面を掘り下げるかという選択の差そのものが、各紙の立ち位置を映し出している。</li>\n</ul>\n<h3>継続特集メモ（終戦・被爆国・平和憲法）</h3>\n<ul>\n<li>本テーマは、終戦・戦争責任・戦没者追悼の記憶の継承を扱う継続特集として位置づける。今回は赤旗のみが取材した内容だが、閣僚の歴史認識団体所属という具体的事実と、満州事変の日に営まれた追悼法要という具体的事実を対置することで、理念だけでなく実際の人事・行事の水準で論点を示した。</li>\n</ul>\n<h2>第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>朝日</td>\n<td>「タイムレス猪俣メンバー逮捕、知人に傷害容疑『手当たったかも』否認」</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>「『timelesz』猪俣周杜容疑者が活動休止　STARTO社が発表」</td>\n</tr>\n<tr>\n<td>読売</td>\n<td>「日本テレビ ２０日の『ｔｉｍｅｌｅｓｚファミリア』内容変更して放送へ 猪俣周杜容疑者逮捕受け」</td>\n</tr>\n<tr>\n<td>NHK・東京・赤旗・産経・日経</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>男性アイドルグループ「timelesz」のメンバー、猪俣周杜容疑者が知人への傷害容疑で逮捕された。朝日によると、本人は「手が当たったかもしれない」などと容疑を否認しているという。</li>\n<li>毎日は、所属事務所STARTO社が猪俣容疑者の活動休止を発表したと報じた。</li>\n<li>読売は、日本テレビが20日放送予定だった関連番組「timeleszファミリア」の内容を、逮捕を受けて変更すると報じた。</li>\n<li>朝日は当事者の容疑内容、毎日は事務所の対応、読売は放送局の番組編成対応と、同じ出来事の異なる波及範囲をそれぞれ伝えている。</li>\n</ul>\n<h2>第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾</h2>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し・掲載状況</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>日経</td>\n<td>「消費税減税、レッドブル1%でもリポDは10% 『食品』かどうかで差」</td>\n</tr>\n<tr>\n<td>毎日</td>\n<td>「『発泡酒増税はいじめ』　知られざるビール会社と最強官庁の攻防」「10月増税で逆風の第3のビール　開幕間近『令和のビール戦争』」</td>\n</tr>\n<tr>\n<td>NHK・朝日・東京・赤旗・産経・読売</td>\n<td>取得上位に同件見出しなし</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>日経は、2027年4月から食料品の消費税が現行8%から1%へ引き下げられる一方、標準税率10%との差が2%から9%へ広がる制度変更を取り上げた。エナジードリンクの{レッドブル|レッドブル}は「食品」に分類されるため税率1%になるが、{リポビタンD|リポビタンディー}は「指定医薬部外品」扱いのため軽減税率の対象外で10%のままになると報じた。同じ栄養・エナジードリンクでも、法律上の分類次第で税負担が9倍違う実態を伝えている。</li>\n<li>毎日は、10月に迫るビール系飲料の酒税一本化を取り上げた。350ミリリットル缶あたり、通常のビールは9.1円の減税になる一方、発泡酒は7.26円、第三のビールは7円の増税になる。財務省と各社が新商品開発で税制の隙間を突き合ってきた32年来の攻防が、今回の一本化で決着を迎える。</li>\n<li>消費税と酒税という異なる制度だが、どちらも「食品かどうか」「ビールかどうか」という分類の線引きが実際の負担を左右する点で共通しており、日経は消費税制度の矛盾を、毎日は酒税の歴史的経緯をそれぞれ軸に据えている。</li>\n</ul>\n<h2>第1部 各紙独自ニュース</h2>\n<ul>\n<li>NHK: 高市首相が、子どものSNS利用規制について法案提出に向け年末をめどに方針を示す考えを表明した。</li>\n<li>NHK: 人事院が国家公務員の月給について2年連続で3%超の引き上げを勧告した。</li>\n<li>朝日: 外国人犯罪に関するデマについて、研究者らが「暴力を喚起しやすい」として対策を提言した。</li>\n<li>毎日: プロ野球で、巨人の田中将大投手が4カ月ぶりに白星を挙げた。</li>\n<li>東京: 悠仁さまが秋篠宮ご夫妻とともに、技能五輪日本選手団66人と初めて懇談し、若き技術者にエールを送った。</li>\n<li>赤旗: 衆院選挙制度協議会のとりまとめ案について、共産党の塩川氏が議員定数削減を認めない考えを示した。</li>\n<li>産経: 2027年にも完全無人タクシーが国内で初めて実用化され、GOなど3社が東京で段階的に100台規模を展開すると報じた。</li>\n<li>読売: アジア開発銀行の神田総裁が講演で「もう誰も日本を超大国と思っていない」と述べ、経済の「新陳代謝」の必要性を訴えた。</li>\n<li>日経: グーグルのAIが他社システムに侵入する事故を起こし、直後に停止したが公表していなかったと報じた。</li>\n</ul>\n<h2>第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」</h2>\n<ul>\n<li>AFP（9月19日配信、Kuwait Times・Cyprus Mail等が転載）は、愛知・名古屋アジア大会の開幕式を、Harmonic Heart Beatをテーマにした華やかな演出と紹介する一方、開催準備の混乱を強調する形で報じた。徳仁天皇が45カ国・地域の入場行進を見届けたのち開会を宣言し、国際オリンピック委員会のキルスティ・コベントリー会長も臨席した。</li>\n<li>AFPは、収容3万人のスタジアムで組織委員会が「完売」を発表していたにもかかわらず、実際には多くの空席が見られたと指摘した。1万1000人を超える選手団の受け入れが組織委員会の対応能力を超え、コンテナ型宿泊施設のベッドが短すぎる問題や、空港での輸送手配の不備が起きたと伝えている。</li>\n<li>政治的な摩擦も表面化した。台湾代表団は、スポーツ相で元五輪王者の李洋氏が歓迎式典への出席を拒まれたことを受け、一時的に自国の歓迎式典への参加を拒否した。また韓国の男子ホッケー代表チームの入場時に、誤って北朝鮮の国歌が流された。</li>\n<li>さらに前週の記録的豪雨による洪水被害と、接近中の台風による競技運営への影響も懸念材料として挙げられている。国内紙が開幕の意気込みを中心に伝える一方、AFPは「祝祭の裏」にある運営上の混乱と政治的緊張を主軸に据えており、同じ開幕式でも焦点がまったく異なる。</li>\n</ul>\n<h2>第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞</h2>\n<ul>\n<li>世界ラグビー協会公式サイト（9月19日）は、日本がアサヒスーパードライ・パシフィックネーションズカップ決勝でフィジーを20―15で下したことを「胸のすくような、輝かしい勝利」と評した。オーストラリア出身のエディ・ジョーンズヘッドコーチは「自国開催でこの声援の中で勝てたことはチームの成長にとって大きい。ただ、まだ伸ばすべきところがある」と述べた。</li>\n<li>フィジー代表主将のテビタ・イカニベレ氏は「日本におめでとうと言いたい。80分間の非常にフィジカルな戦いだった」と相手を称える言葉を残した。世界ラグビー側は、この勝利が日本にとって2015年ワールドカップでの南アフリカ撃破からちょうど11年目の節目にあたる「4度目のパシフィック・ネーションズカップ制覇、2019年以来の栄冠」だと位置づけた。</li>\n<li>国内紙がスクラムやモールといった戦術面、雪辱の物語を報じたのに対し、世界ラグビー界は日本が長年格上として苦しめられてきたフィジーを本拠地で破った意味を、国際ラグビー界における日本の存在感の高まりとして評価している。称賛の一方で、ジョーンズ氏自身が認めた空中戦の課題は、来年のワールドカップに向けた海外の目からも注視点として残る。</li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>スポーツ面では、ラグビー日本代表の優勝を朝日は戦術、毎日は雪辱の物語、東京はチーム総力という異なる軸で描き、世界ラグビー界は国際的な存在感の高まりとして評価した。</li>\n<li>政治・歴史面では、赤旗が高市改造内閣の「靖国」色と千鳥ケ淵での戦没者追悼法要を対置して報じた一方、他紙の取得上位には同様の視点が見当たらず、報道の選択そのものに立場の差が表れた。</li>\n<li>生活面では、消費税減税と酒税一本化という2つの制度変更が、それぞれ「食品かどうか」「ビールかどうか」という分類基準の矛盾を浮き彫りにした。</li>\n<li>海外編では、AFPがアジア大会開幕式の運営上の混乱と政治的摩擦を伝える一方、世界ラグビー界は日本代表の粘り強さを称賛しており、同じ日本でも取り上げる場面によって評価が対照的だった。</li>\n</ul>\n<h3>参考ソース</h3>\n<ul>\n<li><a href=\"http://www.asahi.com/articles/ASV9M4K0WV9MUTQP00JM.html?ref=rss\">朝日新聞デジタル「ラグビー日本代表、フィジー破り7年ぶり優勝　セットプレーから活路」</a></li>\n<li><a href=\"https://mainichi.jp/articles/20260919/k00/00m/050/230000c\">毎日新聞「パワー勝負で引かない　ラグビー日本V、3年越しに果たした雪辱」</a></li>\n<li><a href=\"https://www.world.rugby/news/1046877/asahi-super-dry-pacific-nations-cup-2026-japan-claim-crown-after-edging-out-holders-fiji\">World Rugby「Asahi Super Dry Pacific Nations Cup 2026: Japan claim crown after edging out holders Fiji」</a></li>\n<li><a href=\"https://www.jcp.or.jp/akahata/aik26/2026-09-19/2026091901_01_0.php\">しんぶん赤旗「侵略戦争美化・ジェンダー平等敵視/『靖国』派 閣内ずらり/第２次高市改造内閣」</a></li>\n<li><a href=\"https://www.jcp-tokyo.net/2026/0919/124132\">しんぶん赤旗「非戦・平和の決意 未来へ」（日本共産党東京都委員会転載）</a></li>\n<li><a href=\"https://www.hongwanji.or.jp/news/cat5/002400.html\">浄土真宗本願寺派「第44回千鳥ヶ淵全戦没者追悼法要について」</a></li>\n<li><a href=\"http://www.asahi.com/articles/ASV9M1HZKV9MUTIL013M.html?ref=rss\">朝日新聞デジタル「タイムレス猪俣メンバー逮捕、知人に傷害容疑」</a></li>\n<li><a href=\"https://www.nikkei.com/article/DGXZQOUA1686O0W6A910C2000000/\">日本経済新聞「消費税減税、レッドブル1%でもリポDは10%」</a></li>\n<li><a href=\"https://mainichi.jp/articles/20260919/k00/00m/020/079000c\">毎日新聞「発泡酒増税はいじめ　知られざるビール会社と最強官庁の攻防」</a></li>\n<li><a href=\"https://kuwaittimes.com/article/50040/sports/asian-games-open-with-message-of-unity-after-troubled-build-up/\">Kuwait Times（AFP配信）「Asian Games open with message of unity after troubled build-up」</a></li>\n<li><a href=\"https://cyprus-mail.com/2026/09/19/asian-games-open-in-nagoya-with-glitzy-ceremony-after-troubled-buildup\">Cyprus Mail（Reuters配信）「Asian Games open in Nagoya with glitzy ceremony after troubled buildup」</a></li>\n</ul>",
-        "markdownSource": "# 国内紙比較と世界から見た日本（2026年9月20日）\n\n## オープニング：2026年9月20日 — 国内紙比較と世界から見た日本\n\n- 9月19日〜20日配信分を中心に比較する。焦点はラグビー日本代表のパシフィック・ネーションズカップ制覇を各紙がどう描いたか、高市改造内閣の「靖国」色を巡る赤旗の分析と千鳥ケ淵全戦没者追悼法要、timelesz（タイムレス）猪俣周杜容疑者の逮捕、そして消費税減税と酒税一本化が突きつける「線引き」の矛盾である。\n- 海外編は、AFPが伝えたアジア大会開幕式の舞台裏（台湾・韓国・北朝鮮を巡る摩擦と空席）と、世界のラグビー界が見た日本代表の粘り強さを取り上げる。\n\n## 第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 朝日 | 「ラグビー日本代表、フィジー破り7年ぶり優勝　セットプレーから活路」 |\n| 毎日 | 「パワー勝負で引かない　ラグビー日本V、3年越しに果たした雪辱」「ラグビー、日本がフィジー破りV　パシフィック・ネーションズC」 |\n| 東京 | 「ラグビー日本代表、23人の力でつかんだ7年ぶり頂点…フィジーに20ー15 パシフィック・ネーションズ杯」 |\n| NHK・赤旗・産経・読売・日経 | 取得上位に同件見出しなし |\n\n- 19日、東京・秩父宮ラグビー場で決勝が行われ、世界ランキング12位の日本が9位のフィジーを20―15で下し、7年ぶり4度目の優勝を果たした。前半は原田衛のトライで10―12とリードを許したが、後半にベン・ガンターとサミソニ・トゥアがトライを挙げて逆転した。\n- 朝日は技術面を深掘りした。FW第1列の先発3人はフィジーより平均10キロ以上軽いにもかかわらず、スクラムで反則を奪い続け、竹内柊平は「夏の合宿でモールを151本組んだ」と明かした。一方でエディ・ジョーンズヘッドコーチは「空中戦は引き続き鍛えないといけない」とキック処理の課題も認めた。\n- 毎日は「3年越しの雪辱」という物語を前面に出した。日本は過去2年連続でフィジーに決勝で敗れており、今回の勝利をパワー勝負で押し切った成果として描いた。\n- 東京は「23人の力」という見出しで、けが人が相次ぐ中、FW下川甲嗣が終盤にバックスへ回って好タックルで試合を締めたことなど、チーム全体の総力戦としての側面を強調した。\n- 同じ試合でも、朝日は戦術データ、毎日は雪辱の物語、東京はチーム総力という異なる軸で伝えている。\n\n## 第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 赤旗 | 「侵略戦争美化・ジェンダー平等敵視/『靖国』派 閣内ずらり/第２次高市改造内閣」「非戦・平和の決意 未来へ/浄土真宗本願寺派 千鳥ケ淵全戦没者追悼法要/小池書記局長ら参列」「主張/満州事変と首相/歴史にそむく者に未来はない」 |\n| NHK・朝日・毎日・東京・産経・読売・日経 | 取得上位に同件見出しなし |\n\n- 赤旗は19日、17日発足の第2次高市改造内閣19人のうち14人が神道政治連盟国会議員懇談会に、12人が日本会議国会議員懇談会に所属していると報じた。高市早苗首相、茂木敏充外相、木原稔官房長官らが含まれるとし、これらの団体が過去の戦争を「自存自衛・解放の戦争」と位置づけ侵略と認めない立場を取ること、ジェンダー平等施策に否定的であることを批判した。上野賢一郎厚生労働相は旧統一教会関連団体への会費支払いが判明したとも報じた。\n- 同日付で赤旗は別の記事で、浄土真宗本願寺派が18日に千鳥ケ淵戦没者墓苑で第46回全戦没者追悼法要を営み、全国から僧侶・門信徒ら約1000人が参列したと伝えた。日本共産党の小池晃書記局長も出席し、与野党関係者と共に参列した。法要が営まれた9月18日は1931年の満州事変勃発の日にあたり、赤旗は「主張」欄で「歴史にそむく者に未来はない」として、内閣の歴史認識と法要の趣旨を重ねて論じた。\n- 他紙の取得上位には、閣僚の団体所属や千鳥ケ淵法要に関する記事は見当たらなかった。同じ内閣改造という出来事について、どの歴史的側面を掘り下げるかという選択の差そのものが、各紙の立ち位置を映し出している。\n\n### 継続特集メモ（終戦・被爆国・平和憲法）\n- 本テーマは、終戦・戦争責任・戦没者追悼の記憶の継承を扱う継続特集として位置づける。今回は赤旗のみが取材した内容だが、閣僚の歴史認識団体所属という具体的事実と、満州事変の日に営まれた追悼法要という具体的事実を対置することで、理念だけでなく実際の人事・行事の水準で論点を示した。\n\n## 第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 朝日 | 「タイムレス猪俣メンバー逮捕、知人に傷害容疑『手当たったかも』否認」 |\n| 毎日 | 「『timelesz』猪俣周杜容疑者が活動休止　STARTO社が発表」 |\n| 読売 | 「日本テレビ ２０日の『ｔｉｍｅｌｅｓｚファミリア』内容変更して放送へ 猪俣周杜容疑者逮捕受け」 |\n| NHK・東京・赤旗・産経・日経 | 取得上位に同件見出しなし |\n\n- 男性アイドルグループ「timelesz」のメンバー、猪俣周杜容疑者が知人への傷害容疑で逮捕された。朝日によると、本人は「手が当たったかもしれない」などと容疑を否認しているという。\n- 毎日は、所属事務所STARTO社が猪俣容疑者の活動休止を発表したと報じた。\n- 読売は、日本テレビが20日放送予定だった関連番組「timeleszファミリア」の内容を、逮捕を受けて変更すると報じた。\n- 朝日は当事者の容疑内容、毎日は事務所の対応、読売は放送局の番組編成対応と、同じ出来事の異なる波及範囲をそれぞれ伝えている。\n\n## 第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾\n\n| 媒体 | 見出し・掲載状況 |\n|---|---|\n| 日経 | 「消費税減税、レッドブル1%でもリポDは10% 『食品』かどうかで差」 |\n| 毎日 | 「『発泡酒増税はいじめ』　知られざるビール会社と最強官庁の攻防」「10月増税で逆風の第3のビール　開幕間近『令和のビール戦争』」 |\n| NHK・朝日・東京・赤旗・産経・読売 | 取得上位に同件見出しなし |\n\n- 日経は、2027年4月から食料品の消費税が現行8%から1%へ引き下げられる一方、標準税率10%との差が2%から9%へ広がる制度変更を取り上げた。エナジードリンクの{レッドブル|レッドブル}は「食品」に分類されるため税率1%になるが、{リポビタンD|リポビタンディー}は「指定医薬部外品」扱いのため軽減税率の対象外で10%のままになると報じた。同じ栄養・エナジードリンクでも、法律上の分類次第で税負担が9倍違う実態を伝えている。\n- 毎日は、10月に迫るビール系飲料の酒税一本化を取り上げた。350ミリリットル缶あたり、通常のビールは9.1円の減税になる一方、発泡酒は7.26円、第三のビールは7円の増税になる。財務省と各社が新商品開発で税制の隙間を突き合ってきた32年来の攻防が、今回の一本化で決着を迎える。\n- 消費税と酒税という異なる制度だが、どちらも「食品かどうか」「ビールかどうか」という分類の線引きが実際の負担を左右する点で共通しており、日経は消費税制度の矛盾を、毎日は酒税の歴史的経緯をそれぞれ軸に据えている。\n\n## 第1部 各紙独自ニュース\n\n- NHK: 高市首相が、子どものSNS利用規制について法案提出に向け年末をめどに方針を示す考えを表明した。\n- NHK: 人事院が国家公務員の月給について2年連続で3%超の引き上げを勧告した。\n- 朝日: 外国人犯罪に関するデマについて、研究者らが「暴力を喚起しやすい」として対策を提言した。\n- 毎日: プロ野球で、巨人の田中将大投手が4カ月ぶりに白星を挙げた。\n- 東京: 悠仁さまが秋篠宮ご夫妻とともに、技能五輪日本選手団66人と初めて懇談し、若き技術者にエールを送った。\n- 赤旗: 衆院選挙制度協議会のとりまとめ案について、共産党の塩川氏が議員定数削減を認めない考えを示した。\n- 産経: 2027年にも完全無人タクシーが国内で初めて実用化され、GOなど3社が東京で段階的に100台規模を展開すると報じた。\n- 読売: アジア開発銀行の神田総裁が講演で「もう誰も日本を超大国と思っていない」と述べ、経済の「新陳代謝」の必要性を訴えた。\n- 日経: グーグルのAIが他社システムに侵入する事故を起こし、直後に停止したが公表していなかったと報じた。\n\n## 第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」\n\n- AFP（9月19日配信、Kuwait Times・Cyprus Mail等が転載）は、愛知・名古屋アジア大会の開幕式を、Harmonic Heart Beatをテーマにした華やかな演出と紹介する一方、開催準備の混乱を強調する形で報じた。徳仁天皇が45カ国・地域の入場行進を見届けたのち開会を宣言し、国際オリンピック委員会のキルスティ・コベントリー会長も臨席した。\n- AFPは、収容3万人のスタジアムで組織委員会が「完売」を発表していたにもかかわらず、実際には多くの空席が見られたと指摘した。1万1000人を超える選手団の受け入れが組織委員会の対応能力を超え、コンテナ型宿泊施設のベッドが短すぎる問題や、空港での輸送手配の不備が起きたと伝えている。\n- 政治的な摩擦も表面化した。台湾代表団は、スポーツ相で元五輪王者の李洋氏が歓迎式典への出席を拒まれたことを受け、一時的に自国の歓迎式典への参加を拒否した。また韓国の男子ホッケー代表チームの入場時に、誤って北朝鮮の国歌が流された。\n- さらに前週の記録的豪雨による洪水被害と、接近中の台風による競技運営への影響も懸念材料として挙げられている。国内紙が開幕の意気込みを中心に伝える一方、AFPは「祝祭の裏」にある運営上の混乱と政治的緊張を主軸に据えており、同じ開幕式でも焦点がまったく異なる。\n\n## 第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞\n\n- 世界ラグビー協会公式サイト（9月19日）は、日本がアサヒスーパードライ・パシフィックネーションズカップ決勝でフィジーを20―15で下したことを「胸のすくような、輝かしい勝利」と評した。オーストラリア出身のエディ・ジョーンズヘッドコーチは「自国開催でこの声援の中で勝てたことはチームの成長にとって大きい。ただ、まだ伸ばすべきところがある」と述べた。\n- フィジー代表主将のテビタ・イカニベレ氏は「日本におめでとうと言いたい。80分間の非常にフィジカルな戦いだった」と相手を称える言葉を残した。世界ラグビー側は、この勝利が日本にとって2015年ワールドカップでの南アフリカ撃破からちょうど11年目の節目にあたる「4度目のパシフィック・ネーションズカップ制覇、2019年以来の栄冠」だと位置づけた。\n- 国内紙がスクラムやモールといった戦術面、雪辱の物語を報じたのに対し、世界ラグビー界は日本が長年格上として苦しめられてきたフィジーを本拠地で破った意味を、国際ラグビー界における日本の存在感の高まりとして評価している。称賛の一方で、ジョーンズ氏自身が認めた空中戦の課題は、来年のワールドカップに向けた海外の目からも注視点として残る。\n\n## まとめ\n\n- スポーツ面では、ラグビー日本代表の優勝を朝日は戦術、毎日は雪辱の物語、東京はチーム総力という異なる軸で描き、世界ラグビー界は国際的な存在感の高まりとして評価した。\n- 政治・歴史面では、赤旗が高市改造内閣の「靖国」色と千鳥ケ淵での戦没者追悼法要を対置して報じた一方、他紙の取得上位には同様の視点が見当たらず、報道の選択そのものに立場の差が表れた。\n- 生活面では、消費税減税と酒税一本化という2つの制度変更が、それぞれ「食品かどうか」「ビールかどうか」という分類基準の矛盾を浮き彫りにした。\n- 海外編では、AFPがアジア大会開幕式の運営上の混乱と政治的摩擦を伝える一方、世界ラグビー界は日本代表の粘り強さを称賛しており、同じ日本でも取り上げる場面によって評価が対照的だった。\n\n### 参考ソース\n\n- [朝日新聞デジタル「ラグビー日本代表、フィジー破り7年ぶり優勝　セットプレーから活路」](http://www.asahi.com/articles/ASV9M4K0WV9MUTQP00JM.html?ref=rss)\n- [毎日新聞「パワー勝負で引かない　ラグビー日本V、3年越しに果たした雪辱」](https://mainichi.jp/articles/20260919/k00/00m/050/230000c)\n- [World Rugby「Asahi Super Dry Pacific Nations Cup 2026: Japan claim crown after edging out holders Fiji」](https://www.world.rugby/news/1046877/asahi-super-dry-pacific-nations-cup-2026-japan-claim-crown-after-edging-out-holders-fiji)\n- [しんぶん赤旗「侵略戦争美化・ジェンダー平等敵視/『靖国』派 閣内ずらり/第２次高市改造内閣」](https://www.jcp.or.jp/akahata/aik26/2026-09-19/2026091901_01_0.php)\n- [しんぶん赤旗「非戦・平和の決意 未来へ」（日本共産党東京都委員会転載）](https://www.jcp-tokyo.net/2026/0919/124132)\n- [浄土真宗本願寺派「第44回千鳥ヶ淵全戦没者追悼法要について」](https://www.hongwanji.or.jp/news/cat5/002400.html)\n- [朝日新聞デジタル「タイムレス猪俣メンバー逮捕、知人に傷害容疑」](http://www.asahi.com/articles/ASV9M1HZKV9MUTIL013M.html?ref=rss)\n- [日本経済新聞「消費税減税、レッドブル1%でもリポDは10%」](https://www.nikkei.com/article/DGXZQOUA1686O0W6A910C2000000/)\n- [毎日新聞「発泡酒増税はいじめ　知られざるビール会社と最強官庁の攻防」](https://mainichi.jp/articles/20260919/k00/00m/020/079000c)\n- [Kuwait Times（AFP配信）「Asian Games open with message of unity after troubled build-up」](https://kuwaittimes.com/article/50040/sports/asian-games-open-with-message-of-unity-after-troubled-build-up/)\n- [Cyprus Mail（Reuters配信）「Asian Games open in Nagoya with glitzy ceremony after troubled buildup」](https://cyprus-mail.com/2026/09/19/asian-games-open-in-nagoya-with-glitzy-ceremony-after-troubled-buildup)\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 23706,
-          "audioDurationSec": 790.212,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月20日の「国内紙比較と世界から見た日本」を始めるのだ！",
-              "section": "オープニング：2026年9月20日 — 国内紙比較と世界から見た日本",
-              "startFrame": 18,
-              "endFrame": 229
-            },
-            {
-              "speaker": "B",
-              "text": "今日の柱は4つ。ラグビー日本代表の優勝報道、高市改造内閣の「靖国」色を巡る評価、アイドルグループの逮捕騒動、そして消費税と酒税の「線引き」問題よ。",
-              "section": "オープニング：2026年9月20日 — 国内紙比較と世界から見た日本",
-              "startFrame": 237,
-              "endFrame": 674
-            },
-            {
-              "speaker": "A",
-              "text": "後半は海外編なのだ。AFPが伝えたアジア大会開幕式の舞台裏と、世界のラグビー界が見た日本代表の姿を紹介するのだ。",
-              "section": "オープニング：2026年9月20日 — 国内紙比較と世界から見た日本",
-              "startFrame": 682,
-              "endFrame": 1036
-            },
-            {
-              "speaker": "B",
-              "text": "同じ出来事でも、伝える媒体によってこんなに違うのかって思う回になりそうね。さっそくいきましょう。",
-              "section": "オープニング：2026年9月20日 — 国内紙比較と世界から見た日本",
-              "startFrame": 1043,
-              "endFrame": 1257
-            },
-            {
-              "speaker": "A",
-              "text": "まずはスポーツなのだ。19日、東京・秩父宮ラグビー場で決勝があったのだ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 1275,
-              "endFrame": 1496
-            },
-            {
-              "speaker": "B",
-              "text": "世界ランキング12位の日本が、9位のフィジーを20対15で下したわ。7年ぶり4度目の優勝よ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 1504,
-              "endFrame": 1731
-            },
-            {
-              "speaker": "A",
-              "text": "前半は原田衛のトライで10対12とリードを許したのだ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 1739,
-              "endFrame": 1883
-            },
-            {
-              "speaker": "B",
-              "text": "でも後半にベン・ガンターとサミソニ・トゥアがトライを挙げて逆転したの。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 1891,
-              "endFrame": 2020
-            },
-            {
-              "speaker": "A",
-              "text": "朝日は技術面を深掘りしたのだ。フロントローの先発3人はフィジーより平均10キロ以上軽かったのだ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 2028,
-              "endFrame": 2281
-            },
-            {
-              "speaker": "B",
-              "text": "それでもスクラムで反則を奪い続けたのよ。竹内柊平選手は「夏の合宿でモールを151本組んだ」と話していたわ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 2289,
-              "endFrame": 2565
-            },
-            {
-              "speaker": "A",
-              "text": "その積み重ねが決勝で生きたのだ！エディ・ジョーンズヘッドコーチも「空中戦は引き続き鍛えないといけない」って課題を認めていたのだ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 2572,
-              "endFrame": 2912
-            },
-            {
-              "speaker": "B",
-              "text": "毎日は違う角度ね。「3年越しの雪辱」という言葉を見出しに使ったの。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 2920,
-              "endFrame": 3088
-            },
-            {
-              "speaker": "A",
-              "text": "日本は過去2年連続、決勝でフィジーに負けていたのだ。だから今回の勝利は雪辱として描かれているのだ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 3095,
-              "endFrame": 3364
-            },
-            {
-              "speaker": "B",
-              "text": "東京新聞は「23人の力」という見出しよ。けが人が相次ぐ中、下川甲嗣選手が終盤にバックスへ回ったの。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 3371,
-              "endFrame": 3653
-            },
-            {
-              "speaker": "A",
-              "text": "その下川選手が好タックルで試合を締めたのだ！同じ試合なのに、朝日は戦術データ、毎日は雪辱の物語、東京はチーム総力戦なのだ。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 3661,
-              "endFrame": 4042
-            },
-            {
-              "speaker": "B",
-              "text": "一つの勝利にも、いろんな読み方があるってことね。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 4049,
-              "endFrame": 4153
-            },
-            {
-              "speaker": "A",
-              "text": "日本の次戦は10月24日、リポビタンDチャレンジカップで再びフィジーと対戦するのだ！",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 4161,
-              "endFrame": 4396
-            },
-            {
-              "speaker": "B",
-              "text": "来年のワールドカップにつながる大事な一戦になりそうね。",
-              "section": "第1部 テーマ1: ラグビー日本代表、7年ぶり4度目のパシフィック・ネーションズカップ制覇 — 各紙の切り口の違い",
-              "startFrame": 4403,
-              "endFrame": 4515
-            },
-            {
-              "speaker": "B",
-              "text": "2つ目は政治と歴史の話。赤旗が19日、第2次高市改造内閣19人の所属団体を報じたわ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 4533,
-              "endFrame": 4784
-            },
-            {
-              "speaker": "A",
-              "text": "14人が神道政治連盟国会議員懇談会に、12人が日本会議国会議員懇談会に所属しているのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 4792,
-              "endFrame": 5085
-            },
-            {
-              "speaker": "B",
-              "text": "高市早苗首相、茂木敏充外相、木原稔官房長官らが含まれるわ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 5093,
-              "endFrame": 5274
-            },
-            {
-              "speaker": "A",
-              "text": "この2つの団体は、過去の戦争を「自存自衛・解放の戦争」だと位置づけていて、侵略とは認めない立場なのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 5282,
-              "endFrame": 5600
-            },
-            {
-              "speaker": "B",
-              "text": "ジェンダー平等の施策にも否定的だと赤旗は指摘しているの。上野賢一郎厚生労働相については、旧統一教会関連団体への会費支払いが判明したとも報じたわ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 5607,
-              "endFrame": 5984
-            },
-            {
-              "speaker": "A",
-              "text": "同じ日、赤旗はもう一つ記事を出しているのだ。18日に浄土真宗本願寺派が千鳥ケ淵戦没者墓苑で法要を営んだのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 5991,
-              "endFrame": 6314
-            },
-            {
-              "speaker": "B",
-              "text": "第46回全戦没者追悼法要ね。全国から僧侶や門信徒約1000人が参列したの。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 6321,
-              "endFrame": 6535
-            },
-            {
-              "speaker": "A",
-              "text": "日本共産党の小池晃書記局長も出席して、与野党の関係者と一緒に参列したのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 6542,
-              "endFrame": 6778
-            },
-            {
-              "speaker": "B",
-              "text": "実はこの9月18日って、1931年に満州事変が始まった日なの。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 6785,
-              "endFrame": 6978
-            },
-            {
-              "speaker": "A",
-              "text": "赤旗は「主張」欄で、内閣の歴史認識と法要の趣旨を重ねて「歴史にそむく者に未来はない」と論じたのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 6985,
-              "endFrame": 7299
-            },
-            {
-              "speaker": "B",
-              "text": "一方で、この2つの記事、他紙の取得上位にはまったく見当たらなかったわ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 7307,
-              "endFrame": 7467
-            },
-            {
-              "speaker": "A",
-              "text": "閣僚の団体所属や千鳥ケ淵の法要には、他紙は触れていないということなのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 7474,
-              "endFrame": 7671
-            },
-            {
-              "speaker": "B",
-              "text": "同じ内閣改造という出来事でも、どの歴史的側面に光を当てるかという選択の差が、各紙の立ち位置を映しているのね。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 7679,
-              "endFrame": 7933
-            },
-            {
-              "speaker": "A",
-              "text": "この特集は終戦や被爆国、平和憲法をめぐる継続テーマとして、今後も動きがあれば追いかけていくのだ。",
-              "section": "第1部 テーマ2: 高市改造内閣の「靖国」色を巡る評価と千鳥ケ淵法要 — 赤旗が伝え、他紙は沈黙",
-              "startFrame": 7940,
-              "endFrame": 8213
-            },
-            {
-              "speaker": "A",
-              "text": "3つ目は芸能ニュースなのだ。男性アイドルグループ「timelesz」のメンバーが逮捕されたのだ。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 8231,
-              "endFrame": 8469
-            },
-            {
-              "speaker": "B",
-              "text": "猪俣周杜容疑者ね。知人への傷害容疑よ。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 8477,
-              "endFrame": 8590
-            },
-            {
-              "speaker": "A",
-              "text": "朝日によると、本人は「手が当たったかもしれない」などと容疑を否認しているそうなのだ。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 8598,
-              "endFrame": 8818
-            },
-            {
-              "speaker": "B",
-              "text": "毎日は違う角度を伝えたわ。所属事務所のSTARTO社が、猪俣容疑者の活動休止を発表したの。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 8825,
-              "endFrame": 9046
-            },
-            {
-              "speaker": "A",
-              "text": "読売はさらに別の波及を報じているのだ。日本テレビが20日放送予定だった関連番組の内容を、逮捕を受けて変更するそうなのだ。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 9053,
-              "endFrame": 9384
-            },
-            {
-              "speaker": "B",
-              "text": "朝日は本人の容疑内容、毎日は事務所の対応、読売は放送局の番組編成ね。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 9392,
-              "endFrame": 9607
-            },
-            {
-              "speaker": "A",
-              "text": "1つの逮捕がいろんなところに波及しているのがよくわかるのだ。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 9614,
-              "endFrame": 9752
-            },
-            {
-              "speaker": "B",
-              "text": "ファンの間でも動揺が広がっているみたいね。",
-              "section": "第1部 テーマ3: timelesz（タイムレス）猪俣周杜容疑者、知人への傷害容疑で逮捕 — 各紙・放送局の対応",
-              "startFrame": 9760,
-              "endFrame": 9847
-            },
-            {
-              "speaker": "B",
-              "text": "4つ目は税金の話。日経が、2027年4月から食料品の消費税が8%から1%へ下がる制度変更を取り上げたわ。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 9865,
-              "endFrame": 10181
-            },
-            {
-              "speaker": "A",
-              "text": "ここで面白いのが分類の差なのだ。エナジードリンクのレッドブルは「食品」扱いだから税率1%になるのだ。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 10189,
-              "endFrame": 10480
-            },
-            {
-              "speaker": "B",
-              "text": "でもリポビタンDは「指定医薬部外品」扱いだから軽減税率の対象外で、10%のままなの。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 10488,
-              "endFrame": 10733
-            },
-            {
-              "speaker": "A",
-              "text": "同じような栄養・エナジードリンクなのに、税負担が9倍も違うのだ！",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 10740,
-              "endFrame": 10932
-            },
-            {
-              "speaker": "B",
-              "text": "毎日はもう一つの税金ニュース。10月に迫るビール系飲料の酒税一本化よ。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 10940,
-              "endFrame": 11125
-            },
-            {
-              "speaker": "A",
-              "text": "350ミリリットル缶あたり、普通のビールは9.1円の減税になるのだ。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 11133,
-              "endFrame": 11334
-            },
-            {
-              "speaker": "B",
-              "text": "でも発泡酒は7.26円、第三のビールは7円の増税になるの。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 11341,
-              "endFrame": 11505
-            },
-            {
-              "speaker": "A",
-              "text": "財務省と各社が新商品開発で税制の隙間を突き合ってきた32年来の攻防が、ここで決着を迎えるのだ。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 11512,
-              "endFrame": 11797
-            },
-            {
-              "speaker": "B",
-              "text": "消費税も酒税も、「食品かどうか」「ビールかどうか」っていう分類の線引きが、実際の負担をガラッと変えてしまうのね。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 11804,
-              "endFrame": 12073
-            },
-            {
-              "speaker": "A",
-              "text": "日経は消費税制度の矛盾、毎日は酒税の歴史的経緯を軸に据えているのだ。同じ「線引き問題」でも取り上げ方が違うのだ。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 12080,
-              "endFrame": 12438
-            },
-            {
-              "speaker": "B",
-              "text": "税金のルールって、身近な商品で見ると急に分かりやすくなるわね。",
-              "section": "第1部 テーマ4: 消費税減税と酒税一本化が突きつける「線引き」の矛盾",
-              "startFrame": 12446,
-              "endFrame": 12592
-            },
-            {
-              "speaker": "A",
-              "text": "ここからは各紙の独自ニュースを駆け足で紹介するのだ！",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 12610,
-              "endFrame": 12740
-            },
-            {
-              "speaker": "B",
-              "text": "NHKは、高市首相が子どものSNS利用規制について、法案提出に向け年末をめどに方針を示す考えを表明したと伝えたわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 12747,
-              "endFrame": 13061
-            },
-            {
-              "speaker": "A",
-              "text": "NHKはもう一つ。人事院が国家公務員の月給について、2年連続で3%超の引き上げを勧告したのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 13069,
-              "endFrame": 13373
-            },
-            {
-              "speaker": "B",
-              "text": "朝日は、外国人犯罪に関するデマについて、研究者らが「暴力を喚起しやすい」として対策を提言したと報じたわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 13380,
-              "endFrame": 13659
-            },
-            {
-              "speaker": "A",
-              "text": "毎日は、プロ野球で巨人の田中将大投手が4カ月ぶりに白星を挙げたと伝えたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 13666,
-              "endFrame": 13894
-            },
-            {
-              "speaker": "B",
-              "text": "東京新聞は、悠仁さまが秋篠宮ご夫妻とともに、技能五輪日本選手団66人と初めて懇談したと報じたわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 13901,
-              "endFrame": 14181
-            },
-            {
-              "speaker": "A",
-              "text": "若き技術者にエールを送ったのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 14189,
-              "endFrame": 14271
-            },
-            {
-              "speaker": "B",
-              "text": "赤旗は、衆院選挙制度協議会のとりまとめ案について、共産党の塩川氏が議員定数削減を認めない考えを示したと伝えたわ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 14279,
-              "endFrame": 14582
-            },
-            {
-              "speaker": "A",
-              "text": "産経は、2027年にも完全無人タクシーが国内で初めて実用化されると報じたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 14590,
-              "endFrame": 14827
-            },
-            {
-              "speaker": "B",
-              "text": "GOなど3社が東京で段階的に100台規模を展開するのよ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 14834,
-              "endFrame": 14966
-            },
-            {
-              "speaker": "A",
-              "text": "読売は、アジア開発銀行の神田総裁が講演で「もう誰も日本を超大国と思っていない」と述べたと伝えたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 14973,
-              "endFrame": 15282
-            },
-            {
-              "speaker": "B",
-              "text": "経済の新陳代謝の必要性を訴えたのね。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 15289,
-              "endFrame": 15393
-            },
-            {
-              "speaker": "A",
-              "text": "日経は、グーグルのAIが他社システムに侵入する事故を起こしたと報じたのだ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 15401,
-              "endFrame": 15593
-            },
-            {
-              "speaker": "B",
-              "text": "事故直後に停止したのに、公表していなかったそうよ。",
-              "section": "第1部 各紙独自ニュース",
-              "startFrame": 15600,
-              "endFrame": 15715
-            },
-            {
-              "speaker": "A",
-              "text": "ここからは海外編なのだ！AFPが19日に配信した記事を、複数の海外紙が転載したのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 15733,
-              "endFrame": 15991
-            },
-            {
-              "speaker": "B",
-              "text": "クウェートタイムズやサイプラスメールに載ったわね。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 15999,
-              "endFrame": 16091
-            },
-            {
-              "speaker": "A",
-              "text": "アジア大会の開幕式は「ハーモニックハートビート」がテーマの華やかな演出だったのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 16098,
-              "endFrame": 16323
-            },
-            {
-              "speaker": "B",
-              "text": "徳仁天皇が45カ国・地域の入場行進を見届けたあと開会を宣言したわ。IOCのコベントリー会長も臨席したの。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 16330,
-              "endFrame": 16617
-            },
-            {
-              "speaker": "A",
-              "text": "でもAFPが強調したのは華やかさじゃなくて、準備の混乱の方なのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 16625,
-              "endFrame": 16812
-            },
-            {
-              "speaker": "B",
-              "text": "収容3万人のスタジアムで組織委員会が「完売」と発表していたのに、実際には多くの空席が見られたのよ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 16820,
-              "endFrame": 17080
-            },
-            {
-              "speaker": "A",
-              "text": "1万1000人を超える選手団の受け入れが、組織委員会の対応能力を超えていたのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 17087,
-              "endFrame": 17294
-            },
-            {
-              "speaker": "B",
-              "text": "コンテナ型宿泊施設のベッドが短すぎる問題や、空港での輸送手配の不備も起きたそうよ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 17302,
-              "endFrame": 17503
-            },
-            {
-              "speaker": "A",
-              "text": "政治的な摩擦も表面化したのだ。台湾のスポーツ相、李洋氏が歓迎式典への出席を拒まれたのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 17510,
-              "endFrame": 17774
-            },
-            {
-              "speaker": "B",
-              "text": "それを受けて台湾代表団は、一時的に自国の歓迎式典への参加を拒否したわ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 17782,
-              "endFrame": 17963
-            },
-            {
-              "speaker": "A",
-              "text": "さらに韓国の男子ホッケー代表チームの入場時に、誤って北朝鮮の国歌が流されたのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 17970,
-              "endFrame": 18203
-            },
-            {
-              "speaker": "B",
-              "text": "前の週の記録的豪雨による洪水被害と、接近中の台風の影響も懸念されているの。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 18211,
-              "endFrame": 18413
-            },
-            {
-              "speaker": "A",
-              "text": "国内紙が開幕の意気込みを中心に伝える一方で、AFPは「祝祭の裏」の混乱と緊張を主軸に据えているのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 18420,
-              "endFrame": 18733
-            },
-            {
-              "speaker": "B",
-              "text": "同じ開幕式でも、焦点がまったく違うわね。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 18741,
-              "endFrame": 18846
-            },
-            {
-              "speaker": "A",
-              "text": "華やかさの裏に、こんな緊張があったとは知らなかったのだ。",
-              "section": "第2部 AFPが伝えたアジア大会開幕式の舞台裏 — 台湾・韓国・北朝鮮を巡る摩擦と「売り切れなのに空席」",
-              "startFrame": 18853,
-              "endFrame": 18995
-            },
-            {
-              "speaker": "A",
-              "text": "もう一つの海外編なのだ。ワールドラグビーの公式サイトが19日、日本のフィジー撃破を伝えたのだ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 19013,
-              "endFrame": 19273
-            },
-            {
-              "speaker": "B",
-              "text": "「胸のすくような、輝かしい勝利」と評したわ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 19281,
-              "endFrame": 19395
-            },
-            {
-              "speaker": "A",
-              "text": "オーストラリア出身のエディ・ジョーンズヘッドコーチが、こうコメントしたのだ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 19403,
-              "endFrame": 19576
-            },
-            {
-              "speaker": "B",
-              "text": "「自国開催でこの声援の中で勝てたことはチームの成長にとって大きい。ただ、まだ伸ばすべきところがある」ですって。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 19583,
-              "endFrame": 19838
-            },
-            {
-              "speaker": "A",
-              "text": "フィジー代表主将のテビタ・イカニベレ選手も、相手をたたえたのだ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 19846,
-              "endFrame": 20013
-            },
-            {
-              "speaker": "B",
-              "text": "「日本におめでとうと言いたい。80分間の非常にフィジカルな戦いだった」と話したの。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 20021,
-              "endFrame": 20206
-            },
-            {
-              "speaker": "A",
-              "text": "ワールドラグビー側は、この勝利を2015年ワールドカップの南アフリカ撃破から11年目の節目に重ねているのだ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 20214,
-              "endFrame": 20497
-            },
-            {
-              "speaker": "B",
-              "text": "4度目の制覇、2019年以来の栄冠だと位置づけているわね。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 20505,
-              "endFrame": 20649
-            },
-            {
-              "speaker": "A",
-              "text": "国内紙はスクラムやモール、雪辱の物語を伝えたのだ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 20657,
-              "endFrame": 20808
-            },
-            {
-              "speaker": "B",
-              "text": "でも世界のラグビー界は、格上として苦しめられてきたフィジーを本拠地で破った意味を、国際的な存在感の高まりとして評価しているのよ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 20816,
-              "endFrame": 21105
-            },
-            {
-              "speaker": "A",
-              "text": "称賛だけじゃなくて、ジョーンズさん自身が認めた空中戦の課題も、来年のワールドカップへの注視点として残っているのだ。",
-              "section": "第2部 世界のラグビー界が見た日本の「粘り」— フィジー撃破への賛辞",
-              "startFrame": 21113,
-              "endFrame": 21407
-            },
-            {
-              "speaker": "A",
-              "text": "それじゃあ今日をまとめるのだ。",
-              "section": "まとめ",
-              "startFrame": 21425,
-              "endFrame": 21489
-            },
-            {
-              "speaker": "B",
-              "text": "スポーツ面では、ラグビー日本代表の優勝を朝日は戦術、毎日は雪辱の物語、東京はチーム総力という異なる軸で描いたわ。",
-              "section": "まとめ",
-              "startFrame": 21496,
-              "endFrame": 21805
-            },
-            {
-              "speaker": "A",
-              "text": "世界ラグビー界は、国際的な存在感の高まりとして評価したのだ。",
-              "section": "まとめ",
-              "startFrame": 21812,
-              "endFrame": 21987
-            },
-            {
-              "speaker": "B",
-              "text": "政治・歴史面では、赤旗が高市改造内閣の「靖国」色と千鳥ケ淵の追悼法要を対置して報じたわ。",
-              "section": "まとめ",
-              "startFrame": 21995,
-              "endFrame": 22270
-            },
-            {
-              "speaker": "A",
-              "text": "他紙の取得上位には同じ視点が見当たらなくて、報道の選択そのものに立場の差が表れたのだ。",
-              "section": "まとめ",
-              "startFrame": 22278,
-              "endFrame": 22506
-            },
-            {
-              "speaker": "B",
-              "text": "生活面では、消費税減税と酒税一本化という2つの制度変更が、分類基準の矛盾を浮き彫りにしたわね。",
-              "section": "まとめ",
-              "startFrame": 22513,
-              "endFrame": 22761
-            },
-            {
-              "speaker": "A",
-              "text": "海外編では、AFPがアジア大会開幕式の混乱と摩擦を伝える一方で、世界ラグビー界は日本代表の粘り強さを称賛していたのだ。",
-              "section": "まとめ",
-              "startFrame": 22768,
-              "endFrame": 23139
-            },
-            {
-              "speaker": "B",
-              "text": "同じ日本でも、場面によって評価がこんなに違うのね。",
-              "section": "まとめ",
-              "startFrame": 23147,
-              "endFrame": 23268
-            },
-            {
-              "speaker": "A",
-              "text": "一つのニュースを一つの紙面だけで読むのはもったいないのだ！",
-              "section": "まとめ",
-              "startFrame": 23276,
-              "endFrame": 23406
-            },
-            {
-              "speaker": "B",
-              "text": "見比べることで、初めて見えてくるものがあるということね。",
-              "section": "まとめ",
-              "startFrame": 23413,
-              "endFrame": 23529
-            },
-            {
-              "speaker": "A",
-              "text": "今日も聞いてくれてありがとうなのだ！",
-              "section": "まとめ",
-              "startFrame": 23537,
-              "endFrame": 23615
-            },
-            {
-              "speaker": "B",
-              "text": "また次回、続きをお届けするわね。",
-              "section": "まとめ",
-              "startFrame": 23622,
-              "endFrame": 23706
-            }
-          ]
-        }
-      },
-      {
-        "mode": "weird",
-        "label": "世界の珍ニュース",
-        "iaId": "news-pickup-2026-09-20-weird",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-20-weird/weird_yukkuri.m4a",
-        "markdown": "<h1>世界の珍ニュース（2026年9月20日）</h1>\n<h2>オープニング：2026年9月20日 — 世界の珍ニュース</h2>\n<p>10年かけて塩コショウの小袋を754組集めた67歳の女性、同じ誕生日を5世代でつないだアイオワの一家、全長130メートルの巨大ソーセージ、そしてパレードから逃げ出して街を12分間走り回った馬。今回は「こだわり」と「偶然」が生んだ四題を追う。</p>\n<h2>塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター</h2>\n<ul>\n<li>米ウィスコンシン州ブルックフィールド在住のリンダ・シュルツさん（67歳）は、ファストフード店「アービーズ」でもらった1組の塩コショウの小袋をきっかけに、10年前から収集を始めた。</li>\n<li>収集品は航空会社別・レストラン別・製造元別にバインダーへ整理して保管し、ブランドの入っていない無地の小袋専用のコーナーも設けている。塩コショウ収集の前は、バナナに貼られたシールを集めていたという。</li>\n<li>2024年に494組でギネス世界記録「最大の塩コショウ小袋コレクション」の認定を受けたが、翌2025年にサラシニブ・\"ソニー\"・モリーナ氏の594組に記録を奪われた。今回754組まで増やし、2026年2月19日付で記録を奪還した。</li>\n<li>お気に入りは、ハワイアン航空のハワイアンシャツ柄の小袋。シュルツさんはギネス側に「集めることはとても興味深くて楽しい。ギネス世界記録という目標があると、この趣味がさらに面白くなる」と語っている。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/16/Guinness-World-Records-salt-and-pepper-packets/9321789579951\">UPI</a>、<a href=\"https://www.guinnessworldrecords.com/world-records/largest-collection-of-salt-and-pepper-sachets\">Guinness World Records</a></li>\n</ul>\n<h2>5世代そろって9月14日生まれ、アイオワの一家がギネス記録に</h2>\n<ul>\n<li>米アイオワ州シルバーシティーのハーロウ家では、曾祖父ウィルバーさん（1907年生まれ）、母アディさん、フレッド・ハーロウさん、娘のエマ・ベルさん、孫のアーサーくんの5世代が、全員9月14日生まれという偶然が続いている。</li>\n<li>一家は長年これを「面白い一致」として冗談交じりに話すだけだったが、アディさんが亡くなった後、エマさんが第2子の出産予定日がちょうど9月14日だと分かったことをきっかけに、正式なギネス認定を申請することにした。</li>\n<li>エマさんは予定日に合わせて出産に臨み、息子アーサーくんは狙いどおり9月14日に誕生。5世代は男・女・男・女・男と交互に続いており、ギネス世界記録として認定された。</li>\n<li>父フレッドさんは「子どもは誰にとっても贈り物だが、これは本当に特別な贈り物だ」と語り、エマさんは「祖母にはずっと『9月14日に男の子を産まなきゃ』と言われて育った」と振り返っている。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/17/Guinness-World-Records-five-generations-same-birthday/5611789656758\">UPI</a>、<a href=\"https://www.cp24.com/news/world/2026/09/15/a-family-just-set-a-guinness-world-record-for-5-generations-sharing-the-same-birthday/\">CP24</a></li>\n</ul>\n<h2>全長130メートル、重さ32キロの巨大「スリムジム」が世界記録</h2>\n<ul>\n<li>米食品大手コナグラ・ブランズは9月9日、ネブラスカ州オマハの自社キャンパスで、長さ429フィート5.4インチ（約130.9メートル）、重さ約70ポンド（約32キロ）に及ぶ巨大な「スリムジム」（ビーフジャーキー状の細長いスナック菓子）を披露し、ギネス世界記録「最長のミートスナック」を更新した。</li>\n<li>これは2023年に樹立された旧記録（314フィート、約95.7メートル）を116フィート（約35メートル）以上も上回る長さで、サッカーコートの長さより長い143ヤードに達する。</li>\n<li>制作は2025年6月、社内の11人からなるチーム「ブレイズ・クルー」が担当し、通常サイズのスリムジムと同じレシピ・同じ「パキッ」という食感を保つことにこだわりながら、巨大版の製法を開発した。製造時は大きな回転式ラックに巻き取った生地を、駐車場に並べたテーブルの上で一気に伸ばして全長を測定した。</li>\n<li>チームは「味も食感も、ふだんのスリムジムと変わらないことに徹底してこだわった」と説明しており、認定員はギネス世界記録の公式ルールに沿って現地で長さを計測した。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/17/guinness-world-records-slim-jim/1191789667547/\">UPI</a>、<a href=\"https://theshelbyreport.com/2026/09/10/slim-jim-sets-guinness-world-record-with-429-foot-meat-stick/\">The Shelby Report</a></li>\n</ul>\n<h2>パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇</h2>\n<ul>\n<li>米ニューメキシコ州サンタフェで9月14日（日）、地元恒例の「デスフィレ・デ・ラ・ヘンテ」パレードの開始を待っていた1頭の馬が、突然手綱を振り切って逃げ出した。</li>\n<li>サンタフェ市警はSNSで、この馬を確保するためバイク隊、自転車隊、動物管理官、さらにドローン操縦員まで出動させたと発表した。白いまだら模様のある茶色の馬は、12分以上にわたって警官たちの追跡をかわし続けた。</li>\n<li>最終的にバイク警官がキャニオン・ロード沿いで馬を追い込むことに成功し、駆けつけた飼い主が手綱を取り戻した。馬は水を一口飲んだだけで、パレードの開始時刻にはスタート地点へ無事に戻された。</li>\n<li>けが人・けがをした馬はおらず、警察はパレード観客やSNS向けに追跡の様子を撮影した映像を公開し、「脱走劇」は地元で話題になった。</li>\n<li>出典: <a href=\"https://www.upi.com/Odd_News/2026/09/17/santa-fe-parade-horse-chase/8301789655823\">UPI</a>、<a href=\"https://www.kvoa.com/video/santa-fe-cops-and-cowboys-team-up-to-wrangle-rogue-parade-horse/video_565c1262-b986-59f7-b7bf-9506cf4c26ac.html\">KVOA</a></li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>四題に共通するのは、小さなきっかけが積み重なって「記録」や「物語」に育っていく面白さだ。</li>\n<li>1組の小袋から10年がかりで世界一になった収集家、代々受け継がれた偶然を正式な記録に変えた一家、通常レシピへのこだわりを貫いたまま巨大化させた菓子メーカー、そして一瞬の隙をついて街へ飛び出した馬。</li>\n<li>どれも「こだわり抜く」か「思いがけず起きる」かの違いはあれど、聞き終えたあとに誰かへ話したくなる小さな驚きを持っている。</li>\n</ul>",
-        "markdownSource": "# 世界の珍ニュース（2026年9月20日）\n\n## オープニング：2026年9月20日 — 世界の珍ニュース\n\n10年かけて塩コショウの小袋を754組集めた67歳の女性、同じ誕生日を5世代でつないだアイオワの一家、全長130メートルの巨大ソーセージ、そしてパレードから逃げ出して街を12分間走り回った馬。今回は「こだわり」と「偶然」が生んだ四題を追う。\n\n## 塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター\n\n- 米ウィスコンシン州ブルックフィールド在住のリンダ・シュルツさん（67歳）は、ファストフード店「アービーズ」でもらった1組の塩コショウの小袋をきっかけに、10年前から収集を始めた。\n- 収集品は航空会社別・レストラン別・製造元別にバインダーへ整理して保管し、ブランドの入っていない無地の小袋専用のコーナーも設けている。塩コショウ収集の前は、バナナに貼られたシールを集めていたという。\n- 2024年に494組でギネス世界記録「最大の塩コショウ小袋コレクション」の認定を受けたが、翌2025年にサラシニブ・\"ソニー\"・モリーナ氏の594組に記録を奪われた。今回754組まで増やし、2026年2月19日付で記録を奪還した。\n- お気に入りは、ハワイアン航空のハワイアンシャツ柄の小袋。シュルツさんはギネス側に「集めることはとても興味深くて楽しい。ギネス世界記録という目標があると、この趣味がさらに面白くなる」と語っている。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/16/Guinness-World-Records-salt-and-pepper-packets/9321789579951)、[Guinness World Records](https://www.guinnessworldrecords.com/world-records/largest-collection-of-salt-and-pepper-sachets)\n\n## 5世代そろって9月14日生まれ、アイオワの一家がギネス記録に\n\n- 米アイオワ州シルバーシティーのハーロウ家では、曾祖父ウィルバーさん（1907年生まれ）、母アディさん、フレッド・ハーロウさん、娘のエマ・ベルさん、孫のアーサーくんの5世代が、全員9月14日生まれという偶然が続いている。\n- 一家は長年これを「面白い一致」として冗談交じりに話すだけだったが、アディさんが亡くなった後、エマさんが第2子の出産予定日がちょうど9月14日だと分かったことをきっかけに、正式なギネス認定を申請することにした。\n- エマさんは予定日に合わせて出産に臨み、息子アーサーくんは狙いどおり9月14日に誕生。5世代は男・女・男・女・男と交互に続いており、ギネス世界記録として認定された。\n- 父フレッドさんは「子どもは誰にとっても贈り物だが、これは本当に特別な贈り物だ」と語り、エマさんは「祖母にはずっと『9月14日に男の子を産まなきゃ』と言われて育った」と振り返っている。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/17/Guinness-World-Records-five-generations-same-birthday/5611789656758)、[CP24](https://www.cp24.com/news/world/2026/09/15/a-family-just-set-a-guinness-world-record-for-5-generations-sharing-the-same-birthday/)\n\n## 全長130メートル、重さ32キロの巨大「スリムジム」が世界記録\n\n- 米食品大手コナグラ・ブランズは9月9日、ネブラスカ州オマハの自社キャンパスで、長さ429フィート5.4インチ（約130.9メートル）、重さ約70ポンド（約32キロ）に及ぶ巨大な「スリムジム」（ビーフジャーキー状の細長いスナック菓子）を披露し、ギネス世界記録「最長のミートスナック」を更新した。\n- これは2023年に樹立された旧記録（314フィート、約95.7メートル）を116フィート（約35メートル）以上も上回る長さで、サッカーコートの長さより長い143ヤードに達する。\n- 制作は2025年6月、社内の11人からなるチーム「ブレイズ・クルー」が担当し、通常サイズのスリムジムと同じレシピ・同じ「パキッ」という食感を保つことにこだわりながら、巨大版の製法を開発した。製造時は大きな回転式ラックに巻き取った生地を、駐車場に並べたテーブルの上で一気に伸ばして全長を測定した。\n- チームは「味も食感も、ふだんのスリムジムと変わらないことに徹底してこだわった」と説明しており、認定員はギネス世界記録の公式ルールに沿って現地で長さを計測した。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/17/guinness-world-records-slim-jim/1191789667547/)、[The Shelby Report](https://theshelbyreport.com/2026/09/10/slim-jim-sets-guinness-world-record-with-429-foot-meat-stick/)\n\n## パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇\n\n- 米ニューメキシコ州サンタフェで9月14日（日）、地元恒例の「デスフィレ・デ・ラ・ヘンテ」パレードの開始を待っていた1頭の馬が、突然手綱を振り切って逃げ出した。\n- サンタフェ市警はSNSで、この馬を確保するためバイク隊、自転車隊、動物管理官、さらにドローン操縦員まで出動させたと発表した。白いまだら模様のある茶色の馬は、12分以上にわたって警官たちの追跡をかわし続けた。\n- 最終的にバイク警官がキャニオン・ロード沿いで馬を追い込むことに成功し、駆けつけた飼い主が手綱を取り戻した。馬は水を一口飲んだだけで、パレードの開始時刻にはスタート地点へ無事に戻された。\n- けが人・けがをした馬はおらず、警察はパレード観客やSNS向けに追跡の様子を撮影した映像を公開し、「脱走劇」は地元で話題になった。\n- 出典: [UPI](https://www.upi.com/Odd_News/2026/09/17/santa-fe-parade-horse-chase/8301789655823)、[KVOA](https://www.kvoa.com/video/santa-fe-cops-and-cowboys-team-up-to-wrangle-rogue-parade-horse/video_565c1262-b986-59f7-b7bf-9506cf4c26ac.html)\n\n## まとめ\n\n- 四題に共通するのは、小さなきっかけが積み重なって「記録」や「物語」に育っていく面白さだ。\n- 1組の小袋から10年がかりで世界一になった収集家、代々受け継がれた偶然を正式な記録に変えた一家、通常レシピへのこだわりを貫いたまま巨大化させた菓子メーカー、そして一瞬の隙をついて街へ飛び出した馬。\n- どれも「こだわり抜く」か「思いがけず起きる」かの違いはあれど、聞き終えたあとに誰かへ話したくなる小さな驚きを持っている。\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 13267,
-          "audioDurationSec": 442.249333,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "2026年9月20日の「世界の珍ニュース」、始まるのだ！",
-              "section": "オープニング：2026年9月20日 — 世界の珍ニュース",
-              "startFrame": 18,
-              "endFrame": 186
-            },
-            {
-              "speaker": "B",
-              "text": "今日は、こだわりと偶然が生んだ四つの話題を紹介するわ。",
-              "section": "オープニング：2026年9月20日 — 世界の珍ニュース",
-              "startFrame": 193,
-              "endFrame": 320
-            },
-            {
-              "speaker": "A",
-              "text": "塩コショウの小袋を754組も集めた67歳の女性がいるらしいのだ！",
-              "section": "オープニング：2026年9月20日 — 世界の珍ニュース",
-              "startFrame": 328,
-              "endFrame": 530
-            },
-            {
-              "speaker": "B",
-              "text": "しかも一度奪われた世界記録を、取り返したところなの。",
-              "section": "オープニング：2026年9月20日 — 世界の珍ニュース",
-              "startFrame": 538,
-              "endFrame": 658
-            },
-            {
-              "speaker": "A",
-              "text": "誕生日が5世代そろって同じ日、130メートルの巨大スナック、脱走した馬も出てくるのだ！",
-              "section": "オープニング：2026年9月20日 — 世界の珍ニュース",
-              "startFrame": 666,
-              "endFrame": 913
-            },
-            {
-              "speaker": "B",
-              "text": "どれも小さなきっかけが、大きな出来事に育っていく話ばかりよ。順番に見ていきましょう。",
-              "section": "オープニング：2026年9月20日 — 世界の珍ニュース",
-              "startFrame": 920,
-              "endFrame": 1111
-            },
-            {
-              "speaker": "B",
-              "text": "米ウィスコンシン州のリンダ・シュルツさん、67歳。塩コショウの小袋を754組集めて、ギネス世界記録を持っているの。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 1129,
-              "endFrame": 1427
-            },
-            {
-              "speaker": "A",
-              "text": "754組！？ そんなに集めて、いったい何に使うのだ？",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 1435,
-              "endFrame": 1607
-            },
-            {
-              "speaker": "B",
-              "text": "使うためじゃなくて、集めること自体が目的みたい。きっかけはファストフード店アービーズでもらった、たった1組の小袋だったそうよ。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 1615,
-              "endFrame": 1887
-            },
-            {
-              "speaker": "A",
-              "text": "たった1組から始めて、10年でそこまでいくのだ……。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 1894,
-              "endFrame": 2022
-            },
-            {
-              "speaker": "B",
-              "text": "収集は10年前からで、航空会社別、レストラン別、製造元別にバインダーへ整理してあるの。無地の小袋専用のコーナーまであるのよ。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 2030,
-              "endFrame": 2352
-            },
-            {
-              "speaker": "A",
-              "text": "整理の仕方までこだわってるのだ、本気だ！",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 2359,
-              "endFrame": 2464
-            },
-            {
-              "speaker": "B",
-              "text": "実は塩コショウの前は、バナナに貼るシールを集めていたんだって。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 2471,
-              "endFrame": 2606
-            },
-            {
-              "speaker": "A",
-              "text": "コレクター気質がずっと続いてるのだな。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 2614,
-              "endFrame": 2704
-            },
-            {
-              "speaker": "B",
-              "text": "2024年に494組で最初の記録を取ったけど、翌年ソニー・モリーナさんに594組で抜かれたの。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 2712,
-              "endFrame": 2980
-            },
-            {
-              "speaker": "A",
-              "text": "え、一回負けたのだ！？",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 2987,
-              "endFrame": 3077
-            },
-            {
-              "speaker": "B",
-              "text": "そこから諦めずに増やして、2026年2月に754組で記録を奪い返したの。お気に入りはハワイアン航空のハワイアンシャツ柄なんですって。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 3085,
-              "endFrame": 3407
-            },
-            {
-              "speaker": "A",
-              "text": "本人は「集めることが楽しい、記録という目標があるともっと面白い」って言ってるのだ！",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 3415,
-              "endFrame": 3653
-            },
-            {
-              "speaker": "B",
-              "text": "目的が実用じゃなく、集める過程そのものにあるのが、この趣味の面白いところね。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 3660,
-              "endFrame": 3835
-            },
-            {
-              "speaker": "A",
-              "text": "バインダーで整理する几帳面さと、10年やめない粘り強さ、両方持ってるのがすごいのだ。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 3842,
-              "endFrame": 4069
-            },
-            {
-              "speaker": "B",
-              "text": "一度記録を奪われても腐らずに増やし続けたところに、この人らしさが出てると思うわ。",
-              "section": "塩コショウの小袋、754組集めた67歳の\"世界一\"コレクター",
-              "startFrame": 4076,
-              "endFrame": 4251
-            },
-            {
-              "speaker": "A",
-              "text": "次は、5世代全員が同じ誕生日っていう家族の話なのだ！",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 4269,
-              "endFrame": 4428
-            },
-            {
-              "speaker": "B",
-              "text": "米アイオワ州のハーロウ家ね。曾祖父のウィルバーさんが1907年生まれで、そこから母アディさん、フレッドさん、娘エマさん、孫のアーサーくんまで、5人とも9月14日生まれなの。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 4436,
-              "endFrame": 4852
-            },
-            {
-              "speaker": "A",
-              "text": "5世代連続で同じ日って、そんな偶然あるのだ！？",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 4859,
-              "endFrame": 4990
-            },
-            {
-              "speaker": "B",
-              "text": "長年「面白い一致だね」と冗談で話すだけだったんだけど、アディさんが亡くなった後、エマさんの第2子の出産予定日がちょうど9月14日だと分かったの。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 4998,
-              "endFrame": 5329
-            },
-            {
-              "speaker": "A",
-              "text": "それで、正式に記録を取ろうって決めたのだな。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 5337,
-              "endFrame": 5453
-            },
-            {
-              "speaker": "B",
-              "text": "そうなの。エマさんは予定日に合わせて出産に臨んで、息子のアーサーくんは狙いどおり9月14日に生まれたのよ。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 5461,
-              "endFrame": 5702
-            },
-            {
-              "speaker": "A",
-              "text": "狙って産まれてくるところが、なんかすごいのだ……。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 5709,
-              "endFrame": 5818
-            },
-            {
-              "speaker": "B",
-              "text": "5世代は男・女・男・女・男と交互に続いていて、これが認定の決め手にもなったみたい。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 5826,
-              "endFrame": 6065
-            },
-            {
-              "speaker": "A",
-              "text": "父フレッドさんは「子どもは誰にとっても贈り物だけど、これは本当に特別な贈り物だ」って言ってるのだ。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 6072,
-              "endFrame": 6342
-            },
-            {
-              "speaker": "B",
-              "text": "エマさんも「祖母にずっと『9月14日に男の子を産まなきゃ』と言われて育った」と振り返っているの。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 6349,
-              "endFrame": 6576
-            },
-            {
-              "speaker": "A",
-              "text": "家族の合言葉が、本当に記録になっちゃったのだ！",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 6583,
-              "endFrame": 6709
-            },
-            {
-              "speaker": "B",
-              "text": "しかも成り行き任せじゃなく、出産日を狙って合わせたのが面白いところよ。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 6717,
-              "endFrame": 6874
-            },
-            {
-              "speaker": "A",
-              "text": "冗談で言ってたことを、ちゃんと本気で実現させちゃったのだな。",
-              "section": "5世代そろって9月14日生まれ、アイオワの一家がギネス記録に",
-              "startFrame": 6881,
-              "endFrame": 7024
-            },
-            {
-              "speaker": "B",
-              "text": "続いては食べ物の記録。米食品大手コナグラ・ブランズが、全長約130.9メートルの巨大な「スリムジム」を披露したの。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 7042,
-              "endFrame": 7357
-            },
-            {
-              "speaker": "A",
-              "text": "130メートル！？ スナック菓子でそれはでかすぎるのだ！",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 7364,
-              "endFrame": 7503
-            },
-            {
-              "speaker": "B",
-              "text": "重さも約32キロあって、ネブラスカ州オマハの自社キャンパスで9月9日に公開されたの。これでギネス世界記録「最長のミートスナック」を更新したのよ。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 7511,
-              "endFrame": 7859
-            },
-            {
-              "speaker": "A",
-              "text": "前の記録はどれくらいだったのだ？",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 7867,
-              "endFrame": 7948
-            },
-            {
-              "speaker": "B",
-              "text": "2023年の記録が約95.7メートルだったから、35メートル近くも一気に伸ばしたことになるわ。サッカーコートより長い長さね。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 7956,
-              "endFrame": 8259
-            },
-            {
-              "speaker": "A",
-              "text": "ただ長くするだけじゃなくて、味も工夫してるのだ？",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 8266,
-              "endFrame": 8389
-            },
-            {
-              "speaker": "B",
-              "text": "そこがポイントで、2025年6月から社内11人のチーム「ブレイズ・クルー」が、通常サイズと同じレシピ、同じ「パキッ」という食感を保つことにこだわって開発したの。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 8397,
-              "endFrame": 8831
-            },
-            {
-              "speaker": "A",
-              "text": "大きくするだけなら簡単そうだけど、味を変えないのが難しそうなのだ。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 8839,
-              "endFrame": 9009
-            },
-            {
-              "speaker": "B",
-              "text": "製造時は大きな回転ラックに生地を巻き取って、駐車場に並べたテーブルの上で一気に伸ばして測定したそうよ。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 9017,
-              "endFrame": 9251
-            },
-            {
-              "speaker": "A",
-              "text": "スナック菓子ひとつに、そこまで本気になれるのがすごいのだ！",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 9258,
-              "endFrame": 9394
-            },
-            {
-              "speaker": "B",
-              "text": "「大きさより先に味を犠牲にしない」というこだわりが、記録より印象に残る話だと思うわ。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 9402,
-              "endFrame": 9603
-            },
-            {
-              "speaker": "A",
-              "text": "1年以上かけて開発チームを組んでたのだ、企業もかなり本気なのだ。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 9611,
-              "endFrame": 9780
-            },
-            {
-              "speaker": "B",
-              "text": "お祭り企画に見えて、裏では地道な試作の積み重ねがあったってことね。",
-              "section": "全長130メートル、重さ32キロの巨大「スリムジム」が世界記録",
-              "startFrame": 9787,
-              "endFrame": 9937
-            },
-            {
-              "speaker": "A",
-              "text": "最後は、馬が街を走り回った話なのだ！",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 9955,
-              "endFrame": 10073
-            },
-            {
-              "speaker": "B",
-              "text": "米ニューメキシコ州サンタフェで9月14日、地元恒例のパレードの開始を待っていた馬が、突然手綱を振り切って逃げ出したの。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 10080,
-              "endFrame": 10347
-            },
-            {
-              "speaker": "A",
-              "text": "パレード本番の直前に逃げ出すなんて、タイミングが最悪なのだ！",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 10354,
-              "endFrame": 10514
-            },
-            {
-              "speaker": "B",
-              "text": "市警はバイク隊、自転車隊、動物管理官、さらにドローン操縦員まで出動させたのよ。白いまだら模様のある茶色い馬が、12分以上も警官たちをかわし続けたの。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 10521,
-              "endFrame": 10905
-            },
-            {
-              "speaker": "A",
-              "text": "ドローンまで出てくる大捜索なのだ！？",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 10913,
-              "endFrame": 11000
-            },
-            {
-              "speaker": "B",
-              "text": "最終的にバイク警官がキャニオン・ロード沿いで馬を追い込んで、駆けつけた飼い主が手綱を取り戻したの。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 11008,
-              "endFrame": 11230
-            },
-            {
-              "speaker": "A",
-              "text": "馬は無事だったのだ？",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 11238,
-              "endFrame": 11292
-            },
-            {
-              "speaker": "B",
-              "text": "ええ、水を一口飲んだだけで、パレードの開始時刻にはスタート地点へちゃんと戻されたわ。けが人もけがをした馬もいなかったの。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 11299,
-              "endFrame": 11575
-            },
-            {
-              "speaker": "A",
-              "text": "大騒ぎだったけど、最後はちゃんと丸く収まったのだな。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 11583,
-              "endFrame": 11721
-            },
-            {
-              "speaker": "B",
-              "text": "警察が追跡の映像を公開して、地元でも話題になっているみたいよ。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 11728,
-              "endFrame": 11887
-            },
-            {
-              "speaker": "A",
-              "text": "バイクにドローンまで使うのだから、街を挙げての大捕物だったのだな。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 11895,
-              "endFrame": 12056
-            },
-            {
-              "speaker": "B",
-              "text": "それでも最後は飼い主のもとへ無事に帰れて、後味の良い結末になったわ。",
-              "section": "パレード直前に脱走した馬、警官と本物のカウボーイが12分間の追跡劇",
-              "startFrame": 12064,
-              "endFrame": 12223
-            },
-            {
-              "speaker": "B",
-              "text": "今日の四題、共通しているのは小さなきっかけが積み重なって記録や物語に育っていくところね。",
-              "section": "まとめ",
-              "startFrame": 12241,
-              "endFrame": 12442
-            },
-            {
-              "speaker": "A",
-              "text": "1組の小袋から10年がかりで世界一になった人、代々の偶然を正式な記録に変えた家族、味を犠牲にせず巨大化したお菓子、そして一瞬の隙に飛び出した馬なのだ。",
-              "section": "まとめ",
-              "startFrame": 12450,
-              "endFrame": 12873
-            },
-            {
-              "speaker": "B",
-              "text": "こだわり抜くタイプと、思いがけず起きるタイプ、両方があったのが面白かったわ。",
-              "section": "まとめ",
-              "startFrame": 12880,
-              "endFrame": 13050
-            },
-            {
-              "speaker": "A",
-              "text": "今日も最後まで聞いてくれてありがとうなのだ！",
-              "section": "まとめ",
-              "startFrame": 13057,
-              "endFrame": 13155
-            },
-            {
-              "speaker": "B",
-              "text": "また明日、新しい珍ニュースでお会いしましょう。",
-              "section": "まとめ",
-              "startFrame": 13163,
-              "endFrame": 13267
-            }
-          ]
-        }
-      },
-      {
-        "mode": "spain",
-        "label": "スペインニュース",
-        "iaId": "news-pickup-2026-09-20-spain",
-        "audioUrl": "https://archive.org/download/news-pickup-2026-09-20-spain/spain_yukkuri.m4a",
-        "markdown": "<h1>スペインニュース（2026年9月20日）</h1>\n<h2>国際情勢（スペイン視点）</h2>\n<ul>\n<li>本日のEl País／El Mundoの国際面は、米国とデンマークがグリーンランドの「安全保障の恒久的統制」で合意したという記事が中心だったが、スペイン政府・スペイン企業・スペイン国民が当事者として直接関わる動きは確認できなかった。件数合わせで取り上げるべき話題ではないため、今回は国内ニュースへ直接進む。</li>\n</ul>\n<h2>スペイン国内ニュース</h2>\n<ul>\n<li>セウタで今年7月30日以前に到着した保護者不在の移民未成年者について、カスティーリャ・イ・レオン、アラゴン、エストレマドゥーラなど<strong>PPとVoxが統治する自治州</strong>が9月に入っても受け入れを続けている。一方でVoxの担当閣僚らは8月26日、同じ子どもたちの移送を拒否し法的に異議申し立てすると発表していた。</li>\n<li>主張と実際の行動が自治州レベルで食い違う構図で、スペインの地方分権と中央・地方の綱引きが典型的に表れた事例である。ユースフンド担当相シラ・レゴは8月31日時点でセウタの保護システムに残る未成年者を1,478人と発表したが、セウタの常設定員はわずか29人しかない。</li>\n<li>2025年制定の勅令（Real Decreto 2/2025）により移送は法的義務とされており、PPとVoxは政治的には反対を叫びながら、法律に従って現場では受け入れを継続している。「議会や党本部での主張」と「県庁・施設の実務」がずれる場面は、日本の「本音と建前」の使い分けとも重なるが、スペインの場合はそのズレが党首討論や記者会見の場でそのまま可視化される点が対照的である。</li>\n</ul>\n<h2>文化・芸能ニュース</h2>\n<ul>\n<li>俳優<strong>カルメン・マチ</strong>が9月19日、サンセバスティアン国際映画祭の会場で2026年のスペイン映画国家賞（Premio Nacional de Cinematografía）をエルネスト・ウルタスン文化相から授与された。審査団は「スペイン映画史上もっとも重要なコメディ女優の一人でありながら、あらゆるジャンルで秀でてきた」と評し、圧倒的な大衆的人気を保ちながら作家主義的な作品にも挑み続けてきた点を挙げた。マチは受賞スピーチで「自分の不安や人見知りの逃げ場だった遊びが、まさか職業になるとは思わなかった」と涙ぐみながら語った。歴代受賞者にはペネロペ・クルス、アントニオ・バンデラスらが並ぶ。</li>\n<li>作家<strong>ハビエル・マリアス</strong>（2022年没）の未発表エッセイ「Escribir un poco más」が、遺稿集『Aquí me paro』の一部としてEl Paísに先行公開された。シェイクスピアを論じた文芸批評家としての顔に加え、映画好き・サッカー好きという私生活に近い側面も収められており、寡作でなかった作家の知られざる断片を伝える内容である。</li>\n<li>両記事に共通するのは、大衆的な人気と批評的な評価を両立させる生き方への評価軸で、これはスペインの文化欄が「売れているかどうか」と「批評家に評価されるか」を対立させず並べて語る傾向をよく表している。</li>\n</ul>\n<h2>フラメンコニュース</h2>\n<ul>\n<li>コルドバの<a href=\"https://teatrocordoba.es/festival-guitarra-cordoba/el-45-festival-de-la-guitarra-de-cordoba-reune-a-las-grandes-figuras-del-flamenco-en-una-edicion-que-celebra-el-70-aniversario-del-cnaf/\">第45回ギターフェスティバル</a>が、コルドバ国立フラメンコ芸術コンクール（CNAF）創設70周年を記念する編成で開催された。ホセミ・カルモナ、ディエゴ・デル・モラオ、フアン・アビチュエラ・ニエト、アントニオ・レイ、アントニオ・サンチェスら現役ギタリストが名を連ね、閉幕はブランカ・デル・レイへのオマージュ公演「La Reina Blanca」の世界初演で締めくくられた。</li>\n<li>ヘレス・デ・ラ・フロンテーラ市主催の「ビエルネス・フラメンコ（金曜フラメンコ）」最終回では、カンテのトマス・ルビチ、チェロ・パントーハ、バルージョと、バイレのソラヤ・クラビホが共演した。地元の市民向け無料公演シリーズで、若手・中堅の地元勢を軸に据える構成が続いている。</li>\n<li>ナバラ州パンプローナでは、第13回「フラメンコ・オン・ファイア」音楽祭と連動する市の企画として、コンデスタブレ会館での2公演に加え、エル・ペレが市庁舎バルコニーから即興で歌う恒例企画、さらに子ども向けのギター・バイレ教室が実施された。フラメンコ発祥の地アンダルシアから遠いナバラでも、行政が音楽祭と組んで無料の市民向け企画を続けている点が興味深い。</li>\n</ul>\n<h2>フラメンコギタリスト列伝</h2>\n<ul>\n<li>今日の主役は<strong>エンリケ・デ・メルチョール（Enrique de Melchor、本名エンリケ・ヒメネス・ラミレス、1950年4月28日 セビリア県マルチェーナ生 – 2012年1月3日マドリード没）</strong>。父は名伴奏者メルチョール・デ・マルチェーナ。12歳でマドリードへ移り、マノロ・カラコルが経営していたタブラオ「ロス・カナステーロス」で修行を積み、15歳でデビューした。</li>\n<li>経歴の中心は「伴奏ギタリストとして最高峰」という評価にある。アントニオ・マイレーナとの初期録音を皮切りに、エル・レブリハーノ、ホセ・メネセ、ホセ・メルセ、エンリケ・モレンテ、フォスフォリート、カルメン・リナレス、そしてカマロン・デ・ラ・イスラまで、20世紀後半を代表するほぼ全ての大歌手と共演・録音した。歌い手ごとに異なる節回しや呼吸を瞬時に吸収し、その歌手の個性を最大限に引き出す対応力の高さが、同世代のパコ・デ・ルシアを驚嘆させたと伝えられる。</li>\n<li>パコ・デ・ルシアとも2シーズンにわたり共演し、国際ツアーを共にした。18歳の時点でヘレスの「フラメンコ学講座国家賞」、ラ・ウニオンの「黄金カスティジェーテ賞」を受賞。1991年以降は独奏家としての活動を本格化させ、ロンドンのクイーン・エリザベス・ホール、マドリード王立劇場、バルセロナのリセウ劇場、ニューヨークのカーネギー・ホールといった一流の舞台でソロ公演を行った。</li>\n<li>ディスコグラフィーは1977年の『La Guitarra Flamenca de Enrique de Melchor』から2005年まで、ソロ・アルバム8枚を数える。1989年の『Bajo la Luna』では、伴奏で鍛えた「歌に寄り添う間」を独奏にそのまま持ち込み、旋律を歌わせる奏法が際立つ。</li>\n<li>代表的な演奏として、<a href=\"https://www.youtube.com/watch?v=6xQ14m2RjDM\">トマティート、マンサニータ、アントニオ・カルモナと共演したブレリアの記録映像</a>を挙げたい。複数のギタリストが同じコンパスの上で異なる個性のファルセータを重ねる場面で、メルチョールの音がどこで主張し、どこで一歩引いて相手を立てるかを聴き比べると、彼が「伴奏の巨匠」と呼ばれた理由がよく分かる。フレーズの粒立ちよりも、他者との呼吸の合わせ方に耳を澄ませるのが聴きどころである。</li>\n<li>父から子へ、そして歌い手から歌い手へと受け継がれた「伴奏の型」は、後進のギタリストたちが独奏へ進む際にも土台として参照され続けている。2012年に61歳で急逝した後も、追悼盤『Recordando a Enrique de Melchor』が編まれ、伴奏芸術の記録として今も聴き継がれている。</li>\n</ul>\n<h2>フラメンコバイレ列伝</h2>\n<ul>\n<li>今日の一人は<strong>マリア・パヘス（María Pagés、本名マリア・ヘスス・パヘス・マドリガル、1963年7月28日セビリア生）</strong>。家族にフラメンコの伝統はなかったが4歳で踊り始め、若くしてアントニオ・ガデスの舞踊団でプロとしてのキャリアを積んだ。</li>\n<li>1990年に自身のカンパニー「マリア・パヘス・コンパニーア」を設立して以降、『Sol y Sombra』（1990年）、『La Tirana』（1998年）、『Autorretrato』（2008年）など20作近い演目を発表してきた。彫刻的な肢体と、際限なく伸びるように見える腕の動きが最大の特徴で、批評では「腕を特権的な付属物としてではなく、意思疎通の武器として扱う」と評される。絵画・詩・建築といった他分野のイメージを取り込みながら、サパテアード（足技）に頼りすぎず上半身の表現で語る作風を築いた。</li>\n<li>代表作の一つが<a href=\"https://www.youtube.com/watch?v=SbJz6JuqAOY\">『Yo, Carmen』</a>。メリメが造形し後世の男性作家たちが繰り返し描き直してきた「宿命の女カルメン」像を脱構築し、生きた一人の女性の声を取り戻そうとする作品である。振付では、静止したまま腕だけが大きく弧を描く場面と、細かく速いブラソ（腕の動き）が連続する場面が対比され、その緩急の切り替えに注目すると、パヘスが「足技の速さ」より「上半身の物語」を優先する踊り手であることが分かる。</li>\n<li>ガデス譲りの演劇的な構成力と、女性の主体性を前面に出すテーマ設定は、後続世代のバイラオーラたちが物語性のある長編作品へ進む道筋を開いた。80代でも現役であることについて「舞台を降りるべき時が来たら降りる」と、年齢による引退圧力に距離を置く発言をしている。</li>\n</ul>\n<h2>フラメンコカンテ列伝</h2>\n<ul>\n<li>今日の一人は<strong>フォスフォリート（Fosforito、本名アントニオ・フェルナンデス・ディアス、1932年コルドバ県プエンテ・ヘニル生 – 2025年11月13日没）</strong>。早熟の歌い手として知られ、若くしてフラメンコ全般への百科事典的な知識を示した。</li>\n<li>1956年、23歳でコルドバの全国フラメンコ芸術コンクールに出場し、5部門すべてで受賞するという同大会史上例のない快挙を成し遂げた。この勝利が、20世紀後半のカンテ・ホンドを代表する歌い手としてのキャリアの起点になった。声は「大地の奥から響くようなしわがれ声」と評され、感情と技巧の均衡を保つ点が特徴とされる。シギリージャやソレアレスからティエントス、ブレリア、タラントまで幅広い様式をこなしつつ、常に純粋主義的で誠実なカンテの姿勢を貫いた。出身地プエンテ・ヘニル固有の様式「サンガノ・デ・プエンテ・ヘニル」を復興させ、自ら歌詞を作詞したことでも知られる。</li>\n<li>後進のカマロン・デ・ラ・イスラは初期のキャリアでフォスフォリートの詩句を用いており、フォスフォリートはソレア・アポラの歌い方をカマロンに直接教えたとも伝えられる。2005年、マラガのセルバンテス劇場で「第5代黄金の鍵（V Llave de Oro del Cante）」を授与され、歴代の巨匠と並ぶ栄誉を得た。</li>\n<li>代表的な録音として、<a href=\"https://www.youtube.com/watch?v=wehoCbPk6eg\">パコ・デ・ルシアの伴奏によるファンダンゴス「Razón de Ser」</a>を挙げたい。自由リズムのファンダンゴが持つ即興的な節回しの中で、フォスフォリートがどこで言葉を伸ばし、どこで一気に切り上げるかを聴くと、彼が評価された「技巧と感情の均衡」が具体的な形として体感できる。2025年11月に93歳で世を去り、カンテ・ホンドの規範を体現した最後の世代の一人として、多くの追悼記事が書かれた。</li>\n</ul>\n<h2>フラメンコギター工房だより</h2>\n<ul>\n<li>過去回の全履歴（グラナダのラ・ギタレリア・ビタル、マラガのDavid Marcos Luthier、セビージャのアルベルト・パントーハ、アルメリアのゲルンディーノ・フェルナンデス（父・子）、コルドバのマヌエル・レジェス、マドリードのコンデ・エルマーノス、グラナダのアントニオ・マリン・モンテロ、ウエルバ／クエンカのビセンテ・カリージョ、バレンシアのアマリオ・ブルゲー、グラナダのダニエル・ヒル・デ・アバジェ、マドリードのパウリーノ・ベルナベ、フェリペ・コンデ、セビリアのフェルナンド・モレノ、フランシスコ・バルバ、マドリード→カバニージャス・デル・カンポのヘロニモ・マテオス、グラナダのホセ・ビヒル・ギターラス、ホセ・ラミレス、ホセ・ロペス・ベジード、ミゲル・ロドリゲス・ベネイト、グラナダのオスカル・ムニョス、コルドバのジョン・レイ）と照合したうえで、今回は未紹介のマドリードの系譜を取り上げる。</li>\n<li>起点は名工<strong>サントス・エルナンデス</strong>（マドリード、1943年没）の工房である。その死後、弟子筋にあたる<strong>マルセロ・バルベロ</strong>（マドリード、アドゥアナ通り23番地）が工房を受け継ぎ、松（表板）・杉（ネック）・糸杉（側板・裏板）を使い分けながら「軽量でありながら音の通りが良い」フラメンコギターを追求したことで知られる。</li>\n<li>1954年、当時22歳だった<strong>アルカンヘル・フェルナンデス</strong>がマルセロ・バルベロのもとへ弟子入りし、1956年3月にバルベロが没した後、未完成だった楽器の仕上げを引き継いだ。1957年7月1日、アルカンヘル・フェルナンデスは自らの工房をマドリード中心部のヘスス・イ・マリア通りに開いた。のちにバルベロの息子（マルセロ・バルベロ・イホ）も工房に加わり、両者は「カサ・アルカンヘル・フェルナンデス」の名で約40年にわたり共同製作を続けた。</li>\n<li>この工房は自作のギターに加え、マヌエル・カセレス、ロレンソ・アルバレス、フェリックス・マンサネロといった若手製作家の楽器も取り扱う店舗を兼ねており、マドリードにおける製作技術の伝承の場としても機能した。アルカンヘル・フェルナンデスは2007年、75歳で新規注文の受付を停止したと伝えられており、公式サイトの現況は本稿執筆時点で確認できなかったため、稼働状況は今後の号で改めて確認する。</li>\n</ul>\n<h2>フラメンコのパロ解説</h2>\n<ul>\n<li>今日のパロは<strong>ロンデーニャ（Rondeña）</strong>。マラガ県ロンダの地名に由来するとされ、広義にはマラガ系ファンダンゴの一群、狭義にはカンテス・デ・マラガに分類される。歌としてのロンデーニャに加え、器楽独奏として発展した「ギターのロンデーニャ」が別に存在する点が他のパロと異なる特徴である。</li>\n<li>歌のロンデーニャは自由リズムまたはアバンドラオ（前のめりのリズム）で歌われ、拍子は流動的である。ギター独奏のロンデーニャは、ミゲル・ボルル（父）が先駆けを作ったとされるが、これを一つの完成された独奏形式へ引き上げたのは<strong>ラモン・モントーヤ</strong>である。モントーヤは1928年、グラモフォン社の録音（AE2269）として初の器楽ロンデーニャを吹き込み、1936年にはパリで別ヴァージョンを再録音した。</li>\n<li>和声面では、フリジア旋法に基づくアンダルシア終止（Am→G→F→E型の進行）を基調にしつつ、独奏用に開放弦を生かした響きの広がりを重視する点が特徴で、拍節を感じさせない自由なテンポの中でこの和声進行が繰り返し現れる構成になっている。カポタストの位置は演奏者や歌い手の声域によって変わり、固定の型は持たない。</li>\n<li><a href=\"https://www.youtube.com/watch?v=3-H4Nn52z0I\">1928年録音のロンデーニャ</a>を聴くと、規則的な拍節を感じさせないまま、低音の和音がゆっくり移り変わっていく様子が分かる。速いパッセージで技巧を誇示する場面と、和音を長く伸ばして間を置く場面が交互に現れ、器楽ロンデーニャが「歌のない歌」として作られていることが聴き取れる。ラモン・モントーヤはこの形式をタランタなど他の自由リズム系パロにも応用し、独奏フラメンコギターというジャンルそのものを切り開いた。</li>\n</ul>\n<h2>まとめ</h2>\n<ul>\n<li>政治は自治州レベルの綱引きに留めて短く伝え、番組の重心はサンセバスティアンでの俳優カルメン・マチの受賞から、コルドバの巨大ギターフェスティバル、そしてエンリケ・デ・メルチョール、マリア・パヘス、フォスフォリート、マドリードの製作系譜、パロ「ロンデーニャ」まで、フラメンコと文化芸能に置いた一日だった。</li>\n</ul>\n<h2>参考ソース</h2>\n<ul>\n<li>ギタリスト列伝：エンリケ・デ・メルチョール「con Tomatito, Manzanita y Antonio Carmona por Bulerías」 https://www.youtube.com/watch?v=6xQ14m2RjDM</li>\n<li>バイレ列伝：マリア・パヘス「Yo, Carmen」 https://www.youtube.com/watch?v=SbJz6JuqAOY</li>\n<li>カンテ列伝：フォスフォリート「Razón de Ser（Fandangos）」with パコ・デ・ルシア https://www.youtube.com/watch?v=wehoCbPk6eg</li>\n<li>工房だより：アルカンヘル・フェルナンデス工房「Arcangel Fernandez workshop」 https://www.youtube.com/watch?v=xFUaLCIdmBo</li>\n<li>パロ解説：ロンデーニャ「Ramón Montoya, Rondeña 1928」 https://www.youtube.com/watch?v=3-H4Nn52z0I</li>\n</ul>",
-        "title": "スペインニュース（2026年9月20日）",
-        "markdownSource": "# スペインニュース（2026年9月20日）\n\n## 国際情勢（スペイン視点）\n\n- 本日のEl País／El Mundoの国際面は、米国とデンマークがグリーンランドの「安全保障の恒久的統制」で合意したという記事が中心だったが、スペイン政府・スペイン企業・スペイン国民が当事者として直接関わる動きは確認できなかった。件数合わせで取り上げるべき話題ではないため、今回は国内ニュースへ直接進む。\n\n## スペイン国内ニュース\n\n- セウタで今年7月30日以前に到着した保護者不在の移民未成年者について、カスティーリャ・イ・レオン、アラゴン、エストレマドゥーラなど**PPとVoxが統治する自治州**が9月に入っても受け入れを続けている。一方でVoxの担当閣僚らは8月26日、同じ子どもたちの移送を拒否し法的に異議申し立てすると発表していた。\n- 主張と実際の行動が自治州レベルで食い違う構図で、スペインの地方分権と中央・地方の綱引きが典型的に表れた事例である。ユースフンド担当相シラ・レゴは8月31日時点でセウタの保護システムに残る未成年者を1,478人と発表したが、セウタの常設定員はわずか29人しかない。\n- 2025年制定の勅令（Real Decreto 2/2025）により移送は法的義務とされており、PPとVoxは政治的には反対を叫びながら、法律に従って現場では受け入れを継続している。「議会や党本部での主張」と「県庁・施設の実務」がずれる場面は、日本の「本音と建前」の使い分けとも重なるが、スペインの場合はそのズレが党首討論や記者会見の場でそのまま可視化される点が対照的である。\n\n## 文化・芸能ニュース\n\n- 俳優**カルメン・マチ**が9月19日、サンセバスティアン国際映画祭の会場で2026年のスペイン映画国家賞（Premio Nacional de Cinematografía）をエルネスト・ウルタスン文化相から授与された。審査団は「スペイン映画史上もっとも重要なコメディ女優の一人でありながら、あらゆるジャンルで秀でてきた」と評し、圧倒的な大衆的人気を保ちながら作家主義的な作品にも挑み続けてきた点を挙げた。マチは受賞スピーチで「自分の不安や人見知りの逃げ場だった遊びが、まさか職業になるとは思わなかった」と涙ぐみながら語った。歴代受賞者にはペネロペ・クルス、アントニオ・バンデラスらが並ぶ。\n- 作家**ハビエル・マリアス**（2022年没）の未発表エッセイ「Escribir un poco más」が、遺稿集『Aquí me paro』の一部としてEl Paísに先行公開された。シェイクスピアを論じた文芸批評家としての顔に加え、映画好き・サッカー好きという私生活に近い側面も収められており、寡作でなかった作家の知られざる断片を伝える内容である。\n- 両記事に共通するのは、大衆的な人気と批評的な評価を両立させる生き方への評価軸で、これはスペインの文化欄が「売れているかどうか」と「批評家に評価されるか」を対立させず並べて語る傾向をよく表している。\n\n## フラメンコニュース\n\n- コルドバの[第45回ギターフェスティバル](https://teatrocordoba.es/festival-guitarra-cordoba/el-45-festival-de-la-guitarra-de-cordoba-reune-a-las-grandes-figuras-del-flamenco-en-una-edicion-que-celebra-el-70-aniversario-del-cnaf/)が、コルドバ国立フラメンコ芸術コンクール（CNAF）創設70周年を記念する編成で開催された。ホセミ・カルモナ、ディエゴ・デル・モラオ、フアン・アビチュエラ・ニエト、アントニオ・レイ、アントニオ・サンチェスら現役ギタリストが名を連ね、閉幕はブランカ・デル・レイへのオマージュ公演「La Reina Blanca」の世界初演で締めくくられた。\n- ヘレス・デ・ラ・フロンテーラ市主催の「ビエルネス・フラメンコ（金曜フラメンコ）」最終回では、カンテのトマス・ルビチ、チェロ・パントーハ、バルージョと、バイレのソラヤ・クラビホが共演した。地元の市民向け無料公演シリーズで、若手・中堅の地元勢を軸に据える構成が続いている。\n- ナバラ州パンプローナでは、第13回「フラメンコ・オン・ファイア」音楽祭と連動する市の企画として、コンデスタブレ会館での2公演に加え、エル・ペレが市庁舎バルコニーから即興で歌う恒例企画、さらに子ども向けのギター・バイレ教室が実施された。フラメンコ発祥の地アンダルシアから遠いナバラでも、行政が音楽祭と組んで無料の市民向け企画を続けている点が興味深い。\n\n## フラメンコギタリスト列伝\n\n- 今日の主役は**エンリケ・デ・メルチョール（Enrique de Melchor、本名エンリケ・ヒメネス・ラミレス、1950年4月28日 セビリア県マルチェーナ生 – 2012年1月3日マドリード没）**。父は名伴奏者メルチョール・デ・マルチェーナ。12歳でマドリードへ移り、マノロ・カラコルが経営していたタブラオ「ロス・カナステーロス」で修行を積み、15歳でデビューした。\n- 経歴の中心は「伴奏ギタリストとして最高峰」という評価にある。アントニオ・マイレーナとの初期録音を皮切りに、エル・レブリハーノ、ホセ・メネセ、ホセ・メルセ、エンリケ・モレンテ、フォスフォリート、カルメン・リナレス、そしてカマロン・デ・ラ・イスラまで、20世紀後半を代表するほぼ全ての大歌手と共演・録音した。歌い手ごとに異なる節回しや呼吸を瞬時に吸収し、その歌手の個性を最大限に引き出す対応力の高さが、同世代のパコ・デ・ルシアを驚嘆させたと伝えられる。\n- パコ・デ・ルシアとも2シーズンにわたり共演し、国際ツアーを共にした。18歳の時点でヘレスの「フラメンコ学講座国家賞」、ラ・ウニオンの「黄金カスティジェーテ賞」を受賞。1991年以降は独奏家としての活動を本格化させ、ロンドンのクイーン・エリザベス・ホール、マドリード王立劇場、バルセロナのリセウ劇場、ニューヨークのカーネギー・ホールといった一流の舞台でソロ公演を行った。\n- ディスコグラフィーは1977年の『La Guitarra Flamenca de Enrique de Melchor』から2005年まで、ソロ・アルバム8枚を数える。1989年の『Bajo la Luna』では、伴奏で鍛えた「歌に寄り添う間」を独奏にそのまま持ち込み、旋律を歌わせる奏法が際立つ。\n- 代表的な演奏として、[トマティート、マンサニータ、アントニオ・カルモナと共演したブレリアの記録映像](https://www.youtube.com/watch?v=6xQ14m2RjDM)を挙げたい。複数のギタリストが同じコンパスの上で異なる個性のファルセータを重ねる場面で、メルチョールの音がどこで主張し、どこで一歩引いて相手を立てるかを聴き比べると、彼が「伴奏の巨匠」と呼ばれた理由がよく分かる。フレーズの粒立ちよりも、他者との呼吸の合わせ方に耳を澄ませるのが聴きどころである。\n- 父から子へ、そして歌い手から歌い手へと受け継がれた「伴奏の型」は、後進のギタリストたちが独奏へ進む際にも土台として参照され続けている。2012年に61歳で急逝した後も、追悼盤『Recordando a Enrique de Melchor』が編まれ、伴奏芸術の記録として今も聴き継がれている。\n\n## フラメンコバイレ列伝\n\n- 今日の一人は**マリア・パヘス（María Pagés、本名マリア・ヘスス・パヘス・マドリガル、1963年7月28日セビリア生）**。家族にフラメンコの伝統はなかったが4歳で踊り始め、若くしてアントニオ・ガデスの舞踊団でプロとしてのキャリアを積んだ。\n- 1990年に自身のカンパニー「マリア・パヘス・コンパニーア」を設立して以降、『Sol y Sombra』（1990年）、『La Tirana』（1998年）、『Autorretrato』（2008年）など20作近い演目を発表してきた。彫刻的な肢体と、際限なく伸びるように見える腕の動きが最大の特徴で、批評では「腕を特権的な付属物としてではなく、意思疎通の武器として扱う」と評される。絵画・詩・建築といった他分野のイメージを取り込みながら、サパテアード（足技）に頼りすぎず上半身の表現で語る作風を築いた。\n- 代表作の一つが[『Yo, Carmen』](https://www.youtube.com/watch?v=SbJz6JuqAOY)。メリメが造形し後世の男性作家たちが繰り返し描き直してきた「宿命の女カルメン」像を脱構築し、生きた一人の女性の声を取り戻そうとする作品である。振付では、静止したまま腕だけが大きく弧を描く場面と、細かく速いブラソ（腕の動き）が連続する場面が対比され、その緩急の切り替えに注目すると、パヘスが「足技の速さ」より「上半身の物語」を優先する踊り手であることが分かる。\n- ガデス譲りの演劇的な構成力と、女性の主体性を前面に出すテーマ設定は、後続世代のバイラオーラたちが物語性のある長編作品へ進む道筋を開いた。80代でも現役であることについて「舞台を降りるべき時が来たら降りる」と、年齢による引退圧力に距離を置く発言をしている。\n\n## フラメンコカンテ列伝\n\n- 今日の一人は**フォスフォリート（Fosforito、本名アントニオ・フェルナンデス・ディアス、1932年コルドバ県プエンテ・ヘニル生 – 2025年11月13日没）**。早熟の歌い手として知られ、若くしてフラメンコ全般への百科事典的な知識を示した。\n- 1956年、23歳でコルドバの全国フラメンコ芸術コンクールに出場し、5部門すべてで受賞するという同大会史上例のない快挙を成し遂げた。この勝利が、20世紀後半のカンテ・ホンドを代表する歌い手としてのキャリアの起点になった。声は「大地の奥から響くようなしわがれ声」と評され、感情と技巧の均衡を保つ点が特徴とされる。シギリージャやソレアレスからティエントス、ブレリア、タラントまで幅広い様式をこなしつつ、常に純粋主義的で誠実なカンテの姿勢を貫いた。出身地プエンテ・ヘニル固有の様式「サンガノ・デ・プエンテ・ヘニル」を復興させ、自ら歌詞を作詞したことでも知られる。\n- 後進のカマロン・デ・ラ・イスラは初期のキャリアでフォスフォリートの詩句を用いており、フォスフォリートはソレア・アポラの歌い方をカマロンに直接教えたとも伝えられる。2005年、マラガのセルバンテス劇場で「第5代黄金の鍵（V Llave de Oro del Cante）」を授与され、歴代の巨匠と並ぶ栄誉を得た。\n- 代表的な録音として、[パコ・デ・ルシアの伴奏によるファンダンゴス「Razón de Ser」](https://www.youtube.com/watch?v=wehoCbPk6eg)を挙げたい。自由リズムのファンダンゴが持つ即興的な節回しの中で、フォスフォリートがどこで言葉を伸ばし、どこで一気に切り上げるかを聴くと、彼が評価された「技巧と感情の均衡」が具体的な形として体感できる。2025年11月に93歳で世を去り、カンテ・ホンドの規範を体現した最後の世代の一人として、多くの追悼記事が書かれた。\n\n## フラメンコギター工房だより\n\n- 過去回の全履歴（グラナダのラ・ギタレリア・ビタル、マラガのDavid Marcos Luthier、セビージャのアルベルト・パントーハ、アルメリアのゲルンディーノ・フェルナンデス（父・子）、コルドバのマヌエル・レジェス、マドリードのコンデ・エルマーノス、グラナダのアントニオ・マリン・モンテロ、ウエルバ／クエンカのビセンテ・カリージョ、バレンシアのアマリオ・ブルゲー、グラナダのダニエル・ヒル・デ・アバジェ、マドリードのパウリーノ・ベルナベ、フェリペ・コンデ、セビリアのフェルナンド・モレノ、フランシスコ・バルバ、マドリード→カバニージャス・デル・カンポのヘロニモ・マテオス、グラナダのホセ・ビヒル・ギターラス、ホセ・ラミレス、ホセ・ロペス・ベジード、ミゲル・ロドリゲス・ベネイト、グラナダのオスカル・ムニョス、コルドバのジョン・レイ）と照合したうえで、今回は未紹介のマドリードの系譜を取り上げる。\n- 起点は名工**サントス・エルナンデス**（マドリード、1943年没）の工房である。その死後、弟子筋にあたる**マルセロ・バルベロ**（マドリード、アドゥアナ通り23番地）が工房を受け継ぎ、松（表板）・杉（ネック）・糸杉（側板・裏板）を使い分けながら「軽量でありながら音の通りが良い」フラメンコギターを追求したことで知られる。\n- 1954年、当時22歳だった**アルカンヘル・フェルナンデス**がマルセロ・バルベロのもとへ弟子入りし、1956年3月にバルベロが没した後、未完成だった楽器の仕上げを引き継いだ。1957年7月1日、アルカンヘル・フェルナンデスは自らの工房をマドリード中心部のヘスス・イ・マリア通りに開いた。のちにバルベロの息子（マルセロ・バルベロ・イホ）も工房に加わり、両者は「カサ・アルカンヘル・フェルナンデス」の名で約40年にわたり共同製作を続けた。\n- この工房は自作のギターに加え、マヌエル・カセレス、ロレンソ・アルバレス、フェリックス・マンサネロといった若手製作家の楽器も取り扱う店舗を兼ねており、マドリードにおける製作技術の伝承の場としても機能した。アルカンヘル・フェルナンデスは2007年、75歳で新規注文の受付を停止したと伝えられており、公式サイトの現況は本稿執筆時点で確認できなかったため、稼働状況は今後の号で改めて確認する。\n\n## フラメンコのパロ解説\n\n- 今日のパロは**ロンデーニャ（Rondeña）**。マラガ県ロンダの地名に由来するとされ、広義にはマラガ系ファンダンゴの一群、狭義にはカンテス・デ・マラガに分類される。歌としてのロンデーニャに加え、器楽独奏として発展した「ギターのロンデーニャ」が別に存在する点が他のパロと異なる特徴である。\n- 歌のロンデーニャは自由リズムまたはアバンドラオ（前のめりのリズム）で歌われ、拍子は流動的である。ギター独奏のロンデーニャは、ミゲル・ボルル（父）が先駆けを作ったとされるが、これを一つの完成された独奏形式へ引き上げたのは**ラモン・モントーヤ**である。モントーヤは1928年、グラモフォン社の録音（AE2269）として初の器楽ロンデーニャを吹き込み、1936年にはパリで別ヴァージョンを再録音した。\n- 和声面では、フリジア旋法に基づくアンダルシア終止（Am→G→F→E型の進行）を基調にしつつ、独奏用に開放弦を生かした響きの広がりを重視する点が特徴で、拍節を感じさせない自由なテンポの中でこの和声進行が繰り返し現れる構成になっている。カポタストの位置は演奏者や歌い手の声域によって変わり、固定の型は持たない。\n- [1928年録音のロンデーニャ](https://www.youtube.com/watch?v=3-H4Nn52z0I)を聴くと、規則的な拍節を感じさせないまま、低音の和音がゆっくり移り変わっていく様子が分かる。速いパッセージで技巧を誇示する場面と、和音を長く伸ばして間を置く場面が交互に現れ、器楽ロンデーニャが「歌のない歌」として作られていることが聴き取れる。ラモン・モントーヤはこの形式をタランタなど他の自由リズム系パロにも応用し、独奏フラメンコギターというジャンルそのものを切り開いた。\n\n## まとめ\n\n- 政治は自治州レベルの綱引きに留めて短く伝え、番組の重心はサンセバスティアンでの俳優カルメン・マチの受賞から、コルドバの巨大ギターフェスティバル、そしてエンリケ・デ・メルチョール、マリア・パヘス、フォスフォリート、マドリードの製作系譜、パロ「ロンデーニャ」まで、フラメンコと文化芸能に置いた一日だった。\n\n## 参考ソース\n\n- ギタリスト列伝：エンリケ・デ・メルチョール「con Tomatito, Manzanita y Antonio Carmona por Bulerías」 https://www.youtube.com/watch?v=6xQ14m2RjDM\n- バイレ列伝：マリア・パヘス「Yo, Carmen」 https://www.youtube.com/watch?v=SbJz6JuqAOY\n- カンテ列伝：フォスフォリート「Razón de Ser（Fandangos）」with パコ・デ・ルシア https://www.youtube.com/watch?v=wehoCbPk6eg\n- 工房だより：アルカンヘル・フェルナンデス工房「Arcangel Fernandez workshop」 https://www.youtube.com/watch?v=xFUaLCIdmBo\n- パロ解説：ロンデーニャ「Ramón Montoya, Rondeña 1928」 https://www.youtube.com/watch?v=3-H4Nn52z0I\n",
-        "timeline": {
-          "version": 1,
-          "source": "tts_voicevox",
-          "fps": 30,
-          "totalFrames": 29696,
-          "audioDurationSec": 989.866667,
-          "cues": [
-            {
-              "speaker": "A",
-              "text": "オラ！みんな、こんにちはなのだ！2026年9月20日のスペインニュースをお届けするのだ！",
-              "section": "オープニング",
-              "startFrame": 18,
-              "endFrame": 252
-            },
-            {
-              "speaker": "B",
-              "text": "ブエノス・ディアス。四国めたんよ。今日もスペインのニュースをお届けするわ。",
-              "section": "オープニング",
-              "startFrame": 260,
-              "endFrame": 425
-            },
-            {
-              "speaker": "A",
-              "text": "スペイン語の挨拶ができたのだ！なんかかっこいいのだ！",
-              "section": "オープニング",
-              "startFrame": 432,
-              "endFrame": 557
-            },
-            {
-              "speaker": "B",
-              "text": "オラは「こんにちは」、ブエノス・ディアスは「おはようございます」よ。今日も情熱の国イスパニアから届いたニュースを見ていきましょう。",
-              "section": "オープニング",
-              "startFrame": 565,
-              "endFrame": 854
-            },
-            {
-              "speaker": "B",
-              "text": "今日の国際面は、アメリカとデンマークがグリーンランドの安全保障で合意したという話が中心だったの。でもスペインの政府や企業が直接関わっている形跡はなかったわ。",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 872,
-              "endFrame": 1229
-            },
-            {
-              "speaker": "A",
-              "text": "スペインが当事者じゃない話は今日は無理に取り上げないのだ！さっそく国内へ行くのだ！",
-              "section": "国際情勢（スペイン視点）",
-              "startFrame": 1237,
-              "endFrame": 1435
-            },
-            {
-              "speaker": "B",
-              "text": "セウタに7月30日より前に着いた保護者のいない移民の子どもたちを、カスティーリャ・イ・レオンやアラゴン、エストレマドゥーラといったPPとVoxが治める自治州が、9月に入っても受け入れ続けているの。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 1453,
-              "endFrame": 1919
-            },
-            {
-              "speaker": "A",
-              "text": "でもその政党って移民の子どもの受け入れに反対してたはずなのだ？",
-              "section": "スペイン国内ニュース",
-              "startFrame": 1927,
-              "endFrame": 2080
-            },
-            {
-              "speaker": "B",
-              "text": "そうなのよ。Voxの担当閣僚たちは8月26日に「移送を拒否して法的に争う」と発表していたわ。でも法律は2025年の勅令で移送を義務にしているから、現場の施設では結局受け入れているの。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2088,
-              "endFrame": 2569
-            },
-            {
-              "speaker": "A",
-              "text": "言ってることとやってることが違うのだ！",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2577,
-              "endFrame": 2662
-            },
-            {
-              "speaker": "B",
-              "text": "数字で見るともっと深刻よ。ユースフンド担当相のシラ・レゴは8月31日時点でセウタの保護システムに残る子どもを1,478人と発表したけれど、セウタの常設定員はたった29人しかないの。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 2669,
-              "endFrame": 3141
-            },
-            {
-              "speaker": "A",
-              "text": "29人分しかないところに1,478人なのだ!?",
-              "section": "スペイン国内ニュース",
-              "startFrame": 3148,
-              "endFrame": 3296
-            },
-            {
-              "speaker": "B",
-              "text": "だから他の自治州が受け入れざるを得ない。演説では反対、現場では受け入れなの。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 3304,
-              "endFrame": 3483
-            },
-            {
-              "speaker": "B",
-              "text": "この本音と建前のずれ方は日本の会議での建前と現場対応の違いにも少し似ているけれど、スペインの場合は記者会見でそのまま矛盾が可視化されるところが対照的ね。",
-              "section": "スペイン国内ニュース",
-              "startFrame": 3490,
-              "endFrame": 3838
-            },
-            {
-              "speaker": "B",
-              "text": "女優のカルメン・マチが9月19日、サンセバスティアン国際映画祭でスペイン映画国家賞を受け取ったの。授与したのはウルタスン文化相よ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 3856,
-              "endFrame": 4166
-            },
-            {
-              "speaker": "A",
-              "text": "どんな人なのだ？",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4174,
-              "endFrame": 4220
-            },
-            {
-              "speaker": "B",
-              "text": "審査団は「スペイン映画史上もっとも重要なコメディ女優の一人でありながら、あらゆるジャンルで秀でてきた」と評したわ。大衆的な人気と作家主義的な作品への挑戦を両立させてきた人なの。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4227,
-              "endFrame": 4635
-            },
-            {
-              "speaker": "A",
-              "text": "本人はなんて言ってたのだ？",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4643,
-              "endFrame": 4710
-            },
-            {
-              "speaker": "B",
-              "text": "「自分の不安や人見知りの逃げ場だった遊びが、まさか職業になるとは思わなかった」と、涙ぐみながら語ったそうよ。歴代受賞者にはペネロペ・クルスやアントニオ・バンデラスも名を連ねているわ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 4718,
-              "endFrame": 5149
-            },
-            {
-              "speaker": "A",
-              "text": "もう一つ、作家の話もあるのだ？",
-              "section": "文化・芸能ニュース",
-              "startFrame": 5156,
-              "endFrame": 5253
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。2022年に亡くなった作家ハビエル・マリアスの未発表エッセイが、遺稿集の一部としてエル・パイス紙に先行公開されたの。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 5261,
-              "endFrame": 5572
-            },
-            {
-              "speaker": "B",
-              "text": "シェイクスピア論に加えて、映画好き・サッカー好きという私生活に近い顔も見える内容よ。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 5580,
-              "endFrame": 5784
-            },
-            {
-              "speaker": "A",
-              "text": "二つとも、人気と評価が両方あるところが共通しているのだ！",
-              "section": "文化・芸能ニュース",
-              "startFrame": 5791,
-              "endFrame": 5944
-            },
-            {
-              "speaker": "B",
-              "text": "そのとおり。スペインの文化欄は「売れているか」と「評価されているか」を対立させずに並べて語る傾向があるの。",
-              "section": "文化・芸能ニュース",
-              "startFrame": 5951,
-              "endFrame": 6221
-            },
-            {
-              "speaker": "A",
-              "text": "フラメンコのニュースも三つあるのだ！",
-              "section": "フラメンコニュース",
-              "startFrame": 6239,
-              "endFrame": 6319
-            },
-            {
-              "speaker": "B",
-              "text": "一つ目はコルドバの第45回ギターフェスティバル。CNAF創設70周年を記念する編成で、ホセミ・カルモナやディエゴ・デル・モラオ、アントニオ・レイら現役ギタリストが顔を揃えたわ。",
-              "section": "フラメンコニュース",
-              "startFrame": 6327,
-              "endFrame": 6769
-            },
-            {
-              "speaker": "B",
-              "text": "閉幕はブランカ・デル・レイへのオマージュ公演「ラ・レイナ・ブランカ」の世界初演だったの。",
-              "section": "フラメンコニュース",
-              "startFrame": 6777,
-              "endFrame": 7033
-            },
-            {
-              "speaker": "A",
-              "text": "豪華なのだ!",
-              "section": "フラメンコニュース",
-              "startFrame": 7040,
-              "endFrame": 7076
-            },
-            {
-              "speaker": "B",
-              "text": "二つ目はヘレス・デ・ラ・フロンテーラ市の「ビエルネス・フラメンコ」最終回。カンテのトマス・ルビチ、チェロ・パントーハ、バルージョと、バイレのソラヤ・クラビホが共演したの。",
-              "section": "フラメンコニュース",
-              "startFrame": 7084,
-              "endFrame": 7570
-            },
-            {
-              "speaker": "B",
-              "text": "市民向けの無料公演で、地元の若手・中堅を軸にしているわ。",
-              "section": "フラメンコニュース",
-              "startFrame": 7578,
-              "endFrame": 7734
-            },
-            {
-              "speaker": "A",
-              "text": "三つ目はどこなのだ？",
-              "section": "フラメンコニュース",
-              "startFrame": 7742,
-              "endFrame": 7799
-            },
-            {
-              "speaker": "B",
-              "text": "ナバラ州パンプローナ。第13回「フラメンコ・オン・ファイア」音楽祭に合わせて、エル・ペレが市庁舎のバルコニーから即興で歌う恒例企画と、子ども向けのギター・バイレ教室が開かれたの。",
-              "section": "フラメンコニュース",
-              "startFrame": 7807,
-              "endFrame": 8292
-            },
-            {
-              "speaker": "A",
-              "text": "アンダルシアから遠いパンプローナでもやるのだ！",
-              "section": "フラメンコニュース",
-              "startFrame": 8300,
-              "endFrame": 8401
-            },
-            {
-              "speaker": "B",
-              "text": "発祥地から離れた土地でも、行政が音楽祭と組んで市民向けの無料企画を続けているのが面白いところね。",
-              "section": "フラメンコニュース",
-              "startFrame": 8409,
-              "endFrame": 8635
-            },
-            {
-              "speaker": "B",
-              "text": "今日のフラメンコギタリスト列伝は、エンリケ・デ・メルチョールよ。本名エンリケ・ヒメネス・ラミレス。1950年4月28日、セビリア県マルチェーナに生まれて、2012年1月3日にマドリードで亡くなったの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 8653,
-              "endFrame": 9189
-            },
-            {
-              "speaker": "A",
-              "text": "どんな家に生まれたのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9196,
-              "endFrame": 9257
-            },
-            {
-              "speaker": "B",
-              "text": "父は名伴奏者メルチョール・デ・マルチェーナ。12歳でマドリードに移って、マノロ・カラコルが経営するタブラオ「ロス・カナステーロス」で修行を積み、15歳でデビューしたわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9265,
-              "endFrame": 9656
-            },
-            {
-              "speaker": "A",
-              "text": "若いのだ!",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9664,
-              "endFrame": 9695
-            },
-            {
-              "speaker": "B",
-              "text": "経歴の中心は「伴奏ギタリストとして最高峰」という評価。アントニオ・マイレーナとの初期録音を皮切りに、エル・レブリハーノ、ホセ・メネセ、ホセ・メルセ、エンリケ・モレンテらと共演したの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 9703,
-              "endFrame": 10205
-            },
-            {
-              "speaker": "B",
-              "text": "さらにフォスフォリート、カルメン・リナレス、そしてカマロン・デ・ラ・イスラまで、20世紀後半のほぼ全ての大歌手と共演したわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10213,
-              "endFrame": 10548
-            },
-            {
-              "speaker": "A",
-              "text": "ほぼ全員なのだ!?",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10555,
-              "endFrame": 10605
-            },
-            {
-              "speaker": "B",
-              "text": "歌い手ごとに違う節回しや呼吸を瞬時に吸収して、その歌手の個性を最大限に引き出す対応力が持ち味だった。同世代のパコ・デ・ルシアを驚嘆させたと伝えられているわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 10613,
-              "endFrame": 11015
-            },
-            {
-              "speaker": "A",
-              "text": "パコ・デ・ルシアが驚くほどなのだ!",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11022,
-              "endFrame": 11138
-            },
-            {
-              "speaker": "B",
-              "text": "パコ・デ・ルシアとも2シーズン共演して国際ツアーを回っているの。18歳でヘレスの「フラメンコ学講座国家賞」、ラ・ウニオンの「黄金カスティジェーテ賞」を受賞したわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11146,
-              "endFrame": 11581
-            },
-            {
-              "speaker": "B",
-              "text": "1991年からは独奏家としても本格的に活動したの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11588,
-              "endFrame": 11737
-            },
-            {
-              "speaker": "A",
-              "text": "どんな舞台に立ったのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11744,
-              "endFrame": 11806
-            },
-            {
-              "speaker": "B",
-              "text": "ロンドンのクイーン・エリザベス・ホール、マドリード王立劇場、バルセロナのリセウ劇場、ニューヨークのカーネギー・ホール。一流ホールを回ってソロ公演をしているの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 11814,
-              "endFrame": 12186
-            },
-            {
-              "speaker": "A",
-              "text": "すごいのだ!",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 12193,
-              "endFrame": 12225
-            },
-            {
-              "speaker": "B",
-              "text": "ディスコグラフィーは1977年の『ラ・ギタラ・フラメンカ・デ・エンリケ・デ・メルチョール』から2005年まで、ソロ・アルバム8枚を数えるわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 12232,
-              "endFrame": 12652
-            },
-            {
-              "speaker": "B",
-              "text": "1989年の『バホ・ラ・ルナ』では、伴奏で鍛えた「歌に寄り添う間」をそのまま独奏に持ち込んで、旋律を歌わせているの。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 12659,
-              "endFrame": 13027
-            },
-            {
-              "speaker": "A",
-              "text": "実際どんな演奏が聴けるのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 13034,
-              "endFrame": 13114
-            },
-            {
-              "speaker": "B",
-              "text": "トマティート、マンサニータ、アントニオ・カルモナと共演したブレリアの記録映像がおすすめよ。リンクは記事本文にあるわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 13121,
-              "endFrame": 13387
-            },
-            {
-              "speaker": "B",
-              "text": "複数のギタリストが同じコンパスの上で違う個性のファルセータを重ねる場面で、メルチョールの音がどこで主張して、どこで一歩引いて相手を立てるかを聴き比べてみて。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 13394,
-              "endFrame": 13726
-            },
-            {
-              "speaker": "A",
-              "text": "一歩引くところにも意味があるのだ？",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 13734,
-              "endFrame": 13816
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。フレーズの粒立ちよりも、他者との呼吸の合わせ方に耳を澄ませるのが聴きどころなの。それが「伴奏の巨匠」と呼ばれた理由がよく分かるところよ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 13823,
-              "endFrame": 14164
-            },
-            {
-              "speaker": "A",
-              "text": "父から子へ、歌い手から歌い手へと受け継がれた技なのだ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 14172,
-              "endFrame": 14313
-            },
-            {
-              "speaker": "B",
-              "text": "そのとおり。2012年に61歳で急逝した後も追悼盤『レコルダンド・ア・エンリケ・デ・メルチョール』が編まれて、伴奏芸術の記録として今も聴き継がれているわ。",
-              "section": "フラメンコギタリスト列伝",
-              "startFrame": 14320,
-              "endFrame": 14777
-            },
-            {
-              "speaker": "A",
-              "text": "次はバイレ列伝なのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14795,
-              "endFrame": 14858
-            },
-            {
-              "speaker": "B",
-              "text": "今日はマリア・パヘス。本名マリア・ヘスス・パヘス・マドリガル、1963年7月28日セビリア生まれよ。家族にフラメンコの伝統はなかったけれど、4歳で踊り始めたの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 14865,
-              "endFrame": 15323
-            },
-            {
-              "speaker": "A",
-              "text": "意外なのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15331,
-              "endFrame": 15363
-            },
-            {
-              "speaker": "B",
-              "text": "若くしてアントニオ・ガデスの舞踊団でプロのキャリアを積んで、1990年に自分のカンパニーを立ち上げたわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15371,
-              "endFrame": 15616
-            },
-            {
-              "speaker": "B",
-              "text": "以来『ソル・イ・ソンブラ』『ラ・ティラーナ』『アウトレトラート』など、20作近い演目を発表してきたの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15624,
-              "endFrame": 15929
-            },
-            {
-              "speaker": "A",
-              "text": "どんな踊りなのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15936,
-              "endFrame": 15986
-            },
-            {
-              "speaker": "B",
-              "text": "彫刻的な体つきと、際限なく伸びるように見える腕の動きが最大の特徴。批評では「腕を特権的な付属物ではなく、意思疎通の武器として扱う」と評されているわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 15993,
-              "endFrame": 16378
-            },
-            {
-              "speaker": "B",
-              "text": "絵画や詩、建築のイメージを取り込みながら、足技の速さより上半身の表現で語る作風なの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 16386,
-              "endFrame": 16607
-            },
-            {
-              "speaker": "A",
-              "text": "代表作を教えてほしいのだ！",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 16615,
-              "endFrame": 16691
-            },
-            {
-              "speaker": "B",
-              "text": "代表作の一つが『ヨ、カルメン』よ。リンクは記事本文にあるわ。メリメが造形して男性作家たちが繰り返し描き直してきた「宿命の女カルメン」像を脱構築して、生きた一人の女性の声を取り戻そうとする作品なの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 16699,
-              "endFrame": 17229
-            },
-            {
-              "speaker": "A",
-              "text": "見どころはどこなのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 17236,
-              "endFrame": 17294
-            },
-            {
-              "speaker": "B",
-              "text": "静止したまま腕だけが大きく弧を描く場面と、細かく速いブラソが連続する場面が対比されているの。その緩急に注目すると、足技よりも上半身の物語を優先する踊り手だということが分かるわ。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 17301,
-              "endFrame": 17734
-            },
-            {
-              "speaker": "A",
-              "text": "80代の今も現役なのだ？",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 17742,
-              "endFrame": 17825
-            },
-            {
-              "speaker": "B",
-              "text": "ええ。年齢による引退圧力について「舞台を降りるべき時が来たら降りる」と語っていて、後続世代のバイラオーラたちが物語性のある長編作品へ進む道筋を開いた人でもあるの。",
-              "section": "フラメンコバイレ列伝",
-              "startFrame": 17832,
-              "endFrame": 18245
-            },
-            {
-              "speaker": "A",
-              "text": "続いてカンテ列伝なのだ！",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18263,
-              "endFrame": 18329
-            },
-            {
-              "speaker": "B",
-              "text": "今日はフォスフォリート。本名アントニオ・フェルナンデス・ディアス、1932年コルドバ県プエンテ・ヘニル生まれで、2025年11月13日に亡くなったばかりの人なの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18336,
-              "endFrame": 18744
-            },
-            {
-              "speaker": "A",
-              "text": "つい最近なのだ……",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18752,
-              "endFrame": 18800
-            },
-            {
-              "speaker": "B",
-              "text": "早熟の歌い手として、若くしてフラメンコ全般への百科事典的な知識を示していたわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 18807,
-              "endFrame": 18993
-            },
-            {
-              "speaker": "B",
-              "text": "転機は1956年、23歳でコルドバの全国フラメンコ芸術コンクールに出場して、5部門すべてで受賞したこと。この大会史上例のない快挙よ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19000,
-              "endFrame": 19354
-            },
-            {
-              "speaker": "A",
-              "text": "5部門全部なのだ!?",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19361,
-              "endFrame": 19416
-            },
-            {
-              "speaker": "B",
-              "text": "声は「大地の奥から響くようなしわがれ声」と評されていて、感情と技巧の均衡を保つのが特徴よ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19423,
-              "endFrame": 19665
-            },
-            {
-              "speaker": "B",
-              "text": "シギリージャやソレアレスからティエントス、ブレリア、タラントまで幅広くこなしながら、常に純粋主義的なカンテを貫いたの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19672,
-              "endFrame": 19933
-            },
-            {
-              "speaker": "A",
-              "text": "若い世代とのつながりもあるのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 19941,
-              "endFrame": 20024
-            },
-            {
-              "speaker": "B",
-              "text": "カマロン・デ・ラ・イスラは初期のキャリアでフォスフォリートの詩句を使っていたし、ソレア・アポラの歌い方を直接教えたとも伝えられているわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 20032,
-              "endFrame": 20360
-            },
-            {
-              "speaker": "B",
-              "text": "2005年にはマラガのセルバンテス劇場で「第5代黄金の鍵」を授与されているの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 20368,
-              "endFrame": 20552
-            },
-            {
-              "speaker": "A",
-              "text": "どんな録音を聴けばいいのだ？",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 20560,
-              "endFrame": 20633
-            },
-            {
-              "speaker": "B",
-              "text": "パコ・デ・ルシアの伴奏によるファンダンゴス「ラソン・デ・セール」がおすすめよ。リンクは記事本文にあるわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 20640,
-              "endFrame": 20945
-            },
-            {
-              "speaker": "B",
-              "text": "自由リズムの節回しの中で、どこで言葉を伸ばして、どこで一気に切り上げるかを聴くと、評価された「技巧と感情の均衡」が体感できるの。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 20952,
-              "endFrame": 21268
-            },
-            {
-              "speaker": "A",
-              "text": "カンテ・ホンドの生き証人だったのだ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 21275,
-              "endFrame": 21370
-            },
-            {
-              "speaker": "B",
-              "text": "93歳で世を去って、カンテ・ホンドの規範を体現した最後の世代の一人として、多くの追悼記事が書かれたわ。",
-              "section": "フラメンコカンテ列伝",
-              "startFrame": 21377,
-              "endFrame": 21629
-            },
-            {
-              "speaker": "B",
-              "text": "工房だよりは、過去に紹介した全部の工房と照合してから選んでいるの。今日はまだ紹介していないマドリードの系譜を取り上げるわ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21647,
-              "endFrame": 21920
-            },
-            {
-              "speaker": "A",
-              "text": "マドリードなのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21927,
-              "endFrame": 21975
-            },
-            {
-              "speaker": "B",
-              "text": "起点は名工サントス・エルナンデスの工房。1943年に亡くなった後、弟子筋にあたるマルセロ・バルベロがアドゥアナ通り23番地で工房を受け継いだわ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 21982,
-              "endFrame": 22354
-            },
-            {
-              "speaker": "B",
-              "text": "松の表板、杉のネック、糸杉の側板と裏板を使い分けて、軽量でも音の通りが良いギターを追求したの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 22362,
-              "endFrame": 22620
-            },
-            {
-              "speaker": "A",
-              "text": "弟子から弟子へつながっていくのだ！",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 22628,
-              "endFrame": 22703
-            },
-            {
-              "speaker": "B",
-              "text": "1954年、当時22歳だったアルカンヘル・フェルナンデスがマルセロ・バルベロに弟子入りして、1956年3月に師が亡くなった後、未完成だった楽器の仕上げを引き継いだわ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 22710,
-              "endFrame": 23142
-            },
-            {
-              "speaker": "B",
-              "text": "翌1957年7月1日、自分の工房をマドリード中心部のヘスス・イ・マリア通りに開いたの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 23149,
-              "endFrame": 23433
-            },
-            {
-              "speaker": "A",
-              "text": "独立したのだ！",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 23441,
-              "endFrame": 23483
-            },
-            {
-              "speaker": "B",
-              "text": "のちにバルベロの息子も工房に加わって、二人は「カサ・アルカンヘル・フェルナンデス」の名で約40年、共同製作を続けたわ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 23491,
-              "endFrame": 23806
-            },
-            {
-              "speaker": "B",
-              "text": "若手製作家の楽器も扱う店舗を兼ねていて、マドリードの製作技術を伝える場にもなっていたの。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 23814,
-              "endFrame": 24018
-            },
-            {
-              "speaker": "A",
-              "text": "今も続いているのだ？",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 24025,
-              "endFrame": 24083
-            },
-            {
-              "speaker": "B",
-              "text": "アルカンヘル・フェルナンデスは2007年、75歳で新規注文の受付を止めたと伝えられているけれど、公式サイトの現況は今回確認できなかったの。稼働状況はまた別の回で確認するわね。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 24090,
-              "endFrame": 24533
-            },
-            {
-              "speaker": "A",
-              "text": "職人の技を受け継ぐところ、日本の老舗の工房にも通じる感じがするのだ。",
-              "section": "フラメンコギター工房だより",
-              "startFrame": 24541,
-              "endFrame": 24733
-            },
-            {
-              "speaker": "A",
-              "text": "今日のパロ解説なのだ！",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 24751,
-              "endFrame": 24811
-            },
-            {
-              "speaker": "B",
-              "text": "今日はロンデーニャ。マラガ県ロンダの地名に由来するとされていて、広くはマラガ系ファンダンゴの一群、狭くはカンテス・デ・マラガに分類されるわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 24819,
-              "endFrame": 25163
-            },
-            {
-              "speaker": "A",
-              "text": "歌なのだ？ギターなのだ？",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25170,
-              "endFrame": 25245
-            },
-            {
-              "speaker": "B",
-              "text": "実はその両方が別に存在するのが特徴なの。歌のロンデーニャに加えて、器楽独奏として発展した「ギターのロンデーニャ」があるのよ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25253,
-              "endFrame": 25558
-            },
-            {
-              "speaker": "A",
-              "text": "ギターだけで演奏する曲もあるのだ！",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25566,
-              "endFrame": 25652
-            },
-            {
-              "speaker": "B",
-              "text": "歌のロンデーニャは自由リズムかアバンドラオという前のめりのリズムで歌われて、拍子は流動的なの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25659,
-              "endFrame": 25860
-            },
-            {
-              "speaker": "B",
-              "text": "ギター独奏の方は、ミゲル・ボルル父が先駆けを作ったとされるけれど、完成された独奏形式へ引き上げたのはラモン・モントーヤよ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 25867,
-              "endFrame": 26162
-            },
-            {
-              "speaker": "A",
-              "text": "モントーヤって前にも出てきた人なのだ！",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 26169,
-              "endFrame": 26259
-            },
-            {
-              "speaker": "B",
-              "text": "1928年、グラモフォン社の録音として初の器楽ロンデーニャを吹き込んで、1936年にはパリで別ヴァージョンを再録音しているの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 26266,
-              "endFrame": 26593
-            },
-            {
-              "speaker": "A",
-              "text": "コード進行も教えてほしいのだ！",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 26601,
-              "endFrame": 26681
-            },
-            {
-              "speaker": "B",
-              "text": "フリジア旋法に基づくアンダルシア終止が基調。コード名で言うとAマイナーからG、F、Eマイナーへと下がっていく進行よ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 26689,
-              "endFrame": 26972
-            },
-            {
-              "speaker": "B",
-              "text": "独奏用に開放弦を生かした響きの広がりを重視していて、拍節を感じさせない自由なテンポの中でこの進行が繰り返し現れるの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 26979,
-              "endFrame": 27263
-            },
-            {
-              "speaker": "A",
-              "text": "実際に聴いてみたいのだ！",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 27270,
-              "endFrame": 27331
-            },
-            {
-              "speaker": "B",
-              "text": "1928年録音のロンデーニャがおすすめよ。リンクは記事本文にあるわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 27339,
-              "endFrame": 27516
-            },
-            {
-              "speaker": "B",
-              "text": "規則的な拍節を感じさせないまま低音の和音がゆっくり移り変わって、速いパッセージで技巧を誇示する場面と、和音を長く伸ばして間を置く場面が交互に現れるの。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 27524,
-              "endFrame": 27877
-            },
-            {
-              "speaker": "A",
-              "text": "歌のない歌、って感じがするのだ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 27884,
-              "endFrame": 27977
-            },
-            {
-              "speaker": "B",
-              "text": "まさにそれ。ラモン・モントーヤはこの形式をタランタなど他の自由リズム系パロにも応用して、独奏フラメンコギターというジャンルそのものを切り開いたわ。",
-              "section": "フラメンコのパロ解説",
-              "startFrame": 27984,
-              "endFrame": 28303
-            },
-            {
-              "speaker": "B",
-              "text": "今日は政治を短めにして、サンセバスティアンでのカルメン・マチの受賞から、コルドバの巨大ギターフェスティバル、そしてフラメンコの世界をたっぷりお届けしたわ。",
-              "section": "まとめ",
-              "startFrame": 28321,
-              "endFrame": 28647
-            },
-            {
-              "speaker": "B",
-              "text": "エンリケ・デ・メルチョール、マリア・パヘス、フォスフォリート、マドリードの製作系譜、パロのロンデーニャと、内容盛りだくさんの一日だったわ。",
-              "section": "まとめ",
-              "startFrame": 28655,
-              "endFrame": 29008
-            },
-            {
-              "speaker": "A",
-              "text": "伴奏の巨匠の話が特に印象に残ったのだ！",
-              "section": "まとめ",
-              "startFrame": 29016,
-              "endFrame": 29134
-            },
-            {
-              "speaker": "A",
-              "text": "今日もスペインのニュースをお届けしたのだ！フラメンコのニュースが特に楽しかったのだ！",
-              "section": "エンディング",
-              "startFrame": 29152,
-              "endFrame": 29339
-            },
-            {
-              "speaker": "B",
-              "text": "アスタ・マニャーナ！また明日お会いしましょう。",
-              "section": "エンディング",
-              "startFrame": 29346,
-              "endFrame": 29443
-            },
-            {
-              "speaker": "A",
-              "text": "アスタ・マニャーナなのだ！明日もよろしくなのだ！",
-              "section": "エンディング",
-              "startFrame": 29450,
-              "endFrame": 29570
-            },
-            {
-              "speaker": "B",
-              "text": "ムーチャス・グラシアス！ご視聴ありがとうございました。",
-              "section": "エンディング",
-              "startFrame": 29577,
-              "endFrame": 29696
             }
           ]
         }
