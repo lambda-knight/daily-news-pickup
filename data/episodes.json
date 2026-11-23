@@ -1,5 +1,581 @@
 [
   {
+    "date": "2026-11-24",
+    "segments": [
+      {
+        "mode": "compare",
+        "label": "世界と日本のメディア比較",
+        "iaId": "news-pickup-2026-11-24-compare",
+        "audioUrl": "https://archive.org/download/news-pickup-2026-11-24-compare/compare_yukkuri.m4a",
+        "markdown": "<h1>世界と日本のメディア比較（2026年11月24日）</h1>\n<h2>オープニング：2026年11月24日 — 世界と日本のメディア比較</h2>\n<ul>\n<li><strong>日付</strong>: 2026年11月24日</li>\n<li><strong>前半（世界7カ国＋日本6媒体＋海外が見た日本）</strong>: リビア沖でのロシア艦艇撃沈報道、米国のイラン「影の銀行」制裁とホルムズ海峡の石油輸送、ロヒンギャ虐殺判決への国際反応、英国メディアが見た日本の地方観光と東京の法制度、各国固有ニュース</li>\n<li><strong>後半（国内8媒体＋継続特集）</strong>: 関文科相への問責決議案協議、国会終盤の法案攻防と内閣評価、美容医療と障害者行政の課題、継続特集「安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒」、各紙独自ニュース</li>\n</ul>\n<h3>確認媒体・取得時刻・取得件数</h3>\n<table>\n<thead>\n<tr>\n<th>データ種別</th>\n<th>取得時刻</th>\n<th>確認媒体と取得件数</th>\n<th>備考</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>世界7カ国（計78件）</td>\n<td>2026-11-24 07:09 JST</td>\n<td>US 12（NPR 6・CNN World 6）／UK 12（BBC 6・Guardian 6）／FR 12（France24 6・RFI 6）／CN 12（CGTN World 6・CGTN China 6）／RU 12（TASS 6・RT 6）／IN 12（Times of India 6・NDTV 6）／AR 6（Al Jazeera 6）</td>\n<td>CNN Worldは2022〜2023年の古いRSS記事5件が混入のため除外</td>\n</tr>\n<tr>\n<td>日本6媒体・国際面（計72件）</td>\n<td>2026-11-24 07:09 JST</td>\n<td>NHK 12／朝日 12／毎日 12／産経 12／読売 12／日経 12</td>\n<td>NHKはRSS要旨あり。他5紙はRSS見出し中心（本文未取得）</td>\n</tr>\n<tr>\n<td>国内8媒体（計96件）</td>\n<td>2026-11-24 07:09 JST</td>\n<td>NHK 12／朝日 12／毎日 12／東京 12／赤旗 12／産経 12／読売 12／日経 12</td>\n<td>取得件数12件の範囲での確認であり、未掲載は報道不存在を意味しない</td>\n</tr>\n</tbody>\n</table>\n<h2>前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア</h2>\n<p>ウクライナ保安庁（SBU）は2026年11月23日、リビア・ベンガジ沖でロシア船2隻を攻撃し、母船から国産海上ドローン7機を発進させて最新鋭コルベット艦「メルクーリー」を撃沈したと確認した。</p>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・報道要点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国（US）</td>\n<td>NPR News</td>\n<td>ゼレンスキー大統領がリビア海軍基地に停泊中のロシア軍艦への海上ドローン奇襲攻撃を称賛</td>\n</tr>\n<tr>\n<td>英国（UK）</td>\n<td>BBC World / The Guardian</td>\n<td>GuardianはSBUの母船・国産海上ドローン7機による「メルクーリー」撃沈を詳報。BBCはクレムリンの直接コメント回避と「地域緊張激化」警告、フランク・ガードナー記者の「戦争の賭け金を一段引き上げる」解説を掲載</td>\n</tr>\n<tr>\n<td>フランス（FR）</td>\n<td>France24 EN</td>\n<td>分断状態のリビア東部当局が西部のウクライナ軍存在疑惑で国連調査を要請。バルト海被弾後にフィンランド領海へ漂流した制裁対象船と併せ戦線拡大を議論</td>\n</tr>\n<tr>\n<td>中国（CN）</td>\n<td>CGTN</td>\n<td>直近取得12件では確認できず</td>\n</tr>\n<tr>\n<td>ロシア（RU）</td>\n<td>TASS</td>\n<td>トリポリ拠点のリビア政府外務省がウクライナにベンガジ作戦の全経緯と領土使用疑惑の説明を要求。別電で独ピストリウス国防相のバルト海波及リスク警告を報道</td>\n</tr>\n<tr>\n<td>インド（IN）</td>\n<td>Times of India</td>\n<td>「ロシア艦に安全な海域はないのか」と題し、本国から約2,400キロ離れた遠距離作戦とウクライナのリビア軍事拠点構築の可能性に注目</td>\n</tr>\n<tr>\n<td>アラブ（AR）</td>\n<td>Al Jazeera</td>\n<td>直近取得6件では確認できず</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>掲載状況</th>\n<th>見出し（取得時刻範囲内）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>あり</td>\n<td>ゼレンスキー大統領“リビア沖でロシア艦艇を無人艇で攻撃”（11/23 18:36）</td>\n</tr>\n<tr>\n<td>朝日新聞</td>\n<td>確認できず</td>\n<td>—</td>\n</tr>\n<tr>\n<td>毎日新聞</td>\n<td>確認できず</td>\n<td>—</td>\n</tr>\n<tr>\n<td>産経新聞</td>\n<td>確認できず</td>\n<td>—</td>\n</tr>\n<tr>\n<td>読売新聞</td>\n<td>あり</td>\n<td>ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」（11/23 22:03）※別報でフィンランド沖漂流のロシア貨物船も報道</td>\n</tr>\n<tr>\n<td>日本経済新聞</td>\n<td>確認できず</td>\n<td>—</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>日本6媒体は2媒体のみ確認</strong>: 7カ国中5カ国が報じた大規模な遠距離海上攻撃だが、日本6媒体の直近RSSではNHKと読売の2媒体にとどまった。</li>\n<li><strong>米英印は作戦能力と戦線拡大を焦点化</strong>: 英国Guardianは母船と海上ドローン7機の具体像、インドTimes of Indiaは約2,400キロの距離、英国BBCは戦争のエスカレーションを主軸にした。</li>\n<li><strong>ロシアとフランスはリビアの主権・欧州波及に注目</strong>: ロシアTASSは撃沈被害そのものを前面に出さず、トリポリ政府の説明要求と独国防相のバルト海警戒を強調し、フランスFrance24もリビア東部当局の国連調査要請を取り上げた。</li>\n</ul>\n<h2>前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差</h2>\n<p>米国財務省は2026年11月23日、イランの国際金融活動を遮断するとして20以上のイラン関連団体に制裁を科した。一方、イランは一時的な小康状態の後に湾岸地域の米軍基地や民間施設への攻撃を再活発化させている。</p>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・報道要点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>米国（US）</td>\n<td>NPR News</td>\n<td>直近取得6件では確認できず</td>\n</tr>\n<tr>\n<td>英国（UK）</td>\n<td>BBC World / The Guardian</td>\n<td>制裁・ホルムズ海峡の直接報道は確認できず（BBCはイランでの歌手むち打ち刑を報道）</td>\n</tr>\n<tr>\n<td>フランス（FR）</td>\n<td>France24 / RFI</td>\n<td>直近取得12件では確認できず</td>\n</tr>\n<tr>\n<td>中国（CN）</td>\n<td>CGTN</td>\n<td>直近取得12件では確認できず</td>\n</tr>\n<tr>\n<td>ロシア（RU）</td>\n<td>TASS</td>\n<td>米国は過去1週間でホルムズ海峡経由の石油1億800万バレルの通過を確保し、湾岸の米イラン紛争開始以来で週間最高水準になったとテレビ報道を引用</td>\n</tr>\n<tr>\n<td>インド（IN）</td>\n<td>NDTV</td>\n<td>米国の「影の銀行」制裁を報じ、米財務長官の「イラン経済は水没状態にあり指導部はパニック」という声明を前面に</td>\n</tr>\n<tr>\n<td>アラブ（AR）</td>\n<td>Al Jazeera</td>\n<td>米財務省の20団体超への制裁強化と、海上封鎖・制裁の打撃下でイランが湾岸の米軍基地や民間施設への攻撃を再開した動きを併報</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>掲載状況</th>\n<th>見出し（取得時刻範囲内）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>関連あり</td>\n<td>イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」（11/23 10:36、3日間計15キロ遠泳）</td>\n</tr>\n<tr>\n<td>朝日新聞</td>\n<td>関連あり</td>\n<td>中東危機長引けば、ホルムズ経由の石油激減も ＩＥＡ分析（11/24 05:00）</td>\n</tr>\n<tr>\n<td>毎日・産経・読売・日経</td>\n<td>確認できず</td>\n<td>米「影の銀行」制裁や湾岸攻撃再開の直接報道は6媒体RSSで確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>金融封鎖と軍事攻撃の連動を追う中東・インド</strong>: アルジャジーラは米国の制裁・海上封鎖とイランの湾岸攻撃再開を並べて報じ、NDTVは米財務長官の強い評価を引用した。</li>\n<li><strong>ホルムズ海峡の現状認識が割れる</strong>: ロシアTASSは過去1週間で石油1億800万バレル通過という「紛争開始以来の週間最高水準」を伝える一方、日本の朝日はIEA分析による長期化時の「石油激減」リスクを見出しに据えた。</li>\n<li><strong>日本へのエネルギー直結度と報道量の差</strong>: 日本の原油輸入に直結する海峡の最新情勢だが、6媒体の直近RSSでは米制裁強化や攻撃再開の直接記事は確認できなかった。</li>\n</ul>\n<h2>前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」</h2>\n<p>ロヒンギャに対するジェノサイド判決を受け、2026年11月23日までに14カ国が判決を「承認」する声明を出し、英国は別途、ジェノサイドを「正式に認定する」と発表した。</p>\n<table>\n<thead>\n<tr>\n<th>国</th>\n<th>媒体</th>\n<th>見出し・報道要点</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>インド（IN）</td>\n<td>NDTV</td>\n<td>14カ国がロヒンギャへのジェノサイド判決を「承認」と表明し、英国は別途「正式に認定する」と発表</td>\n</tr>\n<tr>\n<td>他6カ国</td>\n<td>—</td>\n<td>直近取得RSSでは確認できず</td>\n</tr>\n</tbody>\n</table>\n<h3>日本6媒体のカバレッジ</h3>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>掲載状況</th>\n<th>見出し（取得時刻範囲内）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日新聞</td>\n<td>あり</td>\n<td>「判決だけでは誰も守れない」 ロヒンギャ、国際社会に行動要求（11/23 05:30）／ロヒンギャ、国際社会に行動求め 判決履行へ訴え ミャンマー虐殺認定（11/24 02:01）</td>\n</tr>\n<tr>\n<td>NHK・朝日・産経・読売・日経</td>\n<td>確認できず</td>\n<td>—</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>外交表現の差を映すインド報道</strong>: NDTVは14カ国の「承認（Acknowledge）」と英国の「公式認定（formally recognises）」という言葉の重みの違いを対比して伝えた。</li>\n<li><strong>当事者の実効性への訴えを追う毎日</strong>: 日本6媒体で唯一確認できた毎日新聞は、判決そのものより「判決だけでは誰も守れない」という当事者の履行要求に焦点を当てた。</li>\n<li><strong>国際法とアジア人権の扱い差</strong>: 11月21日に判決への反発が報じられた後も、各国政府の公式な温度差と現場の危機感は日本国内で広くは追われていない。</li>\n</ul>\n<h2>前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問</h2>\n<p>英国の主要2媒体が2026年11月、日本の観光と都市社会について対照的な現地取材・特集を報じた。</p>\n<h3>1. 英国BBC Travel「2027年に旅すべき20カ所」に日本の地方2カ所を選出</h3>\n<ul>\n<li><strong>取材・編集主体</strong>: 英国BBC Travel編集部（2026年11月中旬公開）</li>\n<li><strong>評価された点</strong>: 世界20カ所の中に、山口県の長門湯本温泉と三重県の伊勢志摩半島の2カ所を東京・京都に偏らない持続可能な旅先として選出。長門湯本温泉は2027年の開湯600周年を前に官民で進めた街並み再生が評価され、立ち寄り湯「恩湯」の再建や川沿いの再生、地元の工芸・食文化などが紹介された。伊勢志摩は伝統文化や精神性、沿岸の自然が評価された。</li>\n<li><strong>課題として報じられた点</strong>: 円安と記録的な訪日客増加に伴う東京・京都のオーバーツーリズムが課題視され、姫路城の外国人向け二重価格や免税ルール見直しなど受け入れ側の負担対策も併せて報じられている。</li>\n</ul>\n<h3>2. 英国The Guardian、東京・歌舞伎町の路上売春増加と法制度の非対称を現地取材</h3>\n<ul>\n<li><strong>取材主体</strong>: 英国The Guardianによる東京現地取材報道（2026年11月2日公開）</li>\n<li><strong>違和感・批判として報じられた点</strong>: 東京・歌舞伎町での路上売春増加を取り上げ、勧誘する女性側が処罰対象となる一方で買う側の男性が刑事罰を受けにくい現行法の抜け穴を「男性は処罰されないと知っている」と問題視。外国人観光客の流入に加え、ホストクラブの借金や生活苦に追われる若い女性たちの脆弱性や社会福祉のセーフティネットの弱さを伝えた。</li>\n<li><strong>改善の動き</strong>: こうした現状に対し、日本国内の政治家や支援団体から買春側の処罰や支援体制強化を求める法改正の動きが高まっている点も報じている。</li>\n</ul>\n<h2>前半 世界: 各国固有ニュース</h2>\n<ul>\n<li><strong>米国（NPR News）</strong>: 『セサミストリート』のセサミワークショップが10年ぶりに実施した「優しさ」調査で、親たちは「自分の子どもは優しくなっているが、社会全体は厳しくなっている」と回答（11/23）</li>\n<li><strong>英国（The Guardian）</strong>: 「リトル・ブリストル」と呼ばれるバルバドスの町スピーツタウンが英ブリストル市と3年間の姉妹提携協定に署名、大西洋奴隷貿易の歴史に基づく修復的正義の一環と位置づけ（11/23）</li>\n<li><strong>フランス（RFI English）</strong>: フランス海外県グアドループの大学病院ITシステムが大規模サイバー攻撃を受け、緊急対応計画を発動し非緊急処置を延期（11/23）</li>\n<li><strong>中国（CGTN China）</strong>: 中国がオーストラリアとの正常な経済・貿易交流への阻害要因を取り除き、安定した事業環境を提供する方針を表明（11/21）</li>\n<li><strong>ロシア（TASS）</strong>: ロシア外務省のザハロワ報道官が「国連改革構想はAPEC首脳会議より前から存在し、長年の損壊を受け大規模な修復が必要」と発言（11/23）</li>\n<li><strong>インド（Times of India）</strong>: インド政府が不正利用防止のため、共有パソコンでのWhatsApp Webからのログアウトを国民に注意喚起（11/23）</li>\n<li><strong>アラブ（Al Jazeera）</strong>: 米バージニア・オレゴン両州が「Grok AI」の性的虐待画像生成を巡りSpaceXを個別に提訴（11/23）</li>\n</ul>\n<h2>後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き</h2>\n<p>政治資金パーティー問題を巡る関文科相への追及は2026年11月24日朝、野党が参院での問責決議案提出を視野に協議する段階へ移り、政府・与党は国会情勢を見極めながら対応を検討している。</p>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し（取得時刻範囲内・24日向け新展開）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>野党 関大臣の問責決議案協議 政府・与党 情勢見極め対応検討（11/24 04:53）</td>\n</tr>\n<tr>\n<td>朝日・毎日・東京・赤旗・産経・読売・日経</td>\n<td>直近取得12件では11/24朝の問責協議の直接記事は確認できず（Web補足で読売新聞等が立憲・国民による参院重要法案審議への影響を視野に入れた検討を報道）</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>24日未明の新局面を報じたNHK</strong>: 従来の辞任要求から一歩進み、野党の問責決議案協議入りと、政府・与党内からも説明責任を求める声が出るなかでの情勢見極めを伝えた。</li>\n<li><strong>参院審議への影響が焦点</strong>: Web補足報道では、立憲民主党や国民民主党が参院での重要法案審議への影響を踏まえて問責決議案を検討する構図が示されている。</li>\n<li><strong>国内各紙の優先順位の差</strong>: 24日朝取得の直近12件ではNHK以外の7媒体は問責協議の直接記事を載せず、国会終盤の個別法案や内閣評価など別の論点へ紙面を割いた。</li>\n</ul>\n<h2>後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査</h2>\n<p>国会終盤の重要法案を巡る攻防と高市内閣への評価について、毎日新聞・しんぶん赤旗・東京新聞が異なる切り口で記事やコラムを出した。</p>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し（取得時刻範囲内）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>毎日新聞</td>\n<td>読む政治:高市内閣は2.72点 5段階評価から見えた失望した人と共感した人（11/24 05:00）</td>\n</tr>\n<tr>\n<td>しんぶん赤旗</td>\n<td>衆院比例削減 週内にも強行狙う / 民意切り強権加速 / 津で小池書記局長「許さぬ声大きく」（11/23 09:45）／情報収集の乱用懸念 / 警職法改定案 大門氏に参考人 / 参院内閣委（11/23 09:45）</td>\n</tr>\n<tr>\n<td>東京新聞</td>\n<td>〈本音のコラム〉I am not TAKAICHI 大矢英代（11/23 12:00）</td>\n</tr>\n<tr>\n<td>NHK・朝日・産経・読売・日経</td>\n<td>直近取得12件では同テーマの直接記事は確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>有権者評価を数値で分析する毎日</strong>: 5段階評価「2.72点」という調査結果をもとに、高市内閣に対して失望した層と共感した層の違いを可視化した。</li>\n<li><strong>法案採決の緊迫感と参考人質疑を追う赤旗</strong>: 衆院比例定数削減の週内強行への警戒に加え、参院内閣委員会での警職法改定案を巡る参考人の情報収集乱用懸念を並べて報じた。</li>\n<li><strong>識者コラムで政権を問う東京</strong>: 東京新聞は大学助教授の署名コラムを通じ、政権の姿勢に対する批判的視点を掲載した。</li>\n</ul>\n<h2>後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政</h2>\n<p>同じ暮らし・公的サービスの領域でも、日本経済新聞は医師の偏在と公費負担、毎日新聞は自治体の障害者行政と日常インフラの課題を独自に掘り下げた。</p>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>見出し（取得時刻範囲内）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>日本経済新聞</td>\n<td>［社説］美容医療は地域医療へ負担を（11/23 19:00）／公費が育てた医師、地域医療を支えぬ危機感 「直美」に財務省が一石（11/23 05:00）</td>\n</tr>\n<tr>\n<td>毎日新聞</td>\n<td>「障害者証明書交付に大幅遅れ」 宮城県、再三の指摘を調査せず（11/24 06:00）／100件超の指摘「放置」 障害者行政で浮かんだ深刻な統治不全（11/24 06:01）／男性用トイレにもサニタリーボックス なぜ「ないと困る」のか?（11/24 07:00）</td>\n</tr>\n<tr>\n<td>他6媒体</td>\n<td>直近取得12件では同テーマの直接記事は確認できず</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li><strong>医療費・公費負担の構造を問う日経</strong>: 社説と記事の2本で、公費で育成された医師が地域医療ではなく美容医療へ進む「直美」問題と、財務省の問題提起を取り上げた。</li>\n<li><strong>行政のガバナンス不全を突く毎日</strong>: 宮城県で障害者証明書の交付が大幅に遅れ、100件超の指摘が調査されないまま放置されていた問題を「深刻な統治不全」として追及した。</li>\n<li><strong>生活の困りごとへの目線</strong>: 毎日新聞はさらに男性用トイレのサニタリーボックス設置を取り上げ、制度の谷間にある当事者の負担を可視化した。</li>\n</ul>\n<h2>後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒</h2>\n<p>年末の安保3文書改定に向け、原子力潜水艦の導入検討や非核三原則の例外容認論が浮上する中、NHK日曜討論での与野党論戦、原潜の建造費と安保転換点の解説、防衛産業への金融支援など、国内4媒体が異なる切り口で報じ、中国・韓国メディアからも警戒の声が上がっている。</p>\n<table>\n<thead>\n<tr>\n<th>媒体</th>\n<th>掲載状況</th>\n<th>見出し（取得時刻範囲内）</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NHK</td>\n<td>あり</td>\n<td>安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論（11/22 12:32）</td>\n</tr>\n<tr>\n<td>しんぶん赤旗</td>\n<td>あり</td>\n<td>世論は非核三原則堅持 山添氏「原潜は専守防衛反する」 NHK日曜討論（11/23）／安保3文書 軍事最優先「亡国の道」 山添氏「対米従属の転換こそ」（11/23）</td>\n</tr>\n<tr>\n<td>日本経済新聞</td>\n<td>あり</td>\n<td>原子力潜水艦を動画解説 建造費用高額、日本保有なら安保の転換点に（11/23 11:00）</td>\n</tr>\n<tr>\n<td>産経新聞</td>\n<td>あり</td>\n<td>＜主張＞防衛投融資 金融機関は積極的貢献を 社説（11/24 05:00）</td>\n</tr>\n<tr>\n<td>朝日・毎日・東京・読売</td>\n<td>確認できず</td>\n<td>直近取得12件では安保3文書・原潜・防衛投融資の未出記事は確認できず</td>\n</tr>\n</tbody>\n</table>\n<h3>報道比較と海外メディアの反応</h3>\n<ul>\n<li><strong>国内4媒体の主語と比重の違い</strong>: NHKは日曜討論の与野党応酬を報じ、しんぶん赤旗は同じ討論から共産・山添氏の「原潜は専守防衛反する」「対米従属の転換こそ」を見出しにした。日本経済新聞は原潜の高額な建造費用と安保転換点を動画解説で整理し、産経新聞は社説で防衛投融資への金融機関の積極的貢献を訴えた。</li>\n<li><strong>中国メディアの反応（環球時報・China.org.cn 等）</strong>: 安保3文書改定素案を巡る「持ち込ませず」の例外容認論や原潜導入検討に対し、地域の戦略バランスを崩し「戦後秩序の覆し」「軍事大国化」を狙うものだとして強く警戒・批判している。</li>\n<li><strong>韓国メディアの反応（毎日経済・ハンギョレ等）</strong>: 日本の原潜導入検討と非核三原則の亀裂を相次いで速報し、平和憲法下の専守防衛から実質的な抑止・攻撃型への転換として地政学的リスクを注視している。</li>\n</ul>\n<h2>後半 国内: 各紙独自ニュース</h2>\n<ul>\n<li><strong>NHK</strong>: 不正会計が相次ぐ中、金融庁が有価証券報告書の「確認書」に対する経営者の責任を明確化する制度見直しを実施へ（11/24 05:31）</li>\n<li><strong>朝日新聞</strong>: 「夜になっても冷めなかった夏の大阪、熱帯夜が続いた四つの要因とは？」を分析（11/24 06:00）</li>\n<li><strong>毎日新聞</strong>: 浜松市の市立中学校で、制服を「学校に着ていく服」へ見直し、生徒主体で選択する取り組みを報道（11/24 05:45）</li>\n<li><strong>東京新聞</strong>: 「『AIはボロ負け、でも現場なら勝てる』Mujinの滝野一征CEOが語る、ものづくり日本」（11/24 05:00）</li>\n<li><strong>しんぶん赤旗</strong>: 「自由獲得の闘い共に」民青全国大会での田村委員長あいさつを報道（11/23 09:45）</li>\n<li><strong>産経新聞</strong>: 「ゴダイゴ『ゆかりの地』ネパールで公演 熱狂の46年前は伝説…今回は土石流被災に思い」（11/22 22:01）</li>\n<li><strong>読売新聞</strong>: 秋田県の日本海東北道で象潟―小砂川ICが開通し、山形県境近くまで延伸（11/24 05:00）</li>\n<li><strong>日本経済新聞</strong>: 現代自動車が高級車で初のハイブリッド車を北米に2車種投入、EV戦略を修正（11/24 05:00）</li>\n</ul>\n<h2>まとめ</h2>\n<p>2026年11月24日の「世界と日本のメディア比較」をお届けしました。ご視聴ありがとうございました。また次回お会いしましょう。</p>\n<h2>参考ソース</h2>\n<h3>前半・7カ国比較＋日本6媒体</h3>\n<ul>\n<li>NPR News: https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya</li>\n<li>BBC World: https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&amp;at_campaign=rss</li>\n<li>BBC World: https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&amp;at_campaign=rss</li>\n<li>The Guardian: https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya</li>\n<li>France24 EN: https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west</li>\n<li>France24 EN: https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya</li>\n<li>TASS: https://tass.com/world/2223635</li>\n<li>TASS: https://tass.com/world/2223637</li>\n<li>Times of India: https://timesofindia.indiatimes.com/world/europe/no-safe-waters-for-russian-ships-how-ukraine-pulled-off-2400-km-drone-strike-in-libya/articleshow/136098386.cms</li>\n<li>NHK（リビア沖無人艇攻撃）: https://news.web.nhk/newsweb/na/nd-20261123de80209</li>\n<li>読売新聞（リビア沖攻撃）: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMcnBOSzh2TG5jTW9mYjQtdU1PUFNObUtxdjczRWxmTWpscWw1bDJQZVRwb2RrX2FhOVBaWjVfWE5UTmhMNUpWeXpvZENYczVzSjVnc2JSNF8wODYtcEFBYkxn?oc=5</li>\n<li>Al Jazeera（米イラン制裁）: https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss</li>\n<li>Al Jazeera（イラン湾岸攻撃再開）: https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss</li>\n<li>NDTV（米イラン制裁）: https://www.ndtv.com/world-news/iran-war-us-targets-irans-shadow-banking-networks-in-latest-wave-of-sanctions-12368135#publisher=newsstand</li>\n<li>TASS（ホルムズ海峡石油通過）: https://tass.com/world/2223627</li>\n<li>朝日新聞（IEA分析）: https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ZzVYNXBKRDRBMy10N2JCR21Gck84WjdKSDg1bmJ5YzkxY1lzeHItVmtvTGI4bzd4c01UZEVEdUFmbnp5T0g4LWw4Zjh2SlV5OVJYS0ZjM0EwTzVD?oc=5</li>\n<li>NHK（ホルムズ遠泳抗議）: https://news.web.nhk/newsweb/na/nd-20261123de80145</li>\n<li>NDTV（ロヒンギャ14カ国承認・英国公式認定）: https://www.ndtv.com/world-news/14-countries-acknowledge-ruling-on-rohingya-genocide-12368094#publisher=newsstand</li>\n<li>毎日新聞（ロヒンギャ判決履行要求）: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0TnVmSmVYT3E2ckpYbjRfbGltS2F1N19aOTN3VmFweWtvNDMyS29XTmJ5NGpzNDBBc1lNVzR2YnhuQWd1SE4yOTg3T2hGVElTd1BGaVZ1d1FCZG9oVnNIRVVYX0h2Rnpa?oc=5</li>\n</ul>\n<h3>前半・海外が見た日本</h3>\n<ul>\n<li>BBC Travel: \"The 20 best places to travel in 2027\"（2026年11月中旬、https://www.bbc.com）</li>\n<li>The Guardian: \"'Men know they won't face consequences': rise of street sex work in Tokyo is fuelling calls for change\"（2026年11月2日、https://www.theguardian.com）</li>\n</ul>\n<h3>前半・各国固有ニュース</h3>\n<ul>\n<li>NPR News: https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey</li>\n<li>The Guardian: https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations</li>\n<li>RFI English: https://www.rfi.fr/en/france/20261123-major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital</li>\n<li>CGTN China: https://news.cgtn.com/news/2026-11-21/China-vows-stable-business-ties-with-Australia-1Sf74mIm3mg/p.html?UTM_Source=cgtn&amp;UTM_Medium=rss&amp;UTM_Campaign=China</li>\n<li>TASS: https://tass.com/politics/2223639</li>\n<li>Times of India: https://timesofindia.indiatimes.com/india/log-out-of-whatsapp-web-on-shared-computers-to-avoid-misuse-govt/articleshow/136113691.cms</li>\n<li>Al Jazeera: https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss</li>\n</ul>\n<h3>後半・国内8媒体比較・継続特集・各紙独自</h3>\n<ul>\n<li>NHK（関文科相問責決議案協議）: https://news.web.nhk/newsweb/na/nd-20261123de80283</li>\n<li>NHK（NHK日曜討論・安保3文書）: https://news.web.nhk/newsweb/na/nd-20261122de79839</li>\n<li>NHK（有価証券報告書見直し）: https://news.web.nhk/newsweb/na/nd-20261123de80289</li>\n<li>朝日新聞（夏の大阪熱帯夜）: http://www.asahi.com/articles/ASVCN2SDYVCNPTIL00FM.html?ref=rss</li>\n<li>毎日新聞（高市内閣2.72点）: https://mainichi.jp/articles/20261120/k00/00m/010/150000c</li>\n<li>毎日新聞（障害者証明書交付大幅遅れ）: https://mainichi.jp/articles/20261122/k00/00m/040/061000c</li>\n<li>毎日新聞（100件超指摘放置）: https://mainichi.jp/articles/20261122/k00/00m/040/064000c</li>\n<li>毎日新聞（男性用トイレサニタリーボックス）: https://mainichi.jp/articles/20261121/k00/00m/040/198000c</li>\n<li>毎日新聞（浜松市立中・学校に着ていく服）: https://mainichi.jp/articles/20261123/k00/00m/310/106000c</li>\n<li>東京新聞（Mujin滝野一征CEO）: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1paVZmNnRmV3A3ZVZNMVhMU3Q2aEFNMzM5R0UyM1dYTVd6V0VaSVp5RUotRWh3cGhmdkpuY1NoZTQtWGZpWS1leXhkejcwdzZnOFZZ?oc=5</li>\n<li>しんぶん赤旗（衆院比例削減）: https://news.google.com/rss/articles/CBMidEFVX3lxTE93QlNhUmk5cW1QdmlYcEJvdWFPSWZhZFAwMjdjanE3NkdzQ2JNRHdiZHlXMXNZOUx3azUtZ3dXU1o3bEVaUV82a2NEbUVlTXd4VW5BTEw1blZIaXZvTHA1RkE3ZXo1NXpaVVRDMFJUdzQ5Qnk0?oc=5</li>\n<li>しんぶん赤旗（警職法改定案）: https://news.google.com/rss/articles/CBMidEFVX3lxTE05NHVXejZTdzMtT3UybUhDWkkxVEVSMV9hazJfc3FOWTBIVjVXbUtIbWtkYVR4UEEtRW5jeTViZDdfQ0YtTWlkSEVkcVNIRE9PQ1hOc0txLTJxd3lnU2duSEFIanFadEhTc1AxeU5hOFQ0Mm1T?oc=5</li>\n<li>しんぶん赤旗（非核三原則・原潜）: https://news.google.com/rss/articles/CBMidEFVX3lxTE5BR1pjZHRlT0JZV1ZQeDcxS3BWeWoxbGxmLV81ZWlmY1hQem4xZGM4X2t1elZCMHVvRjlqQVRKcjNZcEh4ZE9TRWdITVdnaWZvbUR0c2ViME5JYUdCajN0Mlg1Z0R2amJwYU1iU01lZXBrc3Z4?oc=5</li>\n<li>しんぶん赤旗（民青全国大会）: https://news.google.com/rss/articles/CBMidEFVX3lxTE02eVcxTUxmR2lFOF9hS3I2RnhzN25tQTFyLXZ6eUVFU0xYd3RIeVRUT01MSDFCTm1PNUh1YlJrWlBKSVBPb2lUdVFtVFdLQUpUdEtlMFdDbjYycE5LdjBmaEloSWs2TGR6N1l2MExyeHBtcGxk?oc=5</li>\n<li>産経新聞（防衛投融資社説）: https://news.google.com/rss/articles/CBMidkFVX3lxTFBZMWRHNnItVXNwU0x5T05tbExSb3ZPT083dUVlNUkxUFZDaXIwUW1kSTNjV3BjLUliS2xhM1hoV1hidU1WdVhtd1lrU2ZDWERxUXVjOF9KOTlzWnN3cDRnMWJ4RmUyUS10OVc1dWxrSDlZZFp5YUE?oc=5</li>\n<li>産経新聞（ゴダイゴ・ネパール公演）: https://news.google.com/rss/articles/CBMidkFVX3lxTE1GMXBkZVJuVHVWMTR0dGkyc2k0alJqOS1MeDBVTTNmNXZpaDZJakRGVHludzY2V2dQR1pZbDNGNFNEc1psVXg2c1dIYVVJS0FMd1NLeUw4Y1VSRFVvT0xEQVdwUXl4TnAwdzZOaHBPUmJGMEFaVHc?oc=5</li>\n<li>読売新聞（秋田・日本海東北道開通）: https://news.google.com/rss/articles/CBMicEFVX3lxTE40WGg4V3ZRVFVpdVFLTmhLQ2p6U2piYUZfaGVnZG81Ul9oNFR4SlBPUjdxR3dSVmZDZ2ctX3RCN3NDZHQwVzBJLUtJOXU1d2gya0wzR3R4eks0THhBUDFvbmRhR0RXYi1SemsxaE82VXY?oc=5</li>\n<li>日本経済新聞（美容医療社説／直美／原潜動画解説／現代自HV）: https://news.google.com/rss/articles/CBMibEFVX3lxTE54Z01mbTJPeXBFNUxpZndiWHV5aHNzR19DNVM4Znp0by1GYWN0a19nSFRZUVJidkZtNHJ3SGZ2enFmbThxZjZZSGpjbmVnRFdRLVJCR2tRaHA3RW8xMU4xSkszMjVkLUVUREhhNg?oc=5</li>\n<li>中国・韓国メディア反応（環球時報・China.org.cn・毎日経済・ハンギョレ等、2026年11月報道）</li>\n</ul>",
+        "title": "リビア沖ロシア艦撃沈・イラン制裁・原潜議論を世界と日本はどう報じたか【メディア比較 2026/11/24】",
+        "markdownSource": "# 世界と日本のメディア比較（2026年11月24日）\n\n## オープニング：2026年11月24日 — 世界と日本のメディア比較\n\n- **日付**: 2026年11月24日\n- **前半（世界7カ国＋日本6媒体＋海外が見た日本）**: リビア沖でのロシア艦艇撃沈報道、米国のイラン「影の銀行」制裁とホルムズ海峡の石油輸送、ロヒンギャ虐殺判決への国際反応、英国メディアが見た日本の地方観光と東京の法制度、各国固有ニュース\n- **後半（国内8媒体＋継続特集）**: 関文科相への問責決議案協議、国会終盤の法案攻防と内閣評価、美容医療と障害者行政の課題、継続特集「安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒」、各紙独自ニュース\n\n### 確認媒体・取得時刻・取得件数\n\n| データ種別 | 取得時刻 | 確認媒体と取得件数 | 備考 |\n|---|---|---|---|\n| 世界7カ国（計78件） | 2026-11-24 07:09 JST | US 12（NPR 6・CNN World 6）／UK 12（BBC 6・Guardian 6）／FR 12（France24 6・RFI 6）／CN 12（CGTN World 6・CGTN China 6）／RU 12（TASS 6・RT 6）／IN 12（Times of India 6・NDTV 6）／AR 6（Al Jazeera 6） | CNN Worldは2022〜2023年の古いRSS記事5件が混入のため除外 |\n| 日本6媒体・国際面（計72件） | 2026-11-24 07:09 JST | NHK 12／朝日 12／毎日 12／産経 12／読売 12／日経 12 | NHKはRSS要旨あり。他5紙はRSS見出し中心（本文未取得） |\n| 国内8媒体（計96件） | 2026-11-24 07:09 JST | NHK 12／朝日 12／毎日 12／東京 12／赤旗 12／産経 12／読売 12／日経 12 | 取得件数12件の範囲での確認であり、未掲載は報道不存在を意味しない |\n\n## 前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア\n\nウクライナ保安庁（SBU）は2026年11月23日、リビア・ベンガジ沖でロシア船2隻を攻撃し、母船から国産海上ドローン7機を発進させて最新鋭コルベット艦「メルクーリー」を撃沈したと確認した。\n\n| 国 | 媒体 | 見出し・報道要点 |\n|---|---|---|\n| 米国（US） | NPR News | ゼレンスキー大統領がリビア海軍基地に停泊中のロシア軍艦への海上ドローン奇襲攻撃を称賛 |\n| 英国（UK） | BBC World / The Guardian | GuardianはSBUの母船・国産海上ドローン7機による「メルクーリー」撃沈を詳報。BBCはクレムリンの直接コメント回避と「地域緊張激化」警告、フランク・ガードナー記者の「戦争の賭け金を一段引き上げる」解説を掲載 |\n| フランス（FR） | France24 EN | 分断状態のリビア東部当局が西部のウクライナ軍存在疑惑で国連調査を要請。バルト海被弾後にフィンランド領海へ漂流した制裁対象船と併せ戦線拡大を議論 |\n| 中国（CN） | CGTN | 直近取得12件では確認できず |\n| ロシア（RU） | TASS | トリポリ拠点のリビア政府外務省がウクライナにベンガジ作戦の全経緯と領土使用疑惑の説明を要求。別電で独ピストリウス国防相のバルト海波及リスク警告を報道 |\n| インド（IN） | Times of India | 「ロシア艦に安全な海域はないのか」と題し、本国から約2,400キロ離れた遠距離作戦とウクライナのリビア軍事拠点構築の可能性に注目 |\n| アラブ（AR） | Al Jazeera | 直近取得6件では確認できず |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | 掲載状況 | 見出し（取得時刻範囲内） |\n|---|---|---|\n| NHK | あり | ゼレンスキー大統領“リビア沖でロシア艦艇を無人艇で攻撃”（11/23 18:36） |\n| 朝日新聞 | 確認できず | — |\n| 毎日新聞 | 確認できず | — |\n| 産経新聞 | 確認できず | — |\n| 読売新聞 | あり | ウクライナ、リビアでロシアの軍艦や貨物船「撃沈」…無人艇で攻撃しゼレンスキー氏「目標は達成」（11/23 22:03）※別報でフィンランド沖漂流のロシア貨物船も報道 |\n| 日本経済新聞 | 確認できず | — |\n\n- **日本6媒体は2媒体のみ確認**: 7カ国中5カ国が報じた大規模な遠距離海上攻撃だが、日本6媒体の直近RSSではNHKと読売の2媒体にとどまった。\n- **米英印は作戦能力と戦線拡大を焦点化**: 英国Guardianは母船と海上ドローン7機の具体像、インドTimes of Indiaは約2,400キロの距離、英国BBCは戦争のエスカレーションを主軸にした。\n- **ロシアとフランスはリビアの主権・欧州波及に注目**: ロシアTASSは撃沈被害そのものを前面に出さず、トリポリ政府の説明要求と独国防相のバルト海警戒を強調し、フランスFrance24もリビア東部当局の国連調査要請を取り上げた。\n\n## 前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差\n\n米国財務省は2026年11月23日、イランの国際金融活動を遮断するとして20以上のイラン関連団体に制裁を科した。一方、イランは一時的な小康状態の後に湾岸地域の米軍基地や民間施設への攻撃を再活発化させている。\n\n| 国 | 媒体 | 見出し・報道要点 |\n|---|---|---|\n| 米国（US） | NPR News | 直近取得6件では確認できず |\n| 英国（UK） | BBC World / The Guardian | 制裁・ホルムズ海峡の直接報道は確認できず（BBCはイランでの歌手むち打ち刑を報道） |\n| フランス（FR） | France24 / RFI | 直近取得12件では確認できず |\n| 中国（CN） | CGTN | 直近取得12件では確認できず |\n| ロシア（RU） | TASS | 米国は過去1週間でホルムズ海峡経由の石油1億800万バレルの通過を確保し、湾岸の米イラン紛争開始以来で週間最高水準になったとテレビ報道を引用 |\n| インド（IN） | NDTV | 米国の「影の銀行」制裁を報じ、米財務長官の「イラン経済は水没状態にあり指導部はパニック」という声明を前面に |\n| アラブ（AR） | Al Jazeera | 米財務省の20団体超への制裁強化と、海上封鎖・制裁の打撃下でイランが湾岸の米軍基地や民間施設への攻撃を再開した動きを併報 |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | 掲載状況 | 見出し（取得時刻範囲内） |\n|---|---|---|\n| NHK | 関連あり | イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」（11/23 10:36、3日間計15キロ遠泳） |\n| 朝日新聞 | 関連あり | 中東危機長引けば、ホルムズ経由の石油激減も ＩＥＡ分析（11/24 05:00） |\n| 毎日・産経・読売・日経 | 確認できず | 米「影の銀行」制裁や湾岸攻撃再開の直接報道は6媒体RSSで確認できず |\n\n- **金融封鎖と軍事攻撃の連動を追う中東・インド**: アルジャジーラは米国の制裁・海上封鎖とイランの湾岸攻撃再開を並べて報じ、NDTVは米財務長官の強い評価を引用した。\n- **ホルムズ海峡の現状認識が割れる**: ロシアTASSは過去1週間で石油1億800万バレル通過という「紛争開始以来の週間最高水準」を伝える一方、日本の朝日はIEA分析による長期化時の「石油激減」リスクを見出しに据えた。\n- **日本へのエネルギー直結度と報道量の差**: 日本の原油輸入に直結する海峡の最新情勢だが、6媒体の直近RSSでは米制裁強化や攻撃再開の直接記事は確認できなかった。\n\n## 前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」\n\nロヒンギャに対するジェノサイド判決を受け、2026年11月23日までに14カ国が判決を「承認」する声明を出し、英国は別途、ジェノサイドを「正式に認定する」と発表した。\n\n| 国 | 媒体 | 見出し・報道要点 |\n|---|---|---|\n| インド（IN） | NDTV | 14カ国がロヒンギャへのジェノサイド判決を「承認」と表明し、英国は別途「正式に認定する」と発表 |\n| 他6カ国 | — | 直近取得RSSでは確認できず |\n\n### 日本6媒体のカバレッジ\n\n| 媒体 | 掲載状況 | 見出し（取得時刻範囲内） |\n|---|---|---|\n| 毎日新聞 | あり | 「判決だけでは誰も守れない」 ロヒンギャ、国際社会に行動要求（11/23 05:30）／ロヒンギャ、国際社会に行動求め 判決履行へ訴え ミャンマー虐殺認定（11/24 02:01） |\n| NHK・朝日・産経・読売・日経 | 確認できず | — |\n\n- **外交表現の差を映すインド報道**: NDTVは14カ国の「承認（Acknowledge）」と英国の「公式認定（formally recognises）」という言葉の重みの違いを対比して伝えた。\n- **当事者の実効性への訴えを追う毎日**: 日本6媒体で唯一確認できた毎日新聞は、判決そのものより「判決だけでは誰も守れない」という当事者の履行要求に焦点を当てた。\n- **国際法とアジア人権の扱い差**: 11月21日に判決への反発が報じられた後も、各国政府の公式な温度差と現場の危機感は日本国内で広くは追われていない。\n\n## 前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問\n\n英国の主要2媒体が2026年11月、日本の観光と都市社会について対照的な現地取材・特集を報じた。\n\n### 1. 英国BBC Travel「2027年に旅すべき20カ所」に日本の地方2カ所を選出\n- **取材・編集主体**: 英国BBC Travel編集部（2026年11月中旬公開）\n- **評価された点**: 世界20カ所の中に、山口県の長門湯本温泉と三重県の伊勢志摩半島の2カ所を東京・京都に偏らない持続可能な旅先として選出。長門湯本温泉は2027年の開湯600周年を前に官民で進めた街並み再生が評価され、立ち寄り湯「恩湯」の再建や川沿いの再生、地元の工芸・食文化などが紹介された。伊勢志摩は伝統文化や精神性、沿岸の自然が評価された。\n- **課題として報じられた点**: 円安と記録的な訪日客増加に伴う東京・京都のオーバーツーリズムが課題視され、姫路城の外国人向け二重価格や免税ルール見直しなど受け入れ側の負担対策も併せて報じられている。\n\n### 2. 英国The Guardian、東京・歌舞伎町の路上売春増加と法制度の非対称を現地取材\n- **取材主体**: 英国The Guardianによる東京現地取材報道（2026年11月2日公開）\n- **違和感・批判として報じられた点**: 東京・歌舞伎町での路上売春増加を取り上げ、勧誘する女性側が処罰対象となる一方で買う側の男性が刑事罰を受けにくい現行法の抜け穴を「男性は処罰されないと知っている」と問題視。外国人観光客の流入に加え、ホストクラブの借金や生活苦に追われる若い女性たちの脆弱性や社会福祉のセーフティネットの弱さを伝えた。\n- **改善の動き**: こうした現状に対し、日本国内の政治家や支援団体から買春側の処罰や支援体制強化を求める法改正の動きが高まっている点も報じている。\n\n## 前半 世界: 各国固有ニュース\n\n- **米国（NPR News）**: 『セサミストリート』のセサミワークショップが10年ぶりに実施した「優しさ」調査で、親たちは「自分の子どもは優しくなっているが、社会全体は厳しくなっている」と回答（11/23）\n- **英国（The Guardian）**: 「リトル・ブリストル」と呼ばれるバルバドスの町スピーツタウンが英ブリストル市と3年間の姉妹提携協定に署名、大西洋奴隷貿易の歴史に基づく修復的正義の一環と位置づけ（11/23）\n- **フランス（RFI English）**: フランス海外県グアドループの大学病院ITシステムが大規模サイバー攻撃を受け、緊急対応計画を発動し非緊急処置を延期（11/23）\n- **中国（CGTN China）**: 中国がオーストラリアとの正常な経済・貿易交流への阻害要因を取り除き、安定した事業環境を提供する方針を表明（11/21）\n- **ロシア（TASS）**: ロシア外務省のザハロワ報道官が「国連改革構想はAPEC首脳会議より前から存在し、長年の損壊を受け大規模な修復が必要」と発言（11/23）\n- **インド（Times of India）**: インド政府が不正利用防止のため、共有パソコンでのWhatsApp Webからのログアウトを国民に注意喚起（11/23）\n- **アラブ（Al Jazeera）**: 米バージニア・オレゴン両州が「Grok AI」の性的虐待画像生成を巡りSpaceXを個別に提訴（11/23）\n\n## 後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き\n\n政治資金パーティー問題を巡る関文科相への追及は2026年11月24日朝、野党が参院での問責決議案提出を視野に協議する段階へ移り、政府・与党は国会情勢を見極めながら対応を検討している。\n\n| 媒体 | 見出し（取得時刻範囲内・24日向け新展開） |\n|---|---|\n| NHK | 野党 関大臣の問責決議案協議 政府・与党 情勢見極め対応検討（11/24 04:53） |\n| 朝日・毎日・東京・赤旗・産経・読売・日経 | 直近取得12件では11/24朝の問責協議の直接記事は確認できず（Web補足で読売新聞等が立憲・国民による参院重要法案審議への影響を視野に入れた検討を報道） |\n\n- **24日未明の新局面を報じたNHK**: 従来の辞任要求から一歩進み、野党の問責決議案協議入りと、政府・与党内からも説明責任を求める声が出るなかでの情勢見極めを伝えた。\n- **参院審議への影響が焦点**: Web補足報道では、立憲民主党や国民民主党が参院での重要法案審議への影響を踏まえて問責決議案を検討する構図が示されている。\n- **国内各紙の優先順位の差**: 24日朝取得の直近12件ではNHK以外の7媒体は問責協議の直接記事を載せず、国会終盤の個別法案や内閣評価など別の論点へ紙面を割いた。\n\n## 後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査\n\n国会終盤の重要法案を巡る攻防と高市内閣への評価について、毎日新聞・しんぶん赤旗・東京新聞が異なる切り口で記事やコラムを出した。\n\n| 媒体 | 見出し（取得時刻範囲内） |\n|---|---|\n| 毎日新聞 | 読む政治:高市内閣は2.72点 5段階評価から見えた失望した人と共感した人（11/24 05:00） |\n| しんぶん赤旗 | 衆院比例削減 週内にも強行狙う / 民意切り強権加速 / 津で小池書記局長「許さぬ声大きく」（11/23 09:45）／情報収集の乱用懸念 / 警職法改定案 大門氏に参考人 / 参院内閣委（11/23 09:45） |\n| 東京新聞 | 〈本音のコラム〉I am not TAKAICHI 大矢英代（11/23 12:00） |\n| NHK・朝日・産経・読売・日経 | 直近取得12件では同テーマの直接記事は確認できず |\n\n- **有権者評価を数値で分析する毎日**: 5段階評価「2.72点」という調査結果をもとに、高市内閣に対して失望した層と共感した層の違いを可視化した。\n- **法案採決の緊迫感と参考人質疑を追う赤旗**: 衆院比例定数削減の週内強行への警戒に加え、参院内閣委員会での警職法改定案を巡る参考人の情報収集乱用懸念を並べて報じた。\n- **識者コラムで政権を問う東京**: 東京新聞は大学助教授の署名コラムを通じ、政権の姿勢に対する批判的視点を掲載した。\n\n## 後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政\n\n同じ暮らし・公的サービスの領域でも、日本経済新聞は医師の偏在と公費負担、毎日新聞は自治体の障害者行政と日常インフラの課題を独自に掘り下げた。\n\n| 媒体 | 見出し（取得時刻範囲内） |\n|---|---|\n| 日本経済新聞 | ［社説］美容医療は地域医療へ負担を（11/23 19:00）／公費が育てた医師、地域医療を支えぬ危機感 「直美」に財務省が一石（11/23 05:00） |\n| 毎日新聞 | 「障害者証明書交付に大幅遅れ」 宮城県、再三の指摘を調査せず（11/24 06:00）／100件超の指摘「放置」 障害者行政で浮かんだ深刻な統治不全（11/24 06:01）／男性用トイレにもサニタリーボックス なぜ「ないと困る」のか?（11/24 07:00） |\n| 他6媒体 | 直近取得12件では同テーマの直接記事は確認できず |\n\n- **医療費・公費負担の構造を問う日経**: 社説と記事の2本で、公費で育成された医師が地域医療ではなく美容医療へ進む「直美」問題と、財務省の問題提起を取り上げた。\n- **行政のガバナンス不全を突く毎日**: 宮城県で障害者証明書の交付が大幅に遅れ、100件超の指摘が調査されないまま放置されていた問題を「深刻な統治不全」として追及した。\n- **生活の困りごとへの目線**: 毎日新聞はさらに男性用トイレのサニタリーボックス設置を取り上げ、制度の谷間にある当事者の負担を可視化した。\n\n## 後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒\n\n年末の安保3文書改定に向け、原子力潜水艦の導入検討や非核三原則の例外容認論が浮上する中、NHK日曜討論での与野党論戦、原潜の建造費と安保転換点の解説、防衛産業への金融支援など、国内4媒体が異なる切り口で報じ、中国・韓国メディアからも警戒の声が上がっている。\n\n| 媒体 | 掲載状況 | 見出し（取得時刻範囲内） |\n|---|---|---|\n| NHK | あり | 安保3文書 非核三原則などめぐり与野党意見交わす NHK日曜討論（11/22 12:32） |\n| しんぶん赤旗 | あり | 世論は非核三原則堅持 山添氏「原潜は専守防衛反する」 NHK日曜討論（11/23）／安保3文書 軍事最優先「亡国の道」 山添氏「対米従属の転換こそ」（11/23） |\n| 日本経済新聞 | あり | 原子力潜水艦を動画解説 建造費用高額、日本保有なら安保の転換点に（11/23 11:00） |\n| 産経新聞 | あり | ＜主張＞防衛投融資 金融機関は積極的貢献を 社説（11/24 05:00） |\n| 朝日・毎日・東京・読売 | 確認できず | 直近取得12件では安保3文書・原潜・防衛投融資の未出記事は確認できず |\n\n### 報道比較と海外メディアの反応\n- **国内4媒体の主語と比重の違い**: NHKは日曜討論の与野党応酬を報じ、しんぶん赤旗は同じ討論から共産・山添氏の「原潜は専守防衛反する」「対米従属の転換こそ」を見出しにした。日本経済新聞は原潜の高額な建造費用と安保転換点を動画解説で整理し、産経新聞は社説で防衛投融資への金融機関の積極的貢献を訴えた。\n- **中国メディアの反応（環球時報・China.org.cn 等）**: 安保3文書改定素案を巡る「持ち込ませず」の例外容認論や原潜導入検討に対し、地域の戦略バランスを崩し「戦後秩序の覆し」「軍事大国化」を狙うものだとして強く警戒・批判している。\n- **韓国メディアの反応（毎日経済・ハンギョレ等）**: 日本の原潜導入検討と非核三原則の亀裂を相次いで速報し、平和憲法下の専守防衛から実質的な抑止・攻撃型への転換として地政学的リスクを注視している。\n\n## 後半 国内: 各紙独自ニュース\n\n- **NHK**: 不正会計が相次ぐ中、金融庁が有価証券報告書の「確認書」に対する経営者の責任を明確化する制度見直しを実施へ（11/24 05:31）\n- **朝日新聞**: 「夜になっても冷めなかった夏の大阪、熱帯夜が続いた四つの要因とは？」を分析（11/24 06:00）\n- **毎日新聞**: 浜松市の市立中学校で、制服を「学校に着ていく服」へ見直し、生徒主体で選択する取り組みを報道（11/24 05:45）\n- **東京新聞**: 「『AIはボロ負け、でも現場なら勝てる』Mujinの滝野一征CEOが語る、ものづくり日本」（11/24 05:00）\n- **しんぶん赤旗**: 「自由獲得の闘い共に」民青全国大会での田村委員長あいさつを報道（11/23 09:45）\n- **産経新聞**: 「ゴダイゴ『ゆかりの地』ネパールで公演 熱狂の46年前は伝説…今回は土石流被災に思い」（11/22 22:01）\n- **読売新聞**: 秋田県の日本海東北道で象潟―小砂川ICが開通し、山形県境近くまで延伸（11/24 05:00）\n- **日本経済新聞**: 現代自動車が高級車で初のハイブリッド車を北米に2車種投入、EV戦略を修正（11/24 05:00）\n\n## まとめ\n\n2026年11月24日の「世界と日本のメディア比較」をお届けしました。ご視聴ありがとうございました。また次回お会いしましょう。\n\n## 参考ソース\n\n### 前半・7カ国比較＋日本6媒体\n- NPR News: https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya\n- BBC World: https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss\n- BBC World: https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss\n- The Guardian: https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya\n- France24 EN: https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west\n- France24 EN: https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya\n- TASS: https://tass.com/world/2223635\n- TASS: https://tass.com/world/2223637\n- Times of India: https://timesofindia.indiatimes.com/world/europe/no-safe-waters-for-russian-ships-how-ukraine-pulled-off-2400-km-drone-strike-in-libya/articleshow/136098386.cms\n- NHK（リビア沖無人艇攻撃）: https://news.web.nhk/newsweb/na/nd-20261123de80209\n- 読売新聞（リビア沖攻撃）: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMcnBOSzh2TG5jTW9mYjQtdU1PUFNObUtxdjczRWxmTWpscWw1bDJQZVRwb2RrX2FhOVBaWjVfWE5UTmhMNUpWeXpvZENYczVzSjVnc2JSNF8wODYtcEFBYkxn?oc=5\n- Al Jazeera（米イラン制裁）: https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss\n- Al Jazeera（イラン湾岸攻撃再開）: https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss\n- NDTV（米イラン制裁）: https://www.ndtv.com/world-news/iran-war-us-targets-irans-shadow-banking-networks-in-latest-wave-of-sanctions-12368135#publisher=newsstand\n- TASS（ホルムズ海峡石油通過）: https://tass.com/world/2223627\n- 朝日新聞（IEA分析）: https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4ZzVYNXBKRDRBMy10N2JCR21Gck84WjdKSDg1bmJ5YzkxY1lzeHItVmtvTGI4bzd4c01UZEVEdUFmbnp5T0g4LWw4Zjh2SlV5OVJYS0ZjM0EwTzVD?oc=5\n- NHK（ホルムズ遠泳抗議）: https://news.web.nhk/newsweb/na/nd-20261123de80145\n- NDTV（ロヒンギャ14カ国承認・英国公式認定）: https://www.ndtv.com/world-news/14-countries-acknowledge-ruling-on-rohingya-genocide-12368094#publisher=newsstand\n- 毎日新聞（ロヒンギャ判決履行要求）: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0TnVmSmVYT3E2ckpYbjRfbGltS2F1N19aOTN3VmFweWtvNDMyS29XTmJ5NGpzNDBBc1lNVzR2YnhuQWd1SE4yOTg3T2hGVElTd1BGaVZ1d1FCZG9oVnNIRVVYX0h2Rnpa?oc=5\n\n### 前半・海外が見た日本\n- BBC Travel: \"The 20 best places to travel in 2027\"（2026年11月中旬、https://www.bbc.com）\n- The Guardian: \"'Men know they won't face consequences': rise of street sex work in Tokyo is fuelling calls for change\"（2026年11月2日、https://www.theguardian.com）\n\n### 前半・各国固有ニュース\n- NPR News: https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey\n- The Guardian: https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations\n- RFI English: https://www.rfi.fr/en/france/20261123-major-cyberattack-hits-it-systems-at-guadeloupe-university-hospital\n- CGTN China: https://news.cgtn.com/news/2026-11-21/China-vows-stable-business-ties-with-Australia-1Sf74mIm3mg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China\n- TASS: https://tass.com/politics/2223639\n- Times of India: https://timesofindia.indiatimes.com/india/log-out-of-whatsapp-web-on-shared-computers-to-avoid-misuse-govt/articleshow/136113691.cms\n- Al Jazeera: https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss\n\n### 後半・国内8媒体比較・継続特集・各紙独自\n- NHK（関文科相問責決議案協議）: https://news.web.nhk/newsweb/na/nd-20261123de80283\n- NHK（NHK日曜討論・安保3文書）: https://news.web.nhk/newsweb/na/nd-20261122de79839\n- NHK（有価証券報告書見直し）: https://news.web.nhk/newsweb/na/nd-20261123de80289\n- 朝日新聞（夏の大阪熱帯夜）: http://www.asahi.com/articles/ASVCN2SDYVCNPTIL00FM.html?ref=rss\n- 毎日新聞（高市内閣2.72点）: https://mainichi.jp/articles/20261120/k00/00m/010/150000c\n- 毎日新聞（障害者証明書交付大幅遅れ）: https://mainichi.jp/articles/20261122/k00/00m/040/061000c\n- 毎日新聞（100件超指摘放置）: https://mainichi.jp/articles/20261122/k00/00m/040/064000c\n- 毎日新聞（男性用トイレサニタリーボックス）: https://mainichi.jp/articles/20261121/k00/00m/040/198000c\n- 毎日新聞（浜松市立中・学校に着ていく服）: https://mainichi.jp/articles/20261123/k00/00m/310/106000c\n- 東京新聞（Mujin滝野一征CEO）: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1paVZmNnRmV3A3ZVZNMVhMU3Q2aEFNMzM5R0UyM1dYTVd6V0VaSVp5RUotRWh3cGhmdkpuY1NoZTQtWGZpWS1leXhkejcwdzZnOFZZ?oc=5\n- しんぶん赤旗（衆院比例削減）: https://news.google.com/rss/articles/CBMidEFVX3lxTE93QlNhUmk5cW1QdmlYcEJvdWFPSWZhZFAwMjdjanE3NkdzQ2JNRHdiZHlXMXNZOUx3azUtZ3dXU1o3bEVaUV82a2NEbUVlTXd4VW5BTEw1blZIaXZvTHA1RkE3ZXo1NXpaVVRDMFJUdzQ5Qnk0?oc=5\n- しんぶん赤旗（警職法改定案）: https://news.google.com/rss/articles/CBMidEFVX3lxTE05NHVXejZTdzMtT3UybUhDWkkxVEVSMV9hazJfc3FOWTBIVjVXbUtIbWtkYVR4UEEtRW5jeTViZDdfQ0YtTWlkSEVkcVNIRE9PQ1hOc0txLTJxd3lnU2duSEFIanFadEhTc1AxeU5hOFQ0Mm1T?oc=5\n- しんぶん赤旗（非核三原則・原潜）: https://news.google.com/rss/articles/CBMidEFVX3lxTE5BR1pjZHRlT0JZV1ZQeDcxS3BWeWoxbGxmLV81ZWlmY1hQem4xZGM4X2t1elZCMHVvRjlqQVRKcjNZcEh4ZE9TRWdITVdnaWZvbUR0c2ViME5JYUdCajN0Mlg1Z0R2amJwYU1iU01lZXBrc3Z4?oc=5\n- しんぶん赤旗（民青全国大会）: https://news.google.com/rss/articles/CBMidEFVX3lxTE02eVcxTUxmR2lFOF9hS3I2RnhzN25tQTFyLXZ6eUVFU0xYd3RIeVRUT01MSDFCTm1PNUh1YlJrWlBKSVBPb2lUdVFtVFdLQUpUdEtlMFdDbjYycE5LdjBmaEloSWs2TGR6N1l2MExyeHBtcGxk?oc=5\n- 産経新聞（防衛投融資社説）: https://news.google.com/rss/articles/CBMidkFVX3lxTFBZMWRHNnItVXNwU0x5T05tbExSb3ZPT083dUVlNUkxUFZDaXIwUW1kSTNjV3BjLUliS2xhM1hoV1hidU1WdVhtd1lrU2ZDWERxUXVjOF9KOTlzWnN3cDRnMWJ4RmUyUS10OVc1dWxrSDlZZFp5YUE?oc=5\n- 産経新聞（ゴダイゴ・ネパール公演）: https://news.google.com/rss/articles/CBMidkFVX3lxTE1GMXBkZVJuVHVWMTR0dGkyc2k0alJqOS1MeDBVTTNmNXZpaDZJakRGVHludzY2V2dQR1pZbDNGNFNEc1psVXg2c1dIYVVJS0FMd1NLeUw4Y1VSRFVvT0xEQVdwUXl4TnAwdzZOaHBPUmJGMEFaVHc?oc=5\n- 読売新聞（秋田・日本海東北道開通）: https://news.google.com/rss/articles/CBMicEFVX3lxTE40WGg4V3ZRVFVpdVFLTmhLQ2p6U2piYUZfaGVnZG81Ul9oNFR4SlBPUjdxR3dSVmZDZ2ctX3RCN3NDZHQwVzBJLUtJOXU1d2gya0wzR3R4eks0THhBUDFvbmRhR0RXYi1SemsxaE82VXY?oc=5\n- 日本経済新聞（美容医療社説／直美／原潜動画解説／現代自HV）: https://news.google.com/rss/articles/CBMibEFVX3lxTE54Z01mbTJPeXBFNUxpZndiWHV5aHNzR19DNVM4Znp0by1GYWN0a19nSFRZUVJidkZtNHJ3SGZ2enFmbThxZjZZSGpjbmVnRFdRLVJCR2tRaHA3RW8xMU4xSkszMjVkLUVUREhhNg?oc=5\n- 中国・韓国メディア反応（環球時報・China.org.cn・毎日経済・ハンギョレ等、2026年11月報道）\n",
+        "timeline": {
+          "version": 1,
+          "source": "tts_voicevox",
+          "fps": 30,
+          "totalFrames": 25456,
+          "audioDurationSec": 848.526,
+          "cues": [
+            {
+              "speaker": "A",
+              "text": "2026年11月24日の「世界と日本のメディア比較」なのだ！前半は7カ国と日本6媒体、後半は国内8媒体の報道差を追うのだ。",
+              "section": "オープニング：2026年11月24日 — 世界と日本のメディア比較",
+              "startFrame": 18,
+              "endFrame": 430
+            },
+            {
+              "speaker": "B",
+              "text": "前半はリビア沖ロシア艦撃沈、米国のイラン制裁とホルムズ海峡、英国が見た日本の温泉地と東京の法制度を取り上げるわ。",
+              "section": "オープニング：2026年11月24日 — 世界と日本のメディア比較",
+              "startFrame": 438,
+              "endFrame": 740
+            },
+            {
+              "speaker": "A",
+              "text": "後半は関文科相の問責協議、国会終盤の法案攻防と内閣評価、安保3文書と原潜議論の継続特集まで見るのだ！",
+              "section": "オープニング：2026年11月24日 — 世界と日本のメディア比較",
+              "startFrame": 748,
+              "endFrame": 1088
+            },
+            {
+              "speaker": "B",
+              "text": "最初はリビア沖の海上攻撃よ。ウクライナ保安庁は23日、ベンガジ沖でロシア船2隻を攻撃し最新鋭艦メルクーリーを撃沈したと確認したわ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 1106,
+              "endFrame": 1449
+            },
+            {
+              "speaker": "A",
+              "text": "地中海南部での攻撃とは驚きなのだ！世界7カ国と日本6媒体はどう報じたのだ？",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 1457,
+              "endFrame": 1686
+            },
+            {
+              "speaker": "B",
+              "text": "英ガーディアンは母船から国産海上ドローン7機を発進させたと詳報し、ゼレンスキー大統領の「模範的」との評価も載せたわ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 1694,
+              "endFrame": 1985
+            },
+            {
+              "speaker": "A",
+              "text": "米NPRも停泊艦への奇襲称賛を伝え、インドのタイムズ・オブ・インディアは約2400キロの遠距離作戦に注目したのだ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 1993,
+              "endFrame": 2347
+            },
+            {
+              "speaker": "B",
+              "text": "インド紙は「安全な海域はないのか」と問い、ウクライナがリビアに軍事拠点を築いた可能性まで示唆しているわ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 2354,
+              "endFrame": 2595
+            },
+            {
+              "speaker": "A",
+              "text": "英BBCはクレムリンの直接コメント回避と緊張激化警告を報じ、ガードナー記者が戦争の賭け金を一段引き上げると解説したのだ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 2603,
+              "endFrame": 2941
+            },
+            {
+              "speaker": "B",
+              "text": "フランス24は、リビア東部当局が西部のウクライナ軍存在疑惑で国連調査を要請した動きと、バルト海被弾船の漂流を結びつけたわ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 2948,
+              "endFrame": 3265
+            },
+            {
+              "speaker": "A",
+              "text": "対照的なのがロシアのタス通信なのだ！撃沈被害を前面に出さず、トリポリ政府外務省がウクライナへ経緯説明を求めたと報じたのだ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 3272,
+              "endFrame": 3613
+            },
+            {
+              "speaker": "B",
+              "text": "別電で独ピストリウス国防相のバルト海波及リスク警告も伝えていて、リビアの反発と欧州の警戒を強調しているわね。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 3620,
+              "endFrame": 3891
+            },
+            {
+              "speaker": "A",
+              "text": "7カ国中5カ国が報じたのに、中国CGTNとアルジャジーラ、日本6媒体はNHKと読売の2社しか確認できなかったのだ。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 3898,
+              "endFrame": 4243
+            },
+            {
+              "speaker": "B",
+              "text": "読売はフィンランド沖漂流船も追ったけれど、朝日・毎日・産経・日経の直近配信にはなく国内の扱いは小さいわね。",
+              "section": "前半 世界: リビア沖のロシア艦撃沈 — 戦線拡大を追う欧州とリビアの反発を報じるロシア",
+              "startFrame": 4251,
+              "endFrame": 4550
+            },
+            {
+              "speaker": "A",
+              "text": "次は中東の制裁とエネルギーなのだ。米財務省は23日、イランの国際金融網を断つとして20以上の団体に制裁を科したのだ。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 4568,
+              "endFrame": 4922
+            },
+            {
+              "speaker": "B",
+              "text": "金融封鎖とホルムズ海峡の輸送が焦点ね。海外各紙と日本の報道にはどんな差があるのかしら。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 4929,
+              "endFrame": 5145
+            },
+            {
+              "speaker": "A",
+              "text": "アルジャジーラは海上封鎖と制裁の打撃下、イランが小康状態後に湾岸の米軍基地や民間施設への攻撃を再開したとあわせて報じたのだ。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 5152,
+              "endFrame": 5505
+            },
+            {
+              "speaker": "B",
+              "text": "インドのNDTVは影の銀行制裁を報じ、米財務長官の「イラン経済は水没状態、指導部はパニック」という声明を前面に出したわ。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 5512,
+              "endFrame": 5856
+            },
+            {
+              "speaker": "A",
+              "text": "ところが露タス通信は逆の数字なのだ！過去7日で米国がホルムズ海峡の石油1億800万バレルの通過を確保したと伝えたのだ。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 5864,
+              "endFrame": 6190
+            },
+            {
+              "speaker": "B",
+              "text": "テレビ報道を引用し、紛争開始以来の最高水準と強調しているのね。一方、日本の朝日新聞は24日朝にIEA分析を報じたわ。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 6197,
+              "endFrame": 6546
+            },
+            {
+              "speaker": "A",
+              "text": "朝日は「中東危機が長引けばホルムズ経由の石油激減も」と見出しに据えたのだ。タス通信とは見据える先が正反対なのだ！",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 6553,
+              "endFrame": 6873
+            },
+            {
+              "speaker": "B",
+              "text": "NHKも英国人スイマーが海峡を3日で計15キロ泳いだ抗議を伝えたけれど、米制裁や湾岸攻撃再開は6媒体の直近配信で確認できなかったわ。",
+              "section": "前半 世界: 米国のイラン「影の銀行」制裁とホルムズ海峡 — 輸送回復と石油激減の視点差",
+              "startFrame": 6881,
+              "endFrame": 7244
+            },
+            {
+              "speaker": "A",
+              "text": "続いてアジアの人権問題なのだ。ロヒンギャへのジェノサイド判決を受け、23日から24日にかけ海外と日本はどう報じたのだ？",
+              "section": "前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」",
+              "startFrame": 7262,
+              "endFrame": 7594
+            },
+            {
+              "speaker": "B",
+              "text": "インドのNDTVは、14カ国が判決を「承認」すると表明し、英国は別途「正式に認定する」と発表したと伝えたわ。",
+              "section": "前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」",
+              "startFrame": 7601,
+              "endFrame": 7938
+            },
+            {
+              "speaker": "A",
+              "text": "外交で承認と公式認定は重みが違うのだ！この動きを日本6媒体の直近配信で確認できたのは毎日新聞だけだったのだ。",
+              "section": "前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」",
+              "startFrame": 7946,
+              "endFrame": 8273
+            },
+            {
+              "speaker": "B",
+              "text": "毎日は「判決だけでは誰も守れない」という当事者の訴えを掲げ、国際社会に履行を求める声を2日続けて報じたわ。",
+              "section": "前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」",
+              "startFrame": 8281,
+              "endFrame": 8556
+            },
+            {
+              "speaker": "A",
+              "text": "政府間の温度差を映すインド報道と、現場の切迫感を追う毎日新聞で焦点がくっきり分かれているのだ。",
+              "section": "前半 世界: ロヒンギャ虐殺判決への国際反応 — 14カ国の「承認」と英国の「公式認定」",
+              "startFrame": 8563,
+              "endFrame": 8826
+            },
+            {
+              "speaker": "B",
+              "text": "ここからは海外が見た日本よ。今月は英国の2媒体が、日本の地方観光と東京の法制度を対照的に報じたわ。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 8844,
+              "endFrame": 9118
+            },
+            {
+              "speaker": "A",
+              "text": "英BBCトラベル編集部が11月中旬に出した「2027年に旅すべき20カ所」に日本から2カ所が入ったのだ！どこが選ばれたのだ？",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 9126,
+              "endFrame": 9494
+            },
+            {
+              "speaker": "B",
+              "text": "山口県の長門湯本温泉と三重県の伊勢志摩半島よ。東京や京都に偏らない持続可能な旅先として選ばれたわ。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 9502,
+              "endFrame": 9756
+            },
+            {
+              "speaker": "A",
+              "text": "地方の2カ所が選ばれたとは驚きなのだ！長門湯本温泉は2027年の開湯600周年を前に進めた街並み再生や恩湯の再建、川沿い整備が評価されたのだ。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 9763,
+              "endFrame": 10195
+            },
+            {
+              "speaker": "B",
+              "text": "伊勢志摩も伝統文化や精神性、沿岸の自然が推されたわ。ただ東京・京都の過密も課題視され、姫路城の二重価格や免税見直しも報じられているの。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 10202,
+              "endFrame": 10551
+            },
+            {
+              "speaker": "A",
+              "text": "一方で厳しい目を向けたのが英ガーディアン紙なのだ。11月2日に東京・歌舞伎町の路上売春増加を現地取材した記事を出したのだ。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 10558,
+              "endFrame": 10892
+            },
+            {
+              "speaker": "B",
+              "text": "「男性は処罰されないと知っている」と題し、勧誘側ばかりが問われ買う側の男性が処罰を受けにくい現行法の抜け穴を突いたわ。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 10900,
+              "endFrame": 11182
+            },
+            {
+              "speaker": "A",
+              "text": "外国人観光客の流入に加え、ホストクラブの借金や生活苦に追われる若い女性たちの脆弱さも指摘したのだ。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 11190,
+              "endFrame": 11479
+            },
+            {
+              "speaker": "B",
+              "text": "同時に、日本国内で買春側処罰や支援強化を求める法改正の動きが高まっている点も伝えているわね。",
+              "section": "前半 世界: 海外が見た日本 — 地方温泉の再生評価と東京の法制度への疑問",
+              "startFrame": 11487,
+              "endFrame": 11728
+            },
+            {
+              "speaker": "A",
+              "text": "前半最後は7カ国の固有ニュースなのだ！米NPRはセサミワークショップの10年ぶりの「優しさ」調査を報じたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 11746,
+              "endFrame": 12062
+            },
+            {
+              "speaker": "B",
+              "text": "親たちは「自分の子どもは優しくなっているが、社会全体は厳しくなっている」と答えたそうよ。家庭と社会の差が鮮明ね。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 12070,
+              "endFrame": 12346
+            },
+            {
+              "speaker": "A",
+              "text": "英ガーディアンはバルバドスのスピーツタウンが英ブリストル市と3年の姉妹提携を結んだと伝えたのだ。どんな狙いなのだ？",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 12354,
+              "endFrame": 12630
+            },
+            {
+              "speaker": "B",
+              "text": "大西洋奴隷貿易の歴史に基づく「修復的正義」の一環よ。歴史的結びつきを正面から認める協定ね。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 12638,
+              "endFrame": 12906
+            },
+            {
+              "speaker": "A",
+              "text": "仏RFIは海外県グアドループの大学病院がサイバー攻撃を受け、緊急計画で非緊急処置を延期したと報じたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 12914,
+              "endFrame": 13225
+            },
+            {
+              "speaker": "B",
+              "text": "医療への攻撃は日本でも他人事ではないわ。中国CGTNは豪州との貿易阻害要因を除き安定した環境を提供する方針を伝えたわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13233,
+              "endFrame": 13558
+            },
+            {
+              "speaker": "A",
+              "text": "露タス通信は、ザハロワ報道官が国連改革構想はAPEC前からあり大規模な修復が必要と述べたと報じたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13566,
+              "endFrame": 13864
+            },
+            {
+              "speaker": "B",
+              "text": "インドのタイムズ・オブ・インディアは、共有パソコンのワッツアップウェブからログアウトするよう政府が注意喚起したと伝えているわ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 13871,
+              "endFrame": 14141
+            },
+            {
+              "speaker": "A",
+              "text": "アルジャジーラは米バージニアとオレゴン両州がグロックAIの性的虐待画像生成でスペースエックスを個別提訴したと伝えたのだ。",
+              "section": "前半 世界: 各国固有ニュース",
+              "startFrame": 14148,
+              "endFrame": 14453
+            },
+            {
+              "speaker": "B",
+              "text": "ここからは後半、国内8媒体の比較に移るわね。政治資金パーティー問題を巡る関文科相への追及は、24日朝に新たな段階に入ったわ。",
+              "section": "後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き",
+              "startFrame": 14471,
+              "endFrame": 14814
+            },
+            {
+              "speaker": "A",
+              "text": "今朝の配信では、与野党の動きをどの媒体がどう報じているのだ？",
+              "section": "後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き",
+              "startFrame": 14822,
+              "endFrame": 14990
+            },
+            {
+              "speaker": "B",
+              "text": "NHKは24日未明、野党が問責決議案の提出を視野に協議に入り、政府・与党が国会情勢を見極めながら対応を検討していると報じたわ。",
+              "section": "後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き",
+              "startFrame": 14997,
+              "endFrame": 15363
+            },
+            {
+              "speaker": "A",
+              "text": "政府・与党内からも説明責任を求める声が出ているのだ！一方で立憲民主や国民民主は参院の重要法案審議への影響も見据えて検討しているのだ。",
+              "section": "後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き",
+              "startFrame": 15371,
+              "endFrame": 15775
+            },
+            {
+              "speaker": "B",
+              "text": "ただ24日朝取得の直近12件では、NHK以外の7媒体に問責協議の直接記事は見当たらず、国会終盤の別の論点へ紙面を割いているわね。",
+              "section": "後半 国内: 関文科相への問責決議案協議 — 11月24日朝の与野党の動き",
+              "startFrame": 15783,
+              "endFrame": 16135
+            },
+            {
+              "speaker": "A",
+              "text": "その国会終盤の法案攻防や内閣への評価を巡って、毎日・赤旗・東京の3紙がそれぞれ違う切り口を出したのだ！どこに違いがあるのだ？",
+              "section": "後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査",
+              "startFrame": 16153,
+              "endFrame": 16531
+            },
+            {
+              "speaker": "B",
+              "text": "毎日新聞は24日朝、高市内閣の5段階評価が2.72点だった調査を取り上げ、失望した人と共感した人の違いを分析したわ。",
+              "section": "後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査",
+              "startFrame": 16538,
+              "endFrame": 16866
+            },
+            {
+              "speaker": "A",
+              "text": "5段階評価の2.72点とは微妙な数字なのだ！しんぶん赤旗は23日、衆院比例定数削減で週内にも強行を狙う動きに対し、小池書記局長の「許さぬ声大きく」を報じたのだ。",
+              "section": "後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査",
+              "startFrame": 16874,
+              "endFrame": 17395
+            },
+            {
+              "speaker": "B",
+              "text": "赤旗は同日、参院内閣委員会で警職法改定案を巡り、大門氏への参考人答弁から情報収集の乱用懸念も伝えているわね。",
+              "section": "後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査",
+              "startFrame": 17403,
+              "endFrame": 17725
+            },
+            {
+              "speaker": "A",
+              "text": "東京新聞は23日に大学助教授の署名コラムを載せて政権への視線を示したのだ。数値分析の毎日、法案審議の赤旗、コラムの東京と焦点が分かれたのだ！",
+              "section": "後半 国内: 国会終盤の法案攻防と内閣評価 — 衆院比例削減・警職法改定案と2.72点調査",
+              "startFrame": 17733,
+              "endFrame": 18164
+            },
+            {
+              "speaker": "B",
+              "text": "暮らしに直結する医療や福祉では、日経と毎日が別の課題を掘り下げていたわ。どこを問題視したのかしら。",
+              "section": "後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政",
+              "startFrame": 18182,
+              "endFrame": 18412
+            },
+            {
+              "speaker": "A",
+              "text": "日経は23日に記事と社説を載せ、公費で育てた医師が美容医療へ進む「直美」に財務省が一石を投じた動きを報じたのだ。",
+              "section": "後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政",
+              "startFrame": 18419,
+              "endFrame": 18763
+            },
+            {
+              "speaker": "B",
+              "text": "社説でも「美容医療は地域医療へ負担を」と踏み込み、医師偏在と公費の使い方を正面から問うているわね。",
+              "section": "後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政",
+              "startFrame": 18771,
+              "endFrame": 19020
+            },
+            {
+              "speaker": "A",
+              "text": "毎日は24日朝、宮城県で障害者証明書の交付が大幅に遅れ、100件超の指摘を調査せず放置した問題を2本で報じたのだ！",
+              "section": "後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政",
+              "startFrame": 19027,
+              "endFrame": 19383
+            },
+            {
+              "speaker": "B",
+              "text": "深刻な統治不全と追及し、さらに男性用トイレのサニタリーボックス設置の必要性にも目を向けたわ。",
+              "section": "後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政",
+              "startFrame": 19391,
+              "endFrame": 19616
+            },
+            {
+              "speaker": "A",
+              "text": "医療費と人材配分の日経と、行政対応や生活者の困りごとの毎日で、公的サービスを見る軸がくっきり分かれているのだ。",
+              "section": "後半 国内: 医療と福祉の制度疲労 — 日経の「直美」問題と毎日の障害者行政",
+              "startFrame": 19623,
+              "endFrame": 19942
+            },
+            {
+              "speaker": "B",
+              "text": "続いて継続特集よ。年末の安保3文書改定に向け原潜導入検討や非核三原則の例外論が報じられ、国内4媒体がそれぞれ異なる軸で報じたわ。",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 19960,
+              "endFrame": 20320
+            },
+            {
+              "speaker": "A",
+              "text": "22日のNHK日曜討論を機に議論が広がっているのだ！国内各紙と中韓メディアはどう反応したのだ？",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 20327,
+              "endFrame": 20606
+            },
+            {
+              "speaker": "B",
+              "text": "NHKは日曜討論で、非核三原則見直しや原子力潜水艦保有の是非を巡り与野党担当者が意見を交わしたと伝えたわ。",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 20613,
+              "endFrame": 20903
+            },
+            {
+              "speaker": "A",
+              "text": "同じ討論から赤旗は23日、共産・山添氏の「原潜は専守防衛に反する」「対米従属の転換こそ」を見出しにし、世論は堅持と主張したのだ。",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 20911,
+              "endFrame": 21348
+            },
+            {
+              "speaker": "B",
+              "text": "日経は23日に原潜を動画解説し、建造費用が高額な点と日本保有なら安保の転換点になると分析しているわ。",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 21356,
+              "endFrame": 21634
+            },
+            {
+              "speaker": "A",
+              "text": "産経は24日の社説で防衛投融資への金融機関の積極貢献を訴えたのだ！一方、海外では中韓メディアが強く警戒しているのだ。",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 21641,
+              "endFrame": 22012
+            },
+            {
+              "speaker": "B",
+              "text": "中国の環球時報などは「持ち込ませず」緩和や原潜議論を戦後秩序の覆しと批判し、韓国の毎日経済やハンギョレも抑止・攻撃型への転換を注視しているわ。",
+              "section": "後半 国内: 継続特集 — 安保3文書改定・原潜議論と防衛投融資、中韓メディアの警戒",
+              "startFrame": 22019,
+              "endFrame": 22412
+            },
+            {
+              "speaker": "A",
+              "text": "最後は国内8媒体の独自ニュースなのだ！NHKは金融庁が有価証券報告書の確認書で制度を見直すと報じたのだ。何がきっかけなのだ？",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 22430,
+              "endFrame": 22809
+            },
+            {
+              "speaker": "B",
+              "text": "不正会計が相次ぐなか、確認書に対する経営者の責任を明確にする狙いなのよ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 22816,
+              "endFrame": 23006
+            },
+            {
+              "speaker": "A",
+              "text": "朝日は「夜になっても冷めなかった夏の大阪、熱帯夜が続いた4つの要因とは」を今朝配信しているのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 23013,
+              "endFrame": 23291
+            },
+            {
+              "speaker": "B",
+              "text": "毎日は浜松の市立中が制服を「学校に着ていく服」へ見直し、生徒主体で選ぶ取り組みを伝えたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 23298,
+              "endFrame": 23548
+            },
+            {
+              "speaker": "A",
+              "text": "東京はロボット企業ムジンのトップが「AIはボロ負け、でも現場なら勝てる」と語った記事を載せているのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 23556,
+              "endFrame": 23826
+            },
+            {
+              "speaker": "B",
+              "text": "赤旗は民青全国大会での田村委員長あいさつ「自由獲得の闘い共に」を報じたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 23833,
+              "endFrame": 24042
+            },
+            {
+              "speaker": "A",
+              "text": "産経はバンドのゴダイゴがゆかりの地ネパールで公演し、46年前の伝説の熱狂に続き今回は土石流被災に思いを重ねたと伝えたのだ！",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 24049,
+              "endFrame": 24410
+            },
+            {
+              "speaker": "B",
+              "text": "読売は秋田の日本海東北道で象潟から小砂川インターチェンジが開通し山形県境近くまで延伸したと報じたわ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 24418,
+              "endFrame": 24669
+            },
+            {
+              "speaker": "A",
+              "text": "日経は韓国の現代自動車が高級車で初のハイブリッド車を北米に2車種投入し、電気自動車戦略を修正する動きを伝えているのだ。",
+              "section": "後半 国内: 各紙独自ニュース",
+              "startFrame": 24677,
+              "endFrame": 25026
+            },
+            {
+              "speaker": "B",
+              "text": "2026年11月24日の「世界と日本のメディア比較」をお届けしたわ。最後まで聞いてくださってありがとう。",
+              "section": "まとめ",
+              "startFrame": 25044,
+              "endFrame": 25304
+            },
+            {
+              "speaker": "A",
+              "text": "ご視聴ありがとうございましたなのだ！また次回お会いするのだ！",
+              "section": "まとめ",
+              "startFrame": 25311,
+              "endFrame": 25456
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "date": "2026-11-23",
     "segments": [
       {
